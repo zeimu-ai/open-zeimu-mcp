@@ -1,0 +1,32 @@
+{
+  "name": "@zeimu-ai/open-zeimu-mcp",
+  "version": "0.0.0",
+  "description": "OSS MCP server for Japanese tax primary sources (法令・通達・タックスアンサー・質疑応答事例・文書回答事例・裁決事例)",
+  "license": "MIT",
+  "author": "zeimu-ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeimu-ai/open-zeimu-mcp.git"
+  },
+  "keywords": [
+    "mcp",
+    "tax",
+    "japan",
+    "oss",
+    "model-context-protocol"
+  ],
+  "scripts": {
+    "lint": "npm run lint:md && npm run lint:yaml",
+    "lint:md": "markdownlint-cli2 '**/*.md' '!node_modules'",
+    "lint:yaml": "yamllint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.12.1",
+    "typescript": "^5.4.0",
+    "vitest": "^1.0.0"
+  }
+}
