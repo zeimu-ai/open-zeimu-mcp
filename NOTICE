@@ -1,0 +1,26 @@
+open-zeimu-mcp
+Copyright 2026 Zeimu AI
+
+This product is licensed under MIT (see LICENSE).
+
+## Data Sources
+
+This repository redistributes Japanese tax primary sources from the following agencies.
+Each data item is governed by the public data license of its original publisher.
+
+- National Tax Agency (NTA, 国税庁) — https://www.nta.go.jp
+  - Tax Answers (タックスアンサー)
+  - Circulars (通達)
+  - Q&A Cases (質疑応答事例)
+  - Written Answers (文書回答事例)
+  - License: 公共データ利用規約 第1.0版
+
+- National Tax Tribunal (国税不服審判所) — https://www.kfs.go.jp
+  - Saiketsu (裁決事例)
+  - License: 公共データ利用規約 第1.0版
+
+- e-Gov Law Database (e-Gov 法令データ検索) — https://elaws.e-gov.go.jp
+  - Law text fetched on-demand via e-Gov Law API v2
+  - License: 公共データ利用規約 第1.0版
+
+Individual data items include `canonical_url` and `license` metadata in their frontmatter.
