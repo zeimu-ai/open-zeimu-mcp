@@ -231,7 +231,7 @@ node --inspect-brk node_modules/.bin/vitest run src/__tests__/api.test.ts
 ## Test Coverage Requirements
 
 | Category | Requirement |
-|----------|-------------|
+| -------- | ----------- |
 | **New Features** | 100% coverage |
 | **Bug Fixes** | Regression test required |
 | **Refactoring** | Maintain existing coverage |
