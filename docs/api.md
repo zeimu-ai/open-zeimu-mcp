@@ -1,6 +1,6 @@
 # API
 
-PR-1 exposes two MCP tools.
+PR-2 exposes three MCP tools.
 
 ## `health`
 
@@ -62,6 +62,40 @@ Output example:
 
 Notes:
 
-- PR-1 counts files only.
-- `lexical_index` remains a placeholder until the lexical indexer lands.
-- `semantic.vectors_loaded` checks whether cached vector files exist.
+- `source_types.*.count` counts Markdown documents
+- `lexical_index.size` reports indexed documents
+- `semantic.vectors_loaded` checks whether cached vector files exist
+
+## `lexical_search`
+
+Input:
+
+```json
+{
+  "query": "基礎控除",
+  "source_types": ["tax_answer"],
+  "limit": 5
+}
+```
+
+Output example:
+
+```json
+{
+  "hits": [
+    {
+      "id": "1200",
+      "source_type": "tax_answer",
+      "title": "所得税の基礎控除",
+      "score": 42.1,
+      "snippet": "所得税の基礎控除は、一定額を所得から差し引く制度です。"
+    }
+  ]
+}
+```
+
+Notes:
+
+- `limit` defaults to `20`
+- `limit` max is `50`
+- results are boosted by `title > headings > aliases > body`

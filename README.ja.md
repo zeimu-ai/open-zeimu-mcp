@@ -4,12 +4,13 @@
 
 `open-zeimu-mcp` は、日本の税務一次情報を取得・検索するための OSS
 MCP サーバーです。Phase 1 では、外部 DB や API キーなしで動く
-server skeleton と `health` / `stats` tool を提供します。
+server skeleton と `health` / `stats` / `lexical_search` tool を提供します。
 
 ## 特徴
 
 - `health`: 稼働状態、uptime、データディレクトリの到達性を返す
-- `stats`: source type ごとの件数と semantic backend の準備状態を返す
+- `stats`: source type ごとの文書件数と lexical index の状態を返す
+- `lexical_search`: 同梱 Markdown データを lexical 検索する
 - official MCP SDK ベースの typed tool output
 
 ## クイックスタート
@@ -53,6 +54,19 @@ MCP クライアント設定例:
 
 - [docs/architecture.md](docs/architecture.md)
 - [docs/api.md](docs/api.md)
+
+## lexical_search 例
+
+```json
+{
+  "name": "lexical_search",
+  "arguments": {
+    "query": "基礎控除",
+    "source_types": ["tax_answer"],
+    "limit": 5
+  }
+}
+```
 
 ## よくある質問
 

@@ -3,8 +3,8 @@
 # open-zeimu-mcp
 
 `open-zeimu-mcp` is an OSS MCP server for Japanese tax primary sources.
-Phase 1 starts with a minimal server skeleton that exposes `health` and `stats`
-tools without requiring an external database or API key.
+Phase 1 starts with a server skeleton that exposes `health`, `stats`, and
+`lexical_search` without requiring an external database or API key.
 
 ## What is open-zeimu-mcp?
 
@@ -40,7 +40,8 @@ Example MCP client configuration:
 ## Features
 
 - `health`: reports runtime health, uptime, and directory readiness
-- `stats`: reports per-source file counts and semantic backend readiness
+- `stats`: reports per-source document counts and lexical index readiness
+- `lexical_search`: searches packaged Markdown tax documents in memory
 - Structured output schemas for MCP clients that support typed tool responses
 
 ## Configuration
@@ -58,7 +59,38 @@ This package reads configuration from `process.env` only. It does not load a
 ## Status
 
 Under active development. The current published surface is a PR-1 server
-skeleton on the path to `v0.1.0`.
+skeleton plus PR-2 lexical search on the path to `v0.1.0`.
+
+## Lexical Search Example
+
+Tool call:
+
+```json
+{
+  "name": "lexical_search",
+  "arguments": {
+    "query": "基礎控除",
+    "source_types": ["tax_answer"],
+    "limit": 5
+  }
+}
+```
+
+Example response:
+
+```json
+{
+  "hits": [
+    {
+      "id": "1200",
+      "source_type": "tax_answer",
+      "title": "所得税の基礎控除",
+      "score": 42.1,
+      "snippet": "所得税の基礎控除は、一定額を所得から差し引く制度です。"
+    }
+  ]
+}
+```
 
 ## Development
 

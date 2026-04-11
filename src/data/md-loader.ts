@@ -55,6 +55,11 @@ export async function loadMarkdownDocuments({
           ? extractWrittenAnswerContent(parsed.content)
           : extractContent(parsed.content);
 
+      const headings = mergeTitleIntoHeadings(
+        frontmatter.title ?? "",
+        extractHeadings(parsed.content),
+      );
+
       return {
         id: frontmatter.id ?? relative(dataDir, markdownPath).replace(/\.md$/u, ""),
         sourceType,
@@ -64,7 +69,7 @@ export async function loadMarkdownDocuments({
         path: markdownPath,
         metadataPath: metadata === null ? null : metadataPath,
         body: content.body,
-        headings: extractHeadings(parsed.content),
+        headings,
         aliases: frontmatter.aliases ?? [],
         metadata: metadata ?? {},
         crawledAt: frontmatter.crawled_at ?? null,
@@ -107,6 +112,18 @@ function extractHeadings(content: string): string[] {
     .map((line) => line.trim())
     .filter((line) => /^(#+)\s+/u.test(line))
     .map((line) => line.replace(/^(#+)\s+/u, ""));
+}
+
+function mergeTitleIntoHeadings(title: string, headings: string[]) {
+  if (!title) {
+    return headings;
+  }
+
+  if (headings[0] === title) {
+    return headings;
+  }
+
+  return [title, ...headings];
 }
 
 function extractContent(content: string) {
