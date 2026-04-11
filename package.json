@@ -61,7 +61,6 @@
     "zod": "^4.3.6"
   },
   "devDependencies": {
-    "@rolldown/binding-darwin-x64": "1.0.0-rc.15",
     "@changesets/cli": "^2.30.0",
     "@types/node": "^22.17.2",
     "markdownlint-cli2": "^0.22.0",
