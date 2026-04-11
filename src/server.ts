@@ -13,6 +13,13 @@ import {
   runLexicalSearch,
 } from "./tools/lexical-search.js";
 import { buildStatsResult, statsInputSchema, statsOutputSchema } from "./tools/stats.js";
+import { buildGetLawResult, getLawInputSchema, getLawOutputSchema } from "./tools/get-law.js";
+import {
+  buildSearchLawResult,
+  searchLawInputSchema,
+  searchLawOutputSchema,
+} from "./tools/search-law.js";
+import { EgovRepository } from "./repository/egov-repository.js";
 
 const DEFAULT_SERVER_VERSION = "0.0.0";
 const SERVER_INSTRUCTIONS = "日本税務一次情報の検索・取得 MCP サーバー";
@@ -44,6 +51,7 @@ async function createServerInternal({
   const startedAt = Date.now();
   const documents = await loadMarkdownDocuments({ dataDir: env.dataDir });
   const lexicalIndex = await buildLexicalIndex({ documents });
+  const egovRepository = new EgovRepository();
   const server = new McpServer(
     {
       name: "open-zeimu-mcp",
@@ -136,11 +144,67 @@ async function createServerInternal({
     },
   );
 
+  server.registerTool(
+    "get_law",
+    {
+      title: "Get Law",
+      description:
+        "法令名または法令番号から e-Gov 法令 API v2 経由で法令本文を取得します。取得結果は 24 時間 in-memory cache されます。一次情報取得 tool です。",
+      inputSchema: getLawInputSchema,
+      outputSchema: getLawOutputSchema,
+      annotations: {
+        readOnlyHint: true,
+        destructiveHint: false,
+        idempotentHint: true,
+        openWorldHint: true,
+      },
+    },
+    async (input) => {
+      const structuredContent = await buildGetLawResult({
+        input: getLawInputSchema.parse(input),
+        repo: egovRepository,
+      });
+
+      return {
+        content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
+        structuredContent,
+      };
+    },
+  );
+
+  server.registerTool(
+    "search_law",
+    {
+      title: "Search Law",
+      description:
+        "キーワードで e-Gov 法令 API v2 を検索し、該当する法令の一覧を返します。取得結果は 24 時間 in-memory cache されます。一次情報取得 tool です。",
+      inputSchema: searchLawInputSchema,
+      outputSchema: searchLawOutputSchema,
+      annotations: {
+        readOnlyHint: true,
+        destructiveHint: false,
+        idempotentHint: true,
+        openWorldHint: true,
+      },
+    },
+    async (input) => {
+      const structuredContent = await buildSearchLawResult({
+        input: searchLawInputSchema.parse(input),
+        repo: egovRepository,
+      });
+
+      return {
+        content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
+        structuredContent,
+      };
+    },
+  );
+
   return {
     server,
     async start(transport: Transport = new StdioServerTransport()) {
       await server.connect(transport);
-      logger.info({ toolCount: 3, lexicalIndexSize: lexicalIndex.size }, "MCP server started");
+      logger.info({ toolCount: 5, lexicalIndexSize: lexicalIndex.size }, "MCP server started");
     },
     close() {
       return server.close();

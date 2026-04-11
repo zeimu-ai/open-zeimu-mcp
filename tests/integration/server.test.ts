@@ -35,6 +35,8 @@ describe("createServer", () => {
       "health",
       "stats",
       "lexical_search",
+      "get_law",
+      "search_law",
     ]);
 
     const health = await client.callTool({ name: "health", arguments: {} });

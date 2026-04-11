@@ -1,0 +1,48 @@
+{
+  "law_full_text": {
+    "@attributes": {
+      "law_id": "342AC0000000023",
+      "law_type": "Act",
+      "lang": "ja",
+      "era": "Showa",
+      "year": "42",
+      "num": "23",
+      "promulgation_date": "1967-03-31"
+    },
+    "law_body": {
+      "law_title": "印紙税法",
+      "main_provision": {
+        "article": [
+          {
+            "@attributes": { "num": "1" },
+            "article_title": "第一条",
+            "article_caption": "（課税物件）",
+            "paragraph": [
+              {
+                "@attributes": { "num": "1" },
+                "paragraph_num": "１",
+                "paragraph_sentence": {
+                  "sentence": "別表第一の課税物件の欄に掲げる文書には、この法律により、印紙税を課する。"
+                }
+              }
+            ]
+          },
+          {
+            "@attributes": { "num": "2" },
+            "article_title": "第二条",
+            "article_caption": "（納税義務者）",
+            "paragraph": [
+              {
+                "@attributes": { "num": "1" },
+                "paragraph_num": "１",
+                "paragraph_sentence": {
+                  "sentence": "課税文書の作成者は、その課税文書につき、印紙税を納める義務がある。"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
