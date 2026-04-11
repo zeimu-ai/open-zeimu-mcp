@@ -4,6 +4,7 @@ import { join } from "node:path";
 import { z } from "zod";
 
 import type { Env } from "../config/env.js";
+import type { LexicalIndex } from "../search/lexical-index.js";
 import { SOURCE_TYPES, type SourceStat } from "../types/index.js";
 
 const sourceStatSchema = z.object({
@@ -33,8 +34,10 @@ export type StatsResult = z.infer<typeof statsOutputSchema>;
 
 export async function buildStatsResult({
   env,
+  lexicalIndex,
 }: {
   env: Env;
+  lexicalIndex?: LexicalIndex;
 }): Promise<StatsResult> {
   const sourceTypes = Object.fromEntries(
     await Promise.all(
@@ -48,8 +51,8 @@ export async function buildStatsResult({
   return {
     source_types: sourceTypes,
     lexical_index: {
-      size: 0,
-      built_at: null,
+      size: lexicalIndex?.size ?? 0,
+      built_at: lexicalIndex?.builtAt ?? null,
     },
     semantic: {
       backend: env.embeddingBackend,
@@ -62,7 +65,9 @@ export async function buildStatsResult({
 }
 
 async function collectSourceStat(directory: string): Promise<SourceStat> {
-  const files = await listFiles(directory);
+  const files = await listFiles(directory, {
+    extensions: [".md"],
+  });
 
   if (files.length === 0) {
     return {
@@ -94,7 +99,12 @@ async function directoryHasFiles(directory: string): Promise<boolean> {
   return files.length > 0;
 }
 
-async function listFiles(directory: string): Promise<string[]> {
+async function listFiles(
+  directory: string,
+  options?: {
+    extensions?: string[];
+  },
+): Promise<string[]> {
   try {
     const entries = await readdir(directory, { withFileTypes: true });
     const files = await Promise.all(
@@ -102,10 +112,17 @@ async function listFiles(directory: string): Promise<string[]> {
         const entryPath = join(directory, entry.name);
 
         if (entry.isDirectory()) {
-          return listFiles(entryPath);
+          return listFiles(entryPath, options);
         }
 
         if (entry.isFile()) {
+          if (
+            options?.extensions?.length &&
+            !options.extensions.some((extension) => entry.name.endsWith(extension))
+          ) {
+            return [];
+          }
+
           return [entryPath];
         }
 

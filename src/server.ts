@@ -3,8 +3,15 @@ import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js"
 import type { Transport } from "@modelcontextprotocol/sdk/shared/transport.js";
 
 import type { Env } from "./config/env.js";
+import { loadMarkdownDocuments } from "./data/md-loader.js";
 import { createLogger } from "./lib/logger.js";
+import { buildLexicalIndex } from "./search/lexical-index.js";
 import { buildHealthResult, healthInputSchema, healthOutputSchema } from "./tools/health.js";
+import {
+  lexicalSearchInputSchema,
+  lexicalSearchOutputSchema,
+  runLexicalSearch,
+} from "./tools/lexical-search.js";
 import { buildStatsResult, statsInputSchema, statsOutputSchema } from "./tools/stats.js";
 
 const DEFAULT_SERVER_VERSION = "0.0.0";
@@ -22,9 +29,21 @@ export function createServer({
 }: {
   env: Env;
   version?: string;
-}): OpenZeimuMcpServer {
+}): Promise<OpenZeimuMcpServer> {
+  return createServerInternal({ env, version });
+}
+
+async function createServerInternal({
+  env,
+  version,
+}: {
+  env: Env;
+  version: string;
+}): Promise<OpenZeimuMcpServer> {
   const logger = createLogger(env);
   const startedAt = Date.now();
+  const documents = await loadMarkdownDocuments({ dataDir: env.dataDir });
+  const lexicalIndex = await buildLexicalIndex({ documents });
   const server = new McpServer(
     {
       name: "open-zeimu-mcp",
@@ -81,7 +100,34 @@ export function createServer({
       },
     },
     async () => {
-      const structuredContent = await buildStatsResult({ env });
+      const structuredContent = await buildStatsResult({ env, lexicalIndex });
+
+      return {
+        content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
+        structuredContent,
+      };
+    },
+  );
+
+  server.registerTool(
+    "lexical_search",
+    {
+      title: "Lexical Search",
+      description: "Lexical search over packaged Japanese tax documents.",
+      inputSchema: lexicalSearchInputSchema,
+      outputSchema: lexicalSearchOutputSchema,
+      annotations: {
+        readOnlyHint: true,
+        destructiveHint: false,
+        idempotentHint: true,
+        openWorldHint: false,
+      },
+    },
+    async (input) => {
+      const structuredContent = runLexicalSearch({
+        lexicalIndex,
+        input: lexicalSearchInputSchema.parse(input),
+      });
 
       return {
         content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
@@ -94,7 +140,7 @@ export function createServer({
     server,
     async start(transport: Transport = new StdioServerTransport()) {
       await server.connect(transport);
-      logger.info({ toolCount: 2 }, "MCP server started");
+      logger.info({ toolCount: 3, lexicalIndexSize: lexicalIndex.size }, "MCP server started");
     },
     close() {
       return server.close();

@@ -5,7 +5,7 @@ import { createServer } from "./server.js";
 
 async function main() {
   const env = loadEnv();
-  const server = createServer({ env });
+  const server = await createServer({ env });
   await server.start();
 }
 

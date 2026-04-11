@@ -61,6 +61,10 @@ describe("buildStatsResult", () => {
       latest_crawled_at: older.toISOString(),
     });
     expect(result.source_types.qa_case.count).toBe(0);
+    expect(result.lexical_index).toEqual({
+      size: 0,
+      built_at: null,
+    });
   });
 
   it("reports vectors_loaded when local embeddings have cached files", async () => {
@@ -79,6 +83,24 @@ describe("buildStatsResult", () => {
     expect(result.semantic).toEqual({
       backend: "local",
       vectors_loaded: true,
+    });
+  });
+
+  it("includes lexical index metadata when an index is available", async () => {
+    const env = makeEnv();
+
+    const result = await buildStatsResult({
+      env,
+      lexicalIndex: {
+        size: 12,
+        builtAt: "2026-04-11T11:22:33.000Z",
+        search: () => ({ hits: [] }),
+      },
+    });
+
+    expect(result.lexical_index).toEqual({
+      size: 12,
+      built_at: "2026-04-11T11:22:33.000Z",
     });
   });
 });

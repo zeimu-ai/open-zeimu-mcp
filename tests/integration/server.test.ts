@@ -1,34 +1,21 @@
-import { mkdtemp, mkdir, rm, writeFile } from "node:fs/promises";
-import { tmpdir } from "node:os";
-import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
 
 import { Client } from "@modelcontextprotocol/sdk/client/index.js";
 import { InMemoryTransport } from "@modelcontextprotocol/sdk/inMemory.js";
-import { afterEach, describe, expect, it } from "vitest";
+import { describe, expect, it } from "vitest";
 
 import { createServer } from "../../src/server.js";
 
-const createdDirs: string[] = [];
-
-afterEach(async () => {
-  await Promise.all(
-    createdDirs.splice(0).map((dir) => rm(dir, { recursive: true, force: true })),
-  );
-});
+const fixturesDir = fileURLToPath(new URL("../fixtures/data", import.meta.url));
 
 describe("createServer", () => {
-  it("registers health and stats tools and serves structured responses", async () => {
-    const root = await makeTempDir();
-    const dataDir = join(root, "data");
-
-    await writeFixture(join(dataDir, "tax_answer", "001.md"), "fixture");
-
-    const app = createServer({
+  it("registers health, stats, and lexical_search tools and serves structured responses", async () => {
+    const app = await createServer({
       env: {
         embeddingBackend: "none",
         logLevel: "info",
-        dataDir,
-        vectorsCacheDir: join(root, "vectors"),
+        dataDir: fixturesDir,
+        vectorsCacheDir: `${fixturesDir}/vectors`,
       },
       version: "0.0.0",
     });
@@ -44,7 +31,11 @@ describe("createServer", () => {
     expect(client.getInstructions()).toBe("日本税務一次情報の検索・取得 MCP サーバー");
 
     const tools = await client.listTools();
-    expect(tools.tools.map((tool) => tool.name)).toEqual(["health", "stats"]);
+    expect(tools.tools.map((tool) => tool.name)).toEqual([
+      "health",
+      "stats",
+      "lexical_search",
+    ]);
 
     const health = await client.callTool({ name: "health", arguments: {} });
     expect(health.structuredContent).toMatchObject({
@@ -58,6 +49,9 @@ describe("createServer", () => {
 
     const stats = await client.callTool({ name: "stats", arguments: {} });
     expect(stats.structuredContent).toMatchObject({
+      lexical_index: {
+        size: 2,
+      },
       source_types: {
         tax_answer: {
           count: 1,
@@ -69,17 +63,20 @@ describe("createServer", () => {
       },
     });
 
+    const lexicalSearch = await client.callTool({
+      name: "lexical_search",
+      arguments: { query: "基礎控除" },
+    });
+    expect(lexicalSearch.structuredContent).toMatchObject({
+      hits: [
+        {
+          id: "1200",
+          source_type: "tax_answer",
+          title: "所得税の基礎控除",
+        },
+      ],
+    });
+
     await Promise.all([client.close(), app.close()]);
   });
 });
-
-async function makeTempDir() {
-  const dir = await mkdtemp(join(tmpdir(), "open-zeimu-mcp-server-"));
-  createdDirs.push(dir);
-  return dir;
-}
-
-async function writeFixture(path: string, contents: string) {
-  await mkdir(dirname(path), { recursive: true });
-  await writeFile(path, contents, "utf8");
-}

@@ -1,0 +1,42 @@
+import { fileURLToPath } from "node:url";
+
+import { describe, expect, it } from "vitest";
+
+import { loadMarkdownDocuments } from "../../../src/data/md-loader.js";
+import { buildLexicalIndex } from "../../../src/search/lexical-index.js";
+
+const fixturesDir = fileURLToPath(new URL("../../fixtures/data", import.meta.url));
+
+describe("buildLexicalIndex", () => {
+  it("builds an index and returns hits ordered by relevance", async () => {
+    const documents = await loadMarkdownDocuments({ dataDir: fixturesDir });
+    const lexicalIndex = await buildLexicalIndex({ documents });
+
+    const result = lexicalIndex.search({
+      query: "基礎控除",
+      limit: 10,
+    });
+
+    expect(lexicalIndex.size).toBe(2);
+    expect(lexicalIndex.builtAt).toBeTruthy();
+    expect(result.hits[0]).toMatchObject({
+      id: "1200",
+      source_type: "tax_answer",
+      title: "所得税の基礎控除",
+    });
+    expect(result.hits[0]?.snippet).toContain("基礎控除");
+  });
+
+  it("filters hits by source type", async () => {
+    const documents = await loadMarkdownDocuments({ dataDir: fixturesDir });
+    const lexicalIndex = await buildLexicalIndex({ documents });
+
+    const result = lexicalIndex.search({
+      query: "評価",
+      sourceTypes: ["tax_answer"],
+      limit: 10,
+    });
+
+    expect(result.hits).toEqual([]);
+  });
+});
