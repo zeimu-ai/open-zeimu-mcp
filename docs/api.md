@@ -1,6 +1,6 @@
 # API
 
-The current build exposes ten MCP tools.
+The current build exposes sixteen MCP tools.
 
 ## `health`
 
@@ -44,14 +44,14 @@ Output example:
   "source_types": {
     "law": { "count": 0, "latest_crawled_at": null },
     "tax_answer": { "count": 10, "latest_crawled_at": "2026-04-11T00:00:00.000Z" },
-    "tsutatsu": { "count": 0, "latest_crawled_at": null },
-    "qa_case": { "count": 0, "latest_crawled_at": null },
-    "written_answer": { "count": 0, "latest_crawled_at": null },
+    "tsutatsu": { "count": 4, "latest_crawled_at": "2026-04-12T00:10:00.000Z" },
+    "qa_case": { "count": 3, "latest_crawled_at": "2026-04-12T00:20:00.000Z" },
+    "written_answer": { "count": 2, "latest_crawled_at": "2026-04-11T19:00:00.000Z" },
     "saiketsu": { "count": 0, "latest_crawled_at": null }
   },
   "lexical_index": {
-    "size": 0,
-    "built_at": null
+    "size": 9,
+    "built_at": "2026-04-12T00:30:00.000Z"
   },
   "semantic": {
     "backend": "none",
@@ -198,6 +198,222 @@ Output example:
 Notes:
 
 - always filters `source_types` down to `tax_answer`
+- `limit` defaults to `20`
+- `limit` max is `50`
+
+## `list_tsutatsu_categories`
+
+Input:
+
+```json
+{}
+```
+
+Output example:
+
+```json
+{
+  "source_type": "tsutatsu",
+  "total_count": 1,
+  "categories": [
+    {
+      "category": "shohi",
+      "document_count": 1,
+      "latest_crawled_at": "2026-04-12T00:10:00.000Z"
+    }
+  ]
+}
+```
+
+Notes:
+
+- counts only packaged `tsutatsu` documents
+- skips documents without `category`
+- returns one row per category
+
+## `get_tsutatsu`
+
+Input:
+
+```json
+{
+  "id": "tsu-001"
+}
+```
+
+Output example:
+
+```json
+{
+  "source_type": "tsutatsu",
+  "id": "tsu-001",
+  "title": "消費税の仕入税額控除に関する通達",
+  "category": "shohi",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/001.htm",
+  "citation": "消費税基本通達11-6-1",
+  "document_number": "課消2-1",
+  "content": "適格請求書等保存方式における仕入税額控除の考え方を整理した通達です。",
+  "headings": ["消費税の仕入税額控除に関する通達", "取扱い"],
+  "aliases": ["仕入税額控除通達"],
+  "tags": ["消費税", "インボイス"],
+  "updated_at": null,
+  "published_at": null,
+  "crawled_at": "2026-04-12T00:10:00.000Z",
+  "license": "public_data"
+}
+```
+
+Notes:
+
+- looks up only packaged `tsutatsu` Markdown files
+- throws if the ID does not exist in `DATA_DIR`
+
+## `search_tsutatsu`
+
+Input:
+
+```json
+{
+  "query": "仕入税額控除",
+  "limit": 5
+}
+```
+
+Output example:
+
+```json
+{
+  "source_type": "tsutatsu",
+  "query": "仕入税額控除",
+  "total_count": 1,
+  "results": [
+    {
+      "id": "tsu-001",
+      "source_type": "tsutatsu",
+      "title": "消費税の仕入税額控除に関する通達",
+      "category": "shohi",
+      "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/001.htm",
+      "citation": "消費税基本通達11-6-1",
+      "score": 25.5,
+      "snippet": "適格請求書等保存方式における仕入税額控除の考え方を整理した通達です。",
+      "updated_at": null,
+      "license": "public_data"
+    }
+  ]
+}
+```
+
+Notes:
+
+- always filters `source_types` down to `tsutatsu`
+- `limit` defaults to `20`
+- `limit` max is `50`
+
+## `list_qa_case_categories`
+
+Input:
+
+```json
+{}
+```
+
+Output example:
+
+```json
+{
+  "source_type": "qa_case",
+  "total_count": 1,
+  "categories": [
+    {
+      "category": "hojin",
+      "document_count": 1,
+      "latest_crawled_at": "2026-04-12T00:20:00.000Z"
+    }
+  ]
+}
+```
+
+Notes:
+
+- counts only packaged `qa_case` documents
+- skips documents without `category`
+- returns one row per category
+
+## `get_qa_case`
+
+Input:
+
+```json
+{
+  "id": "qa-001"
+}
+```
+
+Output example:
+
+```json
+{
+  "source_type": "qa_case",
+  "id": "qa-001",
+  "title": "交際費の判定に関する質疑応答事例",
+  "category": "hojin",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/001.htm",
+  "citation": "質疑応答事例 法人税 交際費",
+  "document_number": "法人税QA-001",
+  "content": "得意先に対する飲食費が交際費等に該当するかを解説する質疑応答事例です。",
+  "headings": ["交際費の判定に関する質疑応答事例", "回答"],
+  "aliases": ["交際費Q&A"],
+  "tags": ["法人税", "交際費"],
+  "updated_at": null,
+  "published_at": null,
+  "crawled_at": "2026-04-12T00:20:00.000Z",
+  "license": "public_data"
+}
+```
+
+Notes:
+
+- looks up only packaged `qa_case` Markdown files
+- throws if the ID does not exist in `DATA_DIR`
+
+## `search_qa_case`
+
+Input:
+
+```json
+{
+  "query": "交際費",
+  "limit": 5
+}
+```
+
+Output example:
+
+```json
+{
+  "source_type": "qa_case",
+  "query": "交際費",
+  "total_count": 1,
+  "results": [
+    {
+      "id": "qa-001",
+      "source_type": "qa_case",
+      "title": "交際費の判定に関する質疑応答事例",
+      "category": "hojin",
+      "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/001.htm",
+      "citation": "質疑応答事例 法人税 交際費",
+      "score": 24.7,
+      "snippet": "得意先に対する飲食費が交際費等に該当するかを解説する質疑応答事例です。",
+      "updated_at": null,
+      "license": "public_data"
+    }
+  ]
+}
+```
+
+Notes:
+
+- always filters `source_types` down to `qa_case`
 - `limit` defaults to `20`
 - `limit` max is `50`
 

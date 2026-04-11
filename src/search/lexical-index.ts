@@ -4,6 +4,7 @@ import type { LoadedDocument, SourceType } from "../types/index.js";
 
 type IndexedDocument = {
   id: string;
+  documentId: string;
   sourceType: SourceType;
   title: string;
   headings: string;
@@ -40,8 +41,9 @@ export async function buildLexicalIndex({
   documents: LoadedDocument[];
 }): Promise<LexicalIndex> {
   const miniSearch = new MiniSearch<IndexedDocument>({
+    idField: "id",
     fields: ["title", "headings", "aliases", "body"],
-    storeFields: ["id", "sourceType", "title", "body"],
+    storeFields: ["documentId", "sourceType", "title", "body"],
     searchOptions: {
       boost: {
         title: 4,
@@ -57,7 +59,8 @@ export async function buildLexicalIndex({
 
   miniSearch.addAll(
     documents.map((document) => ({
-      id: document.id,
+      id: `${document.sourceType}:${document.id}`,
+      documentId: document.id,
       sourceType: document.sourceType,
       title: document.title,
       headings: document.headings.join("\n"),
@@ -88,7 +91,7 @@ export async function buildLexicalIndex({
 
       return {
         hits: hits.slice(0, limit).map((hit) => ({
-          id: hit.id,
+          id: hit.documentId,
           source_type: hit.sourceType,
           title: hit.title,
           score: hit.score,

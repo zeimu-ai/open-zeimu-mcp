@@ -7,6 +7,12 @@
 - `list_tax_answer_categories` MCP tool: 同梱済みタックスアンサーのカテゴリ一覧を返す
 - `get_tax_answer` MCP tool: 同梱済みタックスアンサー本文を ID で取得
 - `search_tax_answer` MCP tool: 同梱済みタックスアンサーのみを対象に検索
+- `list_tsutatsu_categories` MCP tool: 同梱済み通達のカテゴリ一覧を返す
+- `get_tsutatsu` MCP tool: 同梱済み通達本文を ID で取得
+- `search_tsutatsu` MCP tool: 同梱済み通達のみを対象に検索
+- `list_qa_case_categories` MCP tool: 同梱済み質疑応答事例のカテゴリ一覧を返す
+- `get_qa_case` MCP tool: 同梱済み質疑応答事例本文を ID で取得
+- `search_qa_case` MCP tool: 同梱済み質疑応答事例のみを対象に検索
 - `get_written_answer` MCP tool: 同梱済み文書回答事例本文を ID で取得
 - `search_written_answer` MCP tool: 同梱済み文書回答事例のみを対象に検索し `page_hint` を返す
 - `get_law` MCP tool: 法令名から e-Gov 法令 API v2 経由で法令本文を取得
@@ -24,8 +30,9 @@
 ### Changed
 
 - lexical search internals now retain match offsets for source-specific post-processing
+- lexical search now uses source-aware internal keys so duplicate document IDs across source types do not collide
 - markdown loader now normalizes YAML date scalars into ISO strings for typed MCP outputs
-- README / API docs / architecture / testing guide now document category listing and written-answer tools
+- README / API docs / architecture / testing guide now document tsutatsu, qa_case, and written-answer packaged tools
 
 ## 0.1.0-alpha.0
 

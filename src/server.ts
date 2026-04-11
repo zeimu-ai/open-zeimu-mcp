@@ -8,6 +8,11 @@ import { createLogger } from "./lib/logger.js";
 import { buildLexicalIndex } from "./search/lexical-index.js";
 import { buildHealthResult, healthInputSchema, healthOutputSchema } from "./tools/health.js";
 import {
+  buildGetQaCaseResult,
+  getQaCaseInputSchema,
+  getQaCaseOutputSchema,
+} from "./tools/get-qa-case.js";
+import {
   buildGetTaxAnswerResult,
   getTaxAnswerInputSchema,
   getTaxAnswerOutputSchema,
@@ -18,20 +23,45 @@ import {
   getWrittenAnswerOutputSchema,
 } from "./tools/get-written-answer.js";
 import {
+  buildGetTsutatsuResult,
+  getTsutatsuInputSchema,
+  getTsutatsuOutputSchema,
+} from "./tools/get-tsutatsu.js";
+import {
+  buildListQaCaseCategoriesResult,
+  listQaCaseCategoriesInputSchema,
+  listQaCaseCategoriesOutputSchema,
+} from "./tools/list-qa-case-categories.js";
+import {
   buildListTaxAnswerCategoriesResult,
   listTaxAnswerCategoriesInputSchema,
   listTaxAnswerCategoriesOutputSchema,
 } from "./tools/list-tax-answer-categories.js";
+import {
+  buildListTsutatsuCategoriesResult,
+  listTsutatsuCategoriesInputSchema,
+  listTsutatsuCategoriesOutputSchema,
+} from "./tools/list-tsutatsu-categories.js";
 import {
   lexicalSearchInputSchema,
   lexicalSearchOutputSchema,
   runLexicalSearch,
 } from "./tools/lexical-search.js";
 import {
+  buildSearchQaCaseResult,
+  searchQaCaseInputSchema,
+  searchQaCaseOutputSchema,
+} from "./tools/search-qa-case.js";
+import {
   buildSearchTaxAnswerResult,
   searchTaxAnswerInputSchema,
   searchTaxAnswerOutputSchema,
 } from "./tools/search-tax-answer.js";
+import {
+  buildSearchTsutatsuResult,
+  searchTsutatsuInputSchema,
+  searchTsutatsuOutputSchema,
+} from "./tools/search-tsutatsu.js";
 import {
   buildSearchWrittenAnswerResult,
   searchWrittenAnswerInputSchema,
@@ -194,6 +224,54 @@ async function createServerInternal({
   );
 
   server.registerTool(
+    "list_tsutatsu_categories",
+    {
+      title: "List Tsutatsu Categories",
+      description: "同梱済み通達のカテゴリ一覧と文書件数を返します。",
+      inputSchema: listTsutatsuCategoriesInputSchema,
+      outputSchema: listTsutatsuCategoriesOutputSchema,
+      annotations: {
+        readOnlyHint: true,
+        destructiveHint: false,
+        idempotentHint: true,
+        openWorldHint: false,
+      },
+    },
+    async () => {
+      const structuredContent = buildListTsutatsuCategoriesResult({ documents });
+
+      return {
+        content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
+        structuredContent,
+      };
+    },
+  );
+
+  server.registerTool(
+    "list_qa_case_categories",
+    {
+      title: "List QA Case Categories",
+      description: "同梱済み質疑応答事例のカテゴリ一覧と文書件数を返します。",
+      inputSchema: listQaCaseCategoriesInputSchema,
+      outputSchema: listQaCaseCategoriesOutputSchema,
+      annotations: {
+        readOnlyHint: true,
+        destructiveHint: false,
+        idempotentHint: true,
+        openWorldHint: false,
+      },
+    },
+    async () => {
+      const structuredContent = buildListQaCaseCategoriesResult({ documents });
+
+      return {
+        content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
+        structuredContent,
+      };
+    },
+  );
+
+  server.registerTool(
     "get_tax_answer",
     {
       title: "Get Tax Answer",
@@ -210,6 +288,60 @@ async function createServerInternal({
     async (input) => {
       const structuredContent = await buildGetTaxAnswerResult({
         input: getTaxAnswerInputSchema.parse(input),
+        documents,
+      });
+
+      return {
+        content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
+        structuredContent,
+      };
+    },
+  );
+
+  server.registerTool(
+    "get_tsutatsu",
+    {
+      title: "Get Tsutatsu",
+      description: "ID を指定して、パッケージ済みの通達本文を取得します。",
+      inputSchema: getTsutatsuInputSchema,
+      outputSchema: getTsutatsuOutputSchema,
+      annotations: {
+        readOnlyHint: true,
+        destructiveHint: false,
+        idempotentHint: true,
+        openWorldHint: false,
+      },
+    },
+    async (input) => {
+      const structuredContent = await buildGetTsutatsuResult({
+        input: getTsutatsuInputSchema.parse(input),
+        documents,
+      });
+
+      return {
+        content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
+        structuredContent,
+      };
+    },
+  );
+
+  server.registerTool(
+    "get_qa_case",
+    {
+      title: "Get QA Case",
+      description: "ID を指定して、パッケージ済みの質疑応答事例本文を取得します。",
+      inputSchema: getQaCaseInputSchema,
+      outputSchema: getQaCaseOutputSchema,
+      annotations: {
+        readOnlyHint: true,
+        destructiveHint: false,
+        idempotentHint: true,
+        openWorldHint: false,
+      },
+    },
+    async (input) => {
+      const structuredContent = await buildGetQaCaseResult({
+        input: getQaCaseInputSchema.parse(input),
         documents,
       });
 
@@ -238,6 +370,62 @@ async function createServerInternal({
       const structuredContent = buildSearchTaxAnswerResult({
         lexicalIndex,
         input: searchTaxAnswerInputSchema.parse(input),
+      });
+
+      return {
+        content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
+        structuredContent,
+      };
+    },
+  );
+
+  server.registerTool(
+    "search_tsutatsu",
+    {
+      title: "Search Tsutatsu",
+      description: "パッケージ済みの通達を全文検索します。",
+      inputSchema: searchTsutatsuInputSchema,
+      outputSchema: searchTsutatsuOutputSchema,
+      annotations: {
+        readOnlyHint: true,
+        destructiveHint: false,
+        idempotentHint: true,
+        openWorldHint: false,
+      },
+    },
+    async (input) => {
+      const structuredContent = buildSearchTsutatsuResult({
+        lexicalIndex,
+        documents,
+        input: searchTsutatsuInputSchema.parse(input),
+      });
+
+      return {
+        content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
+        structuredContent,
+      };
+    },
+  );
+
+  server.registerTool(
+    "search_qa_case",
+    {
+      title: "Search QA Case",
+      description: "パッケージ済みの質疑応答事例を全文検索します。",
+      inputSchema: searchQaCaseInputSchema,
+      outputSchema: searchQaCaseOutputSchema,
+      annotations: {
+        readOnlyHint: true,
+        destructiveHint: false,
+        idempotentHint: true,
+        openWorldHint: false,
+      },
+    },
+    async (input) => {
+      const structuredContent = buildSearchQaCaseResult({
+        lexicalIndex,
+        documents,
+        input: searchQaCaseInputSchema.parse(input),
       });
 
       return {
@@ -362,7 +550,7 @@ async function createServerInternal({
     server,
     async start(transport: Transport = new StdioServerTransport()) {
       await server.connect(transport);
-      logger.info({ toolCount: 10, lexicalIndexSize: lexicalIndex.size }, "MCP server started");
+      logger.info({ toolCount: 16, lexicalIndexSize: lexicalIndex.size }, "MCP server started");
     },
     close() {
       return server.close();

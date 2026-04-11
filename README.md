@@ -4,8 +4,9 @@
 
 `open-zeimu-mcp` is an OSS MCP server for Japanese tax primary sources.
 The current repo ships lexical search, tax-answer category/retrieval tools,
-written-answer retrieval/search, e-Gov law lookup, and a tax-answer crawler
-that writes normalized Markdown data into `data/tax_answer/`.
+tsutatsu retrieval/search, qa-case retrieval/search, written-answer
+retrieval/search, e-Gov law lookup, and a tax-answer crawler that writes
+normalized Markdown data into `data/tax_answer/`.
 
 ## What is open-zeimu-mcp?
 
@@ -46,6 +47,12 @@ Example MCP client configuration:
 - `list_tax_answer_categories`: lists packaged Tax Answer categories
 - `get_tax_answer`: returns packaged Tax Answer content by ID
 - `search_tax_answer`: searches packaged Tax Answer content only
+- `list_tsutatsu_categories`: lists packaged tsutatsu categories
+- `get_tsutatsu`: returns packaged tsutatsu content by ID
+- `search_tsutatsu`: searches packaged tsutatsu content only
+- `list_qa_case_categories`: lists packaged QA-case categories
+- `get_qa_case`: returns packaged QA-case content by ID
+- `search_qa_case`: searches packaged QA-case content only
 - `get_written_answer`: returns packaged written-answer content by ID
 - `search_written_answer`: searches packaged written-answer content only
 - `get_law`: fetches law text from e-Gov Law API v2 by law name (24h cache)
@@ -141,6 +148,74 @@ Fetch a written answer by ID:
 }
 ```
 
+## Tsutatsu Tool Examples
+
+Fetch a tsutatsu document by ID:
+
+```json
+{
+  "name": "get_tsutatsu",
+  "arguments": {
+    "id": "tsu-001"
+  }
+}
+```
+
+Search only within packaged tsutatsu documents:
+
+```json
+{
+  "name": "search_tsutatsu",
+  "arguments": {
+    "query": "仕入税額控除",
+    "limit": 5
+  }
+}
+```
+
+List packaged tsutatsu categories:
+
+```json
+{
+  "name": "list_tsutatsu_categories",
+  "arguments": {}
+}
+```
+
+## QA Case Tool Examples
+
+Fetch a QA case by ID:
+
+```json
+{
+  "name": "get_qa_case",
+  "arguments": {
+    "id": "qa-001"
+  }
+}
+```
+
+Search only within packaged QA cases:
+
+```json
+{
+  "name": "search_qa_case",
+  "arguments": {
+    "query": "交際費",
+    "limit": 5
+  }
+}
+```
+
+List packaged QA-case categories:
+
+```json
+{
+  "name": "list_qa_case_categories",
+  "arguments": {}
+}
+```
+
 Search only within packaged written answers:
 
 ```json
@@ -184,9 +259,9 @@ The metadata file includes `content_hash`, `aliases`, `headings`, `etag`,
 ## Status
 
 Under active development. The current implemented surface covers PR-2 lexical
-search, PR-3 tax-answer crawling, PR-4 tax-answer retrieval/search, PR-5 e-Gov
-law retrieval, and the first packaged written-answer tools on the path to
-`v0.1.0`.
+search, PR-3 tax-answer crawling, PR-4 packaged retrieval/search across
+tax-answer, tsutatsu, qa-case, and written-answer, plus PR-5 e-Gov law
+retrieval on the path to `v0.1.0`.
 
 ## Lexical Search Example
 

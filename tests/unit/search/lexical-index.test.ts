@@ -17,7 +17,7 @@ describe("buildLexicalIndex", () => {
       limit: 10,
     });
 
-    expect(lexicalIndex.size).toBe(2);
+    expect(lexicalIndex.size).toBe(4);
     expect(lexicalIndex.builtAt).toBeTruthy();
     expect(result.hits[0]).toMatchObject({
       id: "1200",
@@ -38,5 +38,22 @@ describe("buildLexicalIndex", () => {
     });
 
     expect(result.hits).toEqual([]);
+  });
+
+  it("supports duplicate document ids across source types", async () => {
+    const documents = await loadMarkdownDocuments({ dataDir: fixturesDir });
+    const lexicalIndex = await buildLexicalIndex({ documents });
+
+    const result = lexicalIndex.search({
+      query: "交際費",
+      sourceTypes: ["qa_case"],
+      limit: 10,
+    });
+
+    expect(result.hits[0]).toMatchObject({
+      id: "qa-001",
+      source_type: "qa_case",
+      title: "交際費の判定に関する質疑応答事例",
+    });
   });
 });

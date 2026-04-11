@@ -12,6 +12,8 @@ coverage for:
 - crawler write flow into `data/tax_answer/<id>/`
 - tax-answer MCP retrieval and search tools
 - tax-answer category listing
+- tsutatsu category/retrieval/search tools
+- qa_case category/retrieval/search tools
 - written-answer retrieval/search with page-hint coverage
 
 ## Core Commands

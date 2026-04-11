@@ -36,8 +36,14 @@ describe("createServer", () => {
       "stats",
       "lexical_search",
       "list_tax_answer_categories",
+      "list_tsutatsu_categories",
+      "list_qa_case_categories",
       "get_tax_answer",
+      "get_tsutatsu",
+      "get_qa_case",
       "search_tax_answer",
+      "search_tsutatsu",
+      "search_qa_case",
       "get_written_answer",
       "search_written_answer",
       "get_law",
@@ -57,10 +63,16 @@ describe("createServer", () => {
     const stats = await client.callTool({ name: "stats", arguments: {} });
     expect(stats.structuredContent).toMatchObject({
       lexical_index: {
-        size: 2,
+        size: 4,
       },
       source_types: {
         tax_answer: {
+          count: 1,
+        },
+        tsutatsu: {
+          count: 1,
+        },
+        qa_case: {
           count: 1,
         },
       },
@@ -108,6 +120,92 @@ describe("createServer", () => {
           id: "1200",
           source_type: "tax_answer",
           title: "所得税の基礎控除",
+        },
+      ],
+    });
+
+    const listTsutatsuCategories = await client.callTool({
+      name: "list_tsutatsu_categories",
+      arguments: {},
+    });
+    expect(listTsutatsuCategories.structuredContent).toMatchObject({
+      source_type: "tsutatsu",
+      total_count: 1,
+      categories: [
+        {
+          category: "shohi",
+          document_count: 1,
+        },
+      ],
+    });
+
+    const getTsutatsu = await client.callTool({
+      name: "get_tsutatsu",
+      arguments: { id: "tsu-001" },
+    });
+    expect(getTsutatsu.structuredContent).toMatchObject({
+      source_type: "tsutatsu",
+      id: "tsu-001",
+      title: "消費税の仕入税額控除に関する通達",
+      canonical_url: "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/001.htm",
+    });
+
+    const searchTsutatsu = await client.callTool({
+      name: "search_tsutatsu",
+      arguments: { query: "仕入税額控除", limit: 5 },
+    });
+    expect(searchTsutatsu.structuredContent).toMatchObject({
+      source_type: "tsutatsu",
+      query: "仕入税額控除",
+      total_count: 1,
+      results: [
+        {
+          id: "tsu-001",
+          source_type: "tsutatsu",
+          title: "消費税の仕入税額控除に関する通達",
+        },
+      ],
+    });
+
+    const listQaCaseCategories = await client.callTool({
+      name: "list_qa_case_categories",
+      arguments: {},
+    });
+    expect(listQaCaseCategories.structuredContent).toMatchObject({
+      source_type: "qa_case",
+      total_count: 1,
+      categories: [
+        {
+          category: "hojin",
+          document_count: 1,
+        },
+      ],
+    });
+
+    const getQaCase = await client.callTool({
+      name: "get_qa_case",
+      arguments: { id: "qa-001" },
+    });
+    expect(getQaCase.structuredContent).toMatchObject({
+      source_type: "qa_case",
+      id: "qa-001",
+      title: "交際費の判定に関する質疑応答事例",
+      canonical_url: "https://www.nta.go.jp/law/shitsugi/hojin/001.htm",
+    });
+
+    const searchQaCase = await client.callTool({
+      name: "search_qa_case",
+      arguments: { query: "交際費", limit: 5 },
+    });
+    expect(searchQaCase.structuredContent).toMatchObject({
+      source_type: "qa_case",
+      query: "交際費",
+      total_count: 1,
+      results: [
+        {
+          id: "qa-001",
+          source_type: "qa_case",
+          title: "交際費の判定に関する質疑応答事例",
         },
       ],
     });
