@@ -33,7 +33,7 @@ open-zeimu-mcp/
 
 - `src/data/*`: packaged Markdown loader
 - `src/search/*`: lexical search index
-- `src/tools/*`: MCP tools (`health`, `stats`, `lexical_search`, `get_law`, `search_law`)
+- `src/tools/*`: MCP tools (`health`, `stats`, `lexical_search`, `get_tax_answer`, `search_tax_answer`, `get_law`, `search_law`)
 - `src/repository/egov-repository.ts`: e-Gov API v2 wrapper with 24h in-memory cache
 - `src/crawler/tax-answer/*`: tax-answer discovery, parsing, safety, storage, and CLI
 

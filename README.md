@@ -3,8 +3,9 @@
 # open-zeimu-mcp
 
 `open-zeimu-mcp` is an OSS MCP server for Japanese tax primary sources.
-The current repo ships lexical search, e-Gov law lookup, and a tax-answer
-crawler that writes normalized Markdown data into `data/tax_answer/`.
+The current repo ships lexical search, tax-answer retrieval, e-Gov law lookup,
+and a tax-answer crawler that writes normalized Markdown data into
+`data/tax_answer/`.
 
 ## What is open-zeimu-mcp?
 
@@ -42,6 +43,8 @@ Example MCP client configuration:
 - `health`: reports runtime health, uptime, and directory readiness
 - `stats`: reports per-source document counts and lexical index readiness
 - `lexical_search`: searches packaged Markdown tax documents in memory
+- `get_tax_answer`: returns packaged Tax Answer content by ID
+- `search_tax_answer`: searches packaged Tax Answer content only
 - `get_law`: fetches law text from e-Gov Law API v2 by law name (24h cache)
 - `search_law`: searches laws by keyword via e-Gov Law API v2 (24h cache)
 - `crawl:tax-answer`: crawls NTA Tax Answer pages into Markdown + metadata
@@ -88,6 +91,31 @@ Search laws by keyword:
 
 Results are cached in memory for 24 hours. No API key is required.
 
+## Tax Answer Tool Examples
+
+Fetch a tax answer by ID:
+
+```json
+{
+  "name": "get_tax_answer",
+  "arguments": {
+    "id": "1200"
+  }
+}
+```
+
+Search only within packaged tax answers:
+
+```json
+{
+  "name": "search_tax_answer",
+  "arguments": {
+    "query": "基礎控除",
+    "limit": 5
+  }
+}
+```
+
 ## Tax Answer Crawler
 
 The crawler fetches NTA Tax Answer pages from `www.nta.go.jp`, respects
@@ -119,8 +147,8 @@ The metadata file includes `content_hash`, `aliases`, `headings`, `etag`,
 ## Status
 
 Under active development. The current implemented surface covers PR-2 lexical
-search, PR-3 tax-answer crawling, and PR-5 e-Gov law retrieval on the path to
-`v0.1.0`.
+search, PR-3 tax-answer crawling, PR-4 tax-answer retrieval/search, and PR-5
+e-Gov law retrieval on the path to `v0.1.0`.
 
 ## Lexical Search Example
 

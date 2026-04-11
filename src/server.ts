@@ -8,10 +8,20 @@ import { createLogger } from "./lib/logger.js";
 import { buildLexicalIndex } from "./search/lexical-index.js";
 import { buildHealthResult, healthInputSchema, healthOutputSchema } from "./tools/health.js";
 import {
+  buildGetTaxAnswerResult,
+  getTaxAnswerInputSchema,
+  getTaxAnswerOutputSchema,
+} from "./tools/get-tax-answer.js";
+import {
   lexicalSearchInputSchema,
   lexicalSearchOutputSchema,
   runLexicalSearch,
 } from "./tools/lexical-search.js";
+import {
+  buildSearchTaxAnswerResult,
+  searchTaxAnswerInputSchema,
+  searchTaxAnswerOutputSchema,
+} from "./tools/search-tax-answer.js";
 import { buildStatsResult, statsInputSchema, statsOutputSchema } from "./tools/stats.js";
 import { buildGetLawResult, getLawInputSchema, getLawOutputSchema } from "./tools/get-law.js";
 import {
@@ -145,6 +155,60 @@ async function createServerInternal({
   );
 
   server.registerTool(
+    "get_tax_answer",
+    {
+      title: "Get Tax Answer",
+      description: "ID を指定して、パッケージ済みのタックスアンサー本文を取得します。",
+      inputSchema: getTaxAnswerInputSchema,
+      outputSchema: getTaxAnswerOutputSchema,
+      annotations: {
+        readOnlyHint: true,
+        destructiveHint: false,
+        idempotentHint: true,
+        openWorldHint: false,
+      },
+    },
+    async (input) => {
+      const structuredContent = await buildGetTaxAnswerResult({
+        input: getTaxAnswerInputSchema.parse(input),
+        documents,
+      });
+
+      return {
+        content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
+        structuredContent,
+      };
+    },
+  );
+
+  server.registerTool(
+    "search_tax_answer",
+    {
+      title: "Search Tax Answer",
+      description: "パッケージ済みのタックスアンサーを全文検索します。",
+      inputSchema: searchTaxAnswerInputSchema,
+      outputSchema: searchTaxAnswerOutputSchema,
+      annotations: {
+        readOnlyHint: true,
+        destructiveHint: false,
+        idempotentHint: true,
+        openWorldHint: false,
+      },
+    },
+    async (input) => {
+      const structuredContent = buildSearchTaxAnswerResult({
+        lexicalIndex,
+        input: searchTaxAnswerInputSchema.parse(input),
+      });
+
+      return {
+        content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
+        structuredContent,
+      };
+    },
+  );
+
+  server.registerTool(
     "get_law",
     {
       title: "Get Law",
@@ -204,7 +268,7 @@ async function createServerInternal({
     server,
     async start(transport: Transport = new StdioServerTransport()) {
       await server.connect(transport);
-      logger.info({ toolCount: 5, lexicalIndexSize: lexicalIndex.size }, "MCP server started");
+      logger.info({ toolCount: 7, lexicalIndexSize: lexicalIndex.size }, "MCP server started");
     },
     close() {
       return server.close();

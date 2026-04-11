@@ -9,7 +9,7 @@ import { createServer } from "../../src/server.js";
 const fixturesDir = fileURLToPath(new URL("../fixtures/data", import.meta.url));
 
 describe("createServer", () => {
-  it("registers health, stats, and lexical_search tools and serves structured responses", async () => {
+  it("registers core tools and serves structured responses", async () => {
     const app = await createServer({
       env: {
         embeddingBackend: "none",
@@ -35,6 +35,8 @@ describe("createServer", () => {
       "health",
       "stats",
       "lexical_search",
+      "get_tax_answer",
+      "search_tax_answer",
       "get_law",
       "search_law",
     ]);
@@ -71,6 +73,34 @@ describe("createServer", () => {
     });
     expect(lexicalSearch.structuredContent).toMatchObject({
       hits: [
+        {
+          id: "1200",
+          source_type: "tax_answer",
+          title: "所得税の基礎控除",
+        },
+      ],
+    });
+
+    const getTaxAnswer = await client.callTool({
+      name: "get_tax_answer",
+      arguments: { id: "1200" },
+    });
+    expect(getTaxAnswer.structuredContent).toMatchObject({
+      source_type: "tax_answer",
+      id: "1200",
+      title: "所得税の基礎控除",
+      canonical_url: "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1200.htm",
+    });
+
+    const searchTaxAnswer = await client.callTool({
+      name: "search_tax_answer",
+      arguments: { query: "基礎控除", limit: 5 },
+    });
+    expect(searchTaxAnswer.structuredContent).toMatchObject({
+      source_type: "tax_answer",
+      query: "基礎控除",
+      total_count: 1,
+      results: [
         {
           id: "1200",
           source_type: "tax_answer",

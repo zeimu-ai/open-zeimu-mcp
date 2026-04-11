@@ -72,9 +72,9 @@ export async function loadMarkdownDocuments({
         headings,
         aliases: frontmatter.aliases ?? [],
         metadata: metadata ?? {},
-        crawledAt: frontmatter.crawled_at ?? null,
-        updatedAt: frontmatter.updated_at ?? null,
-        publishedAt: frontmatter.published_at ?? null,
+        crawledAt: normalizeOptionalDate(frontmatter.crawled_at),
+        updatedAt: normalizeOptionalDate(frontmatter.updated_at),
+        publishedAt: normalizeOptionalDate(frontmatter.published_at),
         contentHash: frontmatter.content_hash ?? null,
         license: frontmatter.license ?? null,
         version: frontmatter.version ?? null,
@@ -159,4 +159,12 @@ function extractWrittenAnswerContent(content: string) {
     pageOffsets,
     pageCount: pageSections.length,
   };
+}
+
+function normalizeOptionalDate(value: string | Date | null | undefined) {
+  if (value instanceof Date) {
+    return value.toISOString();
+  }
+
+  return value ?? null;
 }

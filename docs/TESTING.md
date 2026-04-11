@@ -10,6 +10,7 @@ coverage for:
 - `1 req/sec` rate limiting
 - robots / allowlist policies
 - crawler write flow into `data/tax_answer/<id>/`
+- tax-answer MCP retrieval and search tools
 
 ## Core Commands
 
