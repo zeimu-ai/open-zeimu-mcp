@@ -3,8 +3,8 @@
 # open-zeimu-mcp
 
 `open-zeimu-mcp` は、日本の税務一次情報を取得・検索するための OSS
-MCP サーバーです。現在は lexical search、タックスアンサー取得、
-e-Gov 法令取得、NTA
+MCP サーバーです。現在は lexical search、タックスアンサーのカテゴリ一覧
+/取得/検索、文書回答事例の取得/検索、e-Gov 法令取得、NTA
 タックスアンサー crawler を実装しています。
 
 ## 特徴
@@ -12,8 +12,11 @@ e-Gov 法令取得、NTA
 - `health`: 稼働状態、uptime、データディレクトリの到達性を返す
 - `stats`: source type ごとの文書件数と lexical index の状態を返す
 - `lexical_search`: 同梱 Markdown データを lexical 検索する
+- `list_tax_answer_categories`: 同梱タックスアンサーのカテゴリ一覧を返す
 - `get_tax_answer`: ID を指定して同梱タックスアンサー本文を返す
 - `search_tax_answer`: 同梱タックスアンサーだけを対象に検索する
+- `get_written_answer`: ID を指定して同梱文書回答事例本文を返す
+- `search_written_answer`: 同梱文書回答事例だけを対象に検索する
 - `get_law`: e-Gov 法令 API v2 から法令本文を取得する
 - `search_law`: e-Gov 法令 API v2 をキーワード検索する
 - `crawl:tax-answer`: NTA タックスアンサーを Markdown + metadata に正規化する
@@ -92,9 +95,37 @@ raw HTML は保存せず、`robots.txt` と `1 req/sec` を守って実行しま
 
 ```json
 {
+  "name": "list_tax_answer_categories",
+  "arguments": {}
+}
+```
+
+```json
+{
   "name": "search_tax_answer",
   "arguments": {
     "query": "基礎控除",
+    "limit": 5
+  }
+}
+```
+
+## 文書回答事例取得例
+
+```json
+{
+  "name": "get_written_answer",
+  "arguments": {
+    "id": "202401"
+  }
+}
+```
+
+```json
+{
+  "name": "search_written_answer",
+  "arguments": {
+    "query": "第2ページ",
     "limit": 5
   }
 }
@@ -122,9 +153,10 @@ raw HTML は保存せず、`robots.txt` と `1 req/sec` を守って実行しま
 
 ### 何がもう使えますか
 
-現時点では `health`、`stats`、`lexical_search`、`get_tax_answer`、
-`search_tax_answer`、`get_law`、`search_law` が利用でき、crawler で
-tax_answer データを生成できます。
+現時点では `health`、`stats`、`lexical_search`、
+`list_tax_answer_categories`、`get_tax_answer`、`search_tax_answer`、
+`get_written_answer`、`search_written_answer`、`get_law`、`search_law`
+が利用でき、crawler で tax_answer データを生成できます。
 
 ### 本番利用できますか
 

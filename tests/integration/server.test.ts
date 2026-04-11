@@ -35,8 +35,11 @@ describe("createServer", () => {
       "health",
       "stats",
       "lexical_search",
+      "list_tax_answer_categories",
       "get_tax_answer",
       "search_tax_answer",
+      "get_written_answer",
+      "search_written_answer",
       "get_law",
       "search_law",
     ]);
@@ -105,6 +108,51 @@ describe("createServer", () => {
           id: "1200",
           source_type: "tax_answer",
           title: "所得税の基礎控除",
+        },
+      ],
+    });
+
+    const listTaxAnswerCategories = await client.callTool({
+      name: "list_tax_answer_categories",
+      arguments: {},
+    });
+    expect(listTaxAnswerCategories.structuredContent).toMatchObject({
+      source_type: "tax_answer",
+      total_count: 1,
+      categories: [
+        {
+          category: "shotoku",
+          document_count: 1,
+        },
+      ],
+    });
+
+    const getWrittenAnswer = await client.callTool({
+      name: "get_written_answer",
+      arguments: { id: "202401" },
+    });
+    expect(getWrittenAnswer.structuredContent).toMatchObject({
+      source_type: "written_answer",
+      id: "202401",
+      title: "非上場株式の評価に関する文書回答事例",
+      page_count: 2,
+      canonical_url: "https://www.nta.go.jp/law/bunshokaito/hyoka/240101/01.htm",
+    });
+
+    const searchWrittenAnswer = await client.callTool({
+      name: "search_written_answer",
+      arguments: { query: "第2ページ", limit: 5 },
+    });
+    expect(searchWrittenAnswer.structuredContent).toMatchObject({
+      source_type: "written_answer",
+      query: "第2ページ",
+      total_count: 1,
+      results: [
+        {
+          id: "202401",
+          source_type: "written_answer",
+          title: "非上場株式の評価に関する文書回答事例",
+          page_hint: "p.2",
         },
       ],
     });

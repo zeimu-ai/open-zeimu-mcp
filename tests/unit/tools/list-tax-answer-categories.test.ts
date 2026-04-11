@@ -1,0 +1,112 @@
+import { describe, expect, it } from "vitest";
+
+import { buildListTaxAnswerCategoriesResult } from "../../../src/tools/list-tax-answer-categories.js";
+import type { LoadedDocument } from "../../../src/types/index.js";
+
+const documents: LoadedDocument[] = [
+  {
+    id: "1200",
+    sourceType: "tax_answer",
+    title: "所得税の基礎控除",
+    category: "shotoku",
+    canonicalUrl: "https://example.com/tax-answer/1200",
+    path: "/tmp/data/tax_answer/1200/1200.md",
+    metadataPath: "/tmp/data/tax_answer/1200/1200.meta.json",
+    body: "本文",
+    headings: ["所得税の基礎控除"],
+    aliases: [],
+    metadata: {},
+    crawledAt: "2026-04-11T19:00:00.000Z",
+    updatedAt: null,
+    publishedAt: null,
+    contentHash: null,
+    license: "public_data",
+    version: 1,
+    pageOffsets: [],
+    pageCount: 0,
+  },
+  {
+    id: "1201",
+    sourceType: "tax_answer",
+    title: "給与所得控除",
+    category: "shotoku",
+    canonicalUrl: "https://example.com/tax-answer/1201",
+    path: "/tmp/data/tax_answer/1201/1201.md",
+    metadataPath: "/tmp/data/tax_answer/1201/1201.meta.json",
+    body: "本文",
+    headings: ["給与所得控除"],
+    aliases: [],
+    metadata: {},
+    crawledAt: "2026-04-12T00:00:00.000Z",
+    updatedAt: null,
+    publishedAt: null,
+    contentHash: null,
+    license: "public_data",
+    version: 2,
+    pageOffsets: [],
+    pageCount: 0,
+  },
+  {
+    id: "3105",
+    sourceType: "tax_answer",
+    title: "青色申告特別控除",
+    category: "shotoku-shinkoku",
+    canonicalUrl: "https://example.com/tax-answer/3105",
+    path: "/tmp/data/tax_answer/3105/3105.md",
+    metadataPath: "/tmp/data/tax_answer/3105/3105.meta.json",
+    body: "本文",
+    headings: ["青色申告特別控除"],
+    aliases: [],
+    metadata: {},
+    crawledAt: "2026-04-10T00:00:00.000Z",
+    updatedAt: null,
+    publishedAt: null,
+    contentHash: null,
+    license: "public_data",
+    version: 1,
+    pageOffsets: [],
+    pageCount: 0,
+  },
+  {
+    id: "202401",
+    sourceType: "written_answer",
+    title: "文書回答",
+    category: "hyoka",
+    canonicalUrl: "https://example.com/written-answer/202401",
+    path: "/tmp/data/written_answer/202401/202401.md",
+    metadataPath: "/tmp/data/written_answer/202401/202401.meta.json",
+    body: "本文",
+    headings: ["文書回答"],
+    aliases: [],
+    metadata: {},
+    crawledAt: "2026-04-11T19:00:00.000Z",
+    updatedAt: null,
+    publishedAt: null,
+    contentHash: null,
+    license: "public_data",
+    version: 1,
+    pageOffsets: [0],
+    pageCount: 1,
+  },
+];
+
+describe("buildListTaxAnswerCategoriesResult", () => {
+  it("aggregates tax_answer categories only", () => {
+    expect(buildListTaxAnswerCategoriesResult({ documents })).toEqual({
+      source_type: "tax_answer",
+      total_count: 2,
+      categories: [
+        {
+          category: "shotoku",
+          document_count: 2,
+          latest_crawled_at: "2026-04-12T00:00:00.000Z",
+        },
+        {
+          category: "shotoku-shinkoku",
+          document_count: 1,
+          latest_crawled_at: "2026-04-10T00:00:00.000Z",
+        },
+      ],
+    });
+  });
+});

@@ -17,6 +17,7 @@ export type LexicalSearchHit = {
   title: string;
   score: number;
   snippet: string;
+  match_offset?: number;
 };
 
 export type LexicalSearchResult = {
@@ -91,7 +92,7 @@ export async function buildLexicalIndex({
           source_type: hit.sourceType,
           title: hit.title,
           score: hit.score,
-          snippet: buildSnippet(hit.queryTerms, hit.body),
+          ...buildSnippet(hit.queryTerms, hit.body),
         })),
       };
     },
@@ -112,11 +113,16 @@ function buildSnippet(queryTerms: string[], body: string) {
   const matchedTerm = queryTerms.find((term) => normalizedBody.includes(term));
 
   if (!matchedTerm) {
-    return normalizedBody.slice(0, 120);
+    return {
+      snippet: normalizedBody.slice(0, 120),
+    };
   }
 
   const index = normalizedBody.indexOf(matchedTerm);
   const start = Math.max(0, index - 30);
   const end = Math.min(normalizedBody.length, index + matchedTerm.length + 60);
-  return normalizedBody.slice(start, end);
+  return {
+    snippet: normalizedBody.slice(start, end),
+    match_offset: index,
+  };
 }

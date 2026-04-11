@@ -11,6 +11,8 @@ coverage for:
 - robots / allowlist policies
 - crawler write flow into `data/tax_answer/<id>/`
 - tax-answer MCP retrieval and search tools
+- tax-answer category listing
+- written-answer retrieval/search with page-hint coverage
 
 ## Core Commands
 

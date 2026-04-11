@@ -22,7 +22,15 @@ export const lexicalSearchOutputSchema = z.object({
 });
 
 export function buildLexicalSearchResult(result: LexicalSearchResult) {
-  return result;
+  return {
+    hits: result.hits.map((hit) => ({
+      id: hit.id,
+      source_type: hit.source_type,
+      title: hit.title,
+      score: hit.score,
+      snippet: hit.snippet,
+    })),
+  };
 }
 
 export function runLexicalSearch({

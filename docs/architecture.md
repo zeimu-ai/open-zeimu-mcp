@@ -33,9 +33,15 @@ open-zeimu-mcp/
 
 - `src/data/*`: packaged Markdown loader
 - `src/search/*`: lexical search index
-- `src/tools/*`: MCP tools (`health`, `stats`, `lexical_search`, `get_tax_answer`, `search_tax_answer`, `get_law`, `search_law`)
+- `src/tools/*`: MCP tools (`health`, `stats`, `lexical_search`, `list_tax_answer_categories`, `get_tax_answer`, `search_tax_answer`, `get_written_answer`, `search_written_answer`, `get_law`, `search_law`)
 - `src/repository/egov-repository.ts`: e-Gov API v2 wrapper with 24h in-memory cache
 - `src/crawler/tax-answer/*`: tax-answer discovery, parsing, safety, storage, and CLI
+
+## Retrieval Model
+
+- `tax_answer` is currently packaged with category listing plus direct retrieval/search tools.
+- `written_answer` reuses the shared Markdown loader and lexical index, then enriches search hits with `canonical_url`, `license`, and `page_hint`.
+- Source-specific tool post-processing is layered on top of the shared lexical index rather than forking search implementations per source.
 
 ## Tax Answer Crawler
 
