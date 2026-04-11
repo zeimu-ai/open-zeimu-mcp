@@ -1,0 +1,86 @@
+[English](README.md) | [日本語](README.ja.md)
+
+# open-zeimu-mcp
+
+`open-zeimu-mcp` is an OSS MCP server for Japanese tax primary sources.
+Phase 1 starts with a minimal server skeleton that exposes `health` and `stats`
+tools without requiring an external database or API key.
+
+## What is open-zeimu-mcp?
+
+- Zero-setup MCP server for Japanese tax primary-source retrieval
+- Designed for `npm install @zeimu-ai/open-zeimu-mcp`
+- Built on the official Model Context Protocol TypeScript SDK
+- Intended to grow toward tax answers, circulars, rulings, and e-Gov retrieval
+
+## Quick Start
+
+```bash
+npm install @zeimu-ai/open-zeimu-mcp
+```
+
+Example MCP client configuration:
+
+```json
+{
+  "mcpServers": {
+    "open-zeimu-mcp": {
+      "command": "npx",
+      "args": ["-y", "@zeimu-ai/open-zeimu-mcp"],
+      "env": {
+        "EMBEDDING_BACKEND": "none",
+        "LOG_LEVEL": "info",
+        "DATA_DIR": "./data"
+      }
+    }
+  }
+}
+```
+
+## Features
+
+- `health`: reports runtime health, uptime, and directory readiness
+- `stats`: reports per-source file counts and semantic backend readiness
+- Structured output schemas for MCP clients that support typed tool responses
+
+## Configuration
+
+| Variable | Default | Description |
+| --- | --- | --- |
+| `EMBEDDING_BACKEND` | `none` | `none`, `local`, or `supabase` |
+| `LOG_LEVEL` | `info` | Pino log level |
+| `DATA_DIR` | `./data` | Root directory for packaged dataset files |
+| `VECTORS_CACHE_DIR` | `~/.cache/open-zeimu-mcp/vectors` | Local vector cache path |
+
+This package reads configuration from `process.env` only. It does not load a
+`.env` file.
+
+## Status
+
+Under active development. The current published surface is a PR-1 server
+skeleton on the path to `v0.1.0`.
+
+## Development
+
+```bash
+npm install --include=dev
+npm run typecheck
+npm test
+npm run build
+npm start
+```
+
+More details:
+
+- Architecture: [docs/architecture.md](docs/architecture.md)
+- Tool API examples: [docs/api.md](docs/api.md)
+- Testing notes: [docs/TESTING.md](docs/TESTING.md)
+
+## Data Sources and Licenses
+
+Source-specific attribution and downstream license notices will be expanded as
+data loaders land. See [NOTICE](NOTICE).
+
+## License
+
+[MIT](LICENSE)

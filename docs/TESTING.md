@@ -2,7 +2,8 @@
 
 ## Overview
 
-open-zeimu-mcp uses [Vitest](https://vitest.dev/) as its testing framework. All code contributions must include comprehensive tests.
+open-zeimu-mcp uses [Vitest](https://vitest.dev/) as its testing framework.
+All code contributions must include comprehensive tests.
 
 ## Test Philosophy
 
