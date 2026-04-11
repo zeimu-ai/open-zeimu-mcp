@@ -10,6 +10,11 @@
 - allowlist ホスト検証 (`laws.e-gov.go.jp` のみ許可)
 - レスポンスは markdown/text のみ保持 (raw HTML 非保存)
 - 印紙税法フィクスチャとユニットテスト 29 件
+- タックスアンサー crawler (`src/crawler/tax-answer/*`) と `npm run crawl:tax-answer`
+- HTML -> Markdown parser with frontmatter, `aliases`, `headings`, and `.meta.json`
+- 差分検知 (`ETag` / `Last-Modified` / `content_hash`) と source-type 単位の bot commit フロー
+- rate limit 1 req/sec, robots policy, allowlist host, count-drop/deletion/failure-day guards
+- タックスアンサー fixture / crawler write-flow tests
 
 ## 0.1.0-alpha.0
 

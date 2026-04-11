@@ -1,77 +1,69 @@
 # Architecture
 
-This document summarizes the PR-1 server skeleton and points back to the
-confirmed design in
+This document summarizes the current implemented architecture and points back to
+the confirmed design in
 `/Users/tackeyy/dev/zeimu-ai/.tasks/output/open-zeimu-mcp-design-final-001-result.md`.
 
 ## Directory Structure
-
-The final design targets the following long-term structure:
 
 ```text
 open-zeimu-mcp/
 ├── data/
 ├── docs/
-├── scripts/
 ├── src/
-│   ├── index.ts
-│   ├── server.ts
 │   ├── config/
-│   ├── tools/
-│   ├── services/
+│   ├── crawler/
+│   │   ├── git-commit.ts
+│   │   └── tax-answer/
+│   ├── data/
+│   ├── lib/
 │   ├── repository/
 │   ├── search/
-│   ├── embeddings/
-│   ├── loaders/
-│   ├── parsers/
-│   ├── crawlers/
-│   ├── utils/
-│   └── types/
+│   ├── tools/
+│   ├── types/
+│   ├── index.ts
+│   └── server.ts
 └── tests/
-    ├── unit/
+    ├── fixtures/
     ├── integration/
-    └── e2e/
+    └── unit/
 ```
 
-PR-1 implements only the minimum subset needed to boot the server:
+## Implemented Layers
 
-- `src/index.ts`
-- `src/server.ts`
-- `src/config/env.ts`
-- `src/tools/health.ts`
-- `src/tools/stats.ts`
-- `src/lib/logger.ts`
-- `src/types/index.ts`
-- `tests/unit/*`
-- `tests/integration/server.test.ts`
+- `src/data/*`: packaged Markdown loader
+- `src/search/*`: lexical search index
+- `src/tools/*`: MCP tools (`health`, `stats`, `lexical_search`, `get_law`, `search_law`)
+- `src/repository/egov-repository.ts`: e-Gov API v2 wrapper with 24h in-memory cache
+- `src/crawler/tax-answer/*`: tax-answer discovery, parsing, safety, storage, and CLI
 
-## Server Layer
+## Tax Answer Crawler
 
-The agreed startup flow is:
+PR-3 adds a file-based crawler pipeline:
 
 ```text
-index.ts
-  -> load env
-  -> create server
-  -> build lexical index
-  -> optionally load semantic vectors
-  -> register tools
-  -> connect transport
+cli.ts
+  -> fetch robots.txt
+  -> discover seed pages
+  -> collect tax-answer URLs
+  -> rate limit (1 req/sec)
+  -> parse HTML -> Markdown
+  -> diff against stored metadata
+  -> write changed files only
+  -> optional git commit / push with bot author
 ```
 
-PR-1 implements the first, second, fifth, and sixth steps. Index building and
-vector loading remain future PRs.
+Key safety guards:
 
-Current responsibility split:
-
-- `tools/`: MCP schemas and tool handlers
-- `repository/`: future wrappers around filesystem reads and e-Gov fetches
-- `search/`: future lexical and semantic retrieval
-- `loaders/`: future markdown and metadata ingestion
+- allowlist host: `www.nta.go.jp`
+- `robots.txt` enforcement
+- count-drop stop at 30%
+- deletion stop at 100 files
+- 3 consecutive failure days pause future runs
 
 ## Security Notes
 
-- Tool descriptions stay minimal and avoid prompt-like instructions.
 - Environment values are read from `process.env` only.
 - Logs go to `stderr` so stdio MCP traffic on `stdout` is not corrupted.
-- `stats` scans only fixed source-type subdirectories under `DATA_DIR`.
+- Crawler output stores Markdown / JSON only; raw HTML is not persisted.
+- Git auto-commit is gated by `--apply`; the default mode is dry run.

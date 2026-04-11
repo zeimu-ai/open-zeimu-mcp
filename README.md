@@ -3,8 +3,8 @@
 # open-zeimu-mcp
 
 `open-zeimu-mcp` is an OSS MCP server for Japanese tax primary sources.
-Phase 1 starts with a server skeleton that exposes `health`, `stats`, and
-`lexical_search` without requiring an external database or API key.
+The current repo ships lexical search, e-Gov law lookup, and a tax-answer
+crawler that writes normalized Markdown data into `data/tax_answer/`.
 
 ## What is open-zeimu-mcp?
 
@@ -44,6 +44,7 @@ Example MCP client configuration:
 - `lexical_search`: searches packaged Markdown tax documents in memory
 - `get_law`: fetches law text from e-Gov Law API v2 by law name (24h cache)
 - `search_law`: searches laws by keyword via e-Gov Law API v2 (24h cache)
+- `crawl:tax-answer`: crawls NTA Tax Answer pages into Markdown + metadata
 - Structured output schemas for MCP clients that support typed tool responses
 - No API key required (e-Gov Law API v2 is free and open)
 
@@ -87,10 +88,39 @@ Search laws by keyword:
 
 Results are cached in memory for 24 hours. No API key is required.
 
+## Tax Answer Crawler
+
+The crawler fetches NTA Tax Answer pages from `www.nta.go.jp`, respects
+`robots.txt`, enforces `1 req/sec`, and writes only parsed Markdown / JSON
+metadata. Raw HTML is never persisted.
+
+Dry run against specific IDs:
+
+```bash
+npm run crawl:tax-answer -- --ids 1200,3105 --data-dir ./data --repo-dir .
+```
+
+Apply changes and push a bot commit:
+
+```bash
+npm run crawl:tax-answer -- --apply --limit 50 --data-dir ./data --repo-dir .
+```
+
+Generated files follow:
+
+```text
+data/tax_answer/<id>/<id>.md
+data/tax_answer/<id>/<id>.meta.json
+```
+
+The metadata file includes `content_hash`, `aliases`, `headings`, `etag`,
+`last_modified`, and `version`.
+
 ## Status
 
-Under active development. The current published surface is PR-1 server skeleton,
-PR-2 lexical search, and PR-5 e-Gov law retrieval on the path to `v0.1.0`.
+Under active development. The current implemented surface covers PR-2 lexical
+search, PR-3 tax-answer crawling, and PR-5 e-Gov law retrieval on the path to
+`v0.1.0`.
 
 ## Lexical Search Example
 

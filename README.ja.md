@@ -3,14 +3,17 @@
 # open-zeimu-mcp
 
 `open-zeimu-mcp` は、日本の税務一次情報を取得・検索するための OSS
-MCP サーバーです。Phase 1 では、外部 DB や API キーなしで動く
-server skeleton と `health` / `stats` / `lexical_search` tool を提供します。
+MCP サーバーです。現在は lexical search、e-Gov 法令取得、NTA
+タックスアンサー crawler を実装しています。
 
 ## 特徴
 
 - `health`: 稼働状態、uptime、データディレクトリの到達性を返す
 - `stats`: source type ごとの文書件数と lexical index の状態を返す
 - `lexical_search`: 同梱 Markdown データを lexical 検索する
+- `get_law`: e-Gov 法令 API v2 から法令本文を取得する
+- `search_law`: e-Gov 法令 API v2 をキーワード検索する
+- `crawl:tax-answer`: NTA タックスアンサーを Markdown + metadata に正規化する
 - official MCP SDK ベースの typed tool output
 
 ## クイックスタート
@@ -50,6 +53,29 @@ MCP クライアント設定例:
 
 設定は `process.env` からのみ読み取ります。`.env` の直読みは行いません。
 
+## タックスアンサー crawler
+
+dry-run:
+
+```bash
+npm run crawl:tax-answer -- --ids 1200,3105 --data-dir ./data --repo-dir .
+```
+
+apply:
+
+```bash
+npm run crawl:tax-answer -- --apply --limit 50 --data-dir ./data --repo-dir .
+```
+
+出力先:
+
+```text
+data/tax_answer/<id>/<id>.md
+data/tax_answer/<id>/<id>.meta.json
+```
+
+raw HTML は保存せず、`robots.txt` と `1 req/sec` を守って実行します。
+
 ## アーキテクチャ
 
 - [docs/architecture.md](docs/architecture.md)
@@ -72,7 +98,8 @@ MCP クライアント設定例:
 
 ### 何がもう使えますか
 
-現時点では `health` と `stats` の 2 tool が使えます。
+現時点では `health`、`stats`、`lexical_search`、`get_law`、`search_law`
+が利用でき、crawler で tax_answer データを生成できます。
 
 ### 本番利用できますか
 
