@@ -42,7 +42,10 @@ Example MCP client configuration:
 - `health`: reports runtime health, uptime, and directory readiness
 - `stats`: reports per-source document counts and lexical index readiness
 - `lexical_search`: searches packaged Markdown tax documents in memory
+- `get_law`: fetches law text from e-Gov Law API v2 by law name (24h cache)
+- `search_law`: searches laws by keyword via e-Gov Law API v2 (24h cache)
 - Structured output schemas for MCP clients that support typed tool responses
+- No API key required (e-Gov Law API v2 is free and open)
 
 ## Configuration
 
@@ -56,10 +59,38 @@ Example MCP client configuration:
 This package reads configuration from `process.env` only. It does not load a
 `.env` file.
 
+## e-Gov Law Tool Example
+
+Fetch a law by name:
+
+```json
+{
+  "name": "get_law",
+  "arguments": {
+    "law_name": "印紙税法",
+    "format": "markdown"
+  }
+}
+```
+
+Search laws by keyword:
+
+```json
+{
+  "name": "search_law",
+  "arguments": {
+    "query": "印紙税",
+    "limit": 5
+  }
+}
+```
+
+Results are cached in memory for 24 hours. No API key is required.
+
 ## Status
 
-Under active development. The current published surface is a PR-1 server
-skeleton plus PR-2 lexical search on the path to `v0.1.0`.
+Under active development. The current published surface is PR-1 server skeleton,
+PR-2 lexical search, and PR-5 e-Gov law retrieval on the path to `v0.1.0`.
 
 ## Lexical Search Example
 
