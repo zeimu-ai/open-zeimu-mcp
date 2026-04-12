@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-25",
+  "title": "共同施設に係る特別負担金",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/25.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:45.147Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f766f155dff36e9d68a5952b4d6d593146194266125497eddeb388b8fd7236c1",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "共同施設に係る特別負担金",
+    "02-25"
+  ],
+  "headings": [
+    "共同施設に係る特別負担金",
+    "共同施設に係る特別負担金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号、消費税法基本通達5-5-6",
+  "document_number": "02-25",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"12c6-64508072a71c8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:42 GMT"
+}

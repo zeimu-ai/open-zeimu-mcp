@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-04-02",
+  "title": "アパートの壁紙の張替費用",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/04/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:11:25.860Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2349729be4b6a8f27b0f1e711c5c093fd2a8e0e5f05fcf721923335e28879ed6",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "アパートの壁紙の張替費用",
+    "04-02"
+  ],
+  "headings": [
+    "アパートの壁紙の張替費用",
+    "アパートの壁紙の張替費用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法施行令第132条\n法人税基本通達7－8－2",
+  "document_number": "04-02",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"11c6-645080a515830\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:35 GMT"
+}

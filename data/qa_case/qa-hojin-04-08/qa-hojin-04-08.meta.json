@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-04-08",
+  "title": "間仕切り用パネルに係る少額減価償却資産の判定等",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/04/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:11:37.880Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:06671daf473893faa48909ef611509fc0fbaf79025a2285d1c23e2f084ae8323",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "間仕切り用パネルに係る少額減価償却資産の判定等",
+    "04-08"
+  ],
+  "headings": [
+    "間仕切り用パネルに係る少額減価償却資産の判定等",
+    "間仕切り用パネルに係る少額減価償却資産の判定等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法施行令第133条\n減価償却資産の耐用年数等に関する省令別表第1\n法人税基本通達7－1－11\n耐用年数の適用等に関する取扱通達2－2－6の2",
+  "document_number": "04-08",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1742-645080a4dbe50\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:35 GMT"
+}

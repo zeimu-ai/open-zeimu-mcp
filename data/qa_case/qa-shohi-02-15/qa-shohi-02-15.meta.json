@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-15",
+  "title": "土地に設定された抵当権の譲渡",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/15.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:27.117Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e4eaf838def9fc9c70e8174852289322421b4dd30d9197296465e40dc4ed2d61",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "土地に設定された抵当権の譲渡",
+    "02-15"
+  ],
+  "headings": [
+    "土地に設定された抵当権の譲渡",
+    "土地に設定された抵当権の譲渡",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号、第6条第1項、別表第二第1号、消費税法基本通達6-1-2",
+  "document_number": "02-15",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1388-64508072fc128\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:42 GMT"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qa-shotoku-02-10",
+  "title": "一時払養老保険の保険金額を減額した場合における清算金等に係る一時所得の金額の計算",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:10:29.801Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:934f4cee4ad017f80376f3051d90233c9d7292131ea4266a481de55803aa84b2",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "一時払養老保険の保険金額を減額した場合における清算金等に係る一時所得の金額の計算",
+    "02-10"
+  ],
+  "headings": [
+    "一時払養老保険の保険金額を減額した場合における清算金等に係る一時所得の金額の計算",
+    "一時払養老保険の保険金額を減額した場合における清算金等に係る一時所得の金額の計算",
+    "【照会要旨】",
+    "【事例】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第183条、昭53直資2-36「契約転換制度の所得税法及び相続税法上の取扱いについて」",
+  "document_number": "02-10",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1c88-6450808a847c8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:07 GMT"
+}

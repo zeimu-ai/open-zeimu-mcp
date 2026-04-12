@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-01-01",
+  "title": "山林の伐採、譲渡が事業に該当するかどうかの判定",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/01/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:14:57.109Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e3bfb5f3cf1220d6e8b79e351434ba2bd8de20715c6abe0706f6aaedc1eb6bba",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "山林の伐採、譲渡が事業に該当するかどうかの判定",
+    "01-01"
+  ],
+  "headings": [
+    "山林の伐採、譲渡が事業に該当するかどうかの判定",
+    "山林の伐採、譲渡が事業に該当するかどうかの判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号、消費税法基本通達5-1-1",
+  "document_number": "01-01",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1441-64508073969d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:43 GMT"
+}

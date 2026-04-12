@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-05-03",
+  "title": "建物の一部分を取得した場合の耐用年数",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/05/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:14:39.073Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:36882dfece1e10d0fe7624a069cd189f47ba0a7d5a408b83e41d4301520529f5",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "建物の一部分を取得した場合の耐用年数",
+    "05-03"
+  ],
+  "headings": [
+    "建物の一部分を取得した場合の耐用年数",
+    "建物の一部分を取得した場合の耐用年数",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "減価償却資産の耐用年数等に関する省令別表第1\n法人税基本通達7-3-8\n耐用年数の適用等に関する取扱通達1-1-1",
+  "document_number": "05-03",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"13e3-645080a4588c0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:34 GMT"
+}

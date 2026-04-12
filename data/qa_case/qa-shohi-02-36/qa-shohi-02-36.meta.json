@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-36",
+  "title": "売買とされるPFI事業について（消費税の取扱い）",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/36.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:16:07.186Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c9687676e018c2320b6def857a988085979ab8715a729968abec6d378010076e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "売買とされるPFI事業について（消費税の取扱い）",
+    "02-36"
+  ],
+  "headings": [
+    "売買とされるPFI事業について（消費税の取扱い）",
+    "売買とされるPFI事業について（消費税の取扱い）",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号、第2項、別表第二第3号、消費税法施行令第10条第3項第10号、消費税法基本通達5-1-9",
+  "document_number": "02-36",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"20b0-6450807242868\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:42 GMT"
+}

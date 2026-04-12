@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-05-07",
+  "title": "登録を要しない自動車の耐用年数",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/05/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:14:47.104Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0665824f8eafbbb5ef5c03f8bda92e291923c4a9f86448238e7458a8fa031f00",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "登録を要しない自動車の耐用年数",
+    "05-07"
+  ],
+  "headings": [
+    "登録を要しない自動車の耐用年数",
+    "登録を要しない自動車の耐用年数",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "減価償却資産の耐用年数等に関する省令別表第1",
+  "document_number": "05-07",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1290-645080a4346a0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:34 GMT"
+}

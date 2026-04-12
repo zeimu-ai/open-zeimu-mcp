@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-01-02",
+  "title": "業務の都合により1年未満で帰国したり、海外勤務が1年以上となった場合の居住者・非居住者の判定",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/01/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:09:28.287Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e9cd070b2417fbbb64c1dbe04d7ded1a441e32e18916dbb80391006e07868c7e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "業務の都合により1年未満で帰国したり、海外勤務が1年以上となった場合の居住者・非居住者の判定",
+    "01-02"
+  ],
+  "headings": [
+    "業務の都合により1年未満で帰国したり、海外勤務が1年以上となった場合の居住者・非居住者の判定",
+    "業務の都合により1年未満で帰国したり、海外勤務が1年以上となった場合の居住者・非居住者の判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第14条、第15条、所得税基本通達2-1、3-3",
+  "document_number": "01-02",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"14cd-6450809413438\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:17 GMT"
+}

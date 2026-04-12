@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-01-06",
+  "title": "法人でない労働組合が支払を受ける利子の課税関係",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/01/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:09:34.325Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e617084dbc158ad47305bac8dfe2ba7341749dd14e3b04eeb49e6222066071e8",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "法人でない労働組合が支払を受ける利子の課税関係",
+    "01-06"
+  ],
+  "headings": [
+    "法人でない労働組合が支払を受ける利子の課税関係",
+    "法人でない労働組合が支払を受ける利子の課税関係",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第4条、第11条、第174条、所得税法別表第一",
+  "document_number": "01-06",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1202-64508093f82a0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:17 GMT"
+}

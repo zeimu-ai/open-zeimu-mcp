@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-31",
+  "title": "チップの支払",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/31.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:57.158Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e05a723159196287d796cabf24439f026a66da73b56d17b07c13f0b22552af88",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "チップの支払",
+    "02-31"
+  ],
+  "headings": [
+    "チップの支払",
+    "チップの支払",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号、第12号",
+  "document_number": "02-31",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1103-645080726fb10\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:42 GMT"
+}

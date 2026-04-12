@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-40",
+  "title": "各種ホテルが提供する食事付き宿泊プラン",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/40.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:16:15.185Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0fe5dc92300e8a829a8fbdcc4521046f5abfe59a081b05217ed119ac24d0df01",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "各種ホテルが提供する食事付き宿泊プラン",
+    "02-40"
+  ],
+  "headings": [
+    "各種ホテルが提供する食事付き宿泊プラン",
+    "各種ホテルが提供する食事付き宿泊プラン",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第4条第1項",
+  "document_number": "02-40",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"116c-645080721a7c8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:41 GMT"
+}

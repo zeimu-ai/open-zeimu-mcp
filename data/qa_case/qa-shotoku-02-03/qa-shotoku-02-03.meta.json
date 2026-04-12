@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-03",
+  "title": "生存給付金付定期保険に基づく生存給付金に係る一時所得の金額の計算",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:10:15.787Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:faf43748f5416f0f30b46493261c738e529426e15687e98c5053fa5bf8bb59c5",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "生存給付金付定期保険に基づく生存給付金に係る一時所得の金額の計算",
+    "02-03"
+  ],
+  "headings": [
+    "生存給付金付定期保険に基づく生存給付金に係る一時所得の金額の計算",
+    "生存給付金付定期保険に基づく生存給付金に係る一時所得の金額の計算",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第34条、第76条第1項、所得税法施行令第183条第2項",
+  "document_number": "02-03",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1521-6450808ac27f8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:07 GMT"
+}

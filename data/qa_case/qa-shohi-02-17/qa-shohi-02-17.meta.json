@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-17",
+  "title": "不動産の引渡しに伴い登記をしなかった場合の固定資産税",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/17.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:31.148Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:cc809811cdd3e5905892ffbcf959410a4669b9927ccf17236b1ffe9c26ca5af2",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "不動産の引渡しに伴い登記をしなかった場合の固定資産税",
+    "02-17"
+  ],
+  "headings": [
+    "不動産の引渡しに伴い登記をしなかった場合の固定資産税",
+    "不動産の引渡しに伴い登記をしなかった場合の固定資産税",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第28条第1項、消費税法基本通達10-1-6",
+  "document_number": "02-17",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1503-64508072eb3a0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:42 GMT"
+}

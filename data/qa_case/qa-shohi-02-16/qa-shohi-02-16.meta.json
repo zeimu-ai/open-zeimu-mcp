@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-16",
+  "title": "土地信託と消費税",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/16.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:29.128Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9dc24bf75ede19b0e94b0fbe40e66a98856f272327a212b3c3046ba2a328bae0",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "土地信託と消費税",
+    "02-16"
+  ],
+  "headings": [
+    "土地信託と消費税",
+    "土地信託と消費税",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第14条第1項",
+  "document_number": "02-16",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"157c-64508072f30a0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:42 GMT"
+}

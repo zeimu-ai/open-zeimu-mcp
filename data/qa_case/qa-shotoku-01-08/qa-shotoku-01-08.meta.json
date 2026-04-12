@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-01-08",
+  "title": "地方公共団体が支給する少子化対策のための助成金等の所得税法上の取扱い",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/01/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:09:53.782Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b8e5061351a2d801f72806bad68d5bea4b7def56cbf02afb2b5e70ed36462df2",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "地方公共団体が支給する少子化対策のための助成金等の所得税法上の取扱い",
+    "01-08"
+  ],
+  "headings": [
+    "地方公共団体が支給する少子化対策のための助成金等の所得税法上の取扱い",
+    "地方公共団体が支給する少子化対策のための助成金等の所得税法上の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第9条第1項第18号、第73条第1項、第76条第6項第4号、所得税法施行令第30条第1号、第208条の6第1号、所得税基本通達9－21、73－8(1)",
+  "document_number": "01-08",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1cd4-6450808b2d6e8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:08 GMT"
+}

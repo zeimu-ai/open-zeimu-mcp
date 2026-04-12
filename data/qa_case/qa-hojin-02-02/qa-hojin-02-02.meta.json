@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-02-02",
+  "title": "社会保険料の損金算入時期について",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/02/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:11:15.841Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:320355ef4aee15764c37852ef6bf7fe86ec6048fd25ce197b9d1fd3b06eaf980",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "社会保険料の損金算入時期について",
+    "02-02"
+  ],
+  "headings": [
+    "社会保険料の損金算入時期について",
+    "社会保険料の損金算入時期について",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第22条第3項第2号　法人税基本通達9－3－2\n健康保険法第156条第3項\n厚生年金保険法第81条、第19条第1項",
+  "document_number": "02-02",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1a66-645080a544e00\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:35 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-07",
+  "title": "給与負担金（給料及び旅費、日当の実費負担）",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:11.117Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b883fbabb09585d9afa6b4f7d8759737e080bb915dde875d725f75dbf573b7a1",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "給与負担金（給料及び旅費、日当の実費負担）",
+    "02-07"
+  ],
+  "headings": [
+    "給与負担金（給料及び旅費、日当の実費負担）",
+    "給与負担金（給料及び旅費、日当の実費負担）",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第12号、消費税法基本通達5-5-10",
+  "document_number": "02-07",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"15e3-6450807353f68\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:43 GMT"
+}

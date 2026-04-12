@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-03",
+  "title": "譲渡担保が実行された場合の課税関係",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:03.115Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d6cca7e4ca7e28705679cd38429223088058300ae05a459370d8fd41b3bf6bdb",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "譲渡担保が実行された場合の課税関係",
+    "02-03"
+  ],
+  "headings": [
+    "譲渡担保が実行された場合の課税関係",
+    "譲渡担保が実行された場合の課税関係",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第4条第1項、第28条第1項",
+  "document_number": "02-03",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"19d5-64508073779b8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:43 GMT"
+}

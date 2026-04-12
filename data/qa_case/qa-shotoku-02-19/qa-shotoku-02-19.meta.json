@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-19",
+  "title": "確定拠出年金制度への移行による打切支給の退職手当等として支払われる給与",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/19.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:10:45.837Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:38d01e088bd511dd3b9fbb7364b14842b878c2a343b8513840d0cb1da4eae239",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "確定拠出年金制度への移行による打切支給の退職手当等として支払われる給与",
+    "02-19"
+  ],
+  "headings": [
+    "確定拠出年金制度への移行による打切支給の退職手当等として支払われる給与",
+    "確定拠出年金制度への移行による打切支給の退職手当等として支払われる給与",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第30条第1項、所得税基本通達30－2(1)、確定拠出年金法第54条",
+  "document_number": "02-19",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1715-6450808a361e0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:07 GMT"
+}

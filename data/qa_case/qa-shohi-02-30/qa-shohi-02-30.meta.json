@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-30",
+  "title": "お布施、戒名料、玉串料等",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/30.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:55.158Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1da999008f737c12fd4d4e6363485d8399f4fa276aebda062e45691589b3d5f3",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "お布施、戒名料、玉串料等",
+    "02-30"
+  ],
+  "headings": [
+    "お布施、戒名料、玉串料等",
+    "お布施、戒名料、玉串料等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号",
+  "document_number": "02-30",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"10eb-6450807279368\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:42 GMT"
+}

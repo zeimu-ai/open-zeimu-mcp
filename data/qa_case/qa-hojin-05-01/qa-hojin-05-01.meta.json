@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-05-01",
+  "title": "展示実演用機械",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/05/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:14:35.081Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:335e47af96cc32981bcad86207357fd4d7789bb7b4c5945d7577707b3b4e8b6b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "展示実演用機械",
+    "05-01"
+  ],
+  "headings": [
+    "展示実演用機械",
+    "展示実演用機械",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "減価償却資産の耐用年数等に関する省令別表第2\n耐用年数の適用等に関する取扱通達1－4－2",
+  "document_number": "05-01",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1481-645080a46d0e0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:34 GMT"
+}

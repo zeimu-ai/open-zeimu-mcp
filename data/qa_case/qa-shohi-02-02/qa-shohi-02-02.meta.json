@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-02",
+  "title": "事業者の事業用固定資産の売却",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:01.099Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:502333eed052e39178ae876aee0ebdf8d0940b04f95c6e00109cb16b8e46e9dd",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "事業者の事業用固定資産の売却",
+    "02-02"
+  ],
+  "headings": [
+    "事業者の事業用固定資産の売却",
+    "事業者の事業用固定資産の売却",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号、第4条第1項、消費税法施行令第2条第3項、消費税法基本通達5-1-1、5-1-7",
+  "document_number": "02-02",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"131a-6450807381210\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:43 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-04-06",
+  "title": "減価償却資産を事業の用に供した後に購入代価の値引きがあった場合の処理",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/04/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:11:33.868Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ac94d1643399f42d7d83f1ede94c9c9cd6c12a0659d5e6e555c1a9ba0bcffc93",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "減価償却資産を事業の用に供した後に購入代価の値引きがあった場合の処理",
+    "04-06"
+  ],
+  "headings": [
+    "減価償却資産を事業の用に供した後に購入代価の値引きがあった場合の処理",
+    "減価償却資産を事業の用に供した後に購入代価の値引きがあった場合の処理",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第42条の6第1項、第52条の3\n減価償却資産の耐用年数等に関する省令別表第10\n法人税基本通達7－3－17の2",
+  "document_number": "04-06",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"17ff-645080a4eef00\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:35 GMT"
+}

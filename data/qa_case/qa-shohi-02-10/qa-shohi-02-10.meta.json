@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-10",
+  "title": "百貨店等が顧客サービスとして発行するお買物券等の課税関係",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:17.119Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:04d32d5a0d2dbdb09bdd6a811a0b40e9dd0f8fd96f241409e535bbe6d67a796a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "百貨店等が顧客サービスとして発行するお買物券等の課税関係",
+    "02-10"
+  ],
+  "headings": [
+    "百貨店等が顧客サービスとして発行するお買物券等の課税関係",
+    "百貨店等が顧客サービスとして発行するお買物券等の課税関係",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号、第4条第1項、第28条",
+  "document_number": "02-10",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1392-64508073391b8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:43 GMT"
+}

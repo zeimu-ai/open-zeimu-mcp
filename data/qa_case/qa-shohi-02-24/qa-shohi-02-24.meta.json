@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-24",
+  "title": "共同販売促進費の取扱い",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/24.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:43.131Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c93bcdfe97f1adf7e4bd13f9db2d8d197f3ac184175d3988ca92c9afc4138903",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "共同販売促進費の取扱い",
+    "02-24"
+  ],
+  "headings": [
+    "共同販売促進費の取扱い",
+    "共同販売促進費の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号、第9号、第12号、消費税法基本通達5-5-7",
+  "document_number": "02-24",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"12d8-64508072b0a20\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:42 GMT"
+}

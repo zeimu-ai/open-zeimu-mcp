@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-23",
+  "title": "違約入居者から受け取る割増賃貸料",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/23.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:41.135Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:73438cbc7b7de162eb55adec523f3dfc8fd9415ca7bf63d03db435805f8375bc",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "違約入居者から受け取る割増賃貸料",
+    "02-23"
+  ],
+  "headings": [
+    "違約入居者から受け取る割増賃貸料",
+    "違約入居者から受け取る割増賃貸料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号、消費税法基本通達5-2-5",
+  "document_number": "02-23",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"134b-64508072b96c0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:42 GMT"
+}

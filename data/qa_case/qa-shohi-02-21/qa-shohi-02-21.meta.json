@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-21",
+  "title": "陳列棚の無償取得",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/21.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:37.132Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4e0ebdb8b9073513be180b7b5a45aac014620f975f9cf6753fa8bc8b03203821",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "陳列棚の無償取得",
+    "02-21"
+  ],
+  "headings": [
+    "陳列棚の無償取得",
+    "陳列棚の無償取得",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第12号",
+  "document_number": "02-21",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"140a-64508072cbfa0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:42 GMT"
+}

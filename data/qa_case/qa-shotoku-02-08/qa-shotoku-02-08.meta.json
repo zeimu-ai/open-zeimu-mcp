@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-08",
+  "title": "福利厚生団体の解散に伴う一時金",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:10:25.819Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2118f1cc1cae2cd7d0f71a5dfdfbc5c2548c21cabfe3bf3af8738912d5126b32",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "福利厚生団体の解散に伴う一時金",
+    "02-08"
+  ],
+  "headings": [
+    "福利厚生団体の解散に伴う一時金",
+    "福利厚生団体の解散に伴う一時金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第34条、所得税基本通達34-1(6)",
+  "document_number": "02-08",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"154e-6450808a95550\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:07 GMT"
+}

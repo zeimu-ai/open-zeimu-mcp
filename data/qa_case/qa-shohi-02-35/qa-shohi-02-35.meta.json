@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-35",
+  "title": "自己株式の取扱い",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/35.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:16:05.180Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c1b942d5a919e376912773368da17ac083a9bcff7bf6c71e01e65f47f12fab8f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "自己株式の取扱い",
+    "02-35"
+  ],
+  "headings": [
+    "自己株式の取扱い",
+    "自己株式の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号、消費税法基本通達5-2-1、消費税法基本通達5-2-9",
+  "document_number": "02-35",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"11ee-645080724b508\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:42 GMT"
+}

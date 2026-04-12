@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-09",
+  "title": "生命保険金の受取人が2人いる場合の一時所得の金額の計算",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:10:27.816Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9011e4be4154a67311a172590b7308b59d286ada0608f45480fd7a6588b2abb0",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "生命保険金の受取人が2人いる場合の一時所得の金額の計算",
+    "02-09"
+  ],
+  "headings": [
+    "生命保険金の受取人が2人いる場合の一時所得の金額の計算",
+    "生命保険金の受取人が2人いる場合の一時所得の金額の計算",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第34条、所得税基本通達34-4、相続税法第5条",
+  "document_number": "02-09",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"15c6-6450808a8d468\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:07 GMT"
+}

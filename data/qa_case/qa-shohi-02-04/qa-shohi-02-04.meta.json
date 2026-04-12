@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-04",
+  "title": "商品を融通し合う場合の課税",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:05.106Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:747bc1077cbd4ea276991e795e1549170c058faa52aa6a7db4432f5bbf34f0ba",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "商品を融通し合う場合の課税",
+    "02-04"
+  ],
+  "headings": [
+    "商品を融通し合う場合の課税",
+    "商品を融通し合う場合の課税",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第4条第1項、消費税法基本通達5-2-1",
+  "document_number": "02-04",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1169-645080736f4e8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:43 GMT"
+}

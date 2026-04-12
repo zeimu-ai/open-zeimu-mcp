@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-01-13",
+  "title": "疾病により重度障害となった者以外の親族が保険金の支払を受けた場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/01/13.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:10:03.795Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:05f4d0cf602b2df4bf902345cc397fd4e3ae461f2d6965611da33c95974cce09",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "疾病により重度障害となった者以外の親族が保険金の支払を受けた場合",
+    "01-13"
+  ],
+  "headings": [
+    "疾病により重度障害となった者以外の親族が保険金の支払を受けた場合",
+    "疾病により重度障害となった者以外の親族が保険金の支払を受けた場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第9条第1項第18号、所得税法施行令第30条第1号、所得税基本通達9－20、9－21",
+  "document_number": "01-13",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1710-6450808afe8e8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:08 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-04-01",
+  "title": "ワンルームマンションのカーテンの取替費用",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/04/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:11:23.850Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:315f89da7362c103fa96320492ddf9129afc54f78175652f54cdd0699f3ff36d",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "ワンルームマンションのカーテンの取替費用",
+    "04-01"
+  ],
+  "headings": [
+    "ワンルームマンションのカーテンの取替費用",
+    "ワンルームマンションのカーテンの取替費用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法施行令第133条\n法人税基本通達7－1－11",
+  "document_number": "04-01",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1654-645080a51d918\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:35 GMT"
+}

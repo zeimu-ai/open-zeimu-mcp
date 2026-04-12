@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-05-08",
+  "title": "自走式クローラダンプの耐用年数",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/05/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:14:49.101Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9c860505e9b574c262e31109929b5d39312e093f3239b002132af72b9779189c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "自走式クローラダンプの耐用年数",
+    "05-08"
+  ],
+  "headings": [
+    "自走式クローラダンプの耐用年数",
+    "自走式クローラダンプの耐用年数",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "減価償却資産の耐用年数等に関する省令別表第1、別表第2\n耐用年数の適用等に関する取扱通達2－5－5",
+  "document_number": "05-08",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"136f-645080a42c1d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:34 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-01-04",
+  "title": "債務返済支援保険の保険金",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/01/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:09:45.765Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ae6935b6afd4dfe31576ae09fef1d5edc05ea8ae9ee372df3cd64dafa814137e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "債務返済支援保険の保険金",
+    "01-04"
+  ],
+  "headings": [
+    "債務返済支援保険の保険金",
+    "債務返済支援保険の保険金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第9条第1項第18号、所得税法施行令第30条第1号、所得税基本通達9-22",
+  "document_number": "01-04",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1439-6450808b56728\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:08 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-01-04",
+  "title": "過去に遡及して扶養手当を返還させた場合の源泉徴収税額の再計算",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/01/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:09:30.318Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1ef0225889b797fb9c62fbda78b266a0ed79b87660b464814fe6a27b1f635e44",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "過去に遡及して扶養手当を返還させた場合の源泉徴収税額の再計算",
+    "01-04"
+  ],
+  "headings": [
+    "過去に遡及して扶養手当を返還させた場合の源泉徴収税額の再計算",
+    "過去に遡及して扶養手当を返還させた場合の源泉徴収税額の再計算",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達181～223共-6",
+  "document_number": "01-04",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"130c-6450809409be0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:17 GMT"
+}

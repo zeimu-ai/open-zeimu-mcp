@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-26",
+  "title": "マンション管理組合の課税関係",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/26.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:47.161Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4b1d7a22c3ae287a80ebb1087266e90d790120114f74e04b70ad97f0e64968a2",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "マンション管理組合の課税関係",
+    "02-26"
+  ],
+  "headings": [
+    "マンション管理組合の課税関係",
+    "マンション管理組合の課税関係",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号",
+  "document_number": "02-26",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"124d-645080729e140\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:42 GMT"
+}

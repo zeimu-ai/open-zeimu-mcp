@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-32",
+  "title": "株式の発行、併合又は分割の場合における1株未満の端株の取扱い",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/32.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:59.160Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:61a3f9cee58df31e7a30fb0f07ce5eeb58029a8bdf3f8cd3c0d3ccd4d6473b39",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "株式の発行、併合又は分割の場合における1株未満の端株の取扱い",
+    "02-32"
+  ],
+  "headings": [
+    "株式の発行、併合又は分割の場合における1株未満の端株の取扱い",
+    "株式の発行、併合又は分割の場合における1株未満の端株の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第6項、消費税法施行令第48条第5項",
+  "document_number": "02-32",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"16f4-6450807266e70\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:42 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-01-06",
+  "title": "限定承認をした相続財産から生じる家賃",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/01/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:09:49.762Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7ff812bb04a2b18142224540044a011df800c64f54098d90766127a283fc818c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "限定承認をした相続財産から生じる家賃",
+    "01-06"
+  ],
+  "headings": [
+    "限定承認をした相続財産から生じる家賃",
+    "限定承認をした相続財産から生じる家賃",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第12条、第26条、民法第922条",
+  "document_number": "01-06",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"12fc-6450808b40b80\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:08 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-05-02",
+  "title": "貨車を倉庫等として使用する場合の耐用年数",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/05/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:14:37.093Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:90370e5871a8c6089ed00e418a39ff9f1baf1fb87165747bc0d4aac343824d1a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "貨車を倉庫等として使用する場合の耐用年数",
+    "05-02"
+  ],
+  "headings": [
+    "貨車を倉庫等として使用する場合の耐用年数",
+    "貨車を倉庫等として使用する場合の耐用年数",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "減価償却資産の耐用年数等に関する省令第3条第1項第2号\n耐用年数の適用等に関する取扱通達1－5－6",
+  "document_number": "05-02",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"198e-645080a462500\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:34 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-24",
+  "title": "手付流れを受領した場合の仲介手数料",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/24.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:10:55.841Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7cbda488de54ced1305125d5da7fbea93d183af7d0ca7c48f6009dce41bc690a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "手付流れを受領した場合の仲介手数料",
+    "02-24"
+  ],
+  "headings": [
+    "手付流れを受領した場合の仲介手数料",
+    "手付流れを受領した場合の仲介手数料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第34条第1項、第2項、所得税基本通達34－1(8)、民法第557条",
+  "document_number": "02-24",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"147e-64508089f1068\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:06 GMT"
+}

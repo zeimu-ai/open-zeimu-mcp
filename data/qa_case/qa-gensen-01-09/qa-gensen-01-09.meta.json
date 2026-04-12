@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-01-09",
+  "title": "給与等の支払を受ける者が常時10人未満であるかどうかの判定",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/01/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:09:36.299Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5ba5c7c41cf2c8c62e986c23e55e043aa99e0924f7af6f76d8f2b9409e668ef1",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "給与等の支払を受ける者が常時10人未満であるかどうかの判定",
+    "01-09"
+  ],
+  "headings": [
+    "給与等の支払を受ける者が常時10人未満であるかどうかの判定",
+    "給与等の支払を受ける者が常時10人未満であるかどうかの判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第216条、所得税基本通達216-1",
+  "document_number": "01-09",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"14ee-64508093edaa8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:17 GMT"
+}

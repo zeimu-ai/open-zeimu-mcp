@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-22",
+  "title": "母体企業の倒産によって厚生年金基金が解散し、その残余財産の分配一時金が支払われる場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/22.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:10:51.831Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:71d118da263f717159e884fbb4b14123af4d6bd053ea2e1e4fa2c2cccbb1edcf",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "母体企業の倒産によって厚生年金基金が解散し、その残余財産の分配一時金が支払われる場合",
+    "02-22"
+  ],
+  "headings": [
+    "母体企業の倒産によって厚生年金基金が解散し、その残余財産の分配一時金が支払われる場合",
+    "母体企業の倒産によって厚生年金基金が解散し、その残余財産の分配一時金が支払われる場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第31条第2号、第34条、所得税法施行令第72条第2項",
+  "document_number": "02-22",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1680-6450808a06440\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:07 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-01",
+  "title": "事業主が従業員に掛けている生存給付金付養老保険の生存給付金及び満期保険金を受領した場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:10:11.783Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d2555096fda542b424ddde048fa5ce063b55f1f458be4099e6a7a1b517eade8f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "事業主が従業員に掛けている生存給付金付養老保険の生存給付金及び満期保険金を受領した場合",
+    "02-01"
+  ],
+  "headings": [
+    "事業主が従業員に掛けている生存給付金付養老保険の生存給付金及び満期保険金を受領した場合",
+    "事業主が従業員に掛けている生存給付金付養老保険の生存給付金及び満期保険金を受領した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第27条、第34条、第37条、所得税基本通達34-1(4)",
+  "document_number": "02-01",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"15b5-6450808ad4908\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:07 GMT"
+}

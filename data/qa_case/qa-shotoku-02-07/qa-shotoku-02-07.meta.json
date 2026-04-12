@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-07",
+  "title": "懲戒処分取消に伴い支払われる給与差額補償",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:10:23.810Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9329a9d2858eedd30698d06b8a754fcccc28df8bf302f349d7f33ca9ddfee727",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "懲戒処分取消に伴い支払われる給与差額補償",
+    "02-07"
+  ],
+  "headings": [
+    "懲戒処分取消に伴い支払われる給与差額補償",
+    "懲戒処分取消に伴い支払われる給与差額補償",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第28条、所得税基本通達36-9",
+  "document_number": "02-07",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1969-6450808a9da20\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:07 GMT"
+}

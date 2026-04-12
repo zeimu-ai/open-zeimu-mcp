@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-22",
+  "title": "テナントから領収するビルの共益費",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/22.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:39.128Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:559cdab682c95eca53cb1c798ccd1182c125bbcd01dea45da0853954004d041e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "テナントから領収するビルの共益費",
+    "02-22"
+  ],
+  "headings": [
+    "テナントから領収するビルの共益費",
+    "テナントから領収するビルの共益費",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号、基通10－1－14",
+  "document_number": "02-22",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"12da-64508072c3300\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:42 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-14",
+  "title": "早期完済割引料",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/14.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:25.138Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a21317ad1fe9a03c801e714380140df9536523a0b404d8fa85a86c783267f9ab",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "早期完済割引料",
+    "02-14"
+  ],
+  "headings": [
+    "早期完済割引料",
+    "早期完済割引料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第4条第1項、第6条、別表第二第3号、消費税法施行令第10条第3項第10号",
+  "document_number": "02-14",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"12f2-64508073070f0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:42 GMT"
+}

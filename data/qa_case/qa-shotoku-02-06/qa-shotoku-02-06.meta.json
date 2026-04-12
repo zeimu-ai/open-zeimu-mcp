@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-06",
+  "title": "業務用信託財産を取得するための借入金の利子等",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:10:21.800Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d0ae363693df79436f81f5027a0dfe2701c6ddab07a5c3f820aafcf19e88a211",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "業務用信託財産を取得するための借入金の利子等",
+    "02-06"
+  ],
+  "headings": [
+    "業務用信託財産を取得するための借入金の利子等",
+    "業務用信託財産を取得するための借入金の利子等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第13条、所得税法施行令第126条、所得税基本通達37-27",
+  "document_number": "02-06",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1502-6450808aa7278\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:07 GMT"
+}

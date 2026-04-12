@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-01-15",
+  "title": "従業員に貸与した奨学金の返済を免除した場合の経済的利益",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/01/15.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:10:07.783Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:935f24a04694f1dcf3b5d5d10585378c041ef4612d9f93bd7c1435284f51eeb1",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "従業員に貸与した奨学金の返済を免除した場合の経済的利益",
+    "01-15"
+  ],
+  "headings": [
+    "従業員に貸与した奨学金の返済を免除した場合の経済的利益",
+    "従業員に貸与した奨学金の返済を免除した場合の経済的利益",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第9条第1項第15号、所得税基本通達9－14",
+  "document_number": "01-15",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1ab9-6450808ae4ad8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:07 GMT"
+}

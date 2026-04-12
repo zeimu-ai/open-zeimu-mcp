@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-05-06",
+  "title": "人工芝の耐用年数",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/05/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:14:45.076Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9d38ff4072dd52529a062cab11a11e4d228b50f5e44e81aa57cf34e2664a77c6",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "人工芝の耐用年数",
+    "05-06"
+  ],
+  "headings": [
+    "人工芝の耐用年数",
+    "人工芝の耐用年数",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "減価償却資産の耐用年数等に関する省令別表第1\n耐用年数の適用等に関する取扱通達2－3－6",
+  "document_number": "05-06",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"130a-645080a43e2e0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:34 GMT"
+}

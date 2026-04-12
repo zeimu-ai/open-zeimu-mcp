@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-12",
+  "title": "実費弁償金の課税",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:21.119Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:20f79d3cccb85405e4af2c5aad051f124f1b3f4cd7d00d2b9b0761d43fb6f6bd",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "実費弁償金の課税",
+    "02-12"
+  ],
+  "headings": [
+    "実費弁償金の課税",
+    "実費弁償金の課税",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号、消費税法基本通達10-1-4",
+  "document_number": "02-12",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"129d-645080731bcf8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:43 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-02-09",
+  "title": "消費者が集めたスタンプを商品券と引換えた場合の取扱い",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/02/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:15:15.111Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:03fa4f8dddf99477176c196423798871ebc6d66d9b693d7aecb9e9595137374f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "消費者が集めたスタンプを商品券と引換えた場合の取扱い",
+    "02-09"
+  ],
+  "headings": [
+    "消費者が集めたスタンプを商品券と引換えた場合の取扱い",
+    "消費者が集めたスタンプを商品券と引換えた場合の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号",
+  "document_number": "02-09",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"156f-6450807341e58\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:43 GMT"
+}

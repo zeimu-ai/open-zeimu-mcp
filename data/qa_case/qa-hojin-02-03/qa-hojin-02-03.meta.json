@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-02-03",
+  "title": "短期前払費用の取扱いについて",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/02/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:11:17.868Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:02e5d6c75186f7509d806e592ddfe640010793130564d7cc0f1c7589eb42d32e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "短期前払費用の取扱いについて",
+    "02-03"
+  ],
+  "headings": [
+    "短期前払費用の取扱いについて",
+    "短期前払費用の取扱いについて",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税基本通達2－2－14",
+  "document_number": "02-03",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1908-645080a53b990\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:35 GMT"
+}

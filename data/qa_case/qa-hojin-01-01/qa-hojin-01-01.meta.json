@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-01-01",
+  "title": "共有地の分割",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/01/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:10:59.845Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0baf3f6c505d5172a6e3cd7e695fc50bff87e0f9fb6a3166c44004a585034a9a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "共有地の分割",
+    "01-01"
+  ],
+  "headings": [
+    "共有地の分割",
+    "共有地の分割",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税基本通達2－1－19",
+  "document_number": "01-01",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"12e7-645080a58af18\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:35 GMT"
+}

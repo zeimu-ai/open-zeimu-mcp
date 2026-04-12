@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-04",
+  "title": "一時所得の金額の計算(一時所得内の内部通算の可否)",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T02:10:17.802Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a244ccf3ca60fe79f7fa7761fa4bf1ad6c882c6408c801cbec3699e0e43c16b5",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "一時所得の金額の計算(一時所得内の内部通算の可否)",
+    "02-04"
+  ],
+  "headings": [
+    "一時所得の金額の計算(一時所得内の内部通算の可否)",
+    "一時所得の金額の計算(一時所得内の内部通算の可否)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第34条第2項、第3項、所得税法施行令第183条第2項",
+  "document_number": "02-04",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"153a-6450808ab87d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:07 GMT"
+}
