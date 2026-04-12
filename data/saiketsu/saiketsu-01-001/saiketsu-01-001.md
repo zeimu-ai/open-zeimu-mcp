@@ -4,12 +4,12 @@ title: "（平10.2.19裁決、裁決事例集No.55　1頁）"
 category: "総則"
 canonical_url: "https://www.kfs.go.jp/service/JP/55/01/index.html"
 source_type: saiketsu
-published_at: null
+published_at: "1998-02-19"
 updated_at: null
-crawled_at: "2026-04-12T05:24:10.912Z"
+crawled_at: "2026-04-12T07:00:00.000Z"
 content_hash: "sha256:0e61b0b35edf8f4c95f5f72bcc36407d8dddc0de59190c31202617bf35b19734"
 license: "国税不服審判所 公表裁決事例（利用規約に従って再配布）"
-version: 1
+version: 2
 aliases: ["（平10.2.19裁決、裁決事例集No.55　1頁）", "55-01", "裁決事例集 No.55 - 1頁"]
 ---
 

@@ -1,0 +1,46 @@
+{
+  "id": "saiketsu-06-215",
+  "title": "（令和元年6月20日裁決）",
+  "category": "附帯税",
+  "category_code": "06",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/115/01/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2019-06-20",
+  "content_hash": "sha256:dddc4c8fcfc8371c5c7f1b2b7c5d79c10900cdce27a34c0da0169e5a7bc6c29e",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "（令和元年6月20日裁決）",
+    "115-01",
+    "令和元年６月20日裁決"
+  ],
+  "headings": [
+    "（令和元年6月20日裁決）",
+    "1　事実",
+    "(1)　事案の概要",
+    "(2)　関係法令",
+    "(3)　基礎事実",
+    "(4)　審査請求に至る経緯",
+    "2　争点",
+    "3　争点についての主張",
+    "４　当審判所の判断",
+    "(1)　法令解釈",
+    "(2)　認定事実",
+    "(3)　当てはめ",
+    "(4)　請求人の主張について",
+    "(5)　本件各賦課決定処分の適法性について",
+    "(6)　結論"
+  ],
+  "citation": "令和元年６月20日裁決",
+  "document_number": "115-01",
+  "tags": [
+    "附帯税",
+    "法人税",
+    "消費税",
+    "国税通則法"
+  ],
+  "etag": "\"6fcc-64e399db9d540\"",
+  "last_modified": "Mon, 30 Mar 2026 08:27:06 GMT"
+}

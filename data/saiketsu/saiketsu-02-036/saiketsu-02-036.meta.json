@@ -1,23 +1,23 @@
 {
   "id": "saiketsu-02-036",
-  "title": "（平15.9.5裁決、裁決事例集No.66　9頁）",
+  "title": "（平12.7.31裁決、裁決事例集No.60　15頁）",
   "category": "納付義務の確定",
   "category_code": "02",
-  "canonical_url": "https://www.kfs.go.jp/service/JP/66/02/index.html",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/60/03/index.html",
   "source_type": "saiketsu",
-  "crawled_at": "2026-04-12T05:25:42.902Z",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
   "updated_at": null,
-  "published_at": null,
-  "content_hash": "sha256:2a2f4bc69bd4f78a67ce450d9df9aeca58f41c099885de18175b0a0ca31e5744",
+  "published_at": "2000-07-31",
+  "content_hash": "sha256:8e9ab01a04d0eef881f1ad9e0f5e31b21875e53f35ba5371eb92d9a36ee7955c",
   "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
-  "version": 1,
+  "version": 2,
   "aliases": [
-    "（平15.9.5裁決、裁決事例集No.66　9頁）",
-    "66-02",
-    "裁決事例集 No.66 - 9頁"
+    "（平12.7.31裁決、裁決事例集No.60　15頁）",
+    "60-03",
+    "裁決事例集 No.60 - 15頁"
   ],
   "headings": [
-    "（平15.9.5裁決、裁決事例集No.66　9頁）",
+    "（平12.7.31裁決、裁決事例集No.60　15頁）",
     "1　事実",
     "（1）事案の概要",
     "（2）審査請求に至る経緯",
@@ -25,18 +25,18 @@
     "2　主張",
     "（1）請求人の主張",
     "（2）原処分庁の主張",
-    "3　判断"
+    "3　判断",
+    "（1）認定事実",
+    "（2）請求人の答述",
+    "（3）判断"
   ],
-  "citation": "裁決事例集 No.66 - 9頁",
-  "document_number": "66-02",
+  "citation": "裁決事例集 No.60 - 15頁",
+  "document_number": "60-03",
   "tags": [
     "納付義務の確定",
-    "所得税",
-    "法人税",
-    "国税通則法",
-    "相続",
-    "譲渡所得"
+    "贈与税",
+    "国税通則法"
   ],
-  "etag": "\"6143-64e3993b7c2a0\"",
-  "last_modified": "Mon, 30 Mar 2026 08:24:18 GMT"
+  "etag": "\"888a-64e3997610fd8\"",
+  "last_modified": "Mon, 30 Mar 2026 08:25:20 GMT"
 }

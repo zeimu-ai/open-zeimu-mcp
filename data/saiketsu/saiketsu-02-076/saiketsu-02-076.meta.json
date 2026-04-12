@@ -1,0 +1,45 @@
+{
+  "id": "saiketsu-02-076",
+  "title": "（平成29年8月22日裁決）",
+  "category": "https://www.kfs.go.jp/service/MP/01/0204000000.html",
+  "category_code": "02",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/108/01/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2017-08-22",
+  "content_hash": "sha256:0a26c7fe74b97d3a03888f8f6dbe29d898b558df820df96172c49479b2ab437a",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "（平成29年8月22日裁決）",
+    "108-01",
+    "平成29年8月22日裁決"
+  ],
+  "headings": [
+    "（平成29年8月22日裁決）",
+    "1　事実",
+    "(1)　事案の概要",
+    "(2)　関係法令等の要旨",
+    "(3)　基礎事実及び審査請求に至る経緯",
+    "2　争点",
+    "3　主張",
+    "4　当審判所の判断",
+    "(1)　認定事実",
+    "(2)　法令解釈等",
+    "(3)　当てはめ",
+    "(4)　請求人の主張について",
+    "5　本件通知処分の適法性について",
+    "6　結論"
+  ],
+  "citation": "平成29年8月22日裁決",
+  "document_number": "108-01",
+  "tags": [
+    "https://www.kfs.go.jp/service/MP/01/0204000000.html",
+    "所得税",
+    "消費税",
+    "譲渡所得"
+  ],
+  "etag": "\"8ef9-64e399e458310\"",
+  "last_modified": "Mon, 30 Mar 2026 08:27:15 GMT"
+}

@@ -4,12 +4,12 @@ title: "（平9.7.18裁決、裁決事例集No.54　109頁）"
 category: "納付義務の確定"
 canonical_url: "https://www.kfs.go.jp/service/JP/54/08/index.html"
 source_type: saiketsu
-published_at: null
+published_at: "1997-07-18"
 updated_at: null
-crawled_at: "2026-04-12T05:24:46.936Z"
+crawled_at: "2026-04-12T07:00:00.000Z"
 content_hash: "sha256:8f61f274fc2543b0ea3f79f25d454ae379484b622d3c9504c8c5c6f716dddcdf"
 license: "国税不服審判所 公表裁決事例（利用規約に従って再配布）"
-version: 1
+version: 2
 aliases: ["（平9.7.18裁決、裁決事例集No.54　109頁）", "54-08", "裁決事例集 No.54 - 109頁"]
 ---
 

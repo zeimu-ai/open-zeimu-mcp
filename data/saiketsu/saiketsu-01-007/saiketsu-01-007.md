@@ -4,12 +4,12 @@ title: "（平18.6.29裁決、裁決事例集No.71　1頁）"
 category: "総則"
 canonical_url: "https://www.kfs.go.jp/service/JP/71/01/index.html"
 source_type: saiketsu
-published_at: null
+published_at: "2006-06-29"
 updated_at: null
-crawled_at: "2026-04-12T05:24:22.934Z"
+crawled_at: "2026-04-12T07:00:00.000Z"
 content_hash: "sha256:1b7f0ad100e8a6927322d8f832cc64e7f052b8ac0488dcd33d9b71d25490b179"
 license: "国税不服審判所 公表裁決事例（利用規約に従って再配布）"
-version: 1
+version: 2
 aliases: ["（平18.6.29裁決、裁決事例集No.71　1頁）", "71-01", "裁決事例集 No.71 - 1頁"]
 ---
 

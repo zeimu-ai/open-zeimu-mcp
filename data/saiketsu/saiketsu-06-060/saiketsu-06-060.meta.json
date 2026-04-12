@@ -1,0 +1,44 @@
+{
+  "id": "saiketsu-06-060",
+  "title": "(平20.1.23、裁決事例集No.75　78頁)",
+  "category": "附帯税",
+  "category_code": "06",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/75/05/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2008-01-23",
+  "content_hash": "sha256:45be1d3658b4b62e4a1157bc091b4e537e34c3afe41aa0eed08849ce31020b6a",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "(平20.1.23、裁決事例集No.75　78頁)",
+    "75-05",
+    "裁決事例集 No.75 - 78頁"
+  ],
+  "headings": [
+    "(平20.1.23、裁決事例集No.75　78頁)",
+    "1　事実",
+    "(1)　事案の概要",
+    "(2)　審査請求に至る経緯",
+    "(3)　関係法令",
+    "(4)　基礎事実",
+    "2　主張",
+    "(1)　請求人",
+    "(2)　原処分庁",
+    "3　判断",
+    "(1)　請求人の本件相続税に係る申告義務の発生時期について",
+    "(2)　正当な理由の存否について",
+    "(3)　本件賦課決定処分について",
+    "(4)　その他"
+  ],
+  "citation": "裁決事例集 No.75 - 78頁",
+  "document_number": "75-05",
+  "tags": [
+    "附帯税",
+    "相続税",
+    "相続"
+  ],
+  "etag": "\"9636-64e398fc2bab0\"",
+  "last_modified": "Mon, 30 Mar 2026 08:23:12 GMT"
+}

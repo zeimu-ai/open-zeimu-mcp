@@ -417,6 +417,7 @@ function parseEraDate(text: string) {
   const normalized = text
     .replace(/[　\s]+/gu, " ")
     .replace(/[．。]/gu, ".")
+    .replace(/[０-９]/gu, (digit) => String.fromCharCode(digit.charCodeAt(0) - 0xfee0))
     .trim();
   const match = normalized.match(
     /(令和|平成|昭和|大正|明治|令|平|昭|大|明)\s*(元|\d+)[\.年](\d+)[\.月](\d+)(?:[\.日]|日)?/u,

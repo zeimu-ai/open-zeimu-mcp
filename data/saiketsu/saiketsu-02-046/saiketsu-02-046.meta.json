@@ -1,0 +1,40 @@
+{
+  "id": "saiketsu-02-046",
+  "title": "(平20.8.4、裁決事例集No.76　15頁)",
+  "category": "納付義務の確定",
+  "category_code": "02",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/76/02/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2008-08-04",
+  "content_hash": "sha256:bc1a3a304b76e75c29485260798f7948cff62dd7c341ea6da76d2411d3a0cf80",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "(平20.8.4、裁決事例集No.76　15頁)",
+    "76-02",
+    "裁決事例集 No.76 - 15頁"
+  ],
+  "headings": [
+    "(平20.8.4、裁決事例集No.76　15頁)",
+    "1　事実",
+    "(1)　事案の概要",
+    "(2)　審査請求に至る経緯",
+    "(3)　基礎事実",
+    "2　主張及び判断",
+    "(1)　主張",
+    "(2)　判断"
+  ],
+  "citation": "裁決事例集 No.76 - 15頁",
+  "document_number": "76-02",
+  "tags": [
+    "納付義務の確定",
+    "所得税",
+    "贈与税",
+    "国税通則法",
+    "譲渡所得"
+  ],
+  "etag": "\"6860-64e398efc8c50\"",
+  "last_modified": "Mon, 30 Mar 2026 08:22:59 GMT"
+}

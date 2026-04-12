@@ -1,0 +1,43 @@
+{
+  "id": "saiketsu-06-080",
+  "title": "（平成28年2月4日裁決）",
+  "category": "附帯税",
+  "category_code": "06",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/102/03/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2016-02-04",
+  "content_hash": "sha256:2ad3bf709a29952f01f516174c59c21f9aa4cace188119470a1b640ccab431db",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "（平成28年2月4日裁決）",
+    "102-03",
+    "平成28年2月4日裁決"
+  ],
+  "headings": [
+    "（平成28年2月4日裁決）",
+    "1 事実",
+    "(1)事案の概要",
+    "(2)審査請求に至る経緯",
+    "(3)関係法令",
+    "(4)基礎事実",
+    "2　主張",
+    "3　判断",
+    "(1) 認定事実",
+    "(2)判断",
+    "(3)原処分について",
+    "(4)その他"
+  ],
+  "citation": "平成28年2月4日裁決",
+  "document_number": "102-03",
+  "tags": [
+    "附帯税",
+    "所得税",
+    "法人税",
+    "国税通則法"
+  ],
+  "etag": "\"70f9-64e399ee50700\"",
+  "last_modified": "Mon, 30 Mar 2026 08:27:26 GMT"
+}

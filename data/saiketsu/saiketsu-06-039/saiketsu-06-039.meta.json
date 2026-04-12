@@ -1,0 +1,44 @@
+{
+  "id": "saiketsu-06-039",
+  "title": "(平成23年5月11日裁決)",
+  "category": "附帯税",
+  "category_code": "06",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/83/01/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2011-05-11",
+  "content_hash": "sha256:aec34791e6d18c5040f247321f5b9200ed9902a3949d9ed3883dd59f25cf609d",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "(平成23年5月11日裁決)",
+    "83-01",
+    "平成23年5月11日裁決"
+  ],
+  "headings": [
+    "(平成23年5月11日裁決)",
+    "1　事実",
+    "(1)　事案の概要",
+    "(2)　審査請求に至る経緯",
+    "(3)　関係法令",
+    "(4)　基礎事実",
+    "2　争点",
+    "3　主張",
+    "4　判断",
+    "(1)　法令解釈",
+    "(2)　認定事実",
+    "(3)　あてはめ等",
+    "(4)　結論"
+  ],
+  "citation": "平成23年5月11日裁決",
+  "document_number": "83-01",
+  "tags": [
+    "附帯税",
+    "所得税",
+    "法人税",
+    "国税通則法"
+  ],
+  "etag": "\"8811-64e398b8226e8\"",
+  "last_modified": "Mon, 30 Mar 2026 08:22:00 GMT"
+}

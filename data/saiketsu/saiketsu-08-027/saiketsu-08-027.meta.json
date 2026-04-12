@@ -1,0 +1,41 @@
+{
+  "id": "saiketsu-08-027",
+  "title": "（令和4年11月2日裁決）",
+  "category": "不服審査",
+  "category_code": "08",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/129/01/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2022-11-02",
+  "content_hash": "sha256:4b05067cac1f1e84e452c99acfc8605a7a3a8038f2c5832708417ba85072032c",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "（令和4年11月2日裁決）",
+    "129-01",
+    "令和4年11月2日裁決"
+  ],
+  "headings": [
+    "（令和4年11月2日裁決）",
+    "1　事実",
+    "(1)　事案の概要",
+    "(2)　関係法令",
+    "(3)　基礎事実及び審査請求に至る経緯",
+    "2　当審判所の判断",
+    "(1)　請求人の主張について",
+    "(2)　本件各決定処分の適法性について",
+    "(3)　本件各賦課決定処分の適法性について",
+    "(4)　結論"
+  ],
+  "citation": "令和4年11月2日裁決",
+  "document_number": "129-01",
+  "tags": [
+    "不服審査",
+    "所得税",
+    "国税通則法",
+    "譲渡所得"
+  ],
+  "etag": "\"5bed-64e399d1fa498\"",
+  "last_modified": "Mon, 30 Mar 2026 08:26:56 GMT"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "saiketsu-06-002",
+  "title": "（平4.8.6、裁決事例集No.44　30頁）",
+  "category": "附帯税",
+  "category_code": "06",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/44/04/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "1992-08-06",
+  "content_hash": "sha256:a53bfc0734fbc17206fdcfc1d61d4819627d4b51ec406ffbec8833f747a36aea",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "（平4.8.6、裁決事例集No.44　30頁）",
+    "44-04",
+    "裁決事例集 No.44 - 30頁"
+  ],
+  "headings": [
+    "（平4.8.6、裁決事例集No.44　30頁）",
+    "1　事実",
+    "2　主張",
+    "(1)　請求人の主張",
+    "(2)　原処分庁の主張",
+    "3　判断"
+  ],
+  "citation": "裁決事例集 No.44 - 30頁",
+  "document_number": "44-04",
+  "tags": [
+    "附帯税",
+    "相続税",
+    "国税通則法",
+    "相続"
+  ],
+  "etag": "\"5a25-64e399c462cb8\"",
+  "last_modified": "Mon, 30 Mar 2026 08:26:42 GMT"
+}

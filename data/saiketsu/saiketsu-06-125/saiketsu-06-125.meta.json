@@ -1,0 +1,46 @@
+{
+  "id": "saiketsu-06-125",
+  "title": "（平成31年4月23日裁決）",
+  "category": "附帯税",
+  "category_code": "06",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/115/02/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2019-04-23",
+  "content_hash": "sha256:f23cc2cde97663fe5219c2b661ce4521d0e55a8f12eafc4e3ab30ea41fed917c",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "（平成31年4月23日裁決）",
+    "115-02",
+    "平成31年４月23日裁決"
+  ],
+  "headings": [
+    "（平成31年4月23日裁決）",
+    "1　事実",
+    "(1)　事案の概要",
+    "(2)　関係法令",
+    "(3)　基礎事実",
+    "(4)　審査請求に至る経緯",
+    "2　争点",
+    "3　争点についての主張",
+    "4　当審判所の判断",
+    "(1)　法令解釈",
+    "(2)　本件各メモの記載の要旨",
+    "(3)　認定事実",
+    "(4)　検討",
+    "(5)　原処分の適法性について",
+    "(6)　結論"
+  ],
+  "citation": "平成31年４月23日裁決",
+  "document_number": "115-02",
+  "tags": [
+    "附帯税",
+    "所得税",
+    "消費税",
+    "国税通則法"
+  ],
+  "etag": "\"a3dc-64e399db8d370\"",
+  "last_modified": "Mon, 30 Mar 2026 08:27:06 GMT"
+}

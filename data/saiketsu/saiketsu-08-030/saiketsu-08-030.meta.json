@@ -1,0 +1,38 @@
+{
+  "id": "saiketsu-08-030",
+  "title": "(平成26年10月22日裁決)",
+  "category": "不服審査",
+  "category_code": "08",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/97/05/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2014-10-22",
+  "content_hash": "sha256:170c49982b85191de898b5c49135eb78e73cb2660018fc503b41b31e65e38668",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "(平成26年10月22日裁決)",
+    "97-05",
+    "平成26年10月22日裁決"
+  ],
+  "headings": [
+    "(平成26年10月22日裁決)",
+    "1　事実",
+    "(1)　事案の概要",
+    "(2)　審査請求に至る経緯及び基礎事実",
+    "(3)　関係法令の要旨",
+    "2　判断",
+    "(1)　認定事実",
+    "(2)　本件審査請求の適法性について"
+  ],
+  "citation": "平成26年10月22日裁決",
+  "document_number": "97-05",
+  "tags": [
+    "不服審査",
+    "国税通則法",
+    "国税徴収法"
+  ],
+  "etag": "\"6e44-64e398898f560\"",
+  "last_modified": "Mon, 30 Mar 2026 08:21:12 GMT"
+}

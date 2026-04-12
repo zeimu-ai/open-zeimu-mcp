@@ -3,6 +3,7 @@ export type SaiketsuStoredVersion = {
   contentHash: string | null;
   eTag: string | null;
   lastModified: string | null;
+  metadataFingerprint: string | null;
   version: number | null;
 };
 
@@ -11,6 +12,7 @@ export type SaiketsuFetchedVersion = {
   contentHash: string;
   eTag: string | null;
   lastModified: string | null;
+  metadataFingerprint: string;
 };
 
 export function detectSaiketsuChange({
@@ -22,6 +24,14 @@ export function detectSaiketsuChange({
 }) {
   if (current === null) {
     return { changed: true, reason: "new", version: 1 } as const;
+  }
+
+  if (current.metadataFingerprint !== next.metadataFingerprint) {
+    return {
+      changed: true,
+      reason: "metadata",
+      version: (current.version ?? 0) + 1,
+    } as const;
   }
 
   if (current.eTag && next.eTag && current.eTag === next.eTag) {
@@ -53,4 +63,10 @@ export function detectSaiketsuChange({
     reason: "content_hash",
     version: (current.version ?? 0) + 1,
   } as const;
+}
+
+export function createSaiketsuMetadataFingerprint(
+  metadata: Record<string, unknown>,
+) {
+  return JSON.stringify(metadata);
 }

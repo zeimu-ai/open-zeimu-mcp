@@ -1,0 +1,43 @@
+{
+  "id": "saiketsu-02-060",
+  "title": "(平成25年11月28日裁決)",
+  "category": "納付義務の確定",
+  "category_code": "02",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/93/01/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2013-11-28",
+  "content_hash": "sha256:50484e9d123fe922c4ddc7e1d4218c9c8c8daf5aaafabc32a2eb749b90f5ac40",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "(平成25年11月28日裁決)",
+    "93-01",
+    "平成25年11月28日裁決"
+  ],
+  "headings": [
+    "(平成25年11月28日裁決)",
+    "１　事実",
+    "(1) 事案の概要",
+    "(2) 審査請求に至る経緯",
+    "(3) 関係法令の要旨",
+    "(4) 基礎事実",
+    "２　争点",
+    "３　主張",
+    "４　判断",
+    "(1) 法令解釈",
+    "(2) 認定事実",
+    "(3) 本件への当てはめ",
+    "(4) 本件更正処分について",
+    "(5) その他"
+  ],
+  "citation": "平成25年11月28日裁決",
+  "document_number": "93-01",
+  "tags": [
+    "納付義務の確定",
+    "所得税"
+  ],
+  "etag": "\"68e7-64e3989253b88\"",
+  "last_modified": "Mon, 30 Mar 2026 08:21:21 GMT"
+}

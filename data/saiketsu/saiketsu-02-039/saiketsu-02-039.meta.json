@@ -1,45 +1,44 @@
 {
   "id": "saiketsu-02-039",
-  "title": "（平16.11.10裁決、裁決事例集No.68　15頁）",
+  "title": "（平15.7.18裁決、裁決事例集No.66　19頁）",
   "category": "納付義務の確定",
   "category_code": "02",
-  "canonical_url": "https://www.kfs.go.jp/service/JP/68/02/index.html",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/66/03/index.html",
   "source_type": "saiketsu",
-  "crawled_at": "2026-04-12T05:25:48.912Z",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
   "updated_at": null,
-  "published_at": null,
-  "content_hash": "sha256:2e006aa67541112670034440d6fff304fb21aed42016e6ebe9da482c09dae3df",
+  "published_at": "2003-07-18",
+  "content_hash": "sha256:18dc7f257bbcebb0cff119b07d134b3884aaf118b7e596d436e01c574b6604fa",
   "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
-  "version": 1,
+  "version": 2,
   "aliases": [
-    "（平16.11.10裁決、裁決事例集No.68　15頁）",
-    "68-02",
-    "裁決事例集 No.68 - 15頁"
+    "（平15.7.18裁決、裁決事例集No.66　19頁）",
+    "66-03",
+    "裁決事例集 No.66 - 19頁"
   ],
   "headings": [
-    "（平16.11.10裁決、裁決事例集No.68　15頁）",
+    "（平15.7.18裁決、裁決事例集No.66　19頁）",
     "1　事実",
     "（1）事案の概要",
     "（2）審査請求に至る経緯",
-    "（3）関係法令",
+    "（3）関係法令等",
     "（4）基礎事実",
     "2　主張",
     "（1）請求人",
     "（2）原処分庁",
     "3　判断",
     "（1）認定事実",
-    "（2）法令解釈",
-    "（3）本件各通知処分について",
-    "（4）その他"
+    "（2）通則法第23条第2項第1号の規定による更正の請求について",
+    "（3）所得税法第152条の規定による更正の請求について",
+    "（4）通則法第24条の規定による更正について"
   ],
-  "citation": "裁決事例集 No.68 - 15頁",
-  "document_number": "68-02",
+  "citation": "裁決事例集 No.66 - 19頁",
+  "document_number": "66-03",
   "tags": [
     "納付義務の確定",
-    "相続税",
-    "国税通則法",
-    "相続"
+    "所得税",
+    "国税通則法"
   ],
-  "etag": "\"738e-64e3992e8baa0\"",
-  "last_modified": "Mon, 30 Mar 2026 08:24:05 GMT"
+  "etag": "\"81bf-64e3993b60550\"",
+  "last_modified": "Mon, 30 Mar 2026 08:24:18 GMT"
 }

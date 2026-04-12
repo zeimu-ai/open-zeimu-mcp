@@ -1,7 +1,7 @@
 import { join, relative } from "node:path";
 
 import { commitAndPushChanges } from "../git-commit.js";
-import { detectSaiketsuChange } from "./change-detector.js";
+import { createSaiketsuMetadataFingerprint, detectSaiketsuChange } from "./change-detector.js";
 import { discoverSaiketsuIndexPages, extractSaiketsuDocumentLinks } from "./discovery.js";
 import { parseSaiketsuPage } from "./parser.js";
 import { FixedRateLimiter } from "./rate-limit.js";
@@ -89,6 +89,11 @@ export async function crawlSaiketsu(options: SaiketsuCrawlerOptions) {
       const response = (await fetchImpl(target.url)) as FetchResponse;
 
       if (!response.ok) {
+        if (response.status === 404) {
+          logger.warn(`[saiketsu] skipped missing document ${target.url}`);
+          continue;
+        }
+
         throw new Error(`Failed to fetch ${target.url}: ${response.status}`);
       }
 
@@ -112,6 +117,7 @@ export async function crawlSaiketsu(options: SaiketsuCrawlerOptions) {
                 contentHash: current.contentHash,
                 eTag: current.eTag,
                 lastModified: current.lastModified,
+                metadataFingerprint: current.metadataFingerprint,
                 version: current.version,
               },
         next: {
@@ -119,6 +125,22 @@ export async function crawlSaiketsu(options: SaiketsuCrawlerOptions) {
           contentHash: parsed.meta.content_hash,
           eTag: response.headers.get("etag"),
           lastModified: response.headers.get("last-modified"),
+          metadataFingerprint: createSaiketsuMetadataFingerprint({
+            id: parsed.meta.id,
+            title: parsed.meta.title,
+            category: parsed.meta.category,
+            category_code: parsed.meta.category_code,
+            canonical_url: parsed.meta.canonical_url,
+            source_type: parsed.meta.source_type,
+            updated_at: parsed.meta.updated_at,
+            published_at: parsed.meta.published_at,
+            license: parsed.meta.license,
+            aliases: parsed.meta.aliases,
+            headings: parsed.meta.headings,
+            citation: parsed.meta.citation,
+            document_number: parsed.meta.document_number,
+            tags: parsed.meta.tags,
+          }),
         },
       });
 

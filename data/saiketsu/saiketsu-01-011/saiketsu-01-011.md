@@ -4,12 +4,12 @@ title: "（平15.11.7裁決、裁決事例集No.66　1頁）"
 category: "総則"
 canonical_url: "https://www.kfs.go.jp/service/JP/66/01/index.html"
 source_type: saiketsu
-published_at: null
+published_at: "2003-11-07"
 updated_at: null
-crawled_at: "2026-04-12T05:24:30.925Z"
+crawled_at: "2026-04-12T07:00:00.000Z"
 content_hash: "sha256:75630d0786764563c6eb2e7f784a6c173a2f309f160810addf0bb98a2c2b5740"
 license: "国税不服審判所 公表裁決事例（利用規約に従って再配布）"
-version: 1
+version: 2
 aliases: ["（平15.11.7裁決、裁決事例集No.66　1頁）", "66-01", "裁決事例集 No.66 - 1頁"]
 ---
 

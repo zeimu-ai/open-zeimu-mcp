@@ -1,0 +1,36 @@
+{
+  "id": "saiketsu-06-121",
+  "title": "(平成28年4月19日裁決)",
+  "category": "附帯税",
+  "category_code": "06",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/103/02/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2016-04-19",
+  "content_hash": "sha256:da374127b2ccd4768568da87e21d0f8bdafabb21c2efa509c36b865c4398993f",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "(平成28年4月19日裁決)",
+    "103-02",
+    "平成28年4月19日裁決"
+  ],
+  "headings": [
+    "(平成28年4月19日裁決)",
+    "1 事実",
+    "2 争点",
+    "3 主張",
+    "4 判断"
+  ],
+  "citation": "平成28年4月19日裁決",
+  "document_number": "103-02",
+  "tags": [
+    "附帯税",
+    "相続税",
+    "国税通則法",
+    "相続"
+  ],
+  "etag": "\"aa9b-64e399ebd3798\"",
+  "last_modified": "Mon, 30 Mar 2026 08:27:23 GMT"
+}

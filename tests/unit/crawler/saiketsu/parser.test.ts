@@ -57,4 +57,29 @@ describe("parseSaiketsuPage", () => {
     });
     expect(result.meta.content_hash).toMatch(/^sha256:/u);
   });
+
+  it("parses published_at when the title uses full-width numerals", () => {
+    const result = parseSaiketsuPage({
+      html: `<!DOCTYPE html>
+<html lang="ja">
+  <body>
+    <div id="contents">
+      <div id="main">
+        <h1>（令和６年10月22日裁決）</h1>
+        <p>《裁決書（抄）》</p>
+        <p>本文。</p>
+      </div>
+    </div>
+  </body>
+</html>`,
+      url: "https://www.kfs.go.jp/service/JP/999/01/index.html",
+      crawledAt: "2026-04-12T01:00:00.000Z",
+      id: "saiketsu-02-999",
+      category: "納付義務の確定",
+      categoryCode: "02",
+      citation: "令和６年10月22日裁決",
+    });
+
+    expect(result.meta.published_at).toBe("2024-10-22");
+  });
 });

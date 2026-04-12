@@ -1,6 +1,7 @@
 import { mkdir, readFile, rm, stat, writeFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
 
+import { createSaiketsuMetadataFingerprint } from "./change-detector.js";
 import { composeSaiketsuMarkdown, type ParsedSaiketsu } from "./parser.js";
 
 export type StoredSaiketsuDocument = {
@@ -10,6 +11,7 @@ export type StoredSaiketsuDocument = {
   contentHash: string | null;
   eTag: string | null;
   lastModified: string | null;
+  metadataFingerprint: string | null;
   version: number | null;
 };
 
@@ -35,6 +37,22 @@ export async function readStoredSaiketsuDocument(
       contentHash: metadata.content_hash ?? null,
       eTag: metadata.etag ?? null,
       lastModified: metadata.last_modified ?? null,
+      metadataFingerprint: createSaiketsuMetadataFingerprint({
+        id: metadata.id ?? null,
+        title: metadata.title ?? null,
+        category: metadata.category ?? null,
+        category_code: metadata.category_code ?? null,
+        canonical_url: metadata.canonical_url ?? null,
+        source_type: metadata.source_type ?? null,
+        updated_at: metadata.updated_at ?? null,
+        published_at: metadata.published_at ?? null,
+        license: metadata.license ?? null,
+        aliases: metadata.aliases ?? [],
+        headings: metadata.headings ?? [],
+        citation: metadata.citation ?? null,
+        document_number: metadata.document_number ?? null,
+        tags: metadata.tags ?? [],
+      }),
       version: metadata.version ?? null,
     };
   } catch {

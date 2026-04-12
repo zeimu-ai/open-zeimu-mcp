@@ -1,4 +1,4 @@
-import { mkdtemp, readFile } from "node:fs/promises";
+import { mkdtemp, readFile, writeFile } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 
@@ -164,5 +164,166 @@ describe("crawlSaiketsu", () => {
         limiter: { wait: async () => {} },
       }),
     ).rejects.toThrow(/robots\.txt disallows saiketsu root/u);
+  });
+
+  it("skips 404 document pages and continues crawling the remaining targets", async () => {
+    const workspace = await mkdtemp(join(tmpdir(), "open-zeimu-mcp-saiketsu-"));
+    const dataDir = join(workspace, "data");
+    const repoDir = workspace;
+    const messages: string[] = [];
+    const logger = {
+      info: (_message?: unknown) => {},
+      warn: (message?: unknown) => messages.push(String(message)),
+      error: (_message?: unknown) => {},
+    };
+    const fetchImpl: typeof fetch = async (input) => {
+      const url = typeof input === "string" ? input : input.url;
+
+      if (url === "https://www.kfs.go.jp/robots.txt") {
+        return new Response("User-agent: *\nDisallow: /private/\n", { status: 200 });
+      }
+
+      if (url === "https://www.kfs.go.jp/service/MP/01/index.html") {
+        return new Response(rootHtml, { status: 200 });
+      }
+
+      if (url === "https://www.kfs.go.jp/service/MP/01/0101000000.html") {
+        return new Response(sectionHtml, { status: 200 });
+      }
+
+      if (url === "https://www.kfs.go.jp/service/JP/55/01/index.html") {
+        return new Response("not found", { status: 404 });
+      }
+
+      if (url === "https://www.kfs.go.jp/service/JP/119/01/index.html") {
+        return new Response(secondDocumentHtml, {
+          status: 200,
+          headers: {
+            etag: '"fixture-etag-saiketsu-2"',
+            "last-modified": "Fri, 11 Apr 2026 00:00:00 GMT",
+          },
+        });
+      }
+
+      return new Response("not found", { status: 404 });
+    };
+
+    const result = await crawlSaiketsu({
+      dataDir,
+      repoDir,
+      apply: false,
+      dryRun: false,
+      limit: null,
+      ids: [],
+      logger,
+      fetchImpl,
+      now: () => new Date("2026-04-12T01:00:00.000Z"),
+      limiter: { wait: async () => {} },
+    });
+
+    expect(result).toMatchObject({
+      discoveredCount: 2,
+      newCount: 1,
+      updatedCount: 0,
+      unchangedCount: 0,
+    });
+    expect(messages).toContain(
+      "[saiketsu] skipped missing document https://www.kfs.go.jp/service/JP/55/01/index.html",
+    );
+    const written = JSON.parse(
+      await readFile(
+        join(dataDir, "saiketsu/saiketsu-01-002/saiketsu-01-002.meta.json"),
+        "utf8",
+      ),
+    ) as { id: string };
+    expect(written.id).toBe("saiketsu-01-002");
+  });
+
+  it("rewrites documents when stored metadata is stale even if etag is unchanged", async () => {
+    const workspace = await mkdtemp(join(tmpdir(), "open-zeimu-mcp-saiketsu-"));
+    const dataDir = join(workspace, "data");
+    const repoDir = workspace;
+    const fetchImpl: typeof fetch = async (input) => {
+      const url = typeof input === "string" ? input : input.url;
+
+      if (url === "https://www.kfs.go.jp/robots.txt") {
+        return new Response("User-agent: *\nDisallow: /private/\n", { status: 200 });
+      }
+
+      if (url === "https://www.kfs.go.jp/service/MP/01/index.html") {
+        return new Response(rootHtml, { status: 200 });
+      }
+
+      if (url === "https://www.kfs.go.jp/service/MP/01/0101000000.html") {
+        return new Response(sectionHtml, { status: 200 });
+      }
+
+      if (url === "https://www.kfs.go.jp/service/JP/55/01/index.html") {
+        return new Response(firstDocumentHtml, {
+          status: 200,
+          headers: {
+            etag: '"fixture-etag-saiketsu-1"',
+            "last-modified": "Fri, 11 Apr 2026 00:00:00 GMT",
+          },
+        });
+      }
+
+      if (url === "https://www.kfs.go.jp/service/JP/119/01/index.html") {
+        return new Response(secondDocumentHtml, {
+          status: 200,
+          headers: {
+            etag: '"fixture-etag-saiketsu-2"',
+            "last-modified": "Fri, 11 Apr 2026 00:00:00 GMT",
+          },
+        });
+      }
+
+      return new Response("not found", { status: 404 });
+    };
+
+    await crawlSaiketsu({
+      dataDir,
+      repoDir,
+      apply: false,
+      dryRun: false,
+      limit: null,
+      ids: [],
+      logger: console,
+      fetchImpl,
+      now: () => new Date("2026-04-12T01:00:00.000Z"),
+      limiter: { wait: async () => {} },
+    });
+
+    const metadataPath = join(dataDir, "saiketsu/saiketsu-01-001/saiketsu-01-001.meta.json");
+    const staleMetadata = JSON.parse(await readFile(metadataPath, "utf8")) as { published_at: string | null };
+    staleMetadata.published_at = null;
+    await writeFile(metadataPath, `${JSON.stringify(staleMetadata, null, 2)}\n`, "utf8");
+
+    const result = await crawlSaiketsu({
+      dataDir,
+      repoDir,
+      apply: false,
+      dryRun: false,
+      limit: null,
+      ids: [],
+      logger: console,
+      fetchImpl,
+      now: () => new Date("2026-04-12T02:00:00.000Z"),
+      limiter: { wait: async () => {} },
+    });
+
+    const refreshedMetadata = JSON.parse(await readFile(metadataPath, "utf8")) as {
+      published_at: string | null;
+      version: number;
+    };
+
+    expect(result).toMatchObject({
+      discoveredCount: 2,
+      newCount: 0,
+      updatedCount: 1,
+      unchangedCount: 1,
+    });
+    expect(refreshedMetadata.published_at).toBe("1998-02-19");
+    expect(refreshedMetadata.version).toBe(2);
   });
 });

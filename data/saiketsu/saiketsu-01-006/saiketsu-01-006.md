@@ -4,12 +4,12 @@ title: "（平9.10.15裁決、裁決事例集No.54　4頁）"
 category: "総則"
 canonical_url: "https://www.kfs.go.jp/service/JP/54/02/index.html"
 source_type: saiketsu
-published_at: null
+published_at: "1997-10-15"
 updated_at: null
-crawled_at: "2026-04-12T05:24:20.911Z"
+crawled_at: "2026-04-12T07:00:00.000Z"
 content_hash: "sha256:b959b10fe24d777819acd9d51272b105a01563407416dd473ded7f20ee520d98"
 license: "国税不服審判所 公表裁決事例（利用規約に従って再配布）"
-version: 1
+version: 2
 aliases: ["（平9.10.15裁決、裁決事例集No.54　4頁）", "54-02", "裁決事例集 No.54 - 4頁"]
 ---
 

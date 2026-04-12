@@ -1,0 +1,36 @@
+{
+  "id": "saiketsu-06-163",
+  "title": "(平成28年4月19日裁決)",
+  "category": "附帯税",
+  "category_code": "06",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/103/05/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2016-04-19",
+  "content_hash": "sha256:6330d71f49c8c17e66afadbe5e3d75248d7860010f52f5c777380c1cf86d2044",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "(平成28年4月19日裁決)",
+    "103-05",
+    "平成28年4月19日裁決"
+  ],
+  "headings": [
+    "(平成28年4月19日裁決)",
+    "1 事実",
+    "2 争点",
+    "3 争点についての主張",
+    "4 当審判所の判断"
+  ],
+  "citation": "平成28年4月19日裁決",
+  "document_number": "103-05",
+  "tags": [
+    "附帯税",
+    "法人税",
+    "消費税",
+    "国税通則法"
+  ],
+  "etag": "\"5429-64e399eb84dc8\"",
+  "last_modified": "Mon, 30 Mar 2026 08:27:23 GMT"
+}

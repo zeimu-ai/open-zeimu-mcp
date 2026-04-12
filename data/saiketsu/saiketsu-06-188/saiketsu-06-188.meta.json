@@ -1,0 +1,45 @@
+{
+  "id": "saiketsu-06-188",
+  "title": "（令和3年3月1日裁決）",
+  "category": "附帯税",
+  "category_code": "06",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/122/04/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2021-03-01",
+  "content_hash": "sha256:8e9a891f67403fb1e4abd355ac0fbff119ae845dffffa2e202c2266e382a8b17",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "（令和3年3月1日裁決）",
+    "122-04",
+    "令和3年3月1日裁決"
+  ],
+  "headings": [
+    "（令和3年3月1日裁決）",
+    "1　事実",
+    "(1)　事案の概要",
+    "(2)　関係法令",
+    "(3)　基礎事実及び審査請求に至る経緯",
+    "2　争点",
+    "3　争点についての主張",
+    "4　当審判所の判断",
+    "(1)　法令解釈",
+    "(2)　認定事実",
+    "(3)　検討",
+    "(4)　原処分庁の主張について",
+    "(5)　本件賦課決定処分の適法性について",
+    "(6)　結論"
+  ],
+  "citation": "令和3年3月1日裁決",
+  "document_number": "122-04",
+  "tags": [
+    "附帯税",
+    "相続税",
+    "国税通則法",
+    "相続"
+  ],
+  "etag": "\"8e22-64e399d5b2ae0\"",
+  "last_modified": "Mon, 30 Mar 2026 08:27:00 GMT"
+}

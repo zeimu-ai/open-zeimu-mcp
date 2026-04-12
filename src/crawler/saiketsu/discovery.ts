@@ -57,7 +57,7 @@ export function extractSaiketsuDocumentLinks({
   const documents = new Map<string, SaiketsuDocumentLink>();
 
   for (const match of html.matchAll(
-    /<p[^>]*class="article_point"[^>]*>\s*▼\s*<a href="([^"]+)">([\s\S]*?)<\/a>\s*<\/p>/giu,
+    /<p[^>]*class="article_point"[^>]*>\s*(?:▼\s*)?<a href="([^"]+)">([\s\S]*?)<\/a>\s*<\/p>/giu,
   )) {
     const href = match[1];
     const citation = normalizeText(stripAllTags(match[2] ?? ""));

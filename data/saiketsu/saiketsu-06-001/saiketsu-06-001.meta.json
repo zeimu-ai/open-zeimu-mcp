@@ -1,0 +1,40 @@
+{
+  "id": "saiketsu-06-001",
+  "title": "（平14.7.16裁決、裁決事例集No.64　44頁）",
+  "category": "附帯税",
+  "category_code": "06",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/64/04/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2002-07-16",
+  "content_hash": "sha256:852b4d107df50626596598cf13fb8b0b2895ee18534ef7f74c0ded46e5b0917c",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "（平14.7.16裁決、裁決事例集No.64　44頁）",
+    "64-04",
+    "裁決事例集 No.64 - 44頁"
+  ],
+  "headings": [
+    "（平14.7.16裁決、裁決事例集No.64　44頁）",
+    "1　事実",
+    "（1）　事案の概要",
+    "（2）審査請求に至る経緯",
+    "（3）関係法令等",
+    "（4）基礎事実",
+    "2　主張",
+    "（1）請求人の主張",
+    "（2）原処分庁の主張",
+    "3　判断"
+  ],
+  "citation": "裁決事例集 No.64 - 44頁",
+  "document_number": "64-04",
+  "tags": [
+    "附帯税",
+    "所得税",
+    "国税通則法"
+  ],
+  "etag": "\"6ccc-64e3994f835c8\"",
+  "last_modified": "Mon, 30 Mar 2026 08:24:39 GMT"
+}

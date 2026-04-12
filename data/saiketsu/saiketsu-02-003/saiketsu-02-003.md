@@ -4,12 +4,12 @@ title: "（平15.2.20裁決、裁決事例集No.65　1頁）"
 category: "納付義務の確定"
 canonical_url: "https://www.kfs.go.jp/service/JP/65/01/index.html"
 source_type: saiketsu
-published_at: null
+published_at: "2003-02-20"
 updated_at: null
-crawled_at: "2026-04-12T05:24:36.922Z"
+crawled_at: "2026-04-12T07:00:00.000Z"
 content_hash: "sha256:6697290e6d08cf8c193c27b7fb31de41b5a7d8c1f478127bca3194d8ae6e1021"
 license: "国税不服審判所 公表裁決事例（利用規約に従って再配布）"
-version: 1
+version: 2
 aliases: ["（平15.2.20裁決、裁決事例集No.65　1頁）", "65-01", "裁決事例集 No.65 - 1頁"]
 ---
 

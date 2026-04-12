@@ -1,0 +1,37 @@
+{
+  "id": "saiketsu-06-162",
+  "title": "(平成28年5月20日裁決)",
+  "category": "附帯税",
+  "category_code": "06",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/103/04/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2016-05-20",
+  "content_hash": "sha256:5971cf5ff153eab7c1a91c18db310c4b51da399ab533080f4e1f0417f626a293",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "(平成28年5月20日裁決)",
+    "103-04",
+    "平成28年5月20日裁決"
+  ],
+  "headings": [
+    "(平成28年5月20日裁決)",
+    "1 事実",
+    "2 争点",
+    "3 争点1（調査手続に原処分を取り消すべき違法があるか否か。）について",
+    "4 争点2（請求人が本件各無申告保険金を本件当初申告の対象に含めなかったことは、課税要件事実を隠ぺい、仮装したところに基づく過少申告であるか否か。）について",
+    "5 原処分について",
+    "6 その他"
+  ],
+  "citation": "平成28年5月20日裁決",
+  "document_number": "103-04",
+  "tags": [
+    "附帯税",
+    "相続税",
+    "相続"
+  ],
+  "etag": "\"722f-64e399eb93440\"",
+  "last_modified": "Mon, 30 Mar 2026 08:27:23 GMT"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "saiketsu-06-008",
+  "title": "（平成29年9月1日裁決）",
+  "category": "附帯税",
+  "category_code": "06",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/108/02/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2017-09-01",
+  "content_hash": "sha256:db8e2a4727c1ac49d2c7fbbaa5c866ca0a49051db6c23b8bd1ed169cfc9d7c1b",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "（平成29年9月1日裁決）",
+    "108-02",
+    "平成29年9月1日裁決"
+  ],
+  "headings": [
+    "（平成29年9月1日裁決）",
+    "1　事実",
+    "(1)　事案の概要",
+    "(2)　関係法令の要旨",
+    "(3)　基礎事実及び審査請求に至る経緯",
+    "2　争点",
+    "3　争点についての主張",
+    "4　当審判所の判断",
+    "(1)　軽減加重措置の趣旨等について",
+    "(2)　検討",
+    "(3)　本件賦課決定処分の適法性について",
+    "(4)　結論"
+  ],
+  "citation": "平成29年9月1日裁決",
+  "document_number": "108-02",
+  "tags": [
+    "附帯税",
+    "所得税",
+    "相続税",
+    "相続"
+  ],
+  "etag": "\"7b99-64e399e438f10\"",
+  "last_modified": "Mon, 30 Mar 2026 08:27:15 GMT"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "saiketsu-02-048",
+  "title": "(平成26年５月13日裁決)",
+  "category": "納付義務の確定",
+  "category_code": "02",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/95/01/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2014-05-13",
+  "content_hash": "sha256:afa4d52e594ead3a9206e7ea78c07d66e3f37862eb10f0af0cb6e6efca912e6b",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "(平成26年５月13日裁決)",
+    "95-01",
+    "平成26年5月13日裁決"
+  ],
+  "headings": [
+    "(平成26年５月13日裁決)",
+    "１　事実",
+    "(1)　事案の概要",
+    "(2)　審査請求に至る経緯",
+    "(3)　関係法令",
+    "(4)　基礎事実",
+    "２　主張",
+    "３　判断",
+    "(1)　法令解釈",
+    "(2)　認定事実",
+    "(3)　判断",
+    "(4)　まとめ"
+  ],
+  "citation": "平成26年5月13日裁決",
+  "document_number": "95-01",
+  "tags": [
+    "納付義務の確定",
+    "所得税",
+    "相続税",
+    "国税通則法",
+    "相続",
+    "譲渡所得"
+  ],
+  "etag": "\"add9-64e3988db2a98\"",
+  "last_modified": "Mon, 30 Mar 2026 08:21:16 GMT"
+}

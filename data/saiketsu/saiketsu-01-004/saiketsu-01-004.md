@@ -4,12 +4,12 @@ title: "（平9.3.31裁決、裁決事例集No.53　1頁）"
 category: "総則"
 canonical_url: "https://www.kfs.go.jp/service/JP/53/01/index.html"
 source_type: saiketsu
-published_at: null
+published_at: "1997-03-31"
 updated_at: null
-crawled_at: "2026-04-12T05:24:16.922Z"
+crawled_at: "2026-04-12T07:00:00.000Z"
 content_hash: "sha256:de2565491109161ad419abcdcb6294470fea5ae63c628e8136dd0662e1474e6c"
 license: "国税不服審判所 公表裁決事例（利用規約に従って再配布）"
-version: 1
+version: 2
 aliases: ["（平9.3.31裁決、裁決事例集No.53　1頁）", "53-01", "裁決事例集 No.53 - 1頁"]
 ---
 

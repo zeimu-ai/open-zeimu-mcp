@@ -1,0 +1,44 @@
+{
+  "id": "saiketsu-05-014",
+  "title": "(平22.1.7、裁決事例集No.79)",
+  "category": "納税の猶予と担保",
+  "category_code": "05",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/79/03/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "updated_at": null,
+  "published_at": "2010-01-07",
+  "content_hash": "sha256:d2d7aff2aeba15cdb1fffd87ef3df52cba23e0431be46fbbab17a366beb3be80",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "(平22.1.7、裁決事例集No.79)",
+    "79-03",
+    "裁決事例集 No.79"
+  ],
+  "headings": [
+    "(平22.1.7、裁決事例集No.79)",
+    "1　事実",
+    "(1)　事案の概要",
+    "(2)　審査請求に至る経緯",
+    "(3)　関係法令等",
+    "(4)　基礎事実",
+    "2　争点",
+    "3　主張",
+    "(1)　争点1について",
+    "(2)　争点2について",
+    "4　判断",
+    "(1)　争点1について",
+    "(2)　争点2について",
+    "(3)　原処分のその他の部分については、当審判所に提出された証拠資料等によってもこれを不相当とする理由は認められないから、原処分は適法である。"
+  ],
+  "citation": "裁決事例集 No.79",
+  "document_number": "79-03",
+  "tags": [
+    "納税の猶予と担保",
+    "所得税",
+    "国税通則法"
+  ],
+  "etag": "\"7839-64e398d079e08\"",
+  "last_modified": "Mon, 30 Mar 2026 08:22:26 GMT"
+}

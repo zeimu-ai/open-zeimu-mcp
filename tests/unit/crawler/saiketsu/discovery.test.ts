@@ -54,4 +54,27 @@ describe("extractSaiketsuDocumentLinks", () => {
       },
     ]);
   });
+
+  it("returns article_point links even when the marker glyph is omitted", () => {
+    const documents = extractSaiketsuDocumentLinks({
+      html: `
+        <div class="article">
+          <p class="article_point"><a href="../../JP/103/01/index.html">平成28年5月20日裁決</a></p>
+          <p>《ポイント》課税処分は違法な調査に基づいていない。</p>
+        </div>
+      `,
+      baseUrl: "https://www.kfs.go.jp/service/MP/01/0203020000.html",
+      category: "更正又は決定",
+      categoryCode: "02",
+    });
+
+    expect(documents).toEqual([
+      {
+        url: "https://www.kfs.go.jp/service/JP/103/01/index.html",
+        citation: "平成28年5月20日裁決",
+        category: "更正又は決定",
+        categoryCode: "02",
+      },
+    ]);
+  });
 });

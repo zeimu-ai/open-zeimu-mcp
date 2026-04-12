@@ -1,42 +1,45 @@
 {
   "id": "saiketsu-02-034",
-  "title": "（平12.7.31裁決、裁決事例集No.60　15頁）",
+  "title": "（平12.6.26裁決、裁決事例集No.59　14頁）",
   "category": "納付義務の確定",
   "category_code": "02",
-  "canonical_url": "https://www.kfs.go.jp/service/JP/60/03/index.html",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/59/02/index.html",
   "source_type": "saiketsu",
-  "crawled_at": "2026-04-12T05:25:38.918Z",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
   "updated_at": null,
-  "published_at": null,
-  "content_hash": "sha256:8e9ab01a04d0eef881f1ad9e0f5e31b21875e53f35ba5371eb92d9a36ee7955c",
+  "published_at": "2000-06-26",
+  "content_hash": "sha256:48f32ed8738064dd8cdbf6d94f43100c787c518c1dda1b0b372bdaa5214b17ee",
   "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
-  "version": 1,
+  "version": 2,
   "aliases": [
-    "（平12.7.31裁決、裁決事例集No.60　15頁）",
-    "60-03",
-    "裁決事例集 No.60 - 15頁"
+    "（平12.6.26裁決、裁決事例集No.59　14頁）",
+    "59-02",
+    "裁決事例集 No.59 - 14頁"
   ],
   "headings": [
-    "（平12.7.31裁決、裁決事例集No.60　15頁）",
+    "（平12.6.26裁決、裁決事例集No.59　14頁）",
     "1　事実",
     "（1）事案の概要",
     "（2）審査請求に至る経緯",
     "（3）基礎事実",
     "2　主張",
-    "（1）請求人の主張",
-    "（2）原処分庁の主張",
+    "（1）請求人",
+    "（2）原処分庁",
     "3　判断",
     "（1）認定事実",
-    "（2）請求人の答述",
-    "（3）判断"
+    "（2）本件遺言後段に基づく遺贈の効力について",
+    "（3）更正の請求の適法性について",
+    "（4）相続財産の価額から控除すべき金銭債権の価額について"
   ],
-  "citation": "裁決事例集 No.60 - 15頁",
-  "document_number": "60-03",
+  "citation": "裁決事例集 No.59 - 14頁",
+  "document_number": "59-02",
   "tags": [
     "納付義務の確定",
-    "贈与税",
-    "国税通則法"
+    "所得税",
+    "相続税",
+    "国税通則法",
+    "相続"
   ],
-  "etag": "\"888a-64e3997610fd8\"",
-  "last_modified": "Mon, 30 Mar 2026 08:25:20 GMT"
+  "etag": "\"8fa6-64e3997c582b0\"",
+  "last_modified": "Mon, 30 Mar 2026 08:25:26 GMT"
 }

@@ -1,42 +1,43 @@
 {
   "id": "saiketsu-02-017",
-  "title": "(平成23年3月1日裁決)",
+  "title": "(平22.4.1、裁決事例集No.79)",
   "category": "納付義務の確定",
   "category_code": "02",
-  "canonical_url": "https://www.kfs.go.jp/service/JP/82/01/index.html",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/79/01/index.html",
   "source_type": "saiketsu",
-  "crawled_at": "2026-04-12T05:25:04.923Z",
+  "crawled_at": "2026-04-12T06:30:00.000Z",
   "updated_at": null,
-  "published_at": "2011-03-01",
-  "content_hash": "sha256:99aeea52fbd3bcc0c4e979e9a468f1f4b5a732a56929d1a0a0143bba8df678d4",
+  "published_at": "2010-04-01",
+  "content_hash": "sha256:63b222bcd396feec276f37c3b1b4568511dfdf7431f63b68c827917b198caebd",
   "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
-  "version": 1,
+  "version": 2,
   "aliases": [
-    "(平成23年3月1日裁決)",
-    "82-01",
-    "平成23年3月1日裁決"
+    "(平22.4.1、裁決事例集No.79)",
+    "79-01",
+    "裁決事例集 No.79"
   ],
   "headings": [
-    "(平成23年3月1日裁決)",
+    "(平22.4.1、裁決事例集No.79)",
     "1　事実",
     "(1)　事案の概要",
-    "(2)　審査請求に至る経緯",
-    "(3)　関係法令等",
-    "(4)　基礎事実",
-    "2　争点",
-    "3　主張",
-    "4　判断",
-    "(1)　法令解釈等",
-    "(2)　結論",
-    "(3)　その他"
+    "(2)　審査請求に至る経緯及び基礎事実",
+    "(3)　関係法令",
+    "2　本件贈与税に係る通知処分",
+    "(1)　主張",
+    "(2)　判断",
+    "3　本件相続税に係る通知処分",
+    "(1)　主張",
+    "(2)　判断"
   ],
-  "citation": "平成23年3月1日裁決",
-  "document_number": "82-01",
+  "citation": "裁決事例集 No.79",
+  "document_number": "79-01",
   "tags": [
     "納付義務の確定",
-    "消費税",
-    "国税通則法"
+    "相続税",
+    "贈与税",
+    "国税通則法",
+    "相続"
   ],
-  "etag": "\"84c6-64e398bdb2040\"",
-  "last_modified": "Mon, 30 Mar 2026 08:22:06 GMT"
+  "etag": "\"99ca-64e398d0c5ce0\"",
+  "last_modified": "Mon, 30 Mar 2026 08:22:26 GMT"
 }
