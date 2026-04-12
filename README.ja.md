@@ -22,6 +22,7 @@
 - `crawl:written-answer`: NTA 文書回答事例を Markdown + metadata に正規化する
 - `crawl:tsutatsu`: NTA 通達を Markdown + metadata に正規化する
 - `crawl:qa-case`: NTA 質疑応答事例を Markdown + metadata に正規化する
+- `crawl:saiketsu`: KFS 裁決事例を Markdown + metadata に正規化する
 - `precompute:embeddings`: packaged source を chunk 単位で埋め込み事前計算する
 - `release:vectors`: local semantic search 用 release asset の足場を生成する
 
@@ -291,12 +292,38 @@ data/qa_case/<id>/<id>.md
 data/qa_case/<id>/<id>.meta.json
 ```
 
+## 裁決事例 crawler
+
+`www.kfs.go.jp` の国税不服審判所 公表裁決事例を取得し、`robots.txt` を尊重し、
+`1 req/2sec` を守りながら Markdown / JSON metadata だけを書き出します。
+raw HTML は保存しません。
+
+dry-run:
+
+```bash
+npm run crawl:saiketsu -- --ids saiketsu-01-001,saiketsu-01-002 --data-dir ./data --repo-dir .
+```
+
+apply:
+
+```bash
+npm run crawl:saiketsu -- --apply --limit 50 --data-dir ./data --repo-dir .
+```
+
+出力先:
+
+```text
+data/saiketsu/<id>/<id>.md
+data/saiketsu/<id>/<id>.meta.json
+```
+
 ## データライセンス
 
 - NTA タックスアンサー: 国税庁公開データ
 - NTA 文書回答事例: 国税庁公開データ
 - NTA 通達: 国税庁公開データ
 - NTA 質疑応答事例: 国税庁公開の政府著作物（CC-BY 4.0 互換）
+- KFS 裁決事例: 国税不服審判所公開裁決事例
 
 ## Vector Release Scaffold
 

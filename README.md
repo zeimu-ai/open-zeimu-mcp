@@ -53,6 +53,7 @@ Example MCP client configuration:
 - `crawl:written-answer`: NTA Written Answer crawler to normalized Markdown + metadata
 - `crawl:tsutatsu`: NTA Tsutatsu crawler to normalized Markdown + metadata
 - `crawl:qa-case`: NTA QA case crawler to normalized Markdown + metadata
+- `crawl:saiketsu`: KFS saiketsu crawler to normalized Markdown + metadata
 - `precompute:embeddings`: local chunk embedding precompute for packaged sources
 - `release:vectors`: release-asset scaffold generator for local semantic search
 
@@ -312,12 +313,38 @@ data/qa_case/<id>/<id>.md
 data/qa_case/<id>/<id>.meta.json
 ```
 
+## Saiketsu Crawler
+
+The crawler fetches KFS public saiketsu pages from `www.kfs.go.jp`, respects
+`robots.txt`, enforces `1 req/2sec`, and writes only parsed Markdown / JSON
+metadata. Raw HTML is never persisted.
+
+Dry run against specific IDs:
+
+```bash
+npm run crawl:saiketsu -- --ids saiketsu-01-001,saiketsu-01-002 --data-dir ./data --repo-dir .
+```
+
+Apply changes and push a bot commit:
+
+```bash
+npm run crawl:saiketsu -- --apply --limit 50 --data-dir ./data --repo-dir .
+```
+
+Generated files follow:
+
+```text
+data/saiketsu/<id>/<id>.md
+data/saiketsu/<id>/<id>.meta.json
+```
+
 ## Data License
 
 - NTA Tax Answer: public data published by the National Tax Agency
 - NTA Written Answer: public data published by the National Tax Agency
 - NTA Tsutatsu: public data published by the National Tax Agency
 - NTA QA Case: CC-BY 4.0 compatible government work published by the National Tax Agency
+- KFS Saiketsu: public saiketsu data published by the National Tax Tribunal
 
 ## Vector Release Scaffold
 

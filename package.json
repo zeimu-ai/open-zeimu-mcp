@@ -45,6 +45,7 @@
     "crawl:qa-case": "node ./node_modules/tsx/dist/cli.mjs src/crawler/qa-case/cli.ts",
     "crawl:written-answer": "node ./node_modules/tsx/dist/cli.mjs src/crawler/written-answer/cli.ts",
     "crawl:tsutatsu": "node ./node_modules/tsx/dist/cli.mjs src/crawler/tsutatsu/cli.ts",
+    "crawl:saiketsu": "node ./node_modules/tsx/dist/cli.mjs src/crawler/saiketsu/cli.ts",
     "precompute:embeddings": "node ./node_modules/tsx/dist/cli.mjs scripts/precompute-embeddings.ts",
     "release:vectors": "node ./node_modules/tsx/dist/cli.mjs scripts/release-vectors.ts",
     "typecheck": "node ./node_modules/typescript/bin/tsc --noEmit",
