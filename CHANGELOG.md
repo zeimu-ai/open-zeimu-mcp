@@ -26,6 +26,8 @@
 - `search_saiketsu` MCP tool: 同梱済み裁決事例のみを対象に検索
 - `get_written_answer` MCP tool: 同梱済み文書回答事例本文を ID で取得
 - `search_written_answer` MCP tool: 同梱済み文書回答事例のみを対象に検索し `page_hint` を返す
+- `crawl:written-answer` と `src/crawler/written-answer/*`
+- 文書回答事例 80 件以上の実データ取り込み
 - `get_law` MCP tool: 法令名から e-Gov 法令 API v2 経由で法令本文を取得
 - `search_law` MCP tool: キーワードで e-Gov 法令 API v2 を検索し法令一覧を返す
 - `EgovRepository`: 24h in-memory cache (TTL 24h, max 500 entries, FIFO eviction)
