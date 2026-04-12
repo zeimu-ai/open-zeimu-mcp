@@ -69,4 +69,29 @@ describe("parseTsutatsuPage", () => {
     expect(result.document.aliases).toContain("第4章　通則");
     expect(result.markdown).toContain("# 第4章　通則");
   });
+
+  it("parses kobetsu document pages and derives the category from the kobetsu path", () => {
+    const result = parseTsutatsuPage({
+      html: `<!DOCTYPE html>
+<html lang="ja">
+  <body>
+    <div id="bodyArea">
+      <div class="page-header" id="page-top"><h1>個別通達の見出し</h1></div>
+      <h2>（適用範囲）</h2>
+      <p class="indent1"><strong>1－1　</strong>例示文です。</p>
+    </div>
+  </body>
+</html>`,
+      url: "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/houzin/01.htm",
+      crawledAt: "2026-04-12T01:00:00.000Z",
+    });
+
+    expect(result.document).toMatchObject({
+      id: "tsutatsu-hojin-houzin-01",
+      title: "個別通達の見出し",
+      category: "hojin",
+      canonicalUrl: "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/houzin/01.htm",
+    });
+    expect(result.meta.tags).toContain("法人税");
+  });
 });

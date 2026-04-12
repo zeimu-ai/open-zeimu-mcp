@@ -19,7 +19,7 @@ type FetchResponse = {
   status: number;
   ok: boolean;
   headers: Headers;
-  text(): Promise<string>;
+  arrayBuffer(): Promise<ArrayBuffer>;
 };
 
 export type TaxAnswerCrawlerOptions = {
@@ -73,7 +73,7 @@ export async function crawlTaxAnswer(options: TaxAnswerCrawlerOptions) {
         throw new Error(`Failed to fetch ${url}: ${response.status}`);
       }
 
-      const html = await response.text();
+      const html = await decodeHtmlResponse(response);
       let parsed;
       try {
         parsed = parseTaxAnswerHtml({ html, url, crawledAt });
@@ -195,6 +195,37 @@ async function fetchRobots({
 
   const robotsText = await response.text();
   return new TaxAnswerRobotsPolicy(robotsText);
+}
+
+async function decodeHtmlResponse(response: FetchResponse, fallbackCharset = "shift_jis") {
+  const arrayBuffer = await response.arrayBuffer();
+  const raw = new Uint8Array(arrayBuffer);
+  const headerCharset = response.headers.get("content-type")?.match(/charset=([^;]+)/iu)?.[1]?.trim();
+  const sniffedCharset = sniffCharset(raw);
+  const charset = headerCharset ?? sniffedCharset ?? fallbackCharset;
+  const decoder = new TextDecoder(charset);
+  return decoder.decode(arrayBuffer);
+}
+
+function sniffCharset(raw: Uint8Array) {
+  const head = new TextDecoder("latin1").decode(raw.slice(0, 4096));
+  const metaCharset = head.match(/charset\s*=\s*["']?([^"'>\s]+)/iu)?.[1]?.trim();
+
+  if (!metaCharset) {
+    return null;
+  }
+
+  const normalized = metaCharset.toLowerCase();
+
+  if (normalized === "shift_jis" || normalized === "shift-jis" || normalized === "sjis") {
+    return "shift_jis";
+  }
+
+  if (normalized === "utf-8" || normalized === "utf8") {
+    return "utf-8";
+  }
+
+  return metaCharset;
 }
 
 async function discoverTaxAnswerUrls({

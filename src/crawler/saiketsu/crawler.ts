@@ -324,7 +324,7 @@ async function decodeHtmlResponse(response: FetchResponse, fallbackCharset = "sh
 
 function extractSaiketsuCategory({ html, fallback }: { html: string; fallback: string }) {
   const group = extractInstanceParam(html, "GroupName");
-  return group || extractInstanceParam(html, "PageTitle") || fallback;
+  return group || extractInstanceParam(html, "PageTitle") || extractHeadingText(html) || fallback;
 }
 
 function extractInstanceParam(html: string, name: string) {
@@ -332,6 +332,16 @@ function extractInstanceParam(html: string, name: string) {
     new RegExp(`InstanceParam name="${name}" type="text" value="([^"]*)"`, "i"),
   );
   return match?.[1] ?? "";
+}
+
+function extractHeadingText(html: string) {
+  const match = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/iu);
+
+  if (!match?.[1]) {
+    return "";
+  }
+
+  return match[1].replace(/<[^>]+>/gu, "").replace(/[ \t]+/gu, " ").trim();
 }
 
 function extractCategoryCode(url: string) {

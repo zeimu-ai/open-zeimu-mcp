@@ -15,6 +15,7 @@ export function extractTaxAnswerLinks(html: string, baseUrl: string) {
 
     try {
       const url = new URL(href, baseUrl);
+      url.hash = "";
 
       if (TAX_ANSWER_PAGE_PATTERN.test(url.toString())) {
         urls.add(assertAllowedTaxAnswerUrl(url.toString()).toString());
@@ -42,6 +43,7 @@ export function extractTaxAnswerSeedPages(html: string, baseUrl: string) {
     }
 
     const url = new URL(href, baseUrl);
+    url.hash = "";
 
     if (
       url.pathname.startsWith("/taxes/shiraberu/taxanswer/code/bunya-") &&

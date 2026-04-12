@@ -119,6 +119,29 @@ describe("parseTaxAnswerHtml", () => {
     );
   });
 
+  it("keeps external links instead of failing when the destination host is not allowlisted", async () => {
+    const html = `<!DOCTYPE html>
+<html lang="ja">
+  <body>
+    <div id="bodyArea">
+      <div class="page-header" id="page-top">
+        <h1>No.1200 税額控除</h1>
+      </div>
+      <h2>参考</h2>
+      <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">説明動画</a></p>
+    </div>
+  </body>
+</html>`;
+
+    const parsed = parseTaxAnswerHtml({
+      html,
+      url: "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1200.htm",
+      crawledAt: "2026-04-11T12:34:56.000Z",
+    });
+
+    expect(parsed.markdown).toContain("[説明動画](https://www.youtube.com/watch?v=dQw4w9WgXcQ)");
+  });
+
   it("parses pages that use the full-content contents wrapper instead of bodyArea", async () => {
     const html = `<!DOCTYPE html>
 <html lang="ja">

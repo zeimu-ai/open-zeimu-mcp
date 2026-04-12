@@ -163,7 +163,7 @@ function createContentHash(markdown: string) {
 }
 
 function extractCategory(pathname: string) {
-  const match = pathname.match(/\/law\/tsutatsu\/kihon\/([^/]+)\//u);
+  const match = pathname.match(/\/law\/tsutatsu\/(?:kihon|kobetsu)\/([^/]+)\//u);
 
   if (!match) {
     throw new Error(`Unexpected tsutatsu category pathname: ${pathname}`);
@@ -173,7 +173,7 @@ function extractCategory(pathname: string) {
 }
 
 function extractPageSlug(pathname: string) {
-  const match = pathname.match(/\/law\/tsutatsu\/kihon\/[^/]+\/(.+)\.htm$/u);
+  const match = pathname.match(/\/law\/tsutatsu\/(?:kihon|kobetsu)\/[^/]+\/(.+)\.htm$/u);
 
   if (!match) {
     throw new Error(`Unexpected tsutatsu pathname: ${pathname}`);

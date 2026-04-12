@@ -77,14 +77,34 @@ export async function crawlTsutatsu(options: TsutatsuCrawlerOptions) {
       assertAllowedTsutatsuUrl(url);
       const crawledAt = now().toISOString();
       await limiter.wait();
-      const response = (await fetchImpl(url)) as FetchResponse;
+      let response: FetchResponse;
+
+      try {
+        response = (await fetchWithTimeout(fetchImpl, url, 30_000)) as FetchResponse;
+      } catch (error) {
+        logger.warn(`[tsutatsu] skipping fetch timeout url=${url} reason=${getErrorMessage(error)}`);
+        continue;
+      }
 
       if (!response.ok) {
         throw new Error(`Failed to fetch ${url}: ${response.status}`);
       }
 
       const html = await decodeHtmlResponse(response);
-      const parsed = parseTsutatsuPage({ html, url, crawledAt });
+      let parsed;
+
+      try {
+        parsed = parseTsutatsuPage({ html, url, crawledAt });
+      } catch (error) {
+        if (isUnsupportedTsutatsuPageError(error)) {
+          logger.warn(
+            `[tsutatsu] skipping unsupported page url=${url} reason=${getErrorMessage(error)}`,
+          );
+          continue;
+        }
+
+        throw error;
+      }
       const current = await readStoredTsutatsuDocument(options.dataDir, parsed.document.id);
       const change = detectTsutatsuChange({
         current:
@@ -308,7 +328,7 @@ function estimateDiskUsage(count: number) {
 
 function inferTsutatsuId(url: string) {
   const pathname = new URL(url).pathname;
-  const match = pathname.match(/\/law\/tsutatsu\/kihon\/([^/]+)\/(.+)\.htm$/iu);
+  const match = pathname.match(/\/law\/tsutatsu\/(?:kihon|kobetsu)\/([^/]+)\/(.+)\.htm$/iu);
 
   if (!match) {
     throw new Error(`Unexpected tsutatsu url: ${url}`);
@@ -321,11 +341,36 @@ function inferTsutatsuId(url: string) {
 
 function extractCategoryFromUrl(url: string) {
   const pathname = new URL(url).pathname;
-  const match = pathname.match(/\/law\/tsutatsu\/kihon\/([^/]+)\//u);
+  const match = pathname.match(/\/law\/tsutatsu\/(?:kihon|kobetsu)\/([^/]+)\//u);
 
   if (!match) {
     throw new Error(`Unexpected tsutatsu url: ${url}`);
   }
 
   return match[1];
+}
+
+function isUnsupportedTsutatsuPageError(error: unknown) {
+  if (!(error instanceof Error)) {
+    return false;
+  }
+
+  return /Failed to locate #bodyArea|Failed to parse closing boundary for #bodyArea/u.test(
+    error.message,
+  );
+}
+
+function getErrorMessage(error: unknown) {
+  return error instanceof Error ? error.message : String(error);
+}
+
+async function fetchWithTimeout(inputFetch: typeof fetch, url: string, timeoutMs: number) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), timeoutMs);
+
+  try {
+    return await inputFetch(url, { signal: controller.signal });
+  } finally {
+    clearTimeout(timeout);
+  }
 }

@@ -350,11 +350,23 @@ function convertInline(fragment: string) {
       return label;
     }
 
-    const absoluteUrl = toAbsoluteTaxAnswerUrl(href, "https://www.nta.go.jp/taxes/shiraberu/taxanswer/index2.htm");
-    return `[${label}](${absoluteUrl})`;
+    const absoluteUrl = resolveInlineLink(href);
+    return absoluteUrl ? `[${label}](${absoluteUrl})` : label;
   });
 
   return normalizeText(stripAllTags(withLinks, { preserveMarkdownLinks: true }));
+}
+
+function resolveInlineLink(href: string) {
+  try {
+    return toAbsoluteTaxAnswerUrl(href, "https://www.nta.go.jp/taxes/shiraberu/taxanswer/index2.htm");
+  } catch {
+    try {
+      return new URL(href, "https://www.nta.go.jp/taxes/shiraberu/taxanswer/index2.htm").toString();
+    } catch {
+      return null;
+    }
+  }
 }
 
 function stripAllTags(html: string, options: { preserveMarkdownLinks?: boolean } = {}) {

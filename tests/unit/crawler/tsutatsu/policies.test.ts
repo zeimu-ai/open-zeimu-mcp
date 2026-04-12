@@ -43,6 +43,9 @@ describe("assertAllowedTsutatsuUrl", () => {
       assertAllowedTsutatsuUrl("https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/01.htm"),
     ).not.toThrow();
     expect(() =>
+      assertAllowedTsutatsuUrl("https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/houzin.htm"),
+    ).not.toThrow();
+    expect(() =>
       assertAllowedTsutatsuUrl("https://evil.example.com/law/tsutatsu/kihon/shotoku/01/01.htm"),
     ).toThrow(/Disallowed host/u);
   });

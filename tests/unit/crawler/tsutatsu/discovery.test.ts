@@ -13,6 +13,9 @@ describe("discoverTsutatsuIndexPages", () => {
           <li><a href="/law/tsutatsu/kihon/shotoku/01.htm">所得税法</a></li>
           <li><a href="/law/tsutatsu/kihon/sisan/sozoku2/01.htm">相続税法</a></li>
           <li><a href="/law/tsutatsu/kihon/hojin/01.htm">法人税法</a></li>
+          <li><a href="/law/tsutatsu/kobetsu/hojin/houzin.htm">法人税法の個別通達</a></li>
+          <li><a href="/law/tsutatsu/kobetsu/sonota/sochiho/sotihou.htm">措置法通達</a></li>
+          <li><a href="/law/tsutatsu/kobetsu/hojin/kaisei/kaisei_a.htm">改正通達</a></li>
           <li><a href="/law/tsutatsu/kihon/chosyu/index.htm">国税徴収法</a></li>
           <li><a href="/law/tsutatsu/kihon/tsusoku/00.htm">国税通則法</a></li>
           <li><a href="/law/tsutatsu/kihon/tainoshobun/index.htm">滞納処分と強制執行等との手続の調整に関する法律</a></li>
@@ -25,16 +28,18 @@ describe("discoverTsutatsuIndexPages", () => {
       baseUrl: "https://www.nta.go.jp/law/tsutatsu/menu.htm",
     });
 
-    expect(urls).toEqual([
-      "https://www.nta.go.jp/law/tsutatsu/kihon/chosyu/index.htm",
-      "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01.htm",
-      "https://www.nta.go.jp/law/tsutatsu/kihon/inshi/mokuji.htm",
-      "https://www.nta.go.jp/law/tsutatsu/kihon/shinsaseikyu/00.htm",
-      "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01.htm",
-      "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01.htm",
-      "https://www.nta.go.jp/law/tsutatsu/kihon/tainoshobun/index.htm",
-      "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/00.htm",
-    ]);
+      expect(urls).toEqual([
+        "https://www.nta.go.jp/law/tsutatsu/kihon/chosyu/index.htm",
+        "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01.htm",
+        "https://www.nta.go.jp/law/tsutatsu/kihon/inshi/mokuji.htm",
+        "https://www.nta.go.jp/law/tsutatsu/kihon/shinsaseikyu/00.htm",
+        "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01.htm",
+        "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01.htm",
+        "https://www.nta.go.jp/law/tsutatsu/kihon/tainoshobun/index.htm",
+        "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/00.htm",
+        "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/houzin.htm",
+        "https://www.nta.go.jp/law/tsutatsu/kobetsu/sonota/sochiho/sotihou.htm",
+      ]);
   });
 });
 
@@ -46,6 +51,8 @@ describe("extractTsutatsuLinks", () => {
         <p><a href="/law/tsutatsu/kihon/sisan/sozoku2/01/03.htm#a-01">〔公社債〕</a></p>
         <p><a href="/law/tsutatsu/kihon/sisan/sozoku2/00/01.htm">前文・説明文</a></p>
         <p><a href="/law/tsutatsu/kihon/sisan/sozoku2/01.htm">章一覧</a></p>
+        <p><a href="/law/tsutatsu/kobetsu/hojin/houzin/01.htm">法人税法の個別通達</a></p>
+        <p><a href="/law/tsutatsu/kobetsu/sonota/sochiho/sotihou/01.htm#page-top">措置法通達</a></p>
       `,
       "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01.htm",
     );
@@ -54,6 +61,8 @@ describe("extractTsutatsuLinks", () => {
       "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/00/01.htm",
       "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/01.htm",
       "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/03.htm",
+      "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/houzin/01.htm",
+      "https://www.nta.go.jp/law/tsutatsu/kobetsu/sonota/sochiho/sotihou/01.htm",
     ]);
   });
 });

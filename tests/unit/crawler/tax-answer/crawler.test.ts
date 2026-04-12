@@ -2,6 +2,7 @@ import { mkdtemp, readFile } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 
+import iconv from "iconv-lite";
 import { describe, expect, it } from "vitest";
 
 import { crawlTaxAnswer, inferCategoryFromId } from "../../../../src/crawler/tax-answer/crawler.js";
@@ -89,6 +90,77 @@ describe("crawlTaxAnswer", () => {
       etag: '"fixture-etag-1200"',
     });
     expect(metadata.headings).toContain("関連コード");
+  });
+
+  it("decodes Shift_JIS encoded HTML before parsing tax answer content", async () => {
+    const workspace = await mkdtemp(join(tmpdir(), "open-zeimu-mcp-tax-answer-"));
+    const dataDir = join(workspace, "data");
+    const repoDir = workspace;
+    const html = `<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="shift_jis">
+  </head>
+  <body>
+    <div id="bodyArea">
+      <div class="page-header" id="page-top">
+        <h1>No.1200 税額控除</h1>
+      </div>
+      <h2>対象税目</h2>
+      <p>所得税</p>
+    </div>
+  </body>
+</html>`;
+    const encodedHtml = iconv.encode(html, "shift_jis");
+    const fetchImpl: typeof fetch = async (input) => {
+      const url = typeof input === "string" ? input : input.url;
+
+      if (url === "https://www.nta.go.jp/robots.txt") {
+        return new Response("User-agent: *\nDisallow: /private/\n", { status: 200 });
+      }
+
+      if (url.endsWith("/shotoku/1200.htm")) {
+        return new Response(encodedHtml, {
+          status: 200,
+          headers: {
+            "content-type": "text/html",
+          },
+        });
+      }
+
+      return new Response("not found", { status: 404 });
+    };
+
+    const result = await crawlTaxAnswer({
+      dataDir,
+      repoDir,
+      apply: false,
+      dryRun: false,
+      limit: null,
+      ids: ["1200"],
+      logger: console,
+      fetchImpl,
+      now: () => new Date("2026-04-11T12:34:56.000Z"),
+    });
+
+    expect(result).toMatchObject({
+      discoveredCount: 1,
+      newCount: 1,
+      updatedCount: 0,
+      unchangedCount: 0,
+    });
+
+    const markdown = await readFile(join(dataDir, "tax_answer/1200/1200.md"), "utf8");
+    const metadata = JSON.parse(
+      await readFile(join(dataDir, "tax_answer/1200/1200.meta.json"), "utf8"),
+    ) as {
+      title: string;
+      content_hash: string;
+    };
+
+    expect(markdown).toContain("# 税額控除");
+    expect(metadata.title).toBe("税額控除");
+    expect(metadata.content_hash).toMatch(/^sha256:/u);
   });
 
   it("routes explicit ids to the NTA category slug used by the code index", () => {

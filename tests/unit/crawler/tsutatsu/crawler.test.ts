@@ -269,6 +269,98 @@ describe("crawlTsutatsu", () => {
     expect(shinsaseikyuMarkdown).toContain("# 前文・説明文");
   });
 
+  it("skips unsupported pages and continues crawling the remaining targets", async () => {
+    const workspace = await mkdtemp(join(tmpdir(), "open-zeimu-mcp-tsutatsu-"));
+    const dataDir = join(workspace, "data");
+    const repoDir = workspace;
+    const messages: string[] = [];
+    const logger = {
+      info: (_message?: unknown) => {},
+      warn: (message?: unknown) => messages.push(String(message)),
+      error: (_message?: unknown) => {},
+    };
+    const fetchImpl: typeof fetch = async (input) => {
+      const url = typeof input === "string" ? input : input.url;
+
+      if (url === "https://www.nta.go.jp/robots.txt") {
+        return new Response("User-agent: *\nDisallow: /private/\n", { status: 200 });
+      }
+
+      if (url === "https://www.nta.go.jp/law/tsutatsu/menu.htm") {
+        return new Response(
+          `
+            <ul>
+              <li><a href="/law/tsutatsu/kihon/shotoku/01.htm">所得税法</a></li>
+              <li><a href="/law/tsutatsu/kihon/sisan/sozoku2/01.htm">相続税法</a></li>
+            </ul>
+          `,
+          { status: 200 },
+        );
+      }
+
+      if (url === "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01.htm") {
+        return new Response(shotokuIndexHtml, { status: 200 });
+      }
+
+      if (url === "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01.htm") {
+        return new Response(sisanIndexHtml, { status: 200 });
+      }
+
+      if (url === "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/01.htm") {
+        return new Response(shotokuDocumentHtml, {
+          status: 200,
+          headers: {
+            etag: '"fixture-etag-tsu-shotoku"',
+            "last-modified": "Fri, 11 Apr 2026 00:00:00 GMT",
+          },
+        });
+      }
+
+      if (url === "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/01.htm") {
+        return new Response(
+          `<!DOCTYPE html>
+<html lang="ja">
+  <body>
+    <div class="full-content contents">
+      <h1>壊れたページ</h1>
+    </div>
+  </body>
+</html>`,
+          {
+            status: 200,
+            headers: {
+              etag: '"fixture-etag-tsu-broken"',
+              "last-modified": "Fri, 11 Apr 2026 00:00:00 GMT",
+            },
+          },
+        );
+      }
+
+      return new Response("not found", { status: 404 });
+    };
+
+    const result = await crawlTsutatsu({
+      dataDir,
+      repoDir,
+      apply: false,
+      dryRun: false,
+      limit: null,
+      ids: [],
+      logger,
+      fetchImpl,
+      now: () => new Date("2026-04-12T01:00:00.000Z"),
+      limiter: { wait: async () => {} },
+    });
+
+    expect(result).toMatchObject({
+      discoveredCount: 2,
+      newCount: 1,
+      updatedCount: 0,
+      unchangedCount: 0,
+    });
+    expect(messages.some((message) => message.includes("skipping unsupported page"))).toBe(true);
+  });
+
   it("skips discovery when robots.txt disallows the root", async () => {
     const workspace = await mkdtemp(join(tmpdir(), "open-zeimu-mcp-tsutatsu-"));
 

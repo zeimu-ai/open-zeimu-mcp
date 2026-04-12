@@ -21,6 +21,13 @@ const sectionHtml = `
   </div>
 `;
 
+const sectionHtmlWithH1Fallback = `
+  <div>
+    <h1>納付すべき税額の確定方式</h1>
+    <p class="article_point">▼ <a href="../../JP/108/01/index.html">平成29年8月22日裁決</a></p>
+  </div>
+`;
+
 const firstDocumentHtml = `<!DOCTYPE html>
 <html lang="ja">
   <body>
@@ -133,6 +140,75 @@ describe("crawlSaiketsu", () => {
       etag: '"fixture-etag-saiketsu-2"',
       category: "総則",
     });
+  });
+
+  it("falls back to the section h1 when GroupName and PageTitle are missing", async () => {
+    const workspace = await mkdtemp(join(tmpdir(), "open-zeimu-mcp-saiketsu-"));
+    const dataDir = join(workspace, "data");
+    const repoDir = workspace;
+    const fetchImpl: typeof fetch = async (input) => {
+      const url = typeof input === "string" ? input : input.url;
+
+      if (url === "https://www.kfs.go.jp/robots.txt") {
+        return new Response("User-agent: *\nDisallow: /private/\n", { status: 200 });
+      }
+
+      if (url === "https://www.kfs.go.jp/service/MP/01/index.html") {
+        return new Response(
+          `
+            <ul>
+              <li><a href="0204000000.html">納付すべき税額の確定方式</a></li>
+            </ul>
+          `,
+          { status: 200 },
+        );
+      }
+
+      if (url === "https://www.kfs.go.jp/service/MP/01/0204000000.html") {
+        return new Response(sectionHtmlWithH1Fallback, { status: 200 });
+      }
+
+      if (url === "https://www.kfs.go.jp/service/JP/108/01/index.html") {
+        return new Response(firstDocumentHtml, {
+          status: 200,
+          headers: {
+            etag: '"fixture-etag-saiketsu-1"',
+            "last-modified": "Fri, 11 Apr 2026 00:00:00 GMT",
+          },
+        });
+      }
+
+      return new Response("not found", { status: 404 });
+    };
+
+    const result = await crawlSaiketsu({
+      dataDir,
+      repoDir,
+      apply: false,
+      dryRun: false,
+      limit: null,
+      ids: [],
+      logger: console,
+      fetchImpl,
+      now: () => new Date("2026-04-12T01:00:00.000Z"),
+      limiter: { wait: async () => {} },
+    });
+
+    expect(result).toMatchObject({
+      discoveredCount: 1,
+      newCount: 1,
+      updatedCount: 0,
+      unchangedCount: 0,
+    });
+
+    const metadata = JSON.parse(
+      await readFile(
+        join(dataDir, "saiketsu/saiketsu-02-001/saiketsu-02-001.meta.json"),
+        "utf8",
+      ),
+    ) as { category: string };
+
+    expect(metadata.category).toBe("納付すべき税額の確定方式");
   });
 
   it("skips discovery when robots.txt disallows the root", async () => {

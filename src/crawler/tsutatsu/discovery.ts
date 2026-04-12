@@ -1,9 +1,11 @@
 import { assertAllowedTsutatsuUrl } from "./url-policy.js";
 
-const CATEGORY_INDEX_PATTERN =
+const KIHON_INDEX_PATTERN =
   /https:\/\/www\.nta\.go\.jp\/law\/tsutatsu\/kihon\/[a-z0-9_-]+(?:\/[a-z0-9_-]+)*\/(?:01|00|index|mokuji)\.htm$/iu;
+const KOBETSU_INDEX_PATTERN =
+  /https:\/\/www\.nta\.go\.jp\/law\/tsutatsu\/kobetsu\/(?!.*\/kaisei\/)[a-z0-9_-]+(?:\/[a-z0-9_-]+)*\/[a-z0-9_-]+\.htm$/iu;
 const DOCUMENT_PAGE_PATTERN =
-  /https:\/\/www\.nta\.go\.jp\/law\/tsutatsu\/kihon\/[a-z0-9_-]+(?:\/[a-z0-9_-]+)*\/.+?\.htm$/iu;
+  /https:\/\/www\.nta\.go\.jp\/law\/tsutatsu\/(?:kihon|kobetsu)\/(?!.*\/kaisei\/)[a-z0-9_-]+(?:\/[a-z0-9_-]+)*\/[a-z0-9_-]+\.htm$/iu;
 
 export async function discoverTsutatsuIndexPages({
   html,
@@ -26,11 +28,12 @@ export async function discoverTsutatsuIndexPages({
       url.hash = "";
       const value = url.toString();
 
-      if (CATEGORY_INDEX_PATTERN.test(value)) {
+      if (KIHON_INDEX_PATTERN.test(value) || KOBETSU_INDEX_PATTERN.test(value)) {
         urls.add(assertAllowedTsutatsuUrl(value).toString());
       }
 
-      CATEGORY_INDEX_PATTERN.lastIndex = 0;
+      KIHON_INDEX_PATTERN.lastIndex = 0;
+      KOBETSU_INDEX_PATTERN.lastIndex = 0;
     } catch {
       continue;
     }
