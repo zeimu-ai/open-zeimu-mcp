@@ -111,6 +111,50 @@ describe("buildGetLawResult", () => {
     expect(result.content.length).toBeGreaterThan(0);
   });
 
+  it("filters content to specified article", async () => {
+    const fetch = makeFetch(lawListFixture, lawDataFixture);
+    const repo = new EgovRepository();
+
+    const result = await buildGetLawResult({
+      input: getLawInputSchema.parse({ law_name: "印紙税法", article: "1" }),
+      repo,
+      fetch,
+    });
+
+    expect(result.content).toContain("第一条");
+    expect(result.content).not.toContain("第二条");
+  });
+
+  it("filters content to specified article and paragraph", async () => {
+    const fetch = makeFetch(lawListFixture, lawDataFixture);
+    const repo = new EgovRepository();
+
+    const result = await buildGetLawResult({
+      input: getLawInputSchema.parse({ law_name: "印紙税法", article: "1", paragraph: 1 }),
+      repo,
+      fetch,
+    });
+
+    expect(result.content).toContain("第一条");
+    expect(result.content).toContain("別表第一の課税物件の欄に掲げる文書には");
+    expect(result.content).not.toContain("第二条");
+  });
+
+  it("returns full content when article not found", async () => {
+    const fetch = makeFetch(lawListFixture, lawDataFixture);
+    const repo = new EgovRepository();
+
+    const result = await buildGetLawResult({
+      input: getLawInputSchema.parse({ law_name: "印紙税法", article: "999" }),
+      repo,
+      fetch,
+    });
+
+    // 指定条文が見つからない場合は全体を返す
+    expect(result.content).toContain("第一条");
+    expect(result.content).toContain("第二条");
+  });
+
   it("throws when law_name not found in search results", async () => {
     const emptyList = { total_count: 0, offset: 0, limit: 10, laws: [] };
     const fetch = makeFetch(emptyList, lawDataFixture);

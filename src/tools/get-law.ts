@@ -52,8 +52,16 @@ export async function buildGetLawResult({
 
   const lawData = await repo.getLawData(matched.law_id, { fetch });
 
-  const content =
-    input.format === "toc" ? buildToc(lawData.content) : lawData.content;
+  let body = lawData.content;
+
+  if (input.article) {
+    const filtered = extractArticleSection(body, input.article, input.paragraph);
+    if (filtered !== null) {
+      body = filtered;
+    }
+  }
+
+  const content = input.format === "toc" ? buildToc(body) : body;
 
   return {
     source_type: "law",
@@ -63,6 +71,83 @@ export async function buildGetLawResult({
     content,
     retrieved_at: lawData.retrieved_at,
   };
+}
+
+const KANJI_DIGITS = ["〇", "一", "二", "三", "四", "五", "六", "七", "八", "九"];
+
+/**
+ * アラビア数字 → 法令用漢数字変換（1〜999対応）
+ * "1" → "一", "10" → "十", "23" → "二十三", "100" → "百", "123" → "百二十三"
+ */
+function toKanjiNum(n: string): string {
+  const num = Number(n);
+  if (!Number.isFinite(num) || num < 1) return n;
+
+  const parts: string[] = [];
+  const hundreds = Math.floor(num / 100);
+  const tens = Math.floor((num % 100) / 10);
+  const ones = num % 10;
+
+  if (hundreds > 0) {
+    parts.push(hundreds > 1 ? KANJI_DIGITS[hundreds] : "", "百");
+  }
+  if (tens > 0) {
+    parts.push(tens > 1 ? KANJI_DIGITS[tens] : "", "十");
+  }
+  if (ones > 0) {
+    parts.push(KANJI_DIGITS[ones]);
+  }
+
+  return parts.join("") || n;
+}
+
+/**
+ * Markdown 本文から指定条の内容を抽出する
+ * article: "1" → "第一条" を探す
+ * paragraph: 1 → 該当項のみ返す（段落は条の中で1始まりの連番）
+ * 見つからない場合は null（全体返却にフォールバック）
+ */
+function extractArticleSection(
+  markdown: string,
+  article: string,
+  paragraph?: number,
+): string | null {
+  const kanjiArticle = `第${toKanjiNum(article)}条`;
+  const lines = markdown.split("\n");
+
+  let sectionStart = -1;
+  let sectionEnd = lines.length;
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    if (line.startsWith("## ") && line.includes(kanjiArticle)) {
+      sectionStart = i;
+    } else if (sectionStart >= 0 && line.startsWith("## ")) {
+      sectionEnd = i;
+      break;
+    }
+  }
+
+  if (sectionStart < 0) {
+    return null;
+  }
+
+  const sectionLines = lines.slice(sectionStart, sectionEnd);
+
+  if (paragraph === undefined) {
+    return sectionLines.join("\n").trim();
+  }
+
+  // 段落フィルタリング: 条見出し + 指定項の段落テキスト
+  const heading = sectionLines[0];
+  const contentLines = sectionLines.slice(1).join("\n").trim().split("\n\n");
+  const paraText = contentLines[paragraph - 1];
+
+  if (!paraText) {
+    return sectionLines.join("\n").trim();
+  }
+
+  return `${heading}\n\n${paraText}`.trim();
 }
 
 /**
