@@ -23,12 +23,7 @@ export async function readStoredSaiketsuDocument(
 
   try {
     const raw = await readFile(metadataPath, "utf8");
-    const metadata = JSON.parse(raw) as {
-      content_hash?: string | null;
-      etag?: string | null;
-      last_modified?: string | null;
-      version?: number | null;
-    };
+    const metadata = JSON.parse(raw) as Partial<ParsedSaiketsu["meta"]>;
 
     return {
       id,
