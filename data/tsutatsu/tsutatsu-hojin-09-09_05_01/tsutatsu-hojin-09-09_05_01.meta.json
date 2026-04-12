@@ -1,0 +1,33 @@
+{
+  "id": "tsutatsu-hojin-09-09_05_01",
+  "title": "第1款　租税",
+  "category": "hojin",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/09/09_05_01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:07:39.724Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:caddf8104eee24aefe23dd2c6af427008a1111dd9dffc7056e6f2ffe1e1acc87",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1款　租税",
+    "第5節　租税公課等",
+    "9-5-1"
+  ],
+  "headings": [
+    "第1款　租税",
+    "第1款　租税",
+    "(租税の損金算入の時期)",
+    "(事業税及び特別法人事業税の損金算入の時期の特例)",
+    "(強制徴収等に係る源泉所得税)",
+    "(道府県民税等の減免に代えて交付を受けた補助金等)"
+  ],
+  "citation": "第5節　租税公課等",
+  "document_number": "9-5-1",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"23e7-64a2398b54418\"",
+  "last_modified": "Fri, 06 Feb 2026 08:30:06 GMT"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "tsutatsu-chosyu-02",
+  "title": "引用の法令番号一覧表",
+  "category": "chosyu",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/chosyu/02.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T09:57:59.182Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:454cef39cc8ab7a72d1669673b4da419e21bdf6c3e8c6530c7f04466e2b9e06c",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "引用の法令番号一覧表"
+  ],
+  "headings": [
+    "引用の法令番号一覧表",
+    "引用の法令番号一覧表"
+  ],
+  "citation": null,
+  "document_number": null,
+  "tags": [
+    "chosyu"
+  ],
+  "etag": "\"569f-60f3508dac7d8\"",
+  "last_modified": "Thu, 18 Jan 2024 09:31:56 GMT"
+}
