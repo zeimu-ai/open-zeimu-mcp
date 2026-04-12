@@ -1,261 +1,250 @@
-# Contributing to open-zeimu-mcp
+# open-zeimu-mcp へのコントリビューション
 
-Thank you for your interest in contributing to open-zeimu-mcp! This document provides guidelines and
-instructions for contributing to the project.
+open-zeimu-mcp へのコントリビューションに関心を持っていただきありがとうございます！このドキュメントでは、コントリビューションのガイドラインと手順を説明します。
 
-## 🙏 Welcome!
+## 🙏 はじめに
 
-open-zeimu-mcp is a CLI tool for managing Zoom meetings via Server-to-Server OAuth. We welcome
-contributions from everyone, whether you're fixing a bug, adding a feature, or improving
-documentation.
+open-zeimu-mcp は、日本の税務一次情報（タックスアンサー・文書回答事例・通達・質疑応答事例・裁決事例）を取得・検索するための OSS MCP サーバーです。バグ修正・機能追加・ドキュメント改善など、あらゆるコントリビューションを歓迎します。
 
-## 📖 Table of Contents
+## 📖 目次
 
-- [Ways to Contribute](#ways-to-contribute)
-- [Before You Start](#before-you-start)
-- [Development Setup](#development-setup)
-- [Coding Standards](#coding-standards)
-- [Testing Requirements](#testing-requirements)
-- [Submitting Changes](#submitting-changes)
-- [Code Review Process](#code-review-process)
-- [Community Guidelines](#community-guidelines)
-- [Getting Help](#getting-help)
+- [コントリビューションの方法](#コントリビューションの方法)
+- [開始前に](#開始前に)
+- [開発環境のセットアップ](#開発環境のセットアップ)
+- [コーディング規約](#コーディング規約)
+- [テスト要件](#テスト要件)
+- [変更の提出](#変更の提出)
+- [コードレビュープロセス](#コードレビュープロセス)
+- [コミュニティガイドライン](#コミュニティガイドライン)
+- [ヘルプを得るには](#ヘルプを得るには)
 
-## 🚀 Ways to Contribute
+## 🚀 コントリビューションの方法
 
-### You can contribute by:
+以下のような形でコントリビューションできます：
 
-- 🐛 **Reporting bugs** - Found an issue? Let us know!
-- 💡 **Suggesting features** - Have an idea? We'd love to hear it
-- 📝 **Improving documentation** - Help make our docs clearer
-- 🔧 **Submitting bug fixes** - Fix issues and help improve stability
-- ✨ **Adding new features** - Expand open-zeimu-mcp's capabilities (discuss first!)
+- 🐛 **バグ報告** — 問題を見つけたら Issue で報告してください
+- 💡 **機能提案** — 新しいアイデアを Issue で提案してください
+- 📝 **ドキュメント改善** — README や docs をより分かりやすくする
+- 🔧 **バグ修正** — Issue を修正して安定性を向上させる
+- ✨ **新機能の追加** — 機能を拡張する（事前に Issue で相談してください）
 
-## 🎯 Before You Start
+## 🎯 開始前に
 
-1. **Check existing issues/PRs** to avoid duplication
-2. **For new features**, open an issue first to discuss the proposal
-3. **Read our [Testing Guide](docs/TESTING.md)** to understand our testing approach
-4. **Ensure you understand our [Code of Conduct](CODE_OF_CONDUCT.md)**
+1. **既存の Issue/PR を確認** して重複を避ける
+2. **新機能の場合**、先に Issue を作成して提案内容を議論する
+3. **[テストガイド](docs/TESTING.md)** でテスト方針を理解する
+4. **[行動規範](CODE_OF_CONDUCT.md)** を読んで理解する
 
-## 💻 Development Setup
+## 💻 開発環境のセットアップ
 
-### Prerequisites
+### 必要な環境
 
-- Node.js 18+ / npm 9+
-- Zoom Server-to-Server OAuth credentials ([How to get credentials](https://developers.zoom.us/docs/internal-apps/))
+- Node.js 22+ / npm 10+
 
-### Setup Steps
+### セットアップ手順
 
 ```bash
-# 1. Fork and clone the repository
+# 1. リポジトリをフォーク・クローン
 git clone https://github.com/YOUR_USERNAME/open-zeimu-mcp.git
 cd open-zeimu-mcp
 
-# 2. Install dependencies
-npm install
+# 2. 依存パッケージをインストール
+npm install --include=dev
 
-# 3. Set up environment variables
-cp .env.example .env
-# Edit .env with your Zoom credentials:
-# ZOOM_ACCOUNT_ID=your_account_id
-# ZOOM_CLIENT_ID=your_client_id
-# ZOOM_CLIENT_SECRET=your_client_secret
-
-# 4. Run tests to verify setup
+# 3. テストを実行して環境確認
 npm test
 
-# 5. Build the project
+# 4. ビルド
 npm run build
 
-# 6. Test the CLI locally
-node dist/index.js --version
+# 5. ローカルで起動確認
+npm start
 ```
 
-## 📐 Coding Standards
+## 📐 コーディング規約
 
-### TypeScript Style
+### TypeScript スタイル
 
-- Use **strict TypeScript mode** (already configured)
-- Prefer `const` over `let`, avoid `var`
-- Use descriptive variable names (`meetingId` not `id`)
-- Avoid `any` type - use `unknown` if needed
-- Add types for function parameters and return values
+- **strict モード**を使用（設定済み）
+- `const` を優先、`let` は必要最小限、`var` は使用しない
+- 意味のある変数名を使う（`taxAnswerId` など、省略しない）
+- `any` 型を避け、必要な場合は `unknown` を使う
+- 関数の引数と戻り値には型を付ける
 
-### Code Organization
+### コード構成
 
-- Keep functions small and focused (single responsibility)
-- Extract complex logic into separate functions
-- Add comments only when logic isn't self-evident
-- Follow existing patterns in the codebase
+- 関数は小さく、単一責任の原則に従う
+- 複雑なロジックは別関数に切り出す
+- コメントは自明でない処理にのみ付ける
+- 既存のコードパターンに合わせる
 
-### Commit Message Convention
+### コミットメッセージ規約
 
-Format: `<type>: <subject>`
+形式: `<type>: <subject>`
 
-**Types:**
-- `feat:` New feature
-- `fix:` Bug fix
-- `test:` Test additions/changes
-- `docs:` Documentation changes
-- `refactor:` Code refactoring (no functional changes)
-- `chore:` Maintenance tasks (dependencies, tooling)
+**タイプ:**
+- `feat:` 新機能
+- `fix:` バグ修正
+- `test:` テストの追加・変更
+- `docs:` ドキュメントの変更
+- `refactor:` リファクタリング（機能変更なし）
+- `chore:` メンテナンス（依存関係更新、ツール設定等）
 
-**Examples:**
+**例:**
 ```
-feat: add support for recurring meetings
-fix: correct timezone conversion in formatDate function
-test: add validation tests for update command
-docs: update README with new --json flag
-refactor: extract validation logic to separate module
-chore: update dependencies to latest versions
+feat: 横断検索ツール search_all を追加
+fix: search_tsutatsu のカテゴリフィルタが効かない問題を修正
+test: search_qa_case のページネーション境界値テストを追加
+docs: EMBEDDING_BACKEND=local の設定手順を追記
+refactor: lexical search のスコアリングロジックを整理
+chore: @modelcontextprotocol/sdk を最新バージョンに更新
 ```
 
-## 🧪 Testing Requirements
+## 🧪 テスト要件
 
-**All code contributions MUST include tests.**
+**コードのコントリビューションにはテストが必須です。**
 
-### Test Types
+### テストの種類
 
-1. **Unit Tests** - Test individual functions in isolation
-2. **Validation Tests** - Test CLI input validation logic
-3. **Output Tests** - Test CLI output formatting (text and JSON)
-4. **Error Handling Tests** - Test error scenarios and exit codes
+1. **ユニットテスト** — 個別の関数を独立してテスト
+2. **バリデーションテスト** — 入力バリデーションのロジックをテスト
+3. **統合テスト** — ツールの実行フロー全体をテスト
+4. **エラーハンドリングテスト** — エラーシナリオと異常系をテスト
 
-### Running Tests
+### テストの実行
 
 ```bash
-# Run all tests
+# すべてのテストを実行
 npm test
 
-# Run tests in watch mode (during development)
+# ウォッチモードで実行（開発時）
 npm test -- --watch
 
-# Run specific test file
-npm test src/__tests__/api.test.ts
+# 特定のテストファイルのみ実行
+npm test src/__tests__/tools.test.ts
 ```
 
-### Test Writing Guidelines
+### テスト作成ガイドライン
 
-- Follow **Arrange/Act/Assert** pattern
-- One assertion per test when possible
-- Use descriptive test names: `it("should reject invalid ISO 8601 datetime", ...)`
-- Mock external dependencies (`fetch`, `process.env`)
-- See **[docs/TESTING.md](docs/TESTING.md)** for comprehensive testing guide
+- **Arrange/Act/Assert** パターンに従う
+- できる限り 1 テスト 1 アサーション
+- テスト名は明確に: `it("should return empty array when no results found", ...)`
+- 外部依存（fetch、ファイルシステム等）はモック化する
+- 詳細は **[docs/TESTING.md](docs/TESTING.md)** を参照
 
-### Test Coverage Expectations
+### テストカバレッジの期待値
 
-- **New features**: 100% coverage for new code
-- **Bug fixes**: Add regression test reproducing the bug
-- **Refactoring**: Maintain or improve existing coverage
+- **新機能**: 新規コードは 100% カバー
+- **バグ修正**: バグを再現する回帰テストを追加
+- **リファクタリング**: 既存のカバレッジを維持または改善
 
-## 📝 Submitting Changes
+## 📝 変更の提出
 
-### Pull Request Process
+### プルリクエストの手順
 
-#### 1. Create a branch
+#### 1. ブランチを作成
 
 ```bash
 git checkout -b feat/your-feature-name
-# or
+# または
 git checkout -b fix/your-bug-fix
 ```
 
-#### 2. Make your changes
+#### 2. 変更を実装
 
-- Write code
-- Add tests
-- Update documentation if needed
+- コードを書く
+- テストを追加する
+- 必要に応じてドキュメントを更新する
 
-#### 3. Ensure quality
+#### 3. 品質を確認
 
 ```bash
-npm test          # All tests must pass
-npm run build     # Build must succeed
+npm test          # すべてのテストが通過すること
+npm run build     # ビルドが成功すること
+npm run typecheck # 型エラーがないこと
 ```
 
-#### 4. Commit your changes
+#### 4. コミット
 
 ```bash
 git add .
-git commit -m "feat: add your feature description"
+git commit -m "feat: 変更内容の説明"
 ```
 
-#### 5. Push and create PR
+#### 5. プッシュして PR を作成
 
 ```bash
 git push origin feat/your-feature-name
-# Then create PR via GitHub UI
+# GitHub UI で PR を作成する
 ```
 
-#### 6. Fill out PR template
+#### 6. PR テンプレートを記入
 
-- Describe what changed and why
-- Link related issues with `Closes #123`
-- Provide testing evidence
-- Check all applicable boxes in the template
+- 変更内容と理由を記述する
+- `Closes #123` で関連 Issue をリンクする
+- テスト証拠を記載する
+- テンプレートのチェックボックスを確認する
 
-### PR Requirements Checklist
+### PR 提出前チェックリスト
 
-Before submitting, ensure:
+- ✅ すべてのテストが通過する（`npm test`）
+- ✅ ビルドが成功する（`npm run build`）
+- ✅ 型チェックが通過する（`npm run typecheck`）
+- ✅ コードがプロジェクトスタイルに従っている
+- ✅ コミットメッセージが規約に従っている
+- ✅ 新機能にはテストを追加した
+- ✅ ドキュメントを更新した（必要な場合）
+- ✅ PR テンプレートに全項目を記入した
 
-- ✅ All tests pass (`npm test`)
-- ✅ Build succeeds (`npm run build`)
-- ✅ Code follows project style
-- ✅ Commit messages follow convention
-- ✅ Tests added for new functionality
-- ✅ Documentation updated (if applicable)
-- ✅ PR template fully completed
+### レビューの流れ
 
-### What to Expect
+- **初回レビュー**: 2〜3 営業日以内を目安
+- **フィードバック**: メンテナーからコメントが付く場合があります
+- **承認・マージ**: すべての要件を満たした後にマージします
 
-- **Initial review** within 2-3 business days
-- **Feedback** and requested changes from maintainers
-- **Approval and merge** once all requirements are met
+## 👀 コードレビュープロセス
 
-## 👀 Code Review Process
+### コントリビューターとして
 
-### For Contributors
+- フィードバックや質問に **迅速に対応する**
+- 不明な点は **確認を求める**
+- 同一ブランチに追加コミットをプッシュする（PR は自動更新される）
+- **辛抱強く丁寧に** プロセスを進める
 
-- **Be responsive** to feedback and questions
-- **Ask for clarification** if feedback is unclear
-- **Push updates** to the same branch (PR will auto-update)
-- **Be patient and respectful** throughout the process
+### レビュー観点
 
-### Review Criteria
+レビュアーは以下を確認します：
 
-Reviewers will check:
+- ✅ **機能性** — 意図通りに動作するか
+- ✅ **テスト** — 網羅的でテストが通過するか
+- ✅ **コード品質** — 読みやすく保守しやすいか
+- ✅ **ドキュメント** — 分かりやすく最新か
+- ✅ **パフォーマンス** — 明らかなパフォーマンス問題がないか
+- ✅ **セキュリティ** — 潜在的な脆弱性がないか
 
-- ✅ **Functionality** - Does it work as intended?
-- ✅ **Tests** - Are they comprehensive and passing?
-- ✅ **Code Quality** - Is it readable and maintainable?
-- ✅ **Documentation** - Is it clear and up-to-date?
-- ✅ **Performance** - Are there any obvious performance issues?
-- ✅ **Security** - Are there any potential vulnerabilities?
+## 🤝 コミュニティガイドライン
 
-## 🤝 Community Guidelines
+- すべてのコントリビューターを歓迎し、尊重する
+- [行動規範](CODE_OF_CONDUCT.md) に従う
+- 建設的なフィードバックを提供する
+- 善意を前提とする
+- お互いの成長を助け合う
 
-- Be respectful and welcoming to all contributors
-- Follow our [Code of Conduct](CODE_OF_CONDUCT.md)
-- Provide constructive feedback
-- Assume good intentions
-- Help others learn and grow
+## 📬 ヘルプを得るには
 
-## 📬 Getting Help
+- 💬 **質問** — [GitHub Discussions](https://github.com/zeimu-ai/open-zeimu-mcp/discussions) で質問する
+- 🐛 **バグ報告** — [Issue を作成](https://github.com/zeimu-ai/open-zeimu-mcp/issues/new?template=bug_report.yml)
+- 💡 **機能リクエスト** — [Issue を作成](https://github.com/zeimu-ai/open-zeimu-mcp/issues/new?template=feature_request.yml)
+- ❓ **その他の質問** — [Issue を作成](https://github.com/zeimu-ai/open-zeimu-mcp/issues/new?template=question.yml)
 
-- 💬 **Questions** - Open a [GitHub Discussion](https://github.com/tackeyy/open-zeimu-mcp/discussions)
-- 🐛 **Bug Reports** - Open an [Issue](https://github.com/tackeyy/open-zeimu-mcp/issues/new?template=bug_report.yml)
-- 💡 **Feature Requests** - Open an [Issue](https://github.com/tackeyy/open-zeimu-mcp/issues/new?template=feature_request.yml)
-- ❓ **General Questions** - Open an [Issue](https://github.com/tackeyy/open-zeimu-mcp/issues/new?template=question.yml)
+## 🙌 謝辞
 
-## 🙌 Recognition
+すべてのコントリビューターを以下で称えます：
 
-All contributors are recognized in:
-
-- GitHub Contributors page
-- Release notes (for significant contributions)
-- Our gratitude and thanks! 🎉
+- GitHub Contributors ページ
+- 重要なコントリビューションはリリースノートに記載
+- 心からの感謝！ 🎉
 
 ---
 
-Thank you for contributing to open-zeimu-mcp! Your efforts help make this tool better for everyone.
+open-zeimu-mcp へのコントリビューションありがとうございます！皆さんの貢献がこのツールをより良くします。
