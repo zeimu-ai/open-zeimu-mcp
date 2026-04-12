@@ -1,0 +1,32 @@
+{
+  "id": "qa-hotei-2-02",
+  "title": "行政書士に報酬を支払った場合",
+  "category": "hotei",
+  "category_path": "法定調書",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hotei/2/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T06:20:00.000Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4d570d951d93e747d7e7f3b6f2b5ab5ecc8729888b0a5749a209e057237893a7",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "行政書士に報酬を支払った場合",
+    "2-02"
+  ],
+  "headings": [
+    "行政書士に報酬を支払った場合",
+    "行政書士に報酬を支払った場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第204条第1項第2号、第225条第1項第3号、所得税法施行令第320条第2項",
+  "document_number": "2-02",
+  "tags": [
+    "法定調書"
+  ],
+  "etag": "\"125c-6450808da5c18\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:10 GMT"
+}

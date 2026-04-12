@@ -1,0 +1,32 @@
+{
+  "id": "qa-hotei-7-14",
+  "title": "給与等の金額が2,000万円を超える者の源泉徴収票の記載要領",
+  "category": "hotei",
+  "category_path": "法定調書",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hotei/7/14.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T06:20:00.000Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c7dfb266d2c17476b3faf1a7a64134e40417a1d0f24754b9a72da8e724910e53",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "給与等の金額が2,000万円を超える者の源泉徴収票の記載要領",
+    "7-14"
+  ],
+  "headings": [
+    "給与等の金額が2,000万円を超える者の源泉徴収票の記載要領",
+    "給与等の金額が2,000万円を超える者の源泉徴収票の記載要領",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第190条、第226条第1項、所得税法施行規則第93条第1項、別表第六（一）",
+  "document_number": "7-14",
+  "tags": [
+    "法定調書"
+  ],
+  "etag": "\"1bc7-6450808c9e158\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:09 GMT"
+}

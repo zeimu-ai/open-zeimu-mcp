@@ -190,6 +190,12 @@ function extractCaseCode(pathname: string) {
     return `${lawMatch[1]}-${lawMatch[2]}`;
   }
 
+  const hoteiMatch = pathname.match(/^\/law\/shitsugi\/hotei\/([0-9]{1,2})\/([0-9]{2})\.htm$/u);
+
+  if (hoteiMatch) {
+    return `${hoteiMatch[1]}-${hoteiMatch[2]}`;
+  }
+
   const sakeMatch = pathname.match(/^\/taxes\/sake\/qa\/([0-9]{2})\/([0-9]{2})\.htm$/u);
 
   if (sakeMatch) {

@@ -1,0 +1,32 @@
+{
+  "id": "qa-hotei-2-03",
+  "title": "弁護士に支払う旅費相当額",
+  "category": "hotei",
+  "category_path": "法定調書",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hotei/2/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T06:20:00.000Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6ffd103920f3d16cdc9e666986412141f1264678455cec0f0bfdd1651b660521",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "弁護士に支払う旅費相当額",
+    "2-03"
+  ],
+  "headings": [
+    "弁護士に支払う旅費相当額",
+    "弁護士に支払う旅費相当額",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第204条第1項第2号、第225条第1項第3号、所得税基本通達204-2、204-4",
+  "document_number": "2-03",
+  "tags": [
+    "法定調書"
+  ],
+  "etag": "\"13b2-6450808d9b420\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:10 GMT"
+}

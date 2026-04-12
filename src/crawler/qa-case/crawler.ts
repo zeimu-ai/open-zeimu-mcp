@@ -273,6 +273,12 @@ function estimateDiskUsage(count: number) {
 }
 
 function inferUrlFromId(id: string) {
+  const hoteiMatch = id.match(/^qa-hotei-([0-9]{1,2})-([0-9]{2})$/u);
+
+  if (hoteiMatch) {
+    return `https://www.nta.go.jp/law/shitsugi/hotei/${hoteiMatch[1]}/${hoteiMatch[2]}.htm`;
+  }
+
   const match = id.match(/^qa-([a-z0-9_-]+)-([0-9]{2})-([0-9]{2})$/u);
 
   if (!match) {

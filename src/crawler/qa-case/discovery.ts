@@ -7,6 +7,7 @@ const CATEGORY_INDEX_PATTERNS = [
 
 const CASE_PAGE_PATTERNS = [
   /^https:\/\/www\.nta\.go\.jp\/law\/shitsugi\/[a-z0-9_-]+\/[0-9]{2}\/[0-9]{2}\.htm$/u,
+  /^https:\/\/www\.nta\.go\.jp\/law\/shitsugi\/hotei\/[0-9]{1,2}\/[0-9]{2}\.htm$/u,
   /^https:\/\/www\.nta\.go\.jp\/taxes\/sake\/qa\/[0-9]{2}\/[0-9]{2}\.htm$/u,
 ];
 

@@ -1,0 +1,32 @@
+{
+  "id": "qa-hotei-8-02",
+  "title": "死亡による退職の場合",
+  "category": "hotei",
+  "category_path": "法定調書",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hotei/8/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T06:20:00.000Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:59b331c79e5da9fd801ebe320b2bcad2ab13f0595ea77953357d8f0467ca1b28",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "死亡による退職の場合",
+    "8-02"
+  ],
+  "headings": [
+    "死亡による退職の場合",
+    "死亡による退職の場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第226条第2項、所得税基本通達9-17、34-2、相続税法第3条第1項第2号、第59条第1項第2号、相続税法施行規則第30条第3項",
+  "document_number": "8-02",
+  "tags": [
+    "法定調書"
+  ],
+  "etag": "\"15fe-6450808c54990\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:09 GMT"
+}

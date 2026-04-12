@@ -1,0 +1,32 @@
+{
+  "id": "qa-hotei-7-12",
+  "title": "「給与所得の源泉徴収票」の「住所又は居所」欄の記載方法",
+  "category": "hotei",
+  "category_path": "法定調書",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hotei/7/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T06:20:00.000Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:cdafa5aa4c986c880a2bfdad53b3519375fe42c98f4fe48c5e082feeaeb2850d",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "「給与所得の源泉徴収票」の「住所又は居所」欄の記載方法",
+    "7-12"
+  ],
+  "headings": [
+    "「給与所得の源泉徴収票」の「住所又は居所」欄の記載方法",
+    "「給与所得の源泉徴収票」の「住所又は居所」欄の記載方法",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第226条第1項、所得税法施行規則別表第六(一)備考2（1）、地方税法第317条の6",
+  "document_number": "7-12",
+  "tags": [
+    "法定調書"
+  ],
+  "etag": "\"1338-6450808cb3148\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:09 GMT"
+}

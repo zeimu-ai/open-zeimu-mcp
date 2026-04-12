@@ -7,7 +7,7 @@ canonical_url: https://www.nta.go.jp/law/shitsugi/hotei/10/01.htm
 source_type: qa_case
 published_at: null
 updated_at: null
-crawled_at: 2026-04-12T05:51:15.877Z
+crawled_at: 2026-04-12T06:20:00.000Z
 content_hash: sha256:37183d44aa0949b0b42884f96d104b0e6b70e6a7d6cdd5f65df13106a33da2d9
 license: "国税庁 質疑応答事例（CC-BY 4.0 互換）"
 version: 1

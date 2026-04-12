@@ -1,0 +1,32 @@
+{
+  "id": "qa-hotei-7-11",
+  "title": "主たる給与の支払者が交代した場合の記載方法",
+  "category": "hotei",
+  "category_path": "法定調書",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hotei/7/11.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T06:20:00.000Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:85d11cfd7251296537f728d4bc84afb7191679bb66ca2beef263f75fd1ce08ea",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "主たる給与の支払者が交代した場合の記載方法",
+    "7-11"
+  ],
+  "headings": [
+    "主たる給与の支払者が交代した場合の記載方法",
+    "主たる給与の支払者が交代した場合の記載方法",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第190条第1項第1号、所得税法施行令第311条、所得税法施行規則第93条第1項第3号、別表第六(一)備考2（17）（ホ）、所得税基本通達190－2",
+  "document_number": "7-11",
+  "tags": [
+    "法定調書"
+  ],
+  "etag": "\"1bc3-6450808cbe110\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:09 GMT"
+}

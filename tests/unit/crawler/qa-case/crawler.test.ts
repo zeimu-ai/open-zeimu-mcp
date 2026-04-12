@@ -10,6 +10,7 @@ const rootHtml = `
   <ul>
     <li><a href="/law/shitsugi/shotoku/01.htm">所得税</a></li>
     <li><a href="/taxes/sake/qa/01.htm">酒税</a></li>
+    <li><a href="/law/shitsugi/hotei/01.htm">法定調書</a></li>
   </ul>
 `;
 
@@ -19,6 +20,10 @@ const categoryHtml = `
 
 const sakeCategoryHtml = `
   <p><a href="/taxes/sake/qa/01/01.htm">酒類の定義</a></p>
+`;
+
+const hoteiCategoryHtml = `
+  <p><a href="/law/shitsugi/hotei/1/01.htm">法定調書の提出範囲</a></p>
 `;
 
 const caseHtml = `<!DOCTYPE html>
@@ -57,6 +62,24 @@ const sakeCaseHtml = `<!DOCTYPE html>
   </body>
 </html>`;
 
+const hoteiCaseHtml = `<!DOCTYPE html>
+<html lang="ja">
+  <body>
+    <div id="bodyArea">
+      <ol class="breadcrumb">
+        <li><a href="/law/shitsugi/hotei/01.htm">法定調書</a></li>
+      </ol>
+      <div class="page-header" id="page-top"><h1>法定調書の提出範囲</h1></div>
+      <h2>【照会要旨】</h2>
+      <p>法定調書の提出範囲を確認したいです。</p>
+      <h2>【回答要旨】</h2>
+      <p>提出が必要な法定調書は法令により定められています。</p>
+      <h2>【関係法令通達】</h2>
+      <p>所得税法第225条</p>
+    </div>
+  </body>
+</html>`;
+
 const unsupportedCaseHtml = `<!DOCTYPE html>
 <html lang="ja">
   <body>
@@ -90,6 +113,10 @@ describe("crawlQaCase", () => {
         return new Response(sakeCategoryHtml, { status: 200 });
       }
 
+      if (url === "https://www.nta.go.jp/law/shitsugi/hotei/01.htm") {
+        return new Response(hoteiCategoryHtml, { status: 200 });
+      }
+
       if (url === "https://www.nta.go.jp/law/shitsugi/shotoku/01/01.htm") {
         return new Response(caseHtml, {
           status: 200,
@@ -105,6 +132,16 @@ describe("crawlQaCase", () => {
           status: 200,
           headers: {
             etag: '"fixture-etag-sake"',
+            "last-modified": "Fri, 11 Apr 2026 00:00:00 GMT",
+          },
+        });
+      }
+
+      if (url === "https://www.nta.go.jp/law/shitsugi/hotei/1/01.htm") {
+        return new Response(hoteiCaseHtml, {
+          status: 200,
+          headers: {
+            etag: '"fixture-etag-hotei"',
             "last-modified": "Fri, 11 Apr 2026 00:00:00 GMT",
           },
         });
@@ -127,8 +164,8 @@ describe("crawlQaCase", () => {
     });
 
     expect(result).toMatchObject({
-      discoveredCount: 2,
-      newCount: 2,
+      discoveredCount: 3,
+      newCount: 3,
       updatedCount: 0,
       unchangedCount: 0,
     });
@@ -170,6 +207,25 @@ describe("crawlQaCase", () => {
       version: 1,
       etag: '"fixture-etag-sake"',
     });
+
+    const hoteiMarkdown = await readFile(
+      join(dataDir, "qa_case/qa-hotei-1-01/qa-hotei-1-01.md"),
+      "utf8",
+    );
+    const hoteiMetadata = JSON.parse(
+      await readFile(
+        join(dataDir, "qa_case/qa-hotei-1-01/qa-hotei-1-01.meta.json"),
+        "utf8",
+      ),
+    ) as { id: string; version: number; etag: string };
+
+    expect(hoteiMarkdown).toContain('id: "qa-hotei-1-01"');
+    expect(hoteiMarkdown).toContain("# 法定調書の提出範囲");
+    expect(hoteiMetadata).toMatchObject({
+      id: "qa-hotei-1-01",
+      version: 1,
+      etag: '"fixture-etag-hotei"',
+    });
   });
 
   it("skips unsupported pages and continues crawling", async () => {
@@ -199,6 +255,10 @@ describe("crawlQaCase", () => {
         return new Response("<p>empty</p>", { status: 200 });
       }
 
+      if (url === "https://www.nta.go.jp/law/shitsugi/hotei/01.htm") {
+        return new Response("<p><a href=\"/law/shitsugi/hotei/1/01.htm\">法定調書の提出範囲</a></p>", { status: 200 });
+      }
+
       if (url === "https://www.nta.go.jp/law/shitsugi/shotoku/01/01.htm") {
         return new Response(caseHtml, {
           status: 200,
@@ -210,6 +270,10 @@ describe("crawlQaCase", () => {
       }
 
       if (url === "https://www.nta.go.jp/law/shitsugi/shotoku/01/02.htm") {
+        return new Response(unsupportedCaseHtml, { status: 200 });
+      }
+
+      if (url === "https://www.nta.go.jp/law/shitsugi/hotei/1/01.htm") {
         return new Response(unsupportedCaseHtml, { status: 200 });
       }
 
@@ -236,7 +300,7 @@ describe("crawlQaCase", () => {
     });
 
     expect(result).toMatchObject({
-      discoveredCount: 2,
+      discoveredCount: 3,
       newCount: 1,
       updatedCount: 0,
       unchangedCount: 0,

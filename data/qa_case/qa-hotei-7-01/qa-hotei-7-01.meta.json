@@ -1,0 +1,32 @@
+{
+  "id": "qa-hotei-7-01",
+  "title": "中途就職者の提出範囲",
+  "category": "hotei",
+  "category_path": "法定調書",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hotei/7/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T06:20:00.000Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5694ec15778fac4157dbafe86ab967476b14ad56c608372523e907c9aa677f64",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "中途就職者の提出範囲",
+    "7-01"
+  ],
+  "headings": [
+    "中途就職者の提出範囲",
+    "中途就職者の提出範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第190条、所得税法施行規則第93条第2項第1号、第3号、別表第六（一）備考2（17）（ニ）",
+  "document_number": "7-01",
+  "tags": [
+    "法定調書"
+  ],
+  "etag": "\"152c-6450808d32858\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:10 GMT"
+}

@@ -46,6 +46,7 @@ describe("extractQaCaseLinks", () => {
       `
         <p><a href="/law/shitsugi/shohi/02/01.htm">会社員が行う建物の貸付けの取扱い</a></p>
         <p><a href="/law/shitsugi/shohi/02/42.htm">会社員が自宅に設置した太陽光発電設備による余剰電力の売却</a></p>
+        <p><a href="/law/shitsugi/hotei/1/01.htm">法定調書の提出範囲</a></p>
         <p><a href="/taxes/sake/qa/01/01.htm">酒類の定義</a></p>
         <p><a href="/law/bunshokaito/shohi/09_1.htm#a-01">文書回答事例</a></p>
       `,
@@ -53,6 +54,7 @@ describe("extractQaCaseLinks", () => {
     );
 
     expect(urls).toEqual([
+      "https://www.nta.go.jp/law/shitsugi/hotei/1/01.htm",
       "https://www.nta.go.jp/law/shitsugi/shohi/02/01.htm",
       "https://www.nta.go.jp/law/shitsugi/shohi/02/42.htm",
       "https://www.nta.go.jp/taxes/sake/qa/01/01.htm",

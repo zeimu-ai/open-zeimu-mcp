@@ -1,0 +1,32 @@
+{
+  "id": "qa-hotei-2-04",
+  "title": "司法書士に支払った登録免許税等",
+  "category": "hotei",
+  "category_path": "法定調書",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hotei/2/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T06:20:00.000Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:acf833b72bfba2c0ce0d32076e034bbd61328425ee520a3a0043eafbc5c2310a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "司法書士に支払った登録免許税等",
+    "2-04"
+  ],
+  "headings": [
+    "司法書士に支払った登録免許税等",
+    "司法書士に支払った登録免許税等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第204条第1項第2号、第225条第1項第3号、所得税基本通達204-11",
+  "document_number": "2-04",
+  "tags": [
+    "法定調書"
+  ],
+  "etag": "\"1393-6450808d92398\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:10 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-hotei-7-06",
+  "title": "未払の給与がある場合の記載方法",
+  "category": "hotei",
+  "category_path": "法定調書",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hotei/7/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T06:20:00.000Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:83700d6dcbf98a738d3fb5c7ae6fa75a90007d6ed7eb7808195b1ca9b74b1396",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "未払の給与がある場合の記載方法",
+    "7-06"
+  ],
+  "headings": [
+    "未払の給与がある場合の記載方法",
+    "未払の給与がある場合の記載方法",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第190条、所得税法施行規則別表第六（一）備考2（3）、（6）",
+  "document_number": "7-06",
+  "tags": [
+    "法定調書"
+  ],
+  "etag": "\"1468-6450808cea418\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:10 GMT"
+}

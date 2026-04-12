@@ -1,0 +1,32 @@
+{
+  "id": "qa-hotei-4-05",
+  "title": "不動産の賃借料を管理会社へ支払っている場合",
+  "category": "hotei",
+  "category_path": "法定調書",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hotei/4/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T06:20:00.000Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e571db516e3fa1e0e20d7025481fccc9616fe9a8317619b0c9eed3785ca80fbe",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "不動産の賃借料を管理会社へ支払っている場合",
+    "4-05"
+  ],
+  "headings": [
+    "不動産の賃借料を管理会社へ支払っている場合",
+    "不動産の賃借料を管理会社へ支払っている場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第225条第1項第9号、所得税法施行規則第90条第1項",
+  "document_number": "4-05",
+  "tags": [
+    "法定調書"
+  ],
+  "etag": "\"130c-6450808d5a510\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:10 GMT"
+}

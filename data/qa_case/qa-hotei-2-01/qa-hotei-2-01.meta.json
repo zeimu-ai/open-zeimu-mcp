@@ -1,0 +1,32 @@
+{
+  "id": "qa-hotei-2-01",
+  "title": "法人に対して支払った報酬等",
+  "category": "hotei",
+  "category_path": "法定調書",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hotei/2/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T06:20:00.000Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:12ab6e03a7874081505ef236db0d5285bc0e62880016a2089d60dd31cca1afa3",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "法人に対して支払った報酬等",
+    "2-01"
+  ],
+  "headings": [
+    "法人に対して支払った報酬等",
+    "法人に対して支払った報酬等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第174条、第204条第1項、第212条第3項、第225条第1項第3号",
+  "document_number": "2-01",
+  "tags": [
+    "法定調書"
+  ],
+  "etag": "\"1399-6450808db0fc8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:10 GMT"
+}

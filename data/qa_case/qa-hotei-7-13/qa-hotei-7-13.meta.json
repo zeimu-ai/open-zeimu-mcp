@@ -1,0 +1,32 @@
+{
+  "id": "qa-hotei-7-13",
+  "title": "居住者が年の中途で出国した場合の「給与所得の源泉徴収票」の「住所又は居所」欄の記載方法",
+  "category": "hotei",
+  "category_path": "法定調書",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hotei/7/13.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T06:20:00.000Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d40c003b596d81dacd26be7de99a2be9bea13d13d4571b80b50ea130bc2f5a8b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "居住者が年の中途で出国した場合の「給与所得の源泉徴収票」の「住所又は居所」欄の記載方法",
+    "7-13"
+  ],
+  "headings": [
+    "居住者が年の中途で出国した場合の「給与所得の源泉徴収票」の「住所又は居所」欄の記載方法",
+    "居住者が年の中途で出国した場合の「給与所得の源泉徴収票」の「住所又は居所」欄の記載方法",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第190条、所得税法施行規則第93条第1項第1号、第93条第1項第11号、別表第六（一）備考2（1）、所得税基本通達190－1(2)",
+  "document_number": "7-13",
+  "tags": [
+    "法定調書"
+  ],
+  "etag": "\"132c-6450808ca8950\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:09 GMT"
+}

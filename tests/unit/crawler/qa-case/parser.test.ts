@@ -44,6 +44,27 @@ const sakeFixtureHtml = `<!DOCTYPE html>
   </body>
 </html>`;
 
+const hoteiFixtureHtml = `<!DOCTYPE html>
+<html lang="ja">
+  <body>
+    <div id="bodyArea">
+      <ol class="breadcrumb">
+        <li><a href="/">ホーム</a></li>
+        <li><a href="/law/index.htm">法令等</a></li>
+        <li><a href="/law/shitsugi/01.htm">質疑応答事例</a></li>
+        <li><a href="/law/shitsugi/hotei/01.htm">法定調書</a></li>
+      </ol>
+      <div class="page-header" id="page-top"><h1>法定調書の提出範囲</h1></div>
+      <h2>【照会要旨】</h2>
+      <p>法定調書の提出範囲を確認したいです。</p>
+      <h2>【回答要旨】</h2>
+      <p>提出が必要な法定調書は法令により定められています。</p>
+      <h2>【関係法令通達】</h2>
+      <p>所得税法第225条</p>
+    </div>
+  </body>
+</html>`;
+
 describe("parseQaCasePage", () => {
   it("extracts 照会要旨 / 回答要旨 / 関係法令通達 sections", () => {
     const result = parseQaCasePage({
@@ -82,5 +103,20 @@ describe("parseQaCasePage", () => {
       canonicalUrl: "https://www.nta.go.jp/taxes/sake/qa/01/01.htm",
     });
     expect(result.document.metadata.category_path).toBe("総則");
+  });
+
+  it("parses the hotei qa_case path with a one-digit subsection folder", () => {
+    const result = parseQaCasePage({
+      html: hoteiFixtureHtml,
+      url: "https://www.nta.go.jp/law/shitsugi/hotei/1/01.htm",
+      crawledAt: "2026-04-12T01:00:00.000Z",
+    });
+
+    expect(result.document).toMatchObject({
+      id: "qa-hotei-1-01",
+      category: "hotei",
+      canonicalUrl: "https://www.nta.go.jp/law/shitsugi/hotei/1/01.htm",
+    });
+    expect(result.document.metadata.category_path).toBe("法定調書");
   });
 });

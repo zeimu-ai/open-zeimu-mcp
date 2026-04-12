@@ -1,0 +1,32 @@
+{
+  "id": "qa-hotei-4-01",
+  "title": "建物の賃借に伴って支払われる保証金",
+  "category": "hotei",
+  "category_path": "法定調書",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hotei/4/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T06:20:00.000Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3270be5c2ba347df0a0f87c3e14354e4981a97532df5ce1ad5d6a3e0a2cb825d",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "建物の賃借に伴って支払われる保証金",
+    "4-01"
+  ],
+  "headings": [
+    "建物の賃借に伴って支払われる保証金",
+    "建物の賃借に伴って支払われる保証金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第225条第1項第9号、所得税法施行規則第90条、所得税基本通達26-5、26-6、36-7",
+  "document_number": "4-01",
+  "tags": [
+    "法定調書"
+  ],
+  "etag": "\"17e6-6450808d7df60\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:10 GMT"
+}
