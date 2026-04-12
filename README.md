@@ -217,7 +217,8 @@ e-Gov law lookup:
 
 The crawler fetches NTA Tax Answer pages from `www.nta.go.jp`, respects
 `robots.txt`, enforces `1 req/sec`, and writes only parsed Markdown / JSON
-metadata. Raw HTML is never persisted.
+metadata. Raw HTML is never persisted. Explicit `--ids` runs cover every
+bundled NTA category slug, including `hyoka` and `osirase`.
 
 Dry run against specific IDs:
 

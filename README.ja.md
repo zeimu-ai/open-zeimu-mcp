@@ -196,7 +196,8 @@ hybrid search:
 
 `www.nta.go.jp` の NTA タックスアンサーを取得し、`robots.txt` を尊重し、
 `1 req/sec` を守りながら Markdown / JSON metadata だけを書き出します。
-raw HTML は保存しません。
+raw HTML は保存しません。`--ids` 指定時のカテゴリ推定は、同梱済み
+タックスアンサー全件に含まれる `hyoka` / `osirase` を含めてカバーします。
 
 dry-run:
 

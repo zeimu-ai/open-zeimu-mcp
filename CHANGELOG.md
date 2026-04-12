@@ -63,6 +63,11 @@
 - release workflow is now a dry-run scaffold and no longer attempts live npm publish
 - README / API docs / architecture / testing guide now document saiketsu, written-answer categories, semantic asset wiring, and release scaffolds
 
+### Fixed
+
+- `inferCategoryFromId()` now resolves all bundled `tax_answer` IDs, including explicit-ID exceptions under `shotoku`, `hojin`, `sozoku`, `zoyo`, `hyoka`, and `osirase`
+- tax-answer crawler tests now verify category inference against every bundled `tax_answer` document's `canonical_url`
+
 ## 0.1.0-alpha.0
 
 ### Added

@@ -1,4 +1,4 @@
-import { mkdtemp, readFile } from "node:fs/promises";
+import { mkdtemp, readdir, readFile } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 
@@ -176,5 +176,32 @@ describe("crawlTaxAnswer", () => {
     expect(inferCategoryFromId("7200")).toBe("fufuku");
     expect(inferCategoryFromId("7400")).toBe("hotei");
     expect(inferCategoryFromId("8001")).toBe("saigai");
+  });
+
+  it("matches every bundled tax answer document category slug", async () => {
+    const taxAnswerDir = join(process.cwd(), "data", "tax_answer");
+    const entries = await readdir(taxAnswerDir, { withFileTypes: true });
+    const mismatches: Array<{ id: string; expected: string; actual: string }> = [];
+
+    for (const entry of entries) {
+      if (!entry.isDirectory()) {
+        continue;
+      }
+
+      const id = entry.name;
+      const metadata = JSON.parse(
+        await readFile(join(taxAnswerDir, id, `${id}.meta.json`), "utf8"),
+      ) as {
+        canonical_url: string;
+      };
+      const expected = new URL(metadata.canonical_url).pathname.split("/").at(-2);
+      const actual = inferCategoryFromId(id);
+
+      if (expected !== actual) {
+        mismatches.push({ id, expected: expected ?? "(missing)", actual });
+      }
+    }
+
+    expect(mismatches).toEqual([]);
   });
 });

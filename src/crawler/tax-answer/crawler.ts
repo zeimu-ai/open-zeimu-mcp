@@ -288,7 +288,89 @@ function estimateDiskUsage(count: number) {
   return count * 8_192;
 }
 
+const TAX_ANSWER_CATEGORY_OVERRIDES = new Map<string, string>([
+  ...[
+    "2010",
+    "2011",
+    "2012",
+    "2020",
+    "2022",
+    "2024",
+    "2026",
+    "2029",
+    "2030",
+    "2031",
+    "2036",
+    "2040",
+    "2070",
+    "2072",
+    "2075",
+    "2080",
+    "2090",
+    "2091",
+    "2100",
+    "2105",
+    "2106",
+    "2107",
+    "2108",
+    "2109",
+    "2110",
+    "2200",
+    "2201",
+    "2202",
+    "2210",
+    "2215",
+    "2217",
+    "2220",
+    "2230",
+    "2240",
+    "2250",
+    "2260",
+    "3382",
+  ].map((id) => [id, "shotoku"] as const),
+  ["3429", "hojin"] as const,
+  ...["4409", "4602"].map((id) => [id, "sozoku"] as const),
+  ...["4510", "4511", "4512", "4552", "4553", "4555", "4557", "4560"].map((id) => [id, "zoyo"] as const),
+  ...[
+    "4603",
+    "4604",
+    "4605",
+    "4606",
+    "4607",
+    "4609",
+    "4611",
+    "4612",
+    "4613",
+    "4614",
+    "4617",
+    "4620",
+    "4621",
+    "4622",
+    "4623",
+    "4626",
+    "4627",
+    "4628",
+    "4629",
+    "4632",
+    "4635",
+    "4638",
+    "4641",
+    "4644",
+    "4647",
+    "4660",
+    "4665",
+    "4666",
+    "4667",
+  ].map((id) => [id, "hyoka"] as const),
+]);
+
 export function inferCategoryFromId(id: string) {
+  const overrideCategory = TAX_ANSWER_CATEGORY_OVERRIDES.get(id);
+
+  if (overrideCategory) {
+    return overrideCategory;
+  }
+
   const numericId = Number.parseInt(id, 10);
 
   if (!Number.isInteger(numericId)) {
@@ -341,6 +423,10 @@ export function inferCategoryFromId(id: string) {
 
   if (numericId >= 8000 && numericId <= 8999) {
     return "saigai";
+  }
+
+  if (numericId >= 9000 && numericId <= 9299) {
+    return "osirase";
   }
 
   throw new Error(`Unexpected tax answer id: ${id}`);
