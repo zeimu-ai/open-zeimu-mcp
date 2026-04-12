@@ -1,26 +1,38 @@
-[English](README.md) | [日本語](README.ja.md)
+[English](README.en.md) | **日本語**
 
 # open-zeimu-mcp
 
-`open-zeimu-mcp` is an OSS MCP server for Japanese tax primary sources. The
-current build ships lexical search, packaged retrieval/search tools for tax
-answers, written answers, tsutatsu, qa cases, and saiketsu, plus e-Gov law
-lookup, a tax-answer crawler, and local semantic search / hybrid search.
+`open-zeimu-mcp` は、日本の税務一次情報を取得・検索するための OSS MCP
+サーバーです。現在は lexical search、タックスアンサー・文書回答事例・通達・
+質疑応答事例・裁決事例のカテゴリ一覧/取得/検索、e-Gov 法令取得、NTA
+タックスアンサー crawler、local semantic search / hybrid search を実装しています。
 
-## What is open-zeimu-mcp?
+## 特徴
 
-- Zero-setup MCP server for Japanese tax primary-source retrieval
-- Designed for `npm install @zeimu-ai/open-zeimu-mcp`
-- Built on the official Model Context Protocol TypeScript SDK
-- Packaged-source search is lexical by default, with opt-in semantic / hybrid retrieval
+- `health`: 稼働状態、uptime、vector asset 状態を返す
+- `stats`: source type ごとの文書件数と lexical/semantic readiness を返す
+- `lexical_search`: 同梱 Markdown データを lexical 検索する
+- `list_tax_answer_categories` / `get_tax_answer` / `search_tax_answer`
+- `list_written_answer_categories` / `get_written_answer` / `search_written_answer`
+- `list_tsutatsu_categories` / `get_tsutatsu` / `search_tsutatsu`
+- `list_qa_case_categories` / `get_qa_case` / `search_qa_case`
+- `list_saiketsu_categories` / `get_saiketsu` / `search_saiketsu`
+- `get_law` / `search_law`: e-Gov 法令 API v2 を 24h in-memory cache 付きで呼ぶ
+- `crawl:tax-answer`: NTA タックスアンサーを Markdown + metadata に正規化する
+- `crawl:written-answer`: NTA 文書回答事例を Markdown + metadata に正規化する
+- `crawl:tsutatsu`: NTA 通達を Markdown + metadata に正規化する
+- `crawl:qa-case`: NTA 質疑応答事例を Markdown + metadata に正規化する
+- `crawl:saiketsu`: KFS 裁決事例を Markdown + metadata に正規化する
+- `precompute:embeddings`: packaged source を chunk 単位で埋め込み事前計算する
+- `release:vectors`: local semantic search 用 release asset の足場を生成する
 
-## Quick Start
+## クイックスタート
 
 ```bash
 npm install @zeimu-ai/open-zeimu-mcp
 ```
 
-Example MCP client configuration:
+MCP クライアント設定例:
 
 ```json
 {
@@ -38,46 +50,26 @@ Example MCP client configuration:
 }
 ```
 
-## Features
+## 設定
 
-- `health`: reports runtime health, uptime, and vector asset state
-- `stats`: reports per-source document counts and lexical/semantic readiness
-- `lexical_search`: searches packaged Markdown tax documents in memory
-- `list_tax_answer_categories`, `get_tax_answer`, `search_tax_answer`
-- `list_written_answer_categories`, `get_written_answer`, `search_written_answer`
-- `list_tsutatsu_categories`, `get_tsutatsu`, `search_tsutatsu`
-- `list_qa_case_categories`, `get_qa_case`, `search_qa_case`
-- `list_saiketsu_categories`, `get_saiketsu`, `search_saiketsu`
-- `get_law`, `search_law`: e-Gov Law API v2 with 24h in-memory cache
-- `crawl:tax-answer`: NTA Tax Answer crawler to normalized Markdown + metadata
-- `crawl:written-answer`: NTA Written Answer crawler to normalized Markdown + metadata
-- `crawl:tsutatsu`: NTA Tsutatsu crawler to normalized Markdown + metadata
-- `crawl:qa-case`: NTA QA case crawler to normalized Markdown + metadata
-- `crawl:saiketsu`: KFS saiketsu crawler to normalized Markdown + metadata
-- `precompute:embeddings`: local chunk embedding precompute for packaged sources
-- `release:vectors`: release-asset scaffold generator for local semantic search
-
-## Configuration
-
-| Variable | Default | Description |
+| 変数 | デフォルト | 説明 |
 | --- | --- | --- |
-| `EMBEDDING_BACKEND` | `none` | `none`, `local`, or `supabase` |
-| `LOG_LEVEL` | `info` | Pino log level |
-| `DATA_DIR` | `./data` | Root directory for packaged dataset files |
-| `VECTORS_CACHE_DIR` | `~/.cache/open-zeimu-mcp/vectors` | Local vector cache path |
-| `ONNX_MODEL_FILENAME` | `bge-m3-int8.onnx.tar.gz` | Expected local semantic model asset name |
-| `TOKENIZER_FILENAME` | `tokenizer.json` | Expected tokenizer asset name |
-| `TOKENIZER_CONFIG_FILENAME` | `tokenizer_config.json` | Expected tokenizer config asset name |
-| `EMBEDDING_CHUNK_SIZE` | `512` | Character chunk size used during precompute/search |
-| `EMBEDDING_CHUNK_OVERLAP` | `64` | Character overlap between adjacent chunks |
-| `EMBEDDING_MAX_TOKENS` | `512` | Max tokenizer length for query / chunk encoding |
+| `EMBEDDING_BACKEND` | `none` | `none` / `local` / `supabase` |
+| `LOG_LEVEL` | `info` | Pino のログレベル |
+| `DATA_DIR` | `./data` | データセットのルートディレクトリ |
+| `VECTORS_CACHE_DIR` | `~/.cache/open-zeimu-mcp/vectors` | ローカル vector cache |
+| `ONNX_MODEL_FILENAME` | `bge-m3-int8.onnx.tar.gz` | local semantic model asset 名 |
+| `TOKENIZER_FILENAME` | `tokenizer.json` | tokenizer asset 名 |
+| `TOKENIZER_CONFIG_FILENAME` | `tokenizer_config.json` | tokenizer config asset 名 |
+| `EMBEDDING_CHUNK_SIZE` | `512` | 事前計算と検索で使う文字チャンク長 |
+| `EMBEDDING_CHUNK_OVERLAP` | `64` | 隣接チャンクの重なり幅 |
+| `EMBEDDING_MAX_TOKENS` | `512` | query / chunk encode の最大 token 数 |
 
-This package reads configuration from `process.env` only. It does not load a
-`.env` file.
+設定は `process.env` からのみ読み取ります。`.env` の直読みは行いません。
 
-`EMBEDDING_BACKEND=local` becomes ready only when the model + tokenizer exist and
-at least one precomputed source vector set exists under
-`VECTORS_CACHE_DIR/<package-version>/`:
+`EMBEDDING_BACKEND=local` では、`VECTORS_CACHE_DIR/<package-version>/` 配下に
+model + tokenizer があり、少なくとも 1 source の vector asset があるときに
+local semantic backend が ready になります。
 
 - `bge-m3-int8.onnx.tar.gz`
 - `tokenizer.json`
@@ -85,12 +77,11 @@ at least one precomputed source vector set exists under
 - `<source_type>-vectors-<package-version>.bin`
 - `<source_type>-vectors-<package-version>.index.json`
 
-If the local semantic set is incomplete, the server falls back cleanly and exposes
-the asset state through `health`.
+不足している場合は fallback し、`health` で状態を確認できます。
 
-## Tool Examples
+## 利用例
 
-Tax answer search with category filter:
+カテゴリ付きタックスアンサー検索:
 
 ```json
 {
@@ -103,7 +94,7 @@ Tax answer search with category filter:
 }
 ```
 
-Tax answer search with semantic mode:
+semantic search:
 
 ```json
 {
@@ -117,7 +108,7 @@ Tax answer search with semantic mode:
 }
 ```
 
-Tax answer search with hybrid mode:
+hybrid search:
 
 ```json
 {
@@ -131,7 +122,7 @@ Tax answer search with hybrid mode:
 }
 ```
 
-Written-answer category listing:
+文書回答事例カテゴリ一覧:
 
 ```json
 {
@@ -140,7 +131,7 @@ Written-answer category listing:
 }
 ```
 
-Written-answer search with `page_hint` support:
+`page_hint` 付き文書回答事例検索:
 
 ```json
 {
@@ -153,7 +144,7 @@ Written-answer search with `page_hint` support:
 }
 ```
 
-Tsutatsu search with category filter:
+通達検索:
 
 ```json
 {
@@ -166,7 +157,7 @@ Tsutatsu search with category filter:
 }
 ```
 
-QA-case search with category filter:
+質疑応答事例検索:
 
 ```json
 {
@@ -179,7 +170,7 @@ QA-case search with category filter:
 }
 ```
 
-Saiketsu retrieval and search:
+裁決事例取得/検索:
 
 ```json
 {
@@ -201,176 +192,162 @@ Saiketsu retrieval and search:
 }
 ```
 
-e-Gov law lookup:
+## タックスアンサー crawler
 
-```json
-{
-  "name": "get_law",
-  "arguments": {
-    "law_name": "印紙税法",
-    "format": "markdown"
-  }
-}
-```
+`www.nta.go.jp` の NTA タックスアンサーを取得し、`robots.txt` を尊重し、
+`1 req/sec` を守りながら Markdown / JSON metadata だけを書き出します。
+raw HTML は保存しません。`--ids` 指定時のカテゴリ推定は、同梱済み
+タックスアンサー全件に含まれる `hyoka` / `osirase` を含めてカバーします。
 
-## Tax Answer Crawler
-
-The crawler fetches NTA Tax Answer pages from `www.nta.go.jp`, respects
-`robots.txt`, enforces `1 req/sec`, and writes only parsed Markdown / JSON
-metadata. Raw HTML is never persisted. Explicit `--ids` runs cover every
-bundled NTA category slug, including `hyoka` and `osirase`.
-
-Dry run against specific IDs:
+dry-run:
 
 ```bash
 npm run crawl:tax-answer -- --ids 1200,3105 --data-dir ./data --repo-dir .
 ```
 
-Apply changes and push a bot commit:
+apply:
 
 ```bash
 npm run crawl:tax-answer -- --apply --limit 50 --data-dir ./data --repo-dir .
 ```
 
-Generated files follow:
+出力先:
 
 ```text
 data/tax_answer/<id>/<id>.md
 data/tax_answer/<id>/<id>.meta.json
 ```
 
-## Written Answer Crawler
+## 文書回答事例 crawler
 
-The crawler fetches NTA Written Answer pages from `www.nta.go.jp`, respects
-`robots.txt`, enforces `1 req/2sec`, and writes only parsed Markdown / JSON
-metadata. Raw HTML is never persisted.
+`www.nta.go.jp` の NTA 文書回答事例を取得し、`robots.txt` を尊重し、
+`1 req/2sec` を守りながら Markdown / JSON metadata だけを書き出します。
+raw HTML は保存しません。
 
-Dry run against specific IDs:
+dry-run:
 
 ```bash
 npm run crawl:written-answer -- --ids bunshokaito-shotoku-250101,bunshokaito-hojin-250102 --data-dir ./data --repo-dir .
 ```
 
-Apply changes and push a bot commit:
+apply:
 
 ```bash
 npm run crawl:written-answer -- --apply --limit 80 --data-dir ./data --repo-dir .
 ```
 
-Generated files follow:
+出力先:
 
 ```text
 data/written_answer/<id>/<id>.md
 data/written_answer/<id>/<id>.meta.json
 ```
 
-## Tsutatsu Crawler
+## 通達 crawler
 
-The crawler fetches NTA Tsutatsu pages from `www.nta.go.jp`, respects
-`robots.txt`, enforces `1 req/2sec`, and writes only parsed Markdown / JSON
-metadata. Raw HTML is never persisted.
+`www.nta.go.jp` の NTA 通達を取得し、`robots.txt` を尊重し、
+`1 req/2sec` を守りながら Markdown / JSON metadata だけを書き出します。
+raw HTML は保存しません。
 
-Dry run against specific IDs:
+dry-run:
 
 ```bash
 npm run crawl:tsutatsu -- --ids tsutatsu-shotoku-01-01,tsutatsu-hojin-01-01_01 --data-dir ./data --repo-dir .
 ```
 
-Apply changes and push a bot commit:
+apply:
 
 ```bash
 npm run crawl:tsutatsu -- --apply --limit 150 --data-dir ./data --repo-dir .
 ```
 
-Generated files follow:
+出力先:
 
 ```text
 data/tsutatsu/<id>/<id>.md
 data/tsutatsu/<id>/<id>.meta.json
 ```
 
-## QA Case Crawler
+## 質疑応答事例 crawler
 
-The crawler fetches NTA QA case pages from `www.nta.go.jp`, respects
-`robots.txt`, enforces `1 req/2sec`, and writes only parsed Markdown / JSON
-metadata. Raw HTML is never persisted.
+`www.nta.go.jp` の NTA 質疑応答事例を取得し、`robots.txt` を尊重し、
+`1 req/2sec` を守りながら Markdown / JSON metadata だけを書き出します。
+raw HTML は保存しません。
 
-Dry run against specific IDs:
+dry-run:
 
 ```bash
 npm run crawl:qa-case -- --ids qa-shotoku-01-01,qa-hojin-01-01 --data-dir ./data --repo-dir .
 ```
 
-Apply changes and push a bot commit:
+apply:
 
 ```bash
 npm run crawl:qa-case -- --apply --limit 100 --data-dir ./data --repo-dir .
 ```
 
-Generated files follow:
+出力先:
 
 ```text
 data/qa_case/<id>/<id>.md
 data/qa_case/<id>/<id>.meta.json
 ```
 
-## Saiketsu Crawler
+## 裁決事例 crawler
 
-The crawler fetches KFS public saiketsu pages from `www.kfs.go.jp`, respects
-`robots.txt`, enforces `1 req/2sec`, and writes only parsed Markdown / JSON
-metadata. Raw HTML is never persisted.
+`www.kfs.go.jp` の国税不服審判所 公表裁決事例を取得し、`robots.txt` を尊重し、
+`1 req/2sec` を守りながら Markdown / JSON metadata だけを書き出します。
+raw HTML は保存しません。
 
-Dry run against specific IDs:
+dry-run:
 
 ```bash
 npm run crawl:saiketsu -- --ids saiketsu-01-001,saiketsu-01-002 --data-dir ./data --repo-dir .
 ```
 
-Apply changes and push a bot commit:
+apply:
 
 ```bash
 npm run crawl:saiketsu -- --apply --limit 50 --data-dir ./data --repo-dir .
 ```
 
-Generated files follow:
+出力先:
 
 ```text
 data/saiketsu/<id>/<id>.md
 data/saiketsu/<id>/<id>.meta.json
 ```
 
-## Data License
+## データライセンス
 
-- NTA Tax Answer: public data published by the National Tax Agency
-- NTA Written Answer: public data published by the National Tax Agency
-- NTA Tsutatsu: public data published by the National Tax Agency
-- NTA QA Case: CC-BY 4.0 compatible government work published by the National Tax Agency
-- KFS Saiketsu: public saiketsu data published by the National Tax Tribunal
+- NTA タックスアンサー: 国税庁公開データ
+- NTA 文書回答事例: 国税庁公開データ
+- NTA 通達: 国税庁公開データ
+- NTA 質疑応答事例: 国税庁公開の政府著作物（CC-BY 4.0 互換）
+- KFS 裁決事例: 国税不服審判所公開裁決事例
 
 ## Vector Release Scaffold
-
-Generate the release scaffold for local semantic assets:
 
 ```bash
 npm run release:vectors
 npm run precompute:embeddings -- 0.1.0-alpha.0
 ```
 
-This writes `artifacts/vectors/release-plan.json` plus placeholder directories
-only. `precompute:embeddings` writes `<source_type>-vectors-<version>.bin` plus
-`<source_type>-vectors-<version>.index.json` into `VECTORS_CACHE_DIR/<version>/`.
-The actual ONNX model, tokenizer assets, and vector binaries are intentionally excluded
-from git and should be uploaded as GitHub Release assets.
+`artifacts/vectors/release-plan.json` と placeholder ディレクトリを生成します。
+`precompute:embeddings` は `VECTORS_CACHE_DIR/<version>/` に
+`<source_type>-vectors-<version>.bin` と
+`<source_type>-vectors-<version>.index.json` を出力します。実際の ONNX model、
+tokenizer asset、vector binary は git に含めず、GitHub Release asset として別途
+アップロードします。
 
-## Status
+## 現状
 
-Under active development. The current implemented surface covers lexical search,
-semantic search, hybrid search, tax-answer crawling, written-answer crawling,
-tsutatsu crawling, packaged retrieval/search across five packaged source types,
-e-Gov law lookup, category filters, vector precompute, and release dry-run
-scaffolding on the path to `v0.1.0`.
+active development 中です。現時点で lexical search、semantic search、hybrid
+search、tax-answer crawler、文書回答事例 crawler、通達 crawler、5 source
+type の packaged retrieval/search、category filter、e-Gov 法令取得、vector
+precompute、release dry-run scaffold まで実装済みです。
 
-## Development
+## 開発
 
 ```bash
 npm install --include=dev
@@ -384,7 +361,7 @@ npm run release:dry-run
 npm start
 ```
 
-More details:
+詳細:
 
 - Architecture: [docs/architecture.md](docs/architecture.md)
 - Tool API examples: [docs/api.md](docs/api.md)
@@ -392,11 +369,6 @@ More details:
 - Roadmap: [docs/ROADMAP.md](docs/ROADMAP.md)
 - Testing notes: [docs/TESTING.md](docs/TESTING.md)
 
-## Data Sources and Licenses
-
-Source-specific attribution and downstream license notices will be expanded as
-data loaders land. See [NOTICE](NOTICE).
-
-## License
+## ライセンス
 
 [MIT](LICENSE)
