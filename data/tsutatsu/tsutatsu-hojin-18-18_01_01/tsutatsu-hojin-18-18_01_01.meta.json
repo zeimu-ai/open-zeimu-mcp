@@ -1,0 +1,34 @@
+{
+  "id": "tsutatsu-hojin-18-18_01_01",
+  "title": "第1款　企業グループ等",
+  "category": "hojin",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/18/18_01_01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T05:56:25.649Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f53ec43fc256bcd5fac2d5a8e5d29afca9052f410203f534318d4d5a3a0b7797",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1款　企業グループ等",
+    "第1節　定義",
+    "18-1-1"
+  ],
+  "headings": [
+    "第1款　企業グループ等",
+    "第1款　企業グループ等",
+    "（企業集団が複数ある場合の企業グループ等の判定）",
+    "（財産及び損益の状況が連結して記載される会社等）",
+    "（連結の範囲から除かれる会社等）",
+    "（最終親会社が複数ある場合の企業グループ等の判定）",
+    "（特定財務会計基準等に従って計算書類が作成されていない企業集団）"
+  ],
+  "citation": "第1節　定義",
+  "document_number": "18-1-1",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1e7e-64bb5ed4bd288\"",
+  "last_modified": "Thu, 26 Feb 2026 08:30:02 GMT"
+}

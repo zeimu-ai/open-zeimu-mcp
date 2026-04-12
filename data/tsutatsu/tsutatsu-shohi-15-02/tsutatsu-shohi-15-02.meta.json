@@ -1,0 +1,38 @@
+{
+  "id": "tsutatsu-shohi-15-02",
+  "title": "第2節　確定申告",
+  "category": "shohi",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/15/02.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T06:01:11.928Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ddc46d5f832bbc6f923cce8227df9cdff6ed699de33da4d320718770e8c79fac",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第2節　確定申告",
+    "15-2-1"
+  ],
+  "headings": [
+    "第2節　確定申告",
+    "第2節　確定申告",
+    "（その他の法律等により消費税が免除されるものの範囲）",
+    "（課税標準額に対する消費税額の計算）",
+    "（決済上受領すべき金額の意義）",
+    "（区分して領収するの意義）",
+    "（課税仕入れに係る消費税額の計算）",
+    "（納付すべき税額がない場合の確定申告の要否）",
+    "（残余財産の確定）",
+    "（個別対応方式と一括比例配分方式の適用関係）",
+    "（消費税申告期限延長届出書を提出できる場合）",
+    "（合併又は分割があった場合の消費税申告期限延長届出書の効力）"
+  ],
+  "citation": null,
+  "document_number": "15-2-1",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"2c12-61c251eacd1d0\"",
+  "last_modified": "Mon, 01 Jul 2024 01:00:14 GMT"
+}

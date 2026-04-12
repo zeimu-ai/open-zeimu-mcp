@@ -1,0 +1,39 @@
+{
+  "id": "tsutatsu-shohi-11-01",
+  "title": "第1節　通則",
+  "category": "shohi",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/11/01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T06:00:19.881Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:48f66929a04d1ce26eb2cc6ea4b133c2905a83ebc37f5bbb2ae0cf102306f2fe",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1節　通則",
+    "第11章　仕入れに係る消費税額の控除",
+    "11-1-1"
+  ],
+  "headings": [
+    "第1節　通則",
+    "第1節　通則",
+    "（課税仕入れ）",
+    "（給与等を対価とする役務の提供）",
+    "（課税仕入れの相手方の範囲）",
+    "（家事共用資産の取得）",
+    "（水道光熱費等の取扱い）",
+    "（実質的な輸入者と輸入申告名義人が異なる場合の取扱い）",
+    "（新規に開業をした事業者の仕入税額控除）",
+    "（相続等により課税事業者となった場合の仕入税額控除）",
+    "（課税仕入れに係る消費税額の計算）",
+    "（帳簿積上げ方式における「課税仕入れの都度」の意義）"
+  ],
+  "citation": "第11章　仕入れに係る消費税額の控除",
+  "document_number": "11-1-1",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"2ca3-61c251eb4d0b0\"",
+  "last_modified": "Mon, 01 Jul 2024 01:00:14 GMT"
+}
