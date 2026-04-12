@@ -1,0 +1,38 @@
+{
+  "id": "tsutatsu-hojin-05-05_02_01",
+  "title": "第1款　原価法",
+  "category": "hojin",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/05/05_02_01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T02:29:09.572Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:fb0b65631d50a9ff1892baef674349b64b5ac867de909550c1aa0609cee68371",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1款　原価法",
+    "第2節　棚卸資産の評価の方法",
+    "5-2-1"
+  ],
+  "headings": [
+    "第1款　原価法",
+    "第1款　原価法",
+    "（個別法を選定することができる棚卸資産）",
+    "（月別総平均法等）",
+    "（6月ごと総平均法等）",
+    "（半製品又は仕掛品についての売価還元法）",
+    "（売価還元法の適用区分）",
+    "（売価還元法により評価額を計算する場合の期中に販売した棚卸資産の対価の総額の計算）",
+    "（売価還元法により評価額を計算する場合の通常の販売価額の総額の計算）",
+    "（原価の率が100％を超える場合の売価還元法の適用）",
+    "（未着品の評価）"
+  ],
+  "citation": "第2節　棚卸資産の評価の方法",
+  "document_number": "5-2-1",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1db9-60f35084083a8\"",
+  "last_modified": "Thu, 18 Jan 2024 09:31:46 GMT"
+}

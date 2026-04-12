@@ -1,0 +1,41 @@
+{
+  "id": "tsutatsu-hojin-01-01_01",
+  "title": "第1節　納税地及び納税義務",
+  "category": "hojin",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01/01_01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T02:27:39.511Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:222e30c537ebb62d38d25e4e0d7d59d3de9914159159389eeb56be9fa957ae7c",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1節　納税地及び納税義務",
+    "第1章　総則",
+    "1-1-1"
+  ],
+  "headings": [
+    "第1節　納税地及び納税義務",
+    "第1節　納税地及び納税義務",
+    "(法人でない社団の範囲)",
+    "(法人でない財団の範囲)",
+    "(人格のない社団等についての代表者又は管理人の定め)",
+    "(人格のない社団等の本店又は主たる事務所の所在地)",
+    "(被合併法人の法人税に係る納税地)",
+    "(清算結了の登記をした場合の納税義務等)",
+    "(非営利型法人における特別の利益の意義)",
+    "(特別の利益に係る要件を欠くこととなった場合)",
+    "(主たる事業の判定)",
+    "（収益事業を行っていないことの判定）",
+    "(理事の親族等の割合に係る要件の判定)",
+    "（通算離脱法人の連帯納付責任）"
+  ],
+  "citation": "第1章　総則",
+  "document_number": "1-1-1",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"2ff3-60f3508569fd0\"",
+  "last_modified": "Thu, 18 Jan 2024 09:31:47 GMT"
+}

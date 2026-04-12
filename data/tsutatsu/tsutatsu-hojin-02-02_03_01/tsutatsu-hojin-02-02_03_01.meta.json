@@ -1,0 +1,35 @@
+{
+  "id": "tsutatsu-hojin-02-02_03_01",
+  "title": "第1款　有価証券の譲渡損益等",
+  "category": "hojin",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/02/02_03_01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T02:28:19.547Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c4184971fb9542cd5a782f94dffe42caffd94fd0ea641dd9bee25c89368289e0",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1款　有価証券の譲渡損益等",
+    "第3節　有価証券等の譲渡損益、時価評価損益等",
+    "2-3-1"
+  ],
+  "headings": [
+    "第1款　有価証券の譲渡損益等",
+    "第1款　有価証券の譲渡損益等",
+    "（取得条項付株式の取得等に際し1株未満の株式の代金を株主等に交付した場合の取扱い）",
+    "（信用取引等に係る売付け及び買付けに係る対価の額）",
+    "（信用取引等の決済約定日後に授受される配当落調整額）",
+    "（低廉譲渡等の場合の譲渡の時における有償によるその有価証券の譲渡により通常得べき対価の額）",
+    "（対象配当等の額が資本の払戻しによるものである場合の譲渡原価の計算",
+    "（対象配当等の額が自己株式の取得によるものである場合の譲渡原価の計算）"
+  ],
+  "citation": "第3節　有価証券等の譲渡損益、時価評価損益等",
+  "document_number": "2-3-1",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"2a74-63e09a5214628\"",
+  "last_modified": "Fri, 05 Sep 2025 08:30:06 GMT"
+}

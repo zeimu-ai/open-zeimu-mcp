@@ -1,0 +1,34 @@
+{
+  "id": "tsutatsu-hojin-09-09_01_01",
+  "title": "第1款　通則",
+  "category": "hojin",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/09/09_01_01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T02:30:11.617Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1879850ca1b2fff8bab523e48419dc8a02243e1d03e7aa146fc7013a6a3b006d",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1款　通則",
+    "第1節　資産の評価損",
+    "9-1-1"
+  ],
+  "headings": [
+    "第1款　通則",
+    "第1款　通則",
+    "（評価損の判定の単位）",
+    "（評価損否認金等のある資産について評価損を計上した場合の処理）",
+    "（時価）",
+    "（評価換えの対象となる資産の範囲）",
+    "（資産について評価損の計上ができる「法的整理の事実」の例示）"
+  ],
+  "citation": "第1節　資産の評価損",
+  "document_number": "9-1-1",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1996-60f3508327218\"",
+  "last_modified": "Thu, 18 Jan 2024 09:31:45 GMT"
+}
