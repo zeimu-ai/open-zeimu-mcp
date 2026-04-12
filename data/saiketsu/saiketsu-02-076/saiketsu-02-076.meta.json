@@ -1,16 +1,16 @@
 {
   "id": "saiketsu-02-076",
   "title": "（平成29年8月22日裁決）",
-  "category": "https://www.kfs.go.jp/service/MP/01/0204000000.html",
+  "category": "納付すべき税額の確定方式",
   "category_code": "02",
   "canonical_url": "https://www.kfs.go.jp/service/JP/108/01/index.html",
   "source_type": "saiketsu",
-  "crawled_at": "2026-04-12T06:30:00.000Z",
+  "crawled_at": "2026-04-12T10:18:13.527Z",
   "updated_at": null,
   "published_at": "2017-08-22",
   "content_hash": "sha256:0a26c7fe74b97d3a03888f8f6dbe29d898b558df820df96172c49479b2ab437a",
   "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
-  "version": 1,
+  "version": 2,
   "aliases": [
     "（平成29年8月22日裁決）",
     "108-01",
@@ -35,7 +35,7 @@
   "citation": "平成29年8月22日裁決",
   "document_number": "108-01",
   "tags": [
-    "https://www.kfs.go.jp/service/MP/01/0204000000.html",
+    "納付すべき税額の確定方式",
     "所得税",
     "消費税",
     "譲渡所得"
