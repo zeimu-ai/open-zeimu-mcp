@@ -1,9 +1,9 @@
 import { assertAllowedTsutatsuUrl } from "./url-policy.js";
 
 const CATEGORY_INDEX_PATTERN =
-  /https:\/\/www\.nta\.go\.jp\/law\/tsutatsu\/kihon\/[a-z0-9_-]+\/01\.htm/giu;
+  /https:\/\/www\.nta\.go\.jp\/law\/tsutatsu\/kihon\/[a-z0-9_-]+(?:\/[a-z0-9_-]+)*\/(?:01|00|index|mokuji)\.htm$/iu;
 const DOCUMENT_PAGE_PATTERN =
-  /https:\/\/www\.nta\.go\.jp\/law\/tsutatsu\/kihon\/([a-z0-9_-]+)\/(.+?)\.htm/giu;
+  /https:\/\/www\.nta\.go\.jp\/law\/tsutatsu\/kihon\/[a-z0-9_-]+(?:\/[a-z0-9_-]+)*\/.+?\.htm$/iu;
 
 export async function discoverTsutatsuIndexPages({
   html,
@@ -41,6 +41,7 @@ export async function discoverTsutatsuIndexPages({
 
 export function extractTsutatsuLinks(html: string, baseUrl: string) {
   const urls = new Set<string>();
+  const basePathname = new URL(baseUrl).pathname;
 
   for (const match of html.matchAll(/href="([^"]+)"/giu)) {
     const href = match[1];
@@ -54,10 +55,7 @@ export function extractTsutatsuLinks(html: string, baseUrl: string) {
       url.hash = "";
       const value = url.toString();
 
-      if (
-        DOCUMENT_PAGE_PATTERN.test(value) &&
-        !value.match(/\/law\/tsutatsu\/kihon\/[a-z0-9_-]+\/01\.htm$/iu)
-      ) {
+      if (DOCUMENT_PAGE_PATTERN.test(value) && url.pathname !== basePathname) {
         urls.add(assertAllowedTsutatsuUrl(value).toString());
       }
 

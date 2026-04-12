@@ -23,8 +23,6 @@ type FetchResponse = {
 };
 
 type RateLimiter = Pick<FixedRateLimiter, "wait">;
-const MAJOR_CATEGORIES = ["shotoku", "hojin"] as const;
-type MajorCategory = (typeof MAJOR_CATEGORIES)[number];
 
 export type TsutatsuCrawlerOptions = {
   dataDir: string;
@@ -228,9 +226,7 @@ async function discoverTsutatsuUrls({
   }
 
   const rootHtml = await decodeHtmlResponse(rootResponse, "utf-8");
-  const indexPages = (await discoverTsutatsuIndexPages({ html: rootHtml, baseUrl: rootUrl })).filter(
-    (url): url is string => isMajorCategory(extractCategoryFromUrl(url)),
-  );
+  const indexPages = await discoverTsutatsuIndexPages({ html: rootHtml, baseUrl: rootUrl });
   const documentsByCategory = new Map<string, string[]>();
 
   for (const indexPage of indexPages) {
@@ -253,10 +249,6 @@ async function discoverTsutatsuUrls({
       if (robots.isAllowed(new URL(url).pathname)) {
         const category = extractCategoryFromUrl(url);
 
-        if (!isMajorCategory(category)) {
-          continue;
-        }
-
         const current = documentsByCategory.get(category) ?? [];
         current.push(url);
         documentsByCategory.set(category, current);
@@ -268,7 +260,7 @@ async function discoverTsutatsuUrls({
     urls.sort((left, right) => left.localeCompare(right, "ja"));
   }
 
-  const orderedCategories = MAJOR_CATEGORIES.filter((category) => documentsByCategory.has(category));
+  const orderedCategories = [...documentsByCategory.keys()];
   const discovered = orderedCategories.flatMap((category) => documentsByCategory.get(category) ?? []);
 
   if (limit === null) {
@@ -336,8 +328,4 @@ function extractCategoryFromUrl(url: string) {
   }
 
   return match[1];
-}
-
-function isMajorCategory(category: string): category is MajorCategory {
-  return (MAJOR_CATEGORIES as readonly string[]).includes(category);
 }
