@@ -1,0 +1,31 @@
+{
+  "id": "saiketsu-01-009",
+  "title": "（令和5年2月22日裁決）",
+  "category": "総則",
+  "category_code": "01",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/130/01/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T05:24:26.918Z",
+  "updated_at": null,
+  "published_at": "2023-02-22",
+  "content_hash": "sha256:a279d138c27f7a97e70af617e74ab62555159b2e4eeac5a876d560444d8174cb",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "（令和5年2月22日裁決）",
+    "130-01",
+    "令和5年2月22日裁決"
+  ],
+  "headings": [
+    "（令和5年2月22日裁決）"
+  ],
+  "citation": "令和5年2月22日裁決",
+  "document_number": "130-01",
+  "tags": [
+    "総則",
+    "所得税",
+    "国税通則法"
+  ],
+  "etag": "\"3b0b-64e399d109520\"",
+  "last_modified": "Mon, 30 Mar 2026 08:26:55 GMT"
+}

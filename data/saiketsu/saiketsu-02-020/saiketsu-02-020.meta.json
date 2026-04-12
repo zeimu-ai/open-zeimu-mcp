@@ -1,0 +1,42 @@
+{
+  "id": "saiketsu-02-020",
+  "title": "（令和６年10月22日裁決）",
+  "category": "納付義務の確定",
+  "category_code": "02",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/137/01/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T05:25:10.928Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:18b54e23fa1a87cbbb48bfa071971f83db7f38f8c0ddd44729c01b950a43556e",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "（令和６年10月22日裁決）",
+    "137-01",
+    "令和６年10月22日裁決"
+  ],
+  "headings": [
+    "（令和６年10月22日裁決）",
+    "1　事実",
+    "(1) 事案の概要",
+    "(2) 関係法令等",
+    "(3)　基礎事実及び審査請求に至る経緯",
+    "2　争点",
+    "3　争点についての主張",
+    "4　当審判所の判断",
+    "(1) 検討",
+    "(2) 請求人の主張について",
+    "(3)　本件通知処分の適法性について",
+    "(4) 結論"
+  ],
+  "citation": "令和６年10月22日裁決",
+  "document_number": "137-01",
+  "tags": [
+    "納付義務の確定",
+    "所得税",
+    "消費税"
+  ],
+  "etag": "\"5536-64e399cc17f08\"",
+  "last_modified": "Mon, 30 Mar 2026 08:26:50 GMT"
+}

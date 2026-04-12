@@ -1,0 +1,42 @@
+{
+  "id": "saiketsu-01-004",
+  "title": "（平9.3.31裁決、裁決事例集No.53　1頁）",
+  "category": "総則",
+  "category_code": "01",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/53/01/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T05:24:16.922Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:de2565491109161ad419abcdcb6294470fea5ae63c628e8136dd0662e1474e6c",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "（平9.3.31裁決、裁決事例集No.53　1頁）",
+    "53-01",
+    "裁決事例集 No.53 - 1頁"
+  ],
+  "headings": [
+    "（平9.3.31裁決、裁決事例集No.53　1頁）",
+    "1　事実",
+    "2　主張",
+    "（1）請求人の主張",
+    "（2）原処分庁の主張",
+    "3　判断",
+    "（1）所轄庁について",
+    "（2）書類の送達について",
+    "（3）調査手続について",
+    "（4）更正の理由附記について",
+    "（5）重加算税の賦課決定処分について"
+  ],
+  "citation": "裁決事例集 No.53 - 1頁",
+  "document_number": "53-01",
+  "tags": [
+    "総則",
+    "所得税",
+    "国税通則法",
+    "譲渡所得"
+  ],
+  "etag": "\"13c0d-64e399a1a9a28\"",
+  "last_modified": "Mon, 30 Mar 2026 08:26:05 GMT"
+}

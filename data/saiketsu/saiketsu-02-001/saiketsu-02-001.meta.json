@@ -1,0 +1,40 @@
+{
+  "id": "saiketsu-02-001",
+  "title": "（平7.12.20裁決、裁決事例集No.50　13頁）",
+  "category": "納付義務の確定",
+  "category_code": "02",
+  "canonical_url": "https://www.kfs.go.jp/service/JP/50/02/index.html",
+  "source_type": "saiketsu",
+  "crawled_at": "2026-04-12T05:24:32.910Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0c136c0cff175b159144b3d9e0d700c8ab5df14dc77f4b9368b80860004cb5a9",
+  "license": "国税不服審判所 公表裁決事例（利用規約に従って再配布）",
+  "version": 1,
+  "aliases": [
+    "（平7.12.20裁決、裁決事例集No.50　13頁）",
+    "50-02",
+    "裁決事例集 No.50 - 13頁"
+  ],
+  "headings": [
+    "（平7.12.20裁決、裁決事例集No.50　13頁）",
+    "1　事実",
+    "2　主張",
+    "（1）請求人の主張",
+    "（2）原処分庁の主張",
+    "3　判断",
+    "（1）更正処分について",
+    "（2）過少申告加算税の賦課決定処分について",
+    "（3）原処分のその他の部分については、請求人は争わず、当審判所に提出された証拠資料等によっても、これを不相当とする理由は認められない。"
+  ],
+  "citation": "裁決事例集 No.50 - 13頁",
+  "document_number": "50-02",
+  "tags": [
+    "納付義務の確定",
+    "所得税",
+    "国税通則法",
+    "譲渡所得"
+  ],
+  "etag": "\"7a07-64e399ad268d8\"",
+  "last_modified": "Mon, 30 Mar 2026 08:26:17 GMT"
+}
