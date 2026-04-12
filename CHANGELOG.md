@@ -42,11 +42,14 @@
 - local semantic asset inspector / fallback wiring (`EMBEDDING_BACKEND=local|supabase`)
 - `scripts/release-vectors.ts`, `.github/workflows/vectors.yml`, `.changeset/` scaffold
 - `onnxruntime-node` optional dependency wiring for local semantic backend
+- `crawl:tsutatsu` NTA 通達 crawler と `src/crawler/tsutatsu/*`
+- NTA 通達 150 件（所得税 75 / 法人税 75）の実データ取り込み
 
 ### Changed
 
 - README / API docs / architecture now document semantic search, hybrid search, tokenizer assets, and precompute workflow
 - README / README.ja now document `crawl:qa-case` and NTA QA case license
+- README / README.ja now document `crawl:tsutatsu` and NTA Tsutatsu license
 - lexical search internals now retain match offsets for source-specific post-processing
 - lexical search now uses source-aware internal keys so duplicate document IDs across source types do not collide
 - lexical search now supports optional category filters inside packaged `search_*` tools

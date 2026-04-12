@@ -50,6 +50,7 @@ Example MCP client configuration:
 - `list_saiketsu_categories`, `get_saiketsu`, `search_saiketsu`
 - `get_law`, `search_law`: e-Gov Law API v2 with 24h in-memory cache
 - `crawl:tax-answer`: NTA Tax Answer crawler to normalized Markdown + metadata
+- `crawl:tsutatsu`: NTA Tsutatsu crawler to normalized Markdown + metadata
 - `crawl:qa-case`: NTA QA case crawler to normalized Markdown + metadata
 - `precompute:embeddings`: local chunk embedding precompute for packaged sources
 - `release:vectors`: release-asset scaffold generator for local semantic search
@@ -235,6 +236,31 @@ data/tax_answer/<id>/<id>.md
 data/tax_answer/<id>/<id>.meta.json
 ```
 
+## Tsutatsu Crawler
+
+The crawler fetches NTA Tsutatsu pages from `www.nta.go.jp`, respects
+`robots.txt`, enforces `1 req/2sec`, and writes only parsed Markdown / JSON
+metadata. Raw HTML is never persisted.
+
+Dry run against specific IDs:
+
+```bash
+npm run crawl:tsutatsu -- --ids tsutatsu-shotoku-01-01,tsutatsu-hojin-01-01_01 --data-dir ./data --repo-dir .
+```
+
+Apply changes and push a bot commit:
+
+```bash
+npm run crawl:tsutatsu -- --apply --limit 150 --data-dir ./data --repo-dir .
+```
+
+Generated files follow:
+
+```text
+data/tsutatsu/<id>/<id>.md
+data/tsutatsu/<id>/<id>.meta.json
+```
+
 ## QA Case Crawler
 
 The crawler fetches NTA QA case pages from `www.nta.go.jp`, respects
@@ -263,6 +289,7 @@ data/qa_case/<id>/<id>.meta.json
 ## Data License
 
 - NTA Tax Answer: public data published by the National Tax Agency
+- NTA Tsutatsu: public data published by the National Tax Agency
 - NTA QA Case: CC-BY 4.0 compatible government work published by the National Tax Agency
 
 ## Vector Release Scaffold
@@ -283,9 +310,10 @@ from git and should be uploaded as GitHub Release assets.
 ## Status
 
 Under active development. The current implemented surface covers lexical search,
-semantic search, hybrid search, tax-answer crawling, packaged retrieval/search
-across five packaged source types, e-Gov law lookup, category filters, vector
-precompute, and release dry-run scaffolding on the path to `v0.1.0`.
+semantic search, hybrid search, tax-answer crawling, tsutatsu crawling,
+packaged retrieval/search across five packaged source types, e-Gov law lookup,
+category filters, vector precompute, and release dry-run scaffolding on the path
+to `v0.1.0`.
 
 ## Development
 

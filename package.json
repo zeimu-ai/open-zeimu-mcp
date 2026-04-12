@@ -43,6 +43,7 @@
     "start": "node ./node_modules/tsx/dist/cli.mjs src/index.ts",
     "crawl:tax-answer": "node ./node_modules/tsx/dist/cli.mjs src/crawler/tax-answer/cli.ts",
     "crawl:qa-case": "node ./node_modules/tsx/dist/cli.mjs src/crawler/qa-case/cli.ts",
+    "crawl:tsutatsu": "node ./node_modules/tsx/dist/cli.mjs src/crawler/tsutatsu/cli.ts",
     "precompute:embeddings": "node ./node_modules/tsx/dist/cli.mjs scripts/precompute-embeddings.ts",
     "release:vectors": "node ./node_modules/tsx/dist/cli.mjs scripts/release-vectors.ts",
     "typecheck": "node ./node_modules/typescript/bin/tsc --noEmit",
