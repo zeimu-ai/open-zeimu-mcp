@@ -2,17 +2,123 @@
 
 # open-zeimu-mcp
 
-`open-zeimu-mcp` is an OSS MCP server for Japanese tax primary sources. The
-current build ships lexical search, packaged retrieval/search tools for tax
-answers, written answers, tsutatsu, qa cases, and saiketsu, plus e-Gov law
-lookup, a tax-answer crawler, and local semantic search / hybrid search.
+`open-zeimu-mcp` is an OSS MCP server for Japanese tax primary sources. It helps
+tax accountants and accounting firms ask an AI assistant such as Claude to look
+up public tax references directly.
 
-## What is open-zeimu-mcp?
+## What this tool can do
 
-- Zero-setup MCP server for Japanese tax primary-source retrieval
-- Designed for `npm install @zeimu-ai/open-zeimu-mcp`
-- Built on the official Model Context Protocol TypeScript SDK
-- Packaged-source search is lexical by default, with opt-in semantic / hybrid retrieval
+- Let an AI assistant such as Claude search National Tax Agency Tax Answer pages directly
+- Look up laws such as the Income Tax Act and the Corporate Tax Act
+- Check tsutatsu, written answers, QA cases, and saiketsu in one place
+- Reduce the time spent finding the right public source before answering a question
+
+## What is MCP?
+
+MCP is like a plugin system for AI assistants.
+
+- Plugin: a way to add functions to an AI app after setup
+- Domain knowledge: in this case, public tax references and laws
+
+Using MCP, you can add a "tax research helper" to your AI assistant.
+
+## How to use MCP
+
+### Prerequisites
+
+- An MCP-compatible AI app such as Claude Desktop
+- `npx` available in your environment, which is a one-shot command runner that comes with Node.js
+
+### 1. Use it in Claude Desktop
+
+Claude Desktop reads MCP server settings from `claude_desktop_config.json`.
+
+On macOS, this file is usually located at `~/Library/Application Support/Claude/claude_desktop_config.json`.
+
+Example configuration:
+
+```json
+{
+  "mcpServers": {
+    "open-zeimu-mcp": {
+      "command": "npx",
+      "args": ["-y", "@zeimu-ai/open-zeimu-mcp"],
+      "env": {
+        "EMBEDDING_BACKEND": "none",
+        "LOG_LEVEL": "info",
+        "DATA_DIR": "./data"
+      }
+    }
+  }
+}
+```
+
+Steps:
+
+1. Open `claude_desktop_config.json`
+2. Add the MCP server definition shown above
+3. Save the file
+4. Restart Claude Desktop
+5. Ask the AI assistant a tax question
+
+### 2. Use it with npx
+
+`npx` lets you start the package without installing it globally first.
+
+What to do:
+
+1. Open the settings screen of your MCP-compatible AI app
+2. Set `command` to `npx`
+3. Set `args` to `-y @zeimu-ai/open-zeimu-mcp`
+4. Add `env` values such as `EMBEDDING_BACKEND` if needed
+5. Save and restart the app
+
+### 3. Questions you can ask
+
+You can type questions like these directly into the AI assistant:
+
+- "Please explain the simplified taxation system for consumption tax."
+- "Please research the special blue return deduction under the Income Tax Act."
+- "Please check how entertainment expenses are handled under the Corporate Tax Act."
+- "Please search for the Tax Answer page about dependent deductions."
+- "Please look up the tsutatsu on input tax credit."
+
+### 4. What the workflow looks like
+
+- Open Claude Desktop
+- Add the MCP server in the settings file
+- Restart the app
+- Ask a question in chat
+- Review the answer and, if needed, confirm the cited source
+
+## FAQ
+
+### Is it free?
+
+This tool itself is free because it is open source. However, the AI app you use,
+such as Claude Desktop, may require its own subscription or usage fees.
+
+### Where does the data come from?
+
+The server uses public sources such as:
+
+- National Tax Agency Tax Answer pages
+- National Tax Agency tsutatsu, written answers, and QA cases
+- saiketsu published by the National Tax Tribunal
+- e-Gov Law API for public law data
+
+### Does my own data get sent anywhere?
+
+This tool is meant to search public tax references. It does not collect your
+private accounting data or your internal database on its own.
+
+Your prompt is sent to the AI app you are using, according to that app's own
+behavior. For safety, keep personal or confidential details to the minimum
+needed for the question.
+
+## Developer Details
+
+The sections below contain setup and development details.
 
 ## Quick Start
 
