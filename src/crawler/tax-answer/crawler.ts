@@ -74,7 +74,13 @@ export async function crawlTaxAnswer(options: TaxAnswerCrawlerOptions) {
       }
 
       const html = await response.text();
-      const parsed = parseTaxAnswerHtml({ html, url, crawledAt });
+      let parsed;
+      try {
+        parsed = parseTaxAnswerHtml({ html, url, crawledAt });
+      } catch (parseError) {
+        logger.warn(`[tax-answer] skipping ${url}: ${parseError instanceof Error ? parseError.message : String(parseError)}`);
+        continue;
+      }
       const current = await readStoredTaxAnswerDocument(options.dataDir, parsed.document.id);
       const change = detectTaxAnswerChange({
         current:
@@ -251,18 +257,60 @@ function estimateDiskUsage(count: number) {
   return count * 8_192;
 }
 
-function inferCategoryFromId(id: string) {
-  if (id.startsWith("3")) {
+export function inferCategoryFromId(id: string) {
+  const numericId = Number.parseInt(id, 10);
+
+  if (!Number.isInteger(numericId)) {
+    throw new Error(`Unexpected tax answer id: ${id}`);
+  }
+
+  if (numericId >= 1000 && numericId <= 1999) {
+    return "shotoku";
+  }
+
+  if (numericId >= 2000 && numericId <= 2999) {
+    return "gensen";
+  }
+
+  if (numericId >= 3000 && numericId <= 3999) {
     return "joto";
   }
 
-  if (id.startsWith("4")) {
+  if (numericId >= 4000 && numericId <= 4399) {
     return "sozoku";
   }
 
-  if (id.startsWith("6")) {
+  if (numericId >= 4400 && numericId <= 4499) {
+    return "zoyo";
+  }
+
+  if (numericId >= 4500 && numericId <= 4699) {
+    return "sozoku";
+  }
+
+  if (numericId >= 5000 && numericId <= 5999) {
+    return "hojin";
+  }
+
+  if (numericId >= 6000 && numericId <= 6999) {
     return "shohi";
   }
 
-  return "shotoku";
+  if (numericId >= 7100 && numericId <= 7199) {
+    return "inshi";
+  }
+
+  if (numericId >= 7200 && numericId <= 7299) {
+    return "fufuku";
+  }
+
+  if (numericId >= 7400 && numericId <= 7499) {
+    return "hotei";
+  }
+
+  if (numericId >= 8000 && numericId <= 8999) {
+    return "saigai";
+  }
+
+  throw new Error(`Unexpected tax answer id: ${id}`);
 }

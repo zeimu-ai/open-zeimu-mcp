@@ -1,4 +1,4 @@
-const ALLOWLIST_HOSTS = new Set(["www.nta.go.jp", "www.keisan.nta.go.jp"]);
+const ALLOWLIST_HOSTS = new Set(["www.nta.go.jp", "www.keisan.nta.go.jp", "www.mof.go.jp"]);
 
 export function assertAllowedTaxAnswerUrl(input: string): URL {
   const url = new URL(input);
