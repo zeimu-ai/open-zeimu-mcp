@@ -1,84 +1,84 @@
-name: 🐛 Bug Report
-description: Report a bug or unexpected behavior
+name: 🐛 バグ報告
+description: バグや予期しない動作を報告する
 labels: ["bug", "needs-triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for reporting a bug! Please fill out the sections below to help us fix it.
+        バグ報告ありがとうございます！以下の項目を記入してください。
 
   - type: textarea
     id: description
     attributes:
-      label: Describe the bug
-      description: A clear and concise description of what the bug is
+      label: バグの内容
+      description: バグや予期しない動作の内容を具体的に説明してください
       placeholder: |
-        When I run `open-zeimu-mcp create --start 2026-02-20T10:00:00 --duration 60`, I get an error...
+        `search_tax_answer` ツールで基礎控除を検索すると、エラーが返ってきます...
     validations:
       required: true
 
   - type: textarea
     id: reproduction
     attributes:
-      label: Steps to reproduce
-      description: Steps to reproduce the behavior
+      label: 再現手順
+      description: バグを再現するための手順を記述してください
       placeholder: |
-        1. Run `open-zeimu-mcp create --start 2026-02-20T10:00:00 --duration 60`
-        2. Observe error message
-        3. ...
+        1. MCP クライアントで `search_tax_answer` を呼び出す
+        2. query: "基礎控除", category: "shotoku" を指定する
+        3. エラーメッセージを確認する
     validations:
       required: true
 
   - type: textarea
     id: expected
     attributes:
-      label: Expected behavior
-      description: What you expected to happen
-      placeholder: Meeting should be created successfully
+      label: 期待される動作
+      description: 正しくはどのように動作すべきか説明してください
+      placeholder: タックスアンサーの検索結果が返ってくるはずです
     validations:
       required: true
 
   - type: textarea
     id: actual
     attributes:
-      label: Actual behavior
-      description: What actually happened (include error messages if any)
+      label: 実際の動作
+      description: 実際に何が起きたか（エラーメッセージがあれば含めてください）
       placeholder: |
-        Error: Authentication failed...
+        Error: Cannot read properties of undefined...
     validations:
       required: true
 
   - type: input
     id: version
     attributes:
-      label: Zoomy version
-      description: Run `open-zeimu-mcp --version` or `npm list open-zeimu-mcp`
-      placeholder: "1.0.0"
+      label: open-zeimu-mcp のバージョン
+      description: "`npm list @zeimu-ai/open-zeimu-mcp` で確認"
+      placeholder: "0.1.0-alpha.0"
     validations:
       required: true
 
   - type: input
     id: node
     attributes:
-      label: Node.js version
-      description: Run `node --version`
-      placeholder: "v20.10.0"
+      label: Node.js バージョン
+      description: "`node --version` で確認"
+      placeholder: "v22.0.0"
     validations:
       required: true
 
   - type: input
     id: os
     attributes:
-      label: Operating System
-      description: e.g., macOS 14.2, Ubuntu 22.04, Windows 11
-      placeholder: "macOS 14.2"
+      label: OS
+      description: "例: macOS 15.0, Ubuntu 22.04, Windows 11"
+      placeholder: "macOS 15.0"
     validations:
       required: true
 
   - type: textarea
     id: additional
     attributes:
-      label: Additional context
-      description: Any other context, screenshots, or logs that might help
+      label: 補足情報
+      description: スクリーンショット、ログ、その他参考になる情報があれば
     validations:
       required: false

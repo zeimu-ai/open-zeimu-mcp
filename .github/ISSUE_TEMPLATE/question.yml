@@ -1,30 +1,29 @@
-name: ❓ Question
-description: Ask a question about using Zoomy
+name: ❓ 質問
+description: open-zeimu-mcp の使い方について質問する
 labels: ["question"]
 body:
   - type: markdown
     attributes:
       value: |
-        Have a question? We're here to help!
+        ご質問をお寄せください。できる限りお答えします！
 
   - type: textarea
     id: question
     attributes:
-      label: Your question
-      description: What would you like to know about Zoomy?
+      label: 質問内容
+      description: open-zeimu-mcp について知りたいことを教えてください
       placeholder: |
-        How do I configure multiple Zoom accounts?
-        What timezone formats are supported?
+        semantic search を有効にするにはどうすればいいですか？
+        EMBEDDING_BACKEND=local の設定方法を教えてください。
     validations:
       required: true
 
   - type: textarea
     id: context
     attributes:
-      label: Context
-      description: Any additional context or what you've already tried
+      label: 補足情報
+      description: すでに試したことや、参照したドキュメントなどがあれば
       placeholder: |
-        I've tried... but I'm getting...
-        I looked at the documentation but...
+        README の設定セクションを読みましたが、ONNX モデルの入手方法が分かりませんでした...
     validations:
       required: false

@@ -1,47 +1,48 @@
-name: 💡 Feature Request
-description: Suggest a new feature or enhancement
+name: 💡 機能リクエスト
+description: 新機能や改善提案をする
 labels: ["enhancement", "needs-discussion"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thank you for suggesting a feature! Please provide details below.
+        機能リクエストありがとうございます！詳細を記入してください。
 
   - type: textarea
     id: problem
     attributes:
-      label: Problem statement
-      description: What problem does this feature solve?
+      label: 解決したい課題
+      description: この機能で何の問題を解決したいですか？
       placeholder: |
-        Currently, there's no way to...
-        This makes it difficult to...
+        現在、〇〇税法の検索でカテゴリを横断検索する方法がなく...
+        これにより、複数の税目にまたがる検索が困難になっています...
     validations:
       required: true
 
   - type: textarea
     id: solution
     attributes:
-      label: Proposed solution
-      description: How would you like this feature to work?
+      label: 提案する解決策
+      description: どのような機能を実装してほしいですか？
       placeholder: |
-        Add a new command `open-zeimu-mcp export` that allows users to...
+        `search_all` ツールを追加して、全カテゴリを横断して検索できるようにしてほしいです。
+        例: { "name": "search_all", "arguments": { "query": "基礎控除", "limit": 10 } }
     validations:
       required: true
 
   - type: textarea
     id: alternatives
     attributes:
-      label: Alternatives considered
-      description: What other solutions or workarounds have you considered?
+      label: 検討した代替案
+      description: 他の解決策や回避策を検討しましたか？
       placeholder: |
-        I tried using... but it doesn't work because...
+        カテゴリごとに個別検索を繰り返す方法も試しましたが、速度が遅くなるため...
     validations:
       required: false
 
   - type: textarea
     id: additional
     attributes:
-      label: Additional context
-      description: Any other context, mockups, or examples
+      label: 補足情報
+      description: その他の参考情報、モックアップ、実装例など
     validations:
       required: false
