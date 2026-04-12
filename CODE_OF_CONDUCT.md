@@ -1,60 +1,46 @@
-# Contributor Covenant Code of Conduct
+# 行動規範（Contributor Covenant）
 
-## Our Pledge
+## 私たちの誓い
 
-We as members, contributors, and leaders pledge to make participation in our
-community a welcoming experience for everyone.
+私たちはメンバー、コントリビューター、リーダーとして、年齢・体型・可視または不可視の障害・民族・性的特徴・性自認・性表現・経験のレベル・学歴・社会経済的地位・国籍・個人の外見・人種・カースト・肌の色・宗教・性的指向にかかわらず、すべての人にとって歓迎できるコミュニティへの参加を誓います。
 
-## Our Standards
+## 私たちの基準
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+コミュニティにとってポジティブな環境を作り出す行動の例：
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+* 他者への共感と親切心を示す
+* 意見、視点、経験の違いを尊重する
+* 建設的なフィードバックを丁寧に与え、適切に受け取る
+* 自分たちの過ちによって影響を受けた人々に責任を持って謝罪し、その経験から学ぶ
+* 個人としてだけでなく、コミュニティ全体にとって何が最善かを考える
 
-Examples of unacceptable behavior include:
+受け入れられない行動の例：
 
-* The use of inappropriate language or imagery
-* Trolling or insulting/derogatory comments
-* Public or private inappropriate behavior
-* Publishing others' private information without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+* 性的な表現や画像の使用、性的な関心や接触
+* 荒らし行為、侮辱的・軽蔑的なコメント、個人的または政治的な攻撃
+* 公的または私的な嫌がらせ
+* 明示的な許可なしに、住所や電子メールなど他人の個人情報を公開すること
+* 専門的な場で合理的に不適切とみなされる可能性のあるその他の行為
 
-## Enforcement Responsibilities
+## 執行責任
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+コミュニティリーダーは、私たちの行動基準を明確にして執行する責任があります。また、不適切・脅迫的・不快・有害とみなす行動に対して、適切かつ公正な是正措置を取ります。
 
-## Scope
+## 適用範囲
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
+この行動規範はすべてのコミュニティスペースで適用され、個人が公的スペースでコミュニティを公式に代表する場合にも適用されます。
 
-## Enforcement
+## 執行
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement via X (Twitter):
-[@3chhe](https://x.com/3chhe).
+虐待的、嫌がらせ、またはその他の受け入れられない行動は、GitHub の Issue または X（Twitter）で執行担当のコミュニティリーダーに報告できます。
 
-All complaints will be reviewed and investigated promptly and fairly.
+すべての苦情は迅速かつ公正に調査・対処されます。
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+コミュニティリーダーは、報告者のプライバシーとセキュリティを尊重する義務があります。
 
-## Attribution
+## 帰属
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+この行動規範は [Contributor Covenant][homepage] バージョン 2.1 を参考に作成されています。
 
 [homepage]: https://www.contributor-covenant.org
 [v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
