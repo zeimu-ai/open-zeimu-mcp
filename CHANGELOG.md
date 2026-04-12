@@ -33,10 +33,12 @@
 - レスポンスは markdown/text のみ保持 (raw HTML 非保存)
 - 印紙税法フィクスチャとユニットテスト 29 件
 - タックスアンサー crawler (`src/crawler/tax-answer/*`) と `npm run crawl:tax-answer`
+- 質疑応答事例 crawler (`src/crawler/qa-case/*`) と `npm run crawl:qa-case`
 - HTML -> Markdown parser with frontmatter, `aliases`, `headings`, and `.meta.json`
 - 差分検知 (`ETag` / `Last-Modified` / `content_hash`) と source-type 単位の bot commit フロー
 - rate limit 1 req/sec, robots policy, allowlist host, count-drop/deletion/failure-day guards
 - タックスアンサー fixture / crawler write-flow tests
+- 質疑応答事例 120 件（所得税 40 / 法人税 40 / 消費税 40）の実データ取り込み
 - local semantic asset inspector / fallback wiring (`EMBEDDING_BACKEND=local|supabase`)
 - `scripts/release-vectors.ts`, `.github/workflows/vectors.yml`, `.changeset/` scaffold
 - `onnxruntime-node` optional dependency wiring for local semantic backend
@@ -44,6 +46,7 @@
 ### Changed
 
 - README / API docs / architecture now document semantic search, hybrid search, tokenizer assets, and precompute workflow
+- README / README.ja now document `crawl:qa-case` and NTA QA case license
 - lexical search internals now retain match offsets for source-specific post-processing
 - lexical search now uses source-aware internal keys so duplicate document IDs across source types do not collide
 - lexical search now supports optional category filters inside packaged `search_*` tools

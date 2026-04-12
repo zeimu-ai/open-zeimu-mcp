@@ -50,6 +50,7 @@ Example MCP client configuration:
 - `list_saiketsu_categories`, `get_saiketsu`, `search_saiketsu`
 - `get_law`, `search_law`: e-Gov Law API v2 with 24h in-memory cache
 - `crawl:tax-answer`: NTA Tax Answer crawler to normalized Markdown + metadata
+- `crawl:qa-case`: NTA QA case crawler to normalized Markdown + metadata
 - `precompute:embeddings`: local chunk embedding precompute for packaged sources
 - `release:vectors`: release-asset scaffold generator for local semantic search
 
@@ -233,6 +234,36 @@ Generated files follow:
 data/tax_answer/<id>/<id>.md
 data/tax_answer/<id>/<id>.meta.json
 ```
+
+## QA Case Crawler
+
+The crawler fetches NTA QA case pages from `www.nta.go.jp`, respects
+`robots.txt`, enforces `1 req/2sec`, and writes only parsed Markdown / JSON
+metadata. Raw HTML is never persisted.
+
+Dry run against specific IDs:
+
+```bash
+npm run crawl:qa-case -- --ids qa-shotoku-01-01,qa-hojin-01-01 --data-dir ./data --repo-dir .
+```
+
+Apply changes and push a bot commit:
+
+```bash
+npm run crawl:qa-case -- --apply --limit 100 --data-dir ./data --repo-dir .
+```
+
+Generated files follow:
+
+```text
+data/qa_case/<id>/<id>.md
+data/qa_case/<id>/<id>.meta.json
+```
+
+## Data License
+
+- NTA Tax Answer: public data published by the National Tax Agency
+- NTA QA Case: CC-BY 4.0 compatible government work published by the National Tax Agency
 
 ## Vector Release Scaffold
 

@@ -19,6 +19,7 @@
 - `list_saiketsu_categories` / `get_saiketsu` / `search_saiketsu`
 - `get_law` / `search_law`: e-Gov 法令 API v2 を 24h in-memory cache 付きで呼ぶ
 - `crawl:tax-answer`: NTA タックスアンサーを Markdown + metadata に正規化する
+- `crawl:qa-case`: NTA 質疑応答事例を Markdown + metadata に正規化する
 - `precompute:embeddings`: packaged source を chunk 単位で埋め込み事前計算する
 - `release:vectors`: local semantic search 用 release asset の足場を生成する
 
@@ -212,6 +213,36 @@ npm run crawl:tax-answer -- --apply --limit 50 --data-dir ./data --repo-dir .
 data/tax_answer/<id>/<id>.md
 data/tax_answer/<id>/<id>.meta.json
 ```
+
+## 質疑応答事例 crawler
+
+`www.nta.go.jp` の NTA 質疑応答事例を取得し、`robots.txt` を尊重し、
+`1 req/2sec` を守りながら Markdown / JSON metadata だけを書き出します。
+raw HTML は保存しません。
+
+dry-run:
+
+```bash
+npm run crawl:qa-case -- --ids qa-shotoku-01-01,qa-hojin-01-01 --data-dir ./data --repo-dir .
+```
+
+apply:
+
+```bash
+npm run crawl:qa-case -- --apply --limit 100 --data-dir ./data --repo-dir .
+```
+
+出力先:
+
+```text
+data/qa_case/<id>/<id>.md
+data/qa_case/<id>/<id>.meta.json
+```
+
+## データライセンス
+
+- NTA タックスアンサー: 国税庁公開データ
+- NTA 質疑応答事例: 国税庁公開の政府著作物（CC-BY 4.0 互換）
 
 ## Vector Release Scaffold
 
