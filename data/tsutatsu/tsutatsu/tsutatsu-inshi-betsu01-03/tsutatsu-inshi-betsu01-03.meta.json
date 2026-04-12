@@ -1,0 +1,45 @@
+{
+  "id": "tsutatsu-inshi-betsu01-03",
+  "title": "第2号文書",
+  "category": "inshi",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/inshi/betsu01/03.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:52.450Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d3b6432482c8542e77eab564499d8cc6d25ef2489855e44ecfc3518a13feb5a8",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第2号文書",
+    "8"
+  ],
+  "headings": [
+    "第2号文書",
+    "第2号文書",
+    "（請負の意義）",
+    "（請負に関する契約書と物品又は不動産の譲渡に関する契約書との判別）",
+    "（職業野球の選手の意義）",
+    "（映画の俳優及び演劇の俳優の意義）",
+    "（音楽家の意義）",
+    "（舞踊家の意義）",
+    "（映画又は演劇の監督、演出家又はプロジユーサーの意義）",
+    "（テレビジヨン放送の演技者の意義）",
+    "（テレビジヨン放送の演出家又はプロジユーサーの意義）",
+    "（映画俳優専属契約書等）",
+    "（役務の提供を内容とする契約）",
+    "（広告契約書）",
+    "（エレベーター保守契約書等）",
+    "（会社監査契約書）",
+    "（仮工事請負契約書）",
+    "（宿泊申込請書）",
+    "（税理士委嘱契約書）"
+  ],
+  "citation": null,
+  "document_number": "8",
+  "tags": [
+    "inshi"
+  ],
+  "etag": "\"2aa5-60f3505ca2c78\"",
+  "last_modified": "Thu, 18 Jan 2024 09:31:05 GMT"
+}

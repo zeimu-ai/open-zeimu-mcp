@@ -1,0 +1,34 @@
+{
+  "id": "tsutatsu-renketsu-08-08_01_01",
+  "title": "第1款　通則",
+  "category": "renketsu",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/renketsu/08/08_01_01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:55.674Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:711bd66237edbb0789ab342ec579ab51df36a8f910336ee31aba6ede3a3ed454",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1款　通則",
+    "第1節　資産の評価損",
+    "8-1-1"
+  ],
+  "headings": [
+    "第1款　通則",
+    "第1款　通則",
+    "（評価損の判定の単位）",
+    "（評価損否認金等のある資産について評価損を計上した場合の処理）",
+    "（時価）",
+    "（評価換えの対象となる資産の範囲）",
+    "（資産について評価損の計上ができる「法的整理の事実」の例示）"
+  ],
+  "citation": "第1節　資産の評価損",
+  "document_number": "8-1-1",
+  "tags": [
+    "renketsu"
+  ],
+  "etag": "\"1970-60f35054ad6d0\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:56 GMT"
+}

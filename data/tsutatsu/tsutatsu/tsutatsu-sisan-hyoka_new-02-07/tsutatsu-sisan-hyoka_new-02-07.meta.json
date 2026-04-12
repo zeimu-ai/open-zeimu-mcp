@@ -1,0 +1,36 @@
+{
+  "id": "tsutatsu-sisan-hyoka_new-02-07",
+  "title": "付表1",
+  "category": "sisan",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/07.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:43:05.244Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5e047f357a916e2db9f8217493c268925eba2a3bbc13dbf4d4dbb218f93d36f1",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "付表1",
+    "付表9　削除（昭41直資3－19） -->\n付表9"
+  ],
+  "headings": [
+    "付表1",
+    "奥行価格補正率表（昭45直資3－13・平3課評2－4外・平18課評2－27外・平29課評2－46外改正）",
+    "側方路線影響加算率表（平3課評2－4外・平18課評2－27外改正）",
+    "二方路線影響加算率表（平3課評2－4外・平18課評2－27外改正）",
+    "地積区分表（平11課評2－12外追加・平18課評2－27外改正）",
+    "不整形地補正率表（平11課評2－12外追加・平18課評2－27外改正）",
+    "間口狭小補正率表（昭45直資3－13・平3課評2－4外・平18課評2－27外改正）",
+    "奥行長大補正率表（昭45直資3－13・平3課評2－4外改正）",
+    "がけ地補正率表（平3課評2－4外・平11課評2－12外改正）",
+    "特別警戒区域補正率表（平30課評2－49外追加）"
+  ],
+  "citation": "付表9　削除（昭41直資3－19） -->\n付表9",
+  "document_number": null,
+  "tags": [
+    "sisan"
+  ],
+  "etag": "\"8fac-64dfacc058320\"",
+  "last_modified": "Fri, 27 Mar 2026 05:30:20 GMT"
+}

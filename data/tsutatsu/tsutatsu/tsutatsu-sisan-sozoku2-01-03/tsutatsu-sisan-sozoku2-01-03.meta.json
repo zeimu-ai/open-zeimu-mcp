@@ -1,0 +1,44 @@
+{
+  "id": "tsutatsu-sisan-sozoku2-01-03",
+  "title": "〔退職手当金関係〕",
+  "category": "sisan",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01/03.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:43:06.012Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b17a67d58c1654e32821b21ea00410524f5a3364628dccc17a1cc26cb0b54f8f",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "退職手当金関係",
+    "3-18"
+  ],
+  "headings": [
+    "〔退職手当金関係〕",
+    "〔退職手当金関係〕",
+    "(退職手当金等の取扱い)",
+    "(退職手当金等の判定)",
+    "(弔慰金等の取扱い)",
+    "(普通給与の判定)",
+    "(「業務上の死亡」等の意義)",
+    "(退職手当金等に該当しないもの)",
+    "(「給与」の意義)",
+    "(退職手当金等の支給を受けた者)",
+    "(「その他退職給付金に関する信託又は生命保険の契約」の意義)",
+    "(「これに類する契約」の意義)",
+    "(退職手当金等に該当する生命保険契約に関する権利等)",
+    "(退職年金の継続受取人が取得する権利)",
+    "(「被相続人の死亡後3年以内に支給が確定したもの」の意義)",
+    "(被相続人の死亡後支給額が確定した退職手当金等)",
+    "(被相続人の死亡後確定した賞与)",
+    "(支給期の到来していない給与)"
+  ],
+  "citation": null,
+  "document_number": "3-18",
+  "tags": [
+    "sisan"
+  ],
+  "etag": "\"36fd-60f3501bdcbf8\"",
+  "last_modified": "Thu, 18 Jan 2024 09:29:57 GMT"
+}

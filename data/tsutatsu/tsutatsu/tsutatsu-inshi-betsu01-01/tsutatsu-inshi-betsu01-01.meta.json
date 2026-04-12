@@ -1,0 +1,50 @@
+{
+  "id": "tsutatsu-inshi-betsu01-01",
+  "title": "第1号の1文書",
+  "category": "inshi",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/inshi/betsu01/01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:52.391Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3975b58431401252be0b3c9af40d6cd39a2e33a4a4d5b06c0a53100bc05791ab",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1号の1文書",
+    "別表第1　課税物件、課税標準及び税率の取扱い"
+  ],
+  "headings": [
+    "第1号の1文書",
+    "第1号の1文書",
+    "（不動産の意義）",
+    "（不動産の従物）",
+    "（解体撤去を条件とする不動産の売買契約書）",
+    "（不動産の売渡証書）",
+    "（不動産と動産との交換契約書の記載金額）",
+    "（不動産の買戻し約款付売買契約書）",
+    "（共有不動産の持分の譲渡契約書）",
+    "（遺産分割協議書）",
+    "（鉱業権の意義）",
+    "（特許権の意義）",
+    "（特許出願権譲渡証書）",
+    "（実用新案権の意義）",
+    "（商標権の意義）",
+    "（意匠権の意義）",
+    "（回路配置利用権の意義）",
+    "（育成者権の意義）",
+    "（商号の意義）",
+    "（著作権の意義）",
+    "（船舶の意義）",
+    "（船舶委付証）",
+    "（航空機の意義）",
+    "（営業の譲渡の意義）"
+  ],
+  "citation": "別表第1　課税物件、課税標準及び税率の取扱い",
+  "document_number": null,
+  "tags": [
+    "inshi"
+  ],
+  "etag": "\"2dcf-60f3505cb16d8\"",
+  "last_modified": "Thu, 18 Jan 2024 09:31:05 GMT"
+}

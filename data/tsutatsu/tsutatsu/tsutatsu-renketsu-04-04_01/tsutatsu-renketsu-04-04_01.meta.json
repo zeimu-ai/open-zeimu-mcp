@@ -1,0 +1,31 @@
+{
+  "id": "tsutatsu-renketsu-04-04_01",
+  "title": "第1款 通則",
+  "category": "renketsu",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/renketsu/04/04_01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:54.797Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8373d9205e4ed803c5470d54815fe41c380cf0ebe64be35bc7a6a2959cbe3698",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1款 通則",
+    "第1節 資産の評価益"
+  ],
+  "headings": [
+    "第1款 通則",
+    "第1款 通則",
+    "（取得価額の修正等と評価益の計上との関係）",
+    "（時価を超える評価益の益金不算入）",
+    "（時価）"
+  ],
+  "citation": "第1節 資産の評価益",
+  "document_number": null,
+  "tags": [
+    "renketsu"
+  ],
+  "etag": "\"1426-60f35055c3fd8\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:57 GMT"
+}

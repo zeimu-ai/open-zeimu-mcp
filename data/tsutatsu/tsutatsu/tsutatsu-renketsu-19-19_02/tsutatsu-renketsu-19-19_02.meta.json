@@ -1,0 +1,37 @@
+{
+  "id": "tsutatsu-renketsu-19-19_02",
+  "title": "第2節　所得税額の控除",
+  "category": "renketsu",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/renketsu/19/19_02.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:57.440Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e82041ad5177f4618798490de3cc85bc785c45ada7ef0fb0c432e585441de9af",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第2節　所得税額の控除"
+  ],
+  "headings": [
+    "第2節　所得税額の控除",
+    "第2節　所得税額の控除",
+    "（名義書換え失念株の配当等に対する所得税の控除）",
+    "（未収利子又は未収配当等に対する所得税の控除）",
+    "（支払請求に基づき支払った所得税の控除）",
+    "（国外投資信託等の配当等及び国外株式の配当等に係る所得税控除額の所有期間あん分）",
+    "（割引債に係る利子の計算期間）",
+    "（証券投資信託の収益の分配の計算期間）",
+    "（信用取引等による買付株式がある場合の控除所得税額の簡便計算）",
+    "（連結法人税額から控除する所得税額の計算）",
+    "（上場株式等の配当等に係る所得税額の控除の取扱い）"
+  ],
+  "citation": null,
+  "document_number": null,
+  "tags": [
+    "renketsu",
+    "所得税"
+  ],
+  "etag": "\"3551-60f350521f210\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:54 GMT"
+}

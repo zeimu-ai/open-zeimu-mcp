@@ -1,0 +1,36 @@
+{
+  "id": "tsutatsu-shotoku-16-03",
+  "title": "法第76条《生命保険料控除》関係",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/03.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:59.561Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f1f2737fb5ea978fa7ccbeb0b89d93e69dc01f2a8512b3e672df048b7c6d4977",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "法第76条《生命保険料控除》関係",
+    "76-2"
+  ],
+  "headings": [
+    "法第76条《生命保険料控除》関係",
+    "法第76条《生命保険料控除》関係",
+    "（控除の対象となる生命保険料等）",
+    "（旧個人年金保険契約等の特約に係る保険料等）",
+    "（支払った生命保険料等の金額）",
+    "（使用者が負担した使用人等の負担すべき生命保険料等）",
+    "（保険金等の支払とともに又は保険金等の支払開始の日以後に分配を受ける剰余金等）",
+    "（支払った生命保険料等の金額の合計額の計算）",
+    "（保険会社等に積み立てられた剰余金等で生命保険料等の金額から控除するもの）",
+    "（生命保険料の金額を超えて剰余金の分配を行うこととなっている場合の取扱い）"
+  ],
+  "citation": null,
+  "document_number": "76-2",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"2fb9-60f35031ecf10\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:20 GMT"
+}

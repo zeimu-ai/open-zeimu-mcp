@@ -1,0 +1,40 @@
+{
+  "id": "tsutatsu-renketsu-02-02_04_02",
+  "title": "第2款　工事の請負",
+  "category": "renketsu",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/renketsu/02/02_04_02.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:54.567Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ef22011a55270c19d64a13400d0b29bc5c001db1e1982b5103fa4ed515a94b5a",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第2款　工事の請負",
+    "2-4-12"
+  ],
+  "headings": [
+    "第2款　工事の請負",
+    "第2款　工事の請負",
+    "(工事の請負の範囲)",
+    "(契約の意義)",
+    "(長期大規模工事に該当するかどうかの判定単位)",
+    "(工事の目的物について個々に引渡しが可能な場合の取扱い)",
+    "(長期大規模工事に該当しないこととなった場合の取扱い)",
+    "(長期大規模工事の着手の日等の判定)",
+    "(契約において手形で請負の対価の額が支払われることになっている場合の取扱い)",
+    "（進捗度に寄与しない原価等がある場合の工事進行基準の適用）",
+    "(損失が見込まれる場合の工事進行基準の適用)",
+    "(外貨建工事に係る契約の時における為替相場)",
+    "(外貨建工事の請負の対価の額が増額又は減額された場合の取扱い)",
+    "(外貨建工事の工事進行基準の計算)"
+  ],
+  "citation": null,
+  "document_number": "2-4-12",
+  "tags": [
+    "renketsu"
+  ],
+  "etag": "\"292b-60f35055fba78\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:58 GMT"
+}

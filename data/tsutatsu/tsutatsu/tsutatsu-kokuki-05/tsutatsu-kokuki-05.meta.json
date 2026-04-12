@@ -1,0 +1,38 @@
+{
+  "id": "tsutatsu-kokuki-05",
+  "title": "7　第9条《納税地》関係",
+  "category": "kokuki",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/kokuki/05.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:53.710Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:522b1700fb995ff79aeaa4298488f72fba9dc93736eb771e7e7d8650773facfe",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "7　第9条《納税地》関係"
+  ],
+  "headings": [
+    "7　第9条《納税地》関係",
+    "7　第9条《納税地》関係",
+    "（趣旨）",
+    "（納税地）",
+    "（航空機燃料の積込みの場所等）",
+    "8\n第10条《課税標準》関係",
+    "（趣旨）",
+    "（積込数量の測定）",
+    "（重量によつている場合の積込数量）",
+    "(航空機用発動機の航空機燃料の消費数量の測定）",
+    "（積込数量の端数計算）",
+    "（積込数量）",
+    "（ガロン又はバレルの換算）"
+  ],
+  "citation": null,
+  "document_number": null,
+  "tags": [
+    "kokuki"
+  ],
+  "etag": "\"1b72-60f350571f670\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:59 GMT"
+}

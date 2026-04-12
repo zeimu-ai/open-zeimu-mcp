@@ -1,0 +1,35 @@
+{
+  "id": "tsutatsu-renketsu-03-03_02_01",
+  "title": "第1款　支払利子",
+  "category": "renketsu",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/renketsu/03/03_02_01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:54.658Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ae64fba7568179ea21e7c4530db6496715828c1f32e9674f16fe6148cdf57c8e",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1款　支払利子",
+    "第2節　負債の利子の計算",
+    "3-2-1"
+  ],
+  "headings": [
+    "第1款　支払利子",
+    "第1款　支払利子",
+    "（支払利子の範囲）",
+    "（利子税又は延滞金）",
+    "（割賦購入資産等の取得価額に算入しない利息相当額）",
+    "（売上割引料）",
+    "（輸入決済手形借入金利息）",
+    "（原価に算入した負債の利子）"
+  ],
+  "citation": "第2節　負債の利子の計算",
+  "document_number": "3-2-1",
+  "tags": [
+    "renketsu"
+  ],
+  "etag": "\"1c3e-60f35055d8410\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:57 GMT"
+}

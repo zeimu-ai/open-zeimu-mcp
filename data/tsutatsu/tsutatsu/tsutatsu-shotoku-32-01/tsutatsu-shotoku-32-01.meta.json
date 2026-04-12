@@ -1,0 +1,35 @@
+{
+  "id": "tsutatsu-shotoku-32-01",
+  "title": "法第190条《年末調整》関係",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/32/01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:43:00.400Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7c5a4177b63effece3fc00ccc2ccc27d65de8bc3ea129bb36cf8fb46838e03d1",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "法第190条《年末調整》関係",
+    "第3節　年末調整"
+  ],
+  "headings": [
+    "法第190条《年末調整》関係",
+    "法第190条《年末調整》関係",
+    "（中途退職者等について年末調整を行う場合）",
+    "（その年中に支払うべきことが確定した給与等の計算）",
+    "（その年最後に支払う給与等に対する税額計算の省略）",
+    "（給与等の追加払をする場合の再調整）",
+    "（年末調整後に所得控除に異動があった場合の再調整）",
+    "（その年最後の給与等が賞与以外の通常の給与等である場合の年末調整）",
+    "（送金関係書類の提出又は提示が年末調整後にあった場合の再調整）"
+  ],
+  "citation": "第3節　年末調整",
+  "document_number": null,
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"383f-64467162ff590\"",
+  "last_modified": "Tue, 25 Nov 2025 08:30:04 GMT"
+}

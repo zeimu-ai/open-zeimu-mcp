@@ -1,0 +1,36 @@
+{
+  "id": "tsutatsu-shotoku-20-01",
+  "title": "法第143条《青色申告》関係",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/20/01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:43:00.009Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3026b0e3fe2959d5269bed5b1ec872287b89c5dd5da513b7db0a1f0484dc8e93",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "法第143条《青色申告》関係",
+    "第3節　青色申告",
+    "143-1"
+  ],
+  "headings": [
+    "法第143条《青色申告》関係",
+    "法第143条《青色申告》関係",
+    "（業務を行う居住者）",
+    "法第144条《青色申告の承認の申請》関係",
+    "（業務を承継した相続人が提出する承認申請書の提出期限）",
+    "法第148条《青色申告者の帳簿書類》関係",
+    "（2以上の業務を営む場合の損益計算書及び貸借対照表の作成）",
+    "法第150条《青色申告の承認の取消し》関係",
+    "（青色申告の承認を取り消した場合の事業専従者控除）"
+  ],
+  "citation": "第3節　青色申告",
+  "document_number": "143-1",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1743-60f3503131af8\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:19 GMT"
+}

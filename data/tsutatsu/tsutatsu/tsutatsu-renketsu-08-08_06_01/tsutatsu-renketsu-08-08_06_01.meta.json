@@ -1,0 +1,32 @@
+{
+  "id": "tsutatsu-renketsu-08-08_06_01",
+  "title": "第1款　金銭債権の貸倒れ",
+  "category": "renketsu",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/renketsu/08/08_06_01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:56.200Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:35a171d9b999f9832133769fec7d76f3408f0400178c0cac8b0d9a025aacc185",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1款　金銭債権の貸倒れ",
+    "第6節　貸倒損失",
+    "8-6-1"
+  ],
+  "headings": [
+    "第1款　金銭債権の貸倒れ",
+    "第1款　金銭債権の貸倒れ",
+    "（金銭債権の全部又は一部の切捨てをした場合の貸倒れ）",
+    "（回収不能の金銭債権の貸倒れ）",
+    "（一定期間取引停止後弁済がない場合等の貸倒れ）"
+  ],
+  "citation": "第6節　貸倒損失",
+  "document_number": "8-6-1",
+  "tags": [
+    "renketsu"
+  ],
+  "etag": "\"1909-60f3505411aa0\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:56 GMT"
+}

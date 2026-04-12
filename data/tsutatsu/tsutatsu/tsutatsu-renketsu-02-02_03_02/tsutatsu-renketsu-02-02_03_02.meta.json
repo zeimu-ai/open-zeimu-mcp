@@ -1,0 +1,37 @@
+{
+  "id": "tsutatsu-renketsu-02-02_03_02",
+  "title": "第2款　有価証券の取得価額",
+  "category": "renketsu",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/renketsu/02/02_03_02.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:54.314Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8308a613a201af91f37758492427ca5a6307f33a4389b82954252524a1316e89",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第2款　有価証券の取得価額",
+    "2-3-5"
+  ],
+  "headings": [
+    "第2款　有価証券の取得価額",
+    "第2款　有価証券の取得価額",
+    "（有価証券の購入のための付随費用）",
+    "（通常要する価額に比して有利な金額）",
+    "（他の株主等に損害を及ぼすおそれがないと認められる場合）",
+    "（通常要する価額に比して有利な金額で新株等が発行された場合における有価証券の価額）",
+    "（公社債の経過利子）",
+    "（政府保証債の応募予約料に相当する金額）",
+    "（新株予約権付社債に付された新株予約権を行使した場合の経過利子の取得価額算入）",
+    "（信用取引等及びデリバティブ取引に係る契約に基づいて取得される有価証券の取得価額）",
+    "（債権の現物出資により取得した株式の取得価額）"
+  ],
+  "citation": null,
+  "document_number": "2-3-5",
+  "tags": [
+    "renketsu"
+  ],
+  "etag": "\"2aab-60f3505645628\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:58 GMT"
+}

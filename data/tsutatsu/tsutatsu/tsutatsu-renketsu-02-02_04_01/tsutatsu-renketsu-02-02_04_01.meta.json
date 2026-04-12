@@ -1,0 +1,37 @@
+{
+  "id": "tsutatsu-renketsu-02-02_04_01",
+  "title": "第1款　リース譲渡",
+  "category": "renketsu",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/renketsu/02/02_04_01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:54.551Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:670b76d6c005ebbed502ca6425ce860a80b86f9f345b19ae3f77c0a6dc36cff0",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1款　リース譲渡",
+    "第4節　収益及び費用の帰属時期の特例",
+    "2-4-3"
+  ],
+  "headings": [
+    "第1款　リース譲渡",
+    "第1款　リース譲渡",
+    "（売買があったものとされたリース取引）",
+    "（延払損益の計算の基礎となる手数料の範囲）",
+    "（延払基準の計算単位）",
+    "（時価以上の価額で資産を下取りした場合の対価の額）",
+    "（支払期日前に受領した手形）",
+    "（賦払金の支払遅延等により販売した資産を取り戻した場合の処理）",
+    "（契約の変更があった場合の取扱い）",
+    "（対価の額又は原価の額に異動があった場合の調整）"
+  ],
+  "citation": "第4節　収益及び費用の帰属時期の特例",
+  "document_number": "2-4-3",
+  "tags": [
+    "renketsu"
+  ],
+  "etag": "\"289d-60f3505602bc0\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:58 GMT"
+}

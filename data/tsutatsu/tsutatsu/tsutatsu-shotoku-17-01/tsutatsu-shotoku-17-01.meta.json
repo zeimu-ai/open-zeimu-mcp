@@ -1,0 +1,37 @@
+{
+  "id": "tsutatsu-shotoku-17-01",
+  "title": "法第90条《変動所得及び臨時所得の平均課税》関係",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:59.784Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4d6c83baa761cd3b826ea12d23eaf1bfdce39359d684d93c72c051d3ee8d9727",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "法第90条《変動所得及び臨時所得の平均課税》関係",
+    "第2章　税額の計算"
+  ],
+  "headings": [
+    "法第90条《変動所得及び臨時所得の平均課税》関係",
+    "法第90条《変動所得及び臨時所得の平均課税》関係",
+    "（変動所得の金額）",
+    "（変動所得に係る必要経費）",
+    "（変動所得に係る引当金等の繰戻し金等）",
+    "（変動所得に係る必要経費の区分計算）",
+    "（その年分の変動所得が赤字である場合の平均課税の適用の有無の判定及び平均課税対象金額の計算）",
+    "（前年分及び前前年分のいずれかの年分の変動所得が赤字である場合の平均額）",
+    "（前年分及び前前年分の変動所得の金額が異動した場合の処理）",
+    "（端数計算）",
+    "（変動所得及び臨時所得がある場合の平均課税の適用）"
+  ],
+  "citation": "第2章　税額の計算",
+  "document_number": null,
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1f74-60f35031adf40\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:20 GMT"
+}

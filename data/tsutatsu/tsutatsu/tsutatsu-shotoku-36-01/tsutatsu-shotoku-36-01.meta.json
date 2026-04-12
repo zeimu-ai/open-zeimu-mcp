@@ -1,0 +1,33 @@
+{
+  "id": "tsutatsu-shotoku-36-01",
+  "title": "〔共通関係〕",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:43:00.545Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:63e34c0582e6074cae44aca0687a7e321b93eec727f8045215614e97fee36545",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "共通関係",
+    "法第204条《源泉徴収義務》関係"
+  ],
+  "headings": [
+    "〔共通関係〕",
+    "〔共通関係〕",
+    "（支払を受ける者が法人以外の団体等である場合の法第204条の規定の適用）",
+    "（報酬、料金等の性質を有するもの）",
+    "（報酬、料金等の性質を有する経済的利益）",
+    "（報酬又は料金の支払者が負担する旅費）",
+    "（報酬、料金等に係る源泉徴収義務者の範囲等）"
+  ],
+  "citation": "法第204条《源泉徴収義務》関係",
+  "document_number": null,
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"194b-646bc4c1f5248\"",
+  "last_modified": "Thu, 25 Dec 2025 01:00:05 GMT"
+}

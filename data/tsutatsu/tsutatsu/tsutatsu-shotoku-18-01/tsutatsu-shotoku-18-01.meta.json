@@ -1,0 +1,37 @@
+{
+  "id": "tsutatsu-shotoku-18-01",
+  "title": "法第104条《予定納税額の納付》関係",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/18/01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:59.868Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c58386eec6a688950646ec0943dc589b9f9f680e6c05bc0e4b9d26b02a8f40d7",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "法第104条《予定納税額の納付》関係",
+    "第1節　予定納税"
+  ],
+  "headings": [
+    "法第104条《予定納税額の納付》関係",
+    "法第104条《予定納税額の納付》関係",
+    "（予定納税基準額を計算する場合の諸控除）",
+    "（第2期の予定納税額がないものとされた場合の第1期の予定納税額の取扱い）",
+    "（「確定しているところ」の意義）",
+    "（居住者でなくなった場合の予定納税の義務）",
+    "（前年に非居住者であった者が居住者となった場合等における予定納税基準額の計算）",
+    "（予定納税額等の通知の性格）",
+    "（納税地の異動があった場合の予定納税額等の通知を行うべき税務署長）",
+    "（予定納税基準額の計算の基準日等）",
+    "（予定納税額等の通知）"
+  ],
+  "citation": "第1節　予定納税",
+  "document_number": null,
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"26f7-627b59b038940\"",
+  "last_modified": "Mon, 25 Nov 2024 05:00:03 GMT"
+}

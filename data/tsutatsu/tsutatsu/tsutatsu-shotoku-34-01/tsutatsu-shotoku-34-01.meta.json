@@ -1,0 +1,35 @@
+{
+  "id": "tsutatsu-shotoku-34-01",
+  "title": "法第201条《徴収税額》関係",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/34/01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:43:00.510Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:fda51a394c7a8d5714e3d2e5afc9f91afba0e3b2fdf0550fb9df9e51619a6861",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "法第201条《徴収税額》関係",
+    "第4章　退職所得に係る源泉徴収"
+  ],
+  "headings": [
+    "法第201条《徴収税額》関係",
+    "法第201条《徴収税額》関係",
+    "（通報書の送付があった場合の退職手当等に対する税額の計算）",
+    "（第2回以後の退職手当等に係る税額が赤字となる場合）",
+    "（退職手当等を分割して支払う場合の税額の計算等）",
+    "法第203条《退職所得の受給に関する申告書》関係",
+    "（同一年中に2以上の退職手当等の支払を受ける場合の退職所得の受給に関する申告書の提出方法等）",
+    "（簡易な方式による退職所得の受給に関する申告）",
+    "（申告書の記載事項に誤りがあったため徴収不足税額を生じた場合の支払者の措置等）"
+  ],
+  "citation": "第4章　退職所得に係る源泉徴収",
+  "document_number": null,
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1a5d-60f350302d300\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:18 GMT"
+}

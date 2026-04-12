@@ -1,0 +1,33 @@
+{
+  "id": "tsutatsu-renketsu-08-08_05_01",
+  "title": "第1款　租税",
+  "category": "renketsu",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/renketsu/08/08_05_01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:56.086Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8763edfc142944c9ce234b7295b2b97018d044132f4541a5c18c4e2eba6b9311",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1款　租税",
+    "第5節　租税公課等",
+    "8-5-1"
+  ],
+  "headings": [
+    "第1款　租税",
+    "第1款　租税",
+    "(租税の損金算入の時期)",
+    "(事業税及び特別法人事業税の損金算入の時期と認容額の調整計算)",
+    "(強制徴収等に係る源泉所得税)",
+    "(道府県民税等の減免に代えて交付を受けた補助金等)"
+  ],
+  "citation": "第5節　租税公課等",
+  "document_number": "8-5-1",
+  "tags": [
+    "renketsu"
+  ],
+  "etag": "\"24af-60f35054329f8\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:56 GMT"
+}

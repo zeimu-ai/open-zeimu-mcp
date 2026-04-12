@@ -1,0 +1,27 @@
+{
+  "id": "tsutatsu-tainoshobun-04-01-index02",
+  "title": "様式",
+  "category": "tainoshobun",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/tainoshobun/04/01/index02.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:43:08.960Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:63e0f9e7495919cca1c17893ae0caef35ed5d029514eee9fb393222cbeaa8708",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "様式"
+  ],
+  "headings": [
+    "様式",
+    "様式"
+  ],
+  "citation": null,
+  "document_number": null,
+  "tags": [
+    "tainoshobun"
+  ],
+  "etag": "\"1a34-64dfacbe79ae0\"",
+  "last_modified": "Fri, 27 Mar 2026 05:30:18 GMT"
+}

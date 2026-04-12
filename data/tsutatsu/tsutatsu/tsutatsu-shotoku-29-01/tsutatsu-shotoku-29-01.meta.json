@@ -1,0 +1,33 @@
+{
+  "id": "tsutatsu-shotoku-29-01",
+  "title": "法第181条《源泉徴収義務》関係",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/29/01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:43:00.298Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:23ab61bf2b11096d380f3ef8d42d2cbfe5ac74f897a56f2f837567bf059e9b44",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "法第181条《源泉徴収義務》関係",
+    "第2章　利子所得及び配当所得に係る源泉徴収"
+  ],
+  "headings": [
+    "法第181条《源泉徴収義務》関係",
+    "法第181条《源泉徴収義務》関係",
+    "（無記名の公社債の利子等に対する税額の計算）",
+    "（株式の配当、投資信託等の収益の分配に対する税額の簡易計算）",
+    "（オープン型の証券投資信託の終了等により分配される収益に対する税額の計算）",
+    "（支払の確定した日から1年を経過した日）",
+    "（質権を設定した株式の配当等に対する源泉徴収）"
+  ],
+  "citation": "第2章　利子所得及び配当所得に係る源泉徴収",
+  "document_number": null,
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"17cf-60f3503073be8\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:18 GMT"
+}

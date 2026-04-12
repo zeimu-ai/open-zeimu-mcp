@@ -1,0 +1,33 @@
+{
+  "id": "tsutatsu-sisan-hyoka_new-08-05",
+  "title": "189",
+  "category": "sisan",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/08/05.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:43:05.830Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3133312603d689d1fe0c3a4dd7fb28d2469279a88eb4b77691c1e76fadac612d",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "189"
+  ],
+  "headings": [
+    "189",
+    "（特定の評価会社の株式）",
+    "（比準要素数1の会社の株式の評価）",
+    "（株式等保有特定会社の株式の評価）",
+    "（土地保有特定会社の株式又は開業後3年未満の会社等の株式の評価）",
+    "（開業前又は休業中の会社の株式の評価）",
+    "（清算中の会社の株式の評価）",
+    "（株式の割当てを受ける権利等の発生している特定の評価会社の株式の価額の修正）"
+  ],
+  "citation": null,
+  "document_number": "189",
+  "tags": [
+    "sisan"
+  ],
+  "etag": "\"4ce7-60f35022a0ae8\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:04 GMT"
+}

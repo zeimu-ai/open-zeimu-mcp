@@ -1,0 +1,42 @@
+{
+  "id": "tsutatsu-renketsu-06-06_01_01",
+  "title": "第1款　減価償却資産",
+  "category": "renketsu",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/renketsu/06/06_01_01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:55.154Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:27072502beb403fee8e209ebb2ec07c99b5b76697d1de449db281a84746bdd31",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1款　減価償却資産",
+    "第1節　減価償却資産の範囲",
+    "6-1-1"
+  ],
+  "headings": [
+    "第1款　減価償却資産",
+    "第1款　減価償却資産",
+    "(美術品等についての減価償却資産の判定)",
+    "(貴金属の素材の価額が大部分を占める固定資産)",
+    "(稼働休止資産)",
+    "(建設中の資産)",
+    "(常備する専用部品の償却)",
+    "(工業所有権の実施権等)",
+    "(織機の登録権利等)",
+    "(無形減価償却資産の事業の用に供した時期)",
+    "(温泉利用権)",
+    "(公共下水道施設の使用のための負担金)",
+    "(研究開発のためのソフトウエア)",
+    "(電気通信施設利用権の範囲)",
+    "(社歌、コマーシャルソング等)"
+  ],
+  "citation": "第1節　減価償却資産の範囲",
+  "document_number": "6-1-1",
+  "tags": [
+    "renketsu"
+  ],
+  "etag": "\"2847-60f3505568700\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:57 GMT"
+}

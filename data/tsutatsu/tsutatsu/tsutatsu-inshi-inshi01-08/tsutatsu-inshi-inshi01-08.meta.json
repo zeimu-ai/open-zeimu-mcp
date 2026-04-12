@@ -1,0 +1,31 @@
+{
+  "id": "tsutatsu-inshi-inshi01-08",
+  "title": "第8節　納税地",
+  "category": "inshi",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/inshi/inshi01/08.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:52.769Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:79d73412438b8fac6329ad747f78bc8de7396b0e84a720409493d8353ca07f73",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第8節　納税地"
+  ],
+  "headings": [
+    "第8節　納税地",
+    "第8節　納税地",
+    "（作成場所が法施行地外となっている場合）",
+    "（課税文書にその作成場所が明らかにされているものの意義）",
+    "（その作成者の事業に係る事務所、事業所その他これらに準ずるものの所在地が記載されている課税文書の意義）",
+    "（作成者のうち当該課税文書に最も先に記載されている者の意義）"
+  ],
+  "citation": null,
+  "document_number": null,
+  "tags": [
+    "inshi"
+  ],
+  "etag": "\"19ba-60f3505c1c420\"",
+  "last_modified": "Thu, 18 Jan 2024 09:31:04 GMT"
+}

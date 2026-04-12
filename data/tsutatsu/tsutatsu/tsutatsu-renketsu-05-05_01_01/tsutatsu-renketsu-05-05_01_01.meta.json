@@ -1,0 +1,32 @@
+{
+  "id": "tsutatsu-renketsu-05-05_01_01",
+  "title": "第1款　購入した棚卸資産",
+  "category": "renketsu",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/renketsu/05/05_01_01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:54.883Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:899b2632f38ad9e64bb8e4d81340921b48da9e6018514f5c9d0fc528ead1e7ec",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1款　購入した棚卸資産",
+    "第1節　棚卸資産の取得価額",
+    "5-1-1"
+  ],
+  "headings": [
+    "第1款　購入した棚卸資産",
+    "第1款　購入した棚卸資産",
+    "（購入した棚卸資産の取得価額）",
+    "（棚卸資産の取得価額に算入しないことができる費用）",
+    "（取得後の連結事業年度において購入代価が確定した場合の調整）"
+  ],
+  "citation": "第1節　棚卸資産の取得価額",
+  "document_number": "5-1-1",
+  "tags": [
+    "renketsu"
+  ],
+  "etag": "\"1753-60f350559ced8\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:57 GMT"
+}

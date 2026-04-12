@@ -1,0 +1,33 @@
+{
+  "id": "tsutatsu-sisan-hyoka_new-02-03",
+  "title": "20",
+  "category": "sisan",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/02/03.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:43:05.152Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:11189281b6d5993cbe6a9e8648478dbddfdac70f85d6de45408df5d0a2a9db58",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "20"
+  ],
+  "headings": [
+    "20",
+    "（不整形地の評価）",
+    "（地積規模の大きな宅地の評価）",
+    "（無道路地の評価）",
+    "（間口が狭小な宅地等の評価）",
+    "（がけ地等を有する宅地の評価）",
+    "（土砂災害特別警戒区域内にある宅地の評価）",
+    "（容積率の異なる2以上の地域にわたる宅地の評価）"
+  ],
+  "citation": null,
+  "document_number": "20",
+  "tags": [
+    "sisan"
+  ],
+  "etag": "\"40d5-60f3502530718\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:06 GMT"
+}

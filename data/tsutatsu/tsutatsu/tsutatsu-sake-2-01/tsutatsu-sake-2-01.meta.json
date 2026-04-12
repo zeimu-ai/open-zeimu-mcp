@@ -1,0 +1,31 @@
+{
+  "id": "tsutatsu-sake-2-01",
+  "title": "第1編　総則",
+  "category": "sake",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/sake/2-01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:57.724Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2c004723d6bf96e9f869afb0d7c1ec8bb01371116e71a6626371c7e9c3c49ee7",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1編　総則",
+    "1"
+  ],
+  "headings": [
+    "第1編　総則",
+    "第1編　総則",
+    "第2編　酒税法関係",
+    "第1条　課税物件",
+    "第2条　酒類の定義及び種類"
+  ],
+  "citation": null,
+  "document_number": "1",
+  "tags": [
+    "酒税"
+  ],
+  "etag": "\"44c4-616d08b18c180\"",
+  "last_modified": "Wed, 24 Apr 2024 05:00:02 GMT"
+}

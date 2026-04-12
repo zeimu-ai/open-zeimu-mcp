@@ -1,0 +1,32 @@
+{
+  "id": "tsutatsu-renketsu-10-10_02_01",
+  "title": "第1款　通則",
+  "category": "renketsu",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/renketsu/10/10_02_01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T10:42:56.525Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8a5292cae8de9522e27531158559b7b3684d5d92e84fbd158bf298c737f7a38c",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "第1款　通則",
+    "第2節　貸倒引当金",
+    "10-2-1"
+  ],
+  "headings": [
+    "第1款　通則",
+    "第1款　通則",
+    "（取立不能見込額として表示した貸倒引当金）",
+    "（個別評価金銭債権に係る貸倒引当金と一括評価金銭債権に係る貸倒引当金との関係）",
+    "（リース資産の対価の額に係る金銭債権の範囲）"
+  ],
+  "citation": "第2節　貸倒引当金",
+  "document_number": "10-2-1",
+  "tags": [
+    "renketsu"
+  ],
+  "etag": "\"1338-60f350537c400\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:55 GMT"
+}
