@@ -9,11 +9,16 @@ import { crawlQaCase } from "../../../../src/crawler/qa-case/crawler.js";
 const rootHtml = `
   <ul>
     <li><a href="/law/shitsugi/shotoku/01.htm">所得税</a></li>
+    <li><a href="/taxes/sake/qa/01.htm">酒税</a></li>
   </ul>
 `;
 
 const categoryHtml = `
   <p><a href="/law/shitsugi/shotoku/01/01.htm">ガス爆発事故に伴い被害者が受領する損害賠償金等</a></p>
+`;
+
+const sakeCategoryHtml = `
+  <p><a href="/taxes/sake/qa/01/01.htm">酒類の定義</a></p>
 `;
 
 const caseHtml = `<!DOCTYPE html>
@@ -30,6 +35,24 @@ const caseHtml = `<!DOCTYPE html>
       <p>心身に加えられた損害につき支払を受ける損害賠償金等として非課税とされます。</p>
       <h2>【関係法令通達】</h2>
       <p>所得税法第9条第1項第18号</p>
+    </div>
+  </body>
+</html>`;
+
+const sakeCaseHtml = `<!DOCTYPE html>
+<html lang="ja">
+  <body>
+    <div id="bodyArea">
+      <ol class="breadcrumb">
+        <li><a href="/taxes/sake/qa/01.htm">お酒に関するQ&A</a></li>
+      </ol>
+      <div class="page-header" id="page-top"><h1>酒類の定義</h1></div>
+      <h2>【照会要旨】</h2>
+      <p>酒類に該当するかどうかを確認したいです。</p>
+      <h2>【回答要旨】</h2>
+      <p>酒税法に定める酒類に該当する場合は、酒税の対象となります。</p>
+      <h2>【関係法令通達】</h2>
+      <p>酒税法第2条</p>
     </div>
   </body>
 </html>`;
@@ -54,11 +77,25 @@ describe("crawlQaCase", () => {
         return new Response(categoryHtml, { status: 200 });
       }
 
+      if (url === "https://www.nta.go.jp/taxes/sake/qa/01.htm") {
+        return new Response(sakeCategoryHtml, { status: 200 });
+      }
+
       if (url === "https://www.nta.go.jp/law/shitsugi/shotoku/01/01.htm") {
         return new Response(caseHtml, {
           status: 200,
           headers: {
             etag: '"fixture-etag-qa"',
+            "last-modified": "Fri, 11 Apr 2026 00:00:00 GMT",
+          },
+        });
+      }
+
+      if (url === "https://www.nta.go.jp/taxes/sake/qa/01/01.htm") {
+        return new Response(sakeCaseHtml, {
+          status: 200,
+          headers: {
+            etag: '"fixture-etag-sake"',
             "last-modified": "Fri, 11 Apr 2026 00:00:00 GMT",
           },
         });
@@ -81,8 +118,8 @@ describe("crawlQaCase", () => {
     });
 
     expect(result).toMatchObject({
-      discoveredCount: 1,
-      newCount: 1,
+      discoveredCount: 2,
+      newCount: 2,
       updatedCount: 0,
       unchangedCount: 0,
     });
@@ -104,6 +141,25 @@ describe("crawlQaCase", () => {
       id: "qa-shotoku-01-01",
       version: 1,
       etag: '"fixture-etag-qa"',
+    });
+
+    const sakeMarkdown = await readFile(
+      join(dataDir, "qa_case/qa-sake-01-01/qa-sake-01-01.md"),
+      "utf8",
+    );
+    const sakeMetadata = JSON.parse(
+      await readFile(
+        join(dataDir, "qa_case/qa-sake-01-01/qa-sake-01-01.meta.json"),
+        "utf8",
+      ),
+    ) as { id: string; version: number; etag: string };
+
+    expect(sakeMarkdown).toContain('id: "qa-sake-01-01"');
+    expect(sakeMarkdown).toContain("# 酒類の定義");
+    expect(sakeMetadata).toMatchObject({
+      id: "qa-sake-01-01",
+      version: 1,
+      etag: '"fixture-etag-sake"',
     });
   });
 

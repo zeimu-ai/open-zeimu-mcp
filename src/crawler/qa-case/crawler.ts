@@ -267,5 +267,9 @@ function inferUrlFromId(id: string) {
     throw new Error(`Unexpected qa_case id: ${id}`);
   }
 
+  if (match[1] === "sake") {
+    return `https://www.nta.go.jp/taxes/sake/qa/${match[2]}/${match[3]}.htm`;
+  }
+
   return `https://www.nta.go.jp/law/shitsugi/${match[1]}/${match[2]}/${match[3]}.htm`;
 }

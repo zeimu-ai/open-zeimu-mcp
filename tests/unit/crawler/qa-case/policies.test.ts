@@ -45,6 +45,9 @@ describe("assertAllowedQaCaseUrl", () => {
       assertAllowedQaCaseUrl("https://www.nta.go.jp/law/shitsugi/shotoku/01/01.htm"),
     ).not.toThrow();
     expect(() =>
+      assertAllowedQaCaseUrl("https://www.nta.go.jp/taxes/sake/qa/01/01.htm"),
+    ).not.toThrow();
+    expect(() =>
       assertAllowedQaCaseUrl("https://evil.example.com/law/shitsugi/shotoku/01/01.htm"),
     ).toThrow(/Disallowed host/u);
   });

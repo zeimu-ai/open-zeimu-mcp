@@ -170,23 +170,33 @@ function createContentHash(markdown: string) {
 }
 
 function extractCategory(pathname: string) {
-  const match = pathname.match(/\/law\/shitsugi\/([^/]+)\//u);
+  const lawMatch = pathname.match(/\/law\/shitsugi\/([^/]+)\//u);
 
-  if (!match) {
-    throw new Error(`Unexpected qa_case category pathname: ${pathname}`);
+  if (lawMatch) {
+    return lawMatch[1];
   }
 
-  return match[1];
+  if (pathname.startsWith("/taxes/sake/qa/")) {
+    return "sake";
+  }
+
+  throw new Error(`Unexpected qa_case category pathname: ${pathname}`);
 }
 
 function extractCaseCode(pathname: string) {
-  const match = pathname.match(/\/([0-9]{2})\/([0-9]{2})\.htm$/u);
+  const lawMatch = pathname.match(/\/([0-9]{2})\/([0-9]{2})\.htm$/u);
 
-  if (!match) {
-    throw new Error(`Unexpected qa_case pathname: ${pathname}`);
+  if (lawMatch && pathname.startsWith("/law/shitsugi/")) {
+    return `${lawMatch[1]}-${lawMatch[2]}`;
   }
 
-  return `${match[1]}-${match[2]}`;
+  const sakeMatch = pathname.match(/^\/taxes\/sake\/qa\/([0-9]{2})\/([0-9]{2})\.htm$/u);
+
+  if (sakeMatch) {
+    return `${sakeMatch[1]}-${sakeMatch[2]}`;
+  }
+
+  throw new Error(`Unexpected qa_case pathname: ${pathname}`);
 }
 
 function extractBodyArea(html: string) {
@@ -233,7 +243,9 @@ function extractTagText(html: string, tagName: string) {
 
 function extractCategoryPath(html: string) {
   const matches = Array.from(
-    html.matchAll(/<li[^>]*>\s*<a[^>]*href="\/law\/shitsugi\/[^"]+\/01\.htm"[^>]*>([\s\S]*?)<\/a>\s*<\/li>/giu),
+    html.matchAll(
+      /<li[^>]*>\s*<a[^>]*href="(?:\/law\/shitsugi\/[^"]+\/01\.htm|\/taxes\/sake\/qa\/01\.htm)"[^>]*>([\s\S]*?)<\/a>\s*<\/li>/giu,
+    ),
     (match) => normalizeText(stripAllTags(match[1] ?? "")),
   ).filter(Boolean);
 

@@ -24,6 +24,26 @@ const fixtureHtml = `<!DOCTYPE html>
   </body>
 </html>`;
 
+const sakeFixtureHtml = `<!DOCTYPE html>
+<html lang="ja">
+  <body>
+    <div id="bodyArea">
+      <ol class="breadcrumb">
+        <li><a href="/">ホーム</a></li>
+        <li><a href="/taxes/sake/qa/01.htm">お酒に関するQ&A</a></li>
+        <li><a href="/taxes/sake/qa/01.htm">総則</a></li>
+      </ol>
+      <div class="page-header" id="page-top"><h1>酒類の定義</h1></div>
+      <h2>【照会要旨】</h2>
+      <p>酒類に該当するかどうかを確認したいです。</p>
+      <h2>【回答要旨】</h2>
+      <p>酒税法に定める酒類に該当する場合は、酒税の対象となります。</p>
+      <h2>【関係法令通達】</h2>
+      <p>酒税法第2条</p>
+    </div>
+  </body>
+</html>`;
+
 describe("parseQaCasePage", () => {
   it("extracts 照会要旨 / 回答要旨 / 関係法令通達 sections", () => {
     const result = parseQaCasePage({
@@ -47,5 +67,20 @@ describe("parseQaCasePage", () => {
     expect(result.markdown).not.toContain("注記");
     expect(result.meta.content_hash).toMatch(/^sha256:/u);
     expect(result.meta.license).toContain("国税庁 質疑応答事例");
+  });
+
+  it("parses the sake qa_case path", () => {
+    const result = parseQaCasePage({
+      html: sakeFixtureHtml,
+      url: "https://www.nta.go.jp/taxes/sake/qa/01/01.htm",
+      crawledAt: "2026-04-12T01:00:00.000Z",
+    });
+
+    expect(result.document).toMatchObject({
+      id: "qa-sake-01-01",
+      category: "sake",
+      canonicalUrl: "https://www.nta.go.jp/taxes/sake/qa/01/01.htm",
+    });
+    expect(result.document.metadata.category_path).toBe("総則");
   });
 });

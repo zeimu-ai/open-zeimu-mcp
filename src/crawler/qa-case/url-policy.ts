@@ -1,4 +1,5 @@
 const ALLOWLIST_HOSTS = new Set(["www.nta.go.jp"]);
+const ALLOWLIST_PATH_PREFIXES = ["/law/shitsugi/", "/taxes/sake/qa/"];
 
 export function assertAllowedQaCaseUrl(input: string): URL {
   const url = new URL(input);
@@ -7,7 +8,7 @@ export function assertAllowedQaCaseUrl(input: string): URL {
     throw new Error(`Disallowed host: ${url.hostname}`);
   }
 
-  if (!url.pathname.startsWith("/law/shitsugi/")) {
+  if (!ALLOWLIST_PATH_PREFIXES.some((prefix) => url.pathname.startsWith(prefix))) {
     throw new Error(`Disallowed path: ${url.pathname}`);
   }
 

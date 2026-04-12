@@ -1,8 +1,14 @@
 import { assertAllowedQaCaseUrl } from "./url-policy.js";
 
-const CATEGORY_PAGE_PATTERN = /https:\/\/www\.nta\.go\.jp\/law\/shitsugi\/[a-z0-9_-]+\/01\.htm/gu;
-const CASE_PAGE_PATTERN =
-  /https:\/\/www\.nta\.go\.jp\/law\/shitsugi\/([a-z0-9_-]+)\/([0-9]{2})\/([0-9]{2})\.htm/gu;
+const CATEGORY_INDEX_PATTERNS = [
+  /^https:\/\/www\.nta\.go\.jp\/law\/shitsugi\/[a-z0-9_-]+\/01\.htm$/u,
+  /^https:\/\/www\.nta\.go\.jp\/taxes\/sake\/qa\/01\.htm$/u,
+];
+
+const CASE_PAGE_PATTERNS = [
+  /^https:\/\/www\.nta\.go\.jp\/law\/shitsugi\/[a-z0-9_-]+\/[0-9]{2}\/[0-9]{2}\.htm$/u,
+  /^https:\/\/www\.nta\.go\.jp\/taxes\/sake\/qa\/[0-9]{2}\/[0-9]{2}\.htm$/u,
+];
 
 export async function discoverQaCaseIndexPages({
   html,
@@ -22,13 +28,11 @@ export async function discoverQaCaseIndexPages({
 
     try {
       const url = new URL(href, baseUrl);
-      const value = url.toString();
+      const value = `${url.origin}${url.pathname}`;
 
-      if (CATEGORY_PAGE_PATTERN.test(value) && !value.includes("/taxes/sake/qa/")) {
+      if (CATEGORY_INDEX_PATTERNS.some((pattern) => pattern.test(value))) {
         urls.add(assertAllowedQaCaseUrl(value).toString());
       }
-
-      CATEGORY_PAGE_PATTERN.lastIndex = 0;
     } catch {
       continue;
     }
@@ -49,13 +53,11 @@ export function extractQaCaseLinks(html: string, baseUrl: string) {
 
     try {
       const url = new URL(href, baseUrl);
-      const value = url.toString();
+      const value = `${url.origin}${url.pathname}`;
 
-      if (CASE_PAGE_PATTERN.test(value)) {
+      if (CASE_PAGE_PATTERNS.some((pattern) => pattern.test(value))) {
         urls.add(assertAllowedQaCaseUrl(value).toString());
       }
-
-      CASE_PAGE_PATTERN.lastIndex = 0;
     } catch {
       continue;
     }
