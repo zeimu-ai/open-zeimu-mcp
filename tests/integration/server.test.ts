@@ -16,6 +16,7 @@ describe("createServer", () => {
         logLevel: "info",
         dataDir: fixturesDir,
         vectorsCacheDir: `${fixturesDir}/vectors`,
+        onnxModelFileName: "bge-m3-int8.onnx.tar.gz",
       },
       version: "0.0.0",
     });
@@ -36,16 +37,20 @@ describe("createServer", () => {
       "stats",
       "lexical_search",
       "list_tax_answer_categories",
+      "list_written_answer_categories",
       "list_tsutatsu_categories",
       "list_qa_case_categories",
+      "list_saiketsu_categories",
       "get_tax_answer",
+      "get_written_answer",
       "get_tsutatsu",
       "get_qa_case",
+      "get_saiketsu",
       "search_tax_answer",
+      "search_written_answer",
       "search_tsutatsu",
       "search_qa_case",
-      "get_written_answer",
-      "search_written_answer",
+      "search_saiketsu",
       "get_law",
       "search_law",
     ]);
@@ -58,21 +63,31 @@ describe("createServer", () => {
         data_dir: true,
         vectors: "disabled",
       },
+      vector_assets: {
+        backend: "none",
+        status: "disabled",
+      },
     });
 
     const stats = await client.callTool({ name: "stats", arguments: {} });
     expect(stats.structuredContent).toMatchObject({
       lexical_index: {
-        size: 4,
+        size: 5,
       },
       source_types: {
         tax_answer: {
+          count: 1,
+        },
+        written_answer: {
           count: 1,
         },
         tsutatsu: {
           count: 1,
         },
         qa_case: {
+          count: 1,
+        },
+        saiketsu: {
           count: 1,
         },
       },
@@ -214,6 +229,21 @@ describe("createServer", () => {
       name: "list_tax_answer_categories",
       arguments: {},
     });
+
+    const listWrittenAnswerCategories = await client.callTool({
+      name: "list_written_answer_categories",
+      arguments: {},
+    });
+    expect(listWrittenAnswerCategories.structuredContent).toMatchObject({
+      source_type: "written_answer",
+      total_count: 1,
+      categories: [
+        {
+          category: "hyoka",
+          document_count: 1,
+        },
+      ],
+    });
     expect(listTaxAnswerCategories.structuredContent).toMatchObject({
       source_type: "tax_answer",
       total_count: 1,
@@ -251,6 +281,49 @@ describe("createServer", () => {
           source_type: "written_answer",
           title: "非上場株式の評価に関する文書回答事例",
           page_hint: "p.2",
+        },
+      ],
+    });
+
+    const listSaiketsuCategories = await client.callTool({
+      name: "list_saiketsu_categories",
+      arguments: {},
+    });
+    expect(listSaiketsuCategories.structuredContent).toMatchObject({
+      source_type: "saiketsu",
+      total_count: 1,
+      categories: [
+        {
+          category: "shotoku",
+          document_count: 1,
+        },
+      ],
+    });
+
+    const getSaiketsu = await client.callTool({
+      name: "get_saiketsu",
+      arguments: { id: "sai-001" },
+    });
+    expect(getSaiketsu.structuredContent).toMatchObject({
+      source_type: "saiketsu",
+      id: "sai-001",
+      title: "立退料の所得区分に関する裁決事例",
+      canonical_url: "https://www.kfs.go.jp/service/JP/139/01/index.html",
+    });
+
+    const searchSaiketsu = await client.callTool({
+      name: "search_saiketsu",
+      arguments: { query: "立退料", limit: 5, category: "shotoku" },
+    });
+    expect(searchSaiketsu.structuredContent).toMatchObject({
+      source_type: "saiketsu",
+      query: "立退料",
+      total_count: 1,
+      results: [
+        {
+          id: "sai-001",
+          source_type: "saiketsu",
+          title: "立退料の所得区分に関する裁決事例",
         },
       ],
     });

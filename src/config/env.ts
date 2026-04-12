@@ -10,6 +10,7 @@ const envSchema = z
       .optional(),
     DATA_DIR: z.string().min(1).optional(),
     VECTORS_CACHE_DIR: z.string().min(1).optional(),
+    ONNX_MODEL_FILENAME: z.string().min(1).optional(),
   })
   .transform((raw) => ({
     embeddingBackend: raw.EMBEDDING_BACKEND ?? "none",
@@ -18,6 +19,7 @@ const envSchema = z
     vectorsCacheDir: expandHomeDir(
       raw.VECTORS_CACHE_DIR ?? "~/.cache/open-zeimu-mcp/vectors",
     ),
+    onnxModelFileName: raw.ONNX_MODEL_FILENAME ?? "bge-m3-int8.onnx.tar.gz",
   }));
 
 export type Env = z.infer<typeof envSchema>;

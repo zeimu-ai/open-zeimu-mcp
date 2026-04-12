@@ -5,6 +5,7 @@ import { z } from "zod";
 
 import type { Env } from "../config/env.js";
 import type { LexicalIndex } from "../search/lexical-index.js";
+import { inspectVectorAssets } from "../search/semantic-assets.js";
 import { SOURCE_TYPES, type SourceStat } from "../types/index.js";
 
 const sourceStatSchema = z.object({
@@ -35,9 +36,11 @@ export type StatsResult = z.infer<typeof statsOutputSchema>;
 export async function buildStatsResult({
   env,
   lexicalIndex,
+  version = "0.0.0",
 }: {
   env: Env;
   lexicalIndex?: LexicalIndex;
+  version?: string;
 }): Promise<StatsResult> {
   const sourceTypes = Object.fromEntries(
     await Promise.all(
@@ -48,6 +51,8 @@ export async function buildStatsResult({
     ),
   ) as Record<(typeof SOURCE_TYPES)[number], SourceStat>;
 
+  const vectorAssets = await inspectVectorAssets({ env, version });
+
   return {
     source_types: sourceTypes,
     lexical_index: {
@@ -56,10 +61,7 @@ export async function buildStatsResult({
     },
     semantic: {
       backend: env.embeddingBackend,
-      vectors_loaded:
-        env.embeddingBackend === "none"
-          ? false
-          : await directoryHasFiles(env.vectorsCacheDir),
+      vectors_loaded: env.embeddingBackend === "local" ? vectorAssets.ready : false,
     },
   };
 }
@@ -92,11 +94,6 @@ async function collectSourceStat(directory: string): Promise<SourceStat> {
     latest_crawled_at:
       latestTimestamp > 0 ? new Date(latestTimestamp).toISOString() : null,
   };
-}
-
-async function directoryHasFiles(directory: string): Promise<boolean> {
-  const files = await listFiles(directory);
-  return files.length > 0;
 }
 
 async function listFiles(

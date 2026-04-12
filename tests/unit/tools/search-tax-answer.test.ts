@@ -6,9 +6,10 @@ import type { LexicalIndex } from "../../../src/search/lexical-index.js";
 const lexicalIndex: LexicalIndex = {
   size: 2,
   builtAt: "2026-04-12T00:00:00.000Z",
-  search({ query, sourceTypes, limit }) {
+  search({ query, sourceTypes, category, limit }) {
     expect(query).toBe("基礎控除");
     expect(sourceTypes).toEqual(["tax_answer"]);
+    expect(category).toBe("shotoku");
     expect(limit).toBe(5);
 
     return {
@@ -31,6 +32,7 @@ describe("buildSearchTaxAnswerResult", () => {
       lexicalIndex,
       input: {
         query: "基礎控除",
+        category: "shotoku",
         limit: 5,
       },
     });

@@ -6,9 +6,10 @@ import { buildSearchTsutatsuResult } from "../../../src/tools/search-tsutatsu.js
 const lexicalIndex: LexicalIndex = {
   size: 4,
   builtAt: "2026-04-12T00:00:00.000Z",
-  search({ query, sourceTypes, limit }) {
+  search({ query, sourceTypes, category, limit }) {
     expect(query).toBe("仕入税額控除");
     expect(sourceTypes).toEqual(["tsutatsu"]);
+    expect(category).toBe("shohi");
     expect(limit).toBe(5);
 
     return {
@@ -56,6 +57,7 @@ describe("buildSearchTsutatsuResult", () => {
       ],
       input: {
         query: "仕入税額控除",
+        category: "shohi",
         limit: 5,
       },
     });

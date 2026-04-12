@@ -6,6 +6,7 @@ type IndexedDocument = {
   id: string;
   documentId: string;
   sourceType: SourceType;
+  category: string | null;
   title: string;
   headings: string;
   aliases: string;
@@ -31,6 +32,7 @@ export type LexicalIndex = {
   search: (input: {
     query: string;
     sourceTypes?: SourceType[];
+    category?: string;
     limit: number;
   }) => LexicalSearchResult;
 };
@@ -43,7 +45,7 @@ export async function buildLexicalIndex({
   const miniSearch = new MiniSearch<IndexedDocument>({
     idField: "id",
     fields: ["title", "headings", "aliases", "body"],
-    storeFields: ["documentId", "sourceType", "title", "body"],
+    storeFields: ["documentId", "sourceType", "category", "title", "body"],
     searchOptions: {
       boost: {
         title: 4,
@@ -62,6 +64,7 @@ export async function buildLexicalIndex({
       id: `${document.sourceType}:${document.id}`,
       documentId: document.id,
       sourceType: document.sourceType,
+      category: document.category,
       title: document.title,
       headings: document.headings.join("\n"),
       aliases: document.aliases.join("\n"),
@@ -74,7 +77,7 @@ export async function buildLexicalIndex({
   return {
     size: documents.length,
     builtAt,
-    search({ query, sourceTypes, limit }) {
+    search({ query, sourceTypes, category, limit }) {
       const hits = miniSearch.search(query, {
         boost: {
           title: 4,
@@ -83,7 +86,9 @@ export async function buildLexicalIndex({
           body: 1,
         },
         filter: sourceTypes?.length
-          ? (result) => sourceTypes.includes(result.sourceType)
+          ? (result) =>
+              sourceTypes.includes(result.sourceType) &&
+              (!category || result.category === category)
           : undefined,
         prefix: true,
         fuzzy: 0.1,

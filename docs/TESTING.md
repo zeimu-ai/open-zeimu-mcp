@@ -2,19 +2,19 @@
 
 ## Scope
 
-`open-zeimu-mcp` uses Vitest for unit and integration-style tests. PR-3 adds
-coverage for:
+`open-zeimu-mcp` uses Vitest for unit and integration-style tests. Coverage
+currently includes:
 
-- tax-answer HTML parsing
-- change detection (`ETag` / `Last-Modified` / `content_hash`)
-- `1 req/sec` rate limiting
-- robots / allowlist policies
-- crawler write flow into `data/tax_answer/<id>/`
-- tax-answer MCP retrieval and search tools
-- tax-answer category listing
-- tsutatsu category/retrieval/search tools
-- qa_case category/retrieval/search tools
-- written-answer retrieval/search with page-hint coverage
+- tax-answer HTML parsing and crawler safety rules
+- packaged retrieval/search for `tax_answer`
+- packaged retrieval/search for `written_answer`
+- packaged retrieval/search for `tsutatsu`
+- packaged retrieval/search for `qa_case`
+- packaged retrieval/search for `saiketsu`
+- category-filter behavior across packaged `search_*` tools
+- lexical index duplicate-ID handling
+- semantic asset inspection and fallback behavior
+- MCP integration coverage for the full tool surface
 
 ## Core Commands
 
@@ -27,15 +27,15 @@ npm run build
 Target a single test file during TDD:
 
 ```bash
-node ./node_modules/vitest/vitest.mjs run tests/unit/crawler/tax-answer/parser.test.ts
+node ./node_modules/vitest/vitest.mjs run tests/unit/search/semantic-assets.test.ts
+node ./node_modules/vitest/vitest.mjs run tests/integration/server.test.ts
 ```
 
 ## Fixture Strategy
 
 - HTML fixtures live under `tests/fixtures/crawler/tax-answer/html/`
+- Packaged-source fixtures live under `tests/fixtures/data/<source_type>/`
 - Parsed output is asserted from fixtures before running any live fetch
-- Live verification should use `--ids` with a small page set and keep `--apply`
-  off unless a maintainer explicitly wants a commit and push
 
 ## Live Dry Run
 
@@ -45,3 +45,13 @@ npm run crawl:tax-answer -- --ids 1200,3105 --data-dir ./data --repo-dir .
 
 This fetches live NTA pages, respects `robots.txt`, prints the planned document
 count and disk estimate, and stops before writing git commits.
+
+## Release Dry Runs
+
+Validate release scaffolds without publishing:
+
+```bash
+npm run release:vectors
+npx changeset status
+npm run release:dry-run
+```

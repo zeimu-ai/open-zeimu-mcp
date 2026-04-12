@@ -4,6 +4,7 @@ import type { LexicalIndex } from "../search/lexical-index.js";
 
 export const searchTaxAnswerInputSchema = z.object({
   query: z.string().trim().min(1),
+  category: z.string().trim().min(1).optional(),
   limit: z.number().int().min(1).max(50).default(20),
 });
 
@@ -35,6 +36,7 @@ export function buildSearchTaxAnswerResult({
   const result = lexicalIndex.search({
     query: input.query,
     sourceTypes: ["tax_answer"],
+    category: input.category,
     limit: input.limit,
   });
 

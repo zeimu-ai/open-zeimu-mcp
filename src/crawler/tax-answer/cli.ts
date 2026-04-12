@@ -10,6 +10,7 @@ async function main() {
     logLevel: args.verbose ? "debug" : "info",
     dataDir: args.dataDir,
     vectorsCacheDir: "~/.cache/open-zeimu-mcp/vectors",
+    onnxModelFileName: "bge-m3-int8.onnx.tar.gz",
   });
 
   const result = await crawlTaxAnswer({

@@ -1,7 +1,7 @@
 # Architecture
 
-This document summarizes the current implemented architecture and points back to
-the confirmed design in
+This document summarizes the currently implemented architecture and points back
+to the confirmed design in
 `/Users/tackeyy/dev/zeimu-ai/.tasks/output/open-zeimu-mcp-design-final-001-result.md`.
 
 ## Directory Structure
@@ -10,6 +10,8 @@ the confirmed design in
 open-zeimu-mcp/
 ├── data/
 ├── docs/
+├── scripts/
+│   └── release-vectors.ts
 ├── src/
 │   ├── config/
 │   ├── crawler/
@@ -24,30 +26,37 @@ open-zeimu-mcp/
 │   ├── index.ts
 │   └── server.ts
 └── tests/
-    ├── fixtures/
-    ├── integration/
-    └── unit/
 ```
 
 ## Implemented Layers
 
 - `src/data/*`: packaged Markdown loader
-- `src/search/*`: lexical search index
-- `src/tools/*`: MCP tools (`health`, `stats`, `lexical_search`, `list_tax_answer_categories`, `get_tax_answer`, `search_tax_answer`, `list_tsutatsu_categories`, `get_tsutatsu`, `search_tsutatsu`, `list_qa_case_categories`, `get_qa_case`, `search_qa_case`, `get_written_answer`, `search_written_answer`, `get_law`, `search_law`)
+- `src/search/lexical-index.ts`: in-memory lexical retrieval with source-aware IDs and optional category filtering
+- `src/search/semantic-assets.ts`: semantic asset inspection, dynamic `onnxruntime-node` probing, and clean fallback states
+- `src/tools/*`: MCP schemas and tool entrypoints for 20 tools
 - `src/repository/egov-repository.ts`: e-Gov API v2 wrapper with 24h in-memory cache
 - `src/crawler/tax-answer/*`: tax-answer discovery, parsing, safety, storage, and CLI
+- `scripts/release-vectors.ts`: release-asset scaffold generator for local semantic search
 
 ## Retrieval Model
 
-- `tax_answer` is currently packaged with category listing plus direct retrieval/search tools.
-- `tsutatsu` and `qa_case` reuse the same packaged-source pattern as `tax_answer`, adding category listing and source-specific retrieval/search wrappers over the shared loader and lexical index.
-- `written_answer` reuses the shared Markdown loader and lexical index, then enriches search hits with `canonical_url`, `license`, and `page_hint`.
-- Source-specific tool post-processing is layered on top of the shared lexical index rather than forking search implementations per source.
-- The lexical index now uses a source-aware internal key so identical document IDs can coexist across source types without `MiniSearch` collisions.
+- `tax_answer`, `written_answer`, `tsutatsu`, `qa_case`, and `saiketsu` are packaged sources loaded from Markdown + optional `.meta.json`.
+- Source-specific search tools are thin wrappers over the shared lexical index.
+- The lexical index uses a source-aware internal key so identical public IDs can coexist across source types.
+- Source-specific `search_*` tools accept an optional `category` filter that is applied in the shared lexical index.
+- `written_answer` adds `page_hint` by mapping lexical matches back onto parsed page offsets.
+
+## Semantic Wiring
+
+- `EMBEDDING_BACKEND=none`: semantic search is disabled.
+- `EMBEDDING_BACKEND=local`: the server expects:
+  - `bge-m3-int8.onnx.tar.gz`
+  - `tax-answer-vectors-<version>.bin`
+  under `VECTORS_CACHE_DIR/<version>/`
+- `EMBEDDING_BACKEND=supabase`: currently a stub state for future work.
+- `onnxruntime-node` is optional and loaded dynamically only after the local asset set is complete.
 
 ## Tax Answer Crawler
-
-PR-3 adds a file-based crawler pipeline:
 
 ```text
 cli.ts
@@ -69,9 +78,15 @@ Key safety guards:
 - deletion stop at 100 files
 - 3 consecutive failure days pause future runs
 
+## Release Scaffolds
+
+- `.changeset/` is configured for public package versioning
+- `.github/workflows/release.yml` performs changeset validation and `npm publish --dry-run`
+- `.github/workflows/vectors.yml` generates the vector release scaffold artifact
+
 ## Security Notes
 
 - Environment values are read from `process.env` only.
 - Logs go to `stderr` so stdio MCP traffic on `stdout` is not corrupted.
 - Crawler output stores Markdown / JSON only; raw HTML is not persisted.
-- Git auto-commit is gated by `--apply`; the default mode is dry run.
+- The large ONNX model and vector binary are intentionally excluded from git.

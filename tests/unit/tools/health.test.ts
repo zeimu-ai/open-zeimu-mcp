@@ -35,13 +35,19 @@ describe("buildHealthResult", () => {
       now: () => 7000,
     });
 
-    expect(result).toEqual({
+    expect(result).toMatchObject({
       status: "ok",
       version: "0.0.0",
       uptime: 6,
       checks: {
         data_dir: true,
         vectors: "disabled",
+      },
+      vector_assets: {
+        backend: "none",
+        status: "disabled",
+        ready: false,
+        reason: "EMBEDDING_BACKEND=none",
       },
     });
   });
@@ -66,7 +72,12 @@ describe("buildHealthResult", () => {
 
     expect(result.checks).toEqual({
       data_dir: true,
-      vectors: true,
+      vectors: false,
+    });
+    expect(result.vector_assets).toMatchObject({
+      backend: "local",
+      status: "missing_assets",
+      ready: false,
     });
     expect(result.uptime).toBe(3);
   });
@@ -90,6 +101,11 @@ describe("buildHealthResult", () => {
       data_dir: false,
       vectors: false,
     });
+    expect(result.vector_assets).toMatchObject({
+      backend: "supabase",
+      status: "stub",
+      ready: false,
+    });
   });
 });
 
@@ -99,6 +115,7 @@ function makeEnv(overrides: Partial<Env> = {}): Env {
     logLevel: "info",
     dataDir: "./data",
     vectorsCacheDir: "~/.cache/open-zeimu-mcp/vectors",
+    onnxModelFileName: "bge-m3-int8.onnx.tar.gz",
     ...overrides,
   };
 }

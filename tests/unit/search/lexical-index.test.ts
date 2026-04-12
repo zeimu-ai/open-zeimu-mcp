@@ -17,7 +17,7 @@ describe("buildLexicalIndex", () => {
       limit: 10,
     });
 
-    expect(lexicalIndex.size).toBe(4);
+    expect(lexicalIndex.size).toBe(5);
     expect(lexicalIndex.builtAt).toBeTruthy();
     expect(result.hits[0]).toMatchObject({
       id: "1200",
@@ -54,6 +54,24 @@ describe("buildLexicalIndex", () => {
       id: "qa-001",
       source_type: "qa_case",
       title: "交際費の判定に関する質疑応答事例",
+    });
+  });
+
+  it("filters hits by category within a source type", async () => {
+    const documents = await loadMarkdownDocuments({ dataDir: fixturesDir });
+    const lexicalIndex = await buildLexicalIndex({ documents });
+
+    const result = lexicalIndex.search({
+      query: "立退料",
+      sourceTypes: ["saiketsu"],
+      category: "shotoku",
+      limit: 10,
+    });
+
+    expect(result.hits).toHaveLength(1);
+    expect(result.hits[0]).toMatchObject({
+      id: "sai-001",
+      source_type: "saiketsu",
     });
   });
 });

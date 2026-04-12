@@ -4,6 +4,7 @@ import { constants } from "node:fs";
 import { z } from "zod";
 
 import type { Env } from "../config/env.js";
+import { inspectVectorAssets } from "../search/semantic-assets.js";
 
 export const healthInputSchema = z.object({});
 
@@ -14,6 +15,24 @@ export const healthOutputSchema = z.object({
   checks: z.object({
     data_dir: z.boolean(),
     vectors: z.union([z.boolean(), z.literal("disabled")]),
+  }),
+  vector_assets: z.object({
+    backend: z.enum(["none", "local", "supabase"]),
+    status: z.enum(["disabled", "missing_assets", "ready", "stub"]),
+    root_dir: z.string(),
+    version_dir: z.string(),
+    runtime_package: z.string(),
+    model_asset: z.object({
+      file_name: z.string(),
+      exists: z.boolean(),
+    }),
+    vector_asset: z.object({
+      file_name: z.string(),
+      exists: z.boolean(),
+    }),
+    ready: z.boolean(),
+    missing: z.array(z.string()),
+    reason: z.string(),
   }),
 });
 
@@ -32,12 +51,13 @@ export async function buildHealthResult({
   startedAt,
   now = Date.now,
 }: BuildHealthResultOptions): Promise<HealthResult> {
+  const vectorAssets = await inspectVectorAssets({ env, version });
   const checks = {
     data_dir: await pathExists(env.dataDir),
     vectors:
       env.embeddingBackend === "none"
         ? "disabled"
-        : await pathExists(env.vectorsCacheDir),
+        : vectorAssets.ready,
   } as const;
 
   return {
@@ -45,6 +65,7 @@ export async function buildHealthResult({
     version,
     uptime: Math.max(0, Math.floor((now() - startedAt) / 1000)),
     checks,
+    vector_assets: vectorAssets,
   };
 }
 

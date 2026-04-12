@@ -4,20 +4,20 @@ import type { LexicalIndex } from "../search/lexical-index.js";
 import type { LoadedDocument } from "../types/index.js";
 import { findSearchDocumentOrThrow, getStringMetadata } from "./document-utils.js";
 
-export const searchTsutatsuInputSchema = z.object({
+export const searchSaiketsuInputSchema = z.object({
   query: z.string().trim().min(1),
   category: z.string().trim().min(1).optional(),
   limit: z.number().int().min(1).max(50).default(20),
 });
 
-export const searchTsutatsuOutputSchema = z.object({
-  source_type: z.literal("tsutatsu"),
+export const searchSaiketsuOutputSchema = z.object({
+  source_type: z.literal("saiketsu"),
   query: z.string(),
   total_count: z.number().int().nonnegative(),
   results: z.array(
     z.object({
       id: z.string(),
-      source_type: z.literal("tsutatsu"),
+      source_type: z.literal("saiketsu"),
       title: z.string(),
       category: z.string().nullable(),
       canonical_url: z.string().url(),
@@ -30,40 +30,40 @@ export const searchTsutatsuOutputSchema = z.object({
   ),
 });
 
-export type SearchTsutatsuInput = z.infer<typeof searchTsutatsuInputSchema>;
-export type SearchTsutatsuOutput = z.infer<typeof searchTsutatsuOutputSchema>;
+export type SearchSaiketsuInput = z.infer<typeof searchSaiketsuInputSchema>;
+export type SearchSaiketsuOutput = z.infer<typeof searchSaiketsuOutputSchema>;
 
-export function buildSearchTsutatsuResult({
+export function buildSearchSaiketsuResult({
   lexicalIndex,
   documents,
   input,
 }: {
   lexicalIndex: LexicalIndex;
   documents: LoadedDocument[];
-  input: SearchTsutatsuInput;
-}): SearchTsutatsuOutput {
+  input: SearchSaiketsuInput;
+}): SearchSaiketsuOutput {
   const result = lexicalIndex.search({
     query: input.query,
-    sourceTypes: ["tsutatsu"],
+    sourceTypes: ["saiketsu"],
     category: input.category,
     limit: input.limit,
   });
 
   return {
-    source_type: "tsutatsu",
+    source_type: "saiketsu",
     query: input.query,
     total_count: result.hits.length,
     results: result.hits.map((hit) => {
       const document = findSearchDocumentOrThrow({
         documents,
-        sourceType: "tsutatsu",
+        sourceType: "saiketsu",
         id: hit.id,
-        label: "通達",
+        label: "裁決事例",
       });
 
       return {
         id: hit.id,
-        source_type: "tsutatsu" as const,
+        source_type: "saiketsu" as const,
         title: hit.title,
         category: document.category,
         canonical_url: document.canonicalUrl,

@@ -1,0 +1,38 @@
+name: Vector Assets
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/release-vectors.ts"
+      - ".github/workflows/vectors.yml"
+      - "README.md"
+      - "README.ja.md"
+      - "docs/**"
+
+jobs:
+  scaffold:
+    name: Scaffold Release Asset Plan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate release asset scaffold
+        run: npm run release:vectors -- $npm_package_version
+
+      - name: Upload scaffold manifest
+        uses: actions/upload-artifact@v4
+        with:
+          name: vector-release-scaffold
+          path: artifacts/vectors

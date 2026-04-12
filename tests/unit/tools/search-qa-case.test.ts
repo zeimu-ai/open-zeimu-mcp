@@ -6,9 +6,10 @@ import { buildSearchQaCaseResult } from "../../../src/tools/search-qa-case.js";
 const lexicalIndex: LexicalIndex = {
   size: 4,
   builtAt: "2026-04-12T00:00:00.000Z",
-  search({ query, sourceTypes, limit }) {
+  search({ query, sourceTypes, category, limit }) {
     expect(query).toBe("交際費");
     expect(sourceTypes).toEqual(["qa_case"]);
+    expect(category).toBe("hojin");
     expect(limit).toBe(5);
 
     return {
@@ -56,6 +57,7 @@ describe("buildSearchQaCaseResult", () => {
       ],
       input: {
         query: "交際費",
+        category: "hojin",
         limit: 5,
       },
     });

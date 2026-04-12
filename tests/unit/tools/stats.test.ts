@@ -74,15 +74,30 @@ describe("buildStatsResult", () => {
       dataDir: join(root, "data"),
       vectorsCacheDir: join(root, "vectors"),
     });
+    const versionDir = join(env.vectorsCacheDir, "0.0.0");
 
     await mkdir(env.dataDir, { recursive: true });
-    await writeFixture(join(env.vectorsCacheDir, "embeddings.json"), new Date());
+    await writeFixture(join(versionDir, env.onnxModelFileName), new Date());
+    await writeFixture(join(versionDir, "tax-answer-vectors-0.0.0.bin"), new Date());
 
     const result = await buildStatsResult({ env });
 
     expect(result.semantic).toEqual({
       backend: "local",
       vectors_loaded: true,
+    });
+  });
+
+  it("treats supabase backend as unloaded stub", async () => {
+    const env = makeEnv({
+      embeddingBackend: "supabase",
+    });
+
+    const result = await buildStatsResult({ env });
+
+    expect(result.semantic).toEqual({
+      backend: "supabase",
+      vectors_loaded: false,
     });
   });
 
@@ -111,6 +126,7 @@ function makeEnv(overrides: Partial<Env> = {}): Env {
     logLevel: "info",
     dataDir: "./data",
     vectorsCacheDir: "~/.cache/open-zeimu-mcp/vectors",
+    onnxModelFileName: "bge-m3-int8.onnx.tar.gz",
     ...overrides,
   };
 }

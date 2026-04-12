@@ -2,40 +2,30 @@
 
 # open-zeimu-mcp
 
-`open-zeimu-mcp` は、日本の税務一次情報を取得・検索するための OSS
-MCP サーバーです。現在は lexical search、タックスアンサーのカテゴリ一覧
-/取得/検索、通達のカテゴリ一覧/取得/検索、質疑応答事例のカテゴリ一覧
-/取得/検索、文書回答事例の取得/検索、e-Gov 法令取得、NTA
-タックスアンサー crawler を実装しています。
+`open-zeimu-mcp` は、日本の税務一次情報を取得・検索するための OSS MCP
+サーバーです。現在は lexical search、タックスアンサー・文書回答事例・通達・
+質疑応答事例・裁決事例のカテゴリ一覧/取得/検索、e-Gov 法令取得、NTA
+タックスアンサー crawler、local semantic asset の足場を実装しています。
 
 ## 特徴
 
-- `health`: 稼働状態、uptime、データディレクトリの到達性を返す
-- `stats`: source type ごとの文書件数と lexical index の状態を返す
+- `health`: 稼働状態、uptime、vector asset 状態を返す
+- `stats`: source type ごとの文書件数と lexical/semantic readiness を返す
 - `lexical_search`: 同梱 Markdown データを lexical 検索する
-- `list_tax_answer_categories`: 同梱タックスアンサーのカテゴリ一覧を返す
-- `get_tax_answer`: ID を指定して同梱タックスアンサー本文を返す
-- `search_tax_answer`: 同梱タックスアンサーだけを対象に検索する
-- `list_tsutatsu_categories`: 同梱通達のカテゴリ一覧を返す
-- `get_tsutatsu`: ID を指定して同梱通達本文を返す
-- `search_tsutatsu`: 同梱通達だけを対象に検索する
-- `list_qa_case_categories`: 同梱質疑応答事例のカテゴリ一覧を返す
-- `get_qa_case`: ID を指定して同梱質疑応答事例本文を返す
-- `search_qa_case`: 同梱質疑応答事例だけを対象に検索する
-- `get_written_answer`: ID を指定して同梱文書回答事例本文を返す
-- `search_written_answer`: 同梱文書回答事例だけを対象に検索する
-- `get_law`: e-Gov 法令 API v2 から法令本文を取得する
-- `search_law`: e-Gov 法令 API v2 をキーワード検索する
+- `list_tax_answer_categories` / `get_tax_answer` / `search_tax_answer`
+- `list_written_answer_categories` / `get_written_answer` / `search_written_answer`
+- `list_tsutatsu_categories` / `get_tsutatsu` / `search_tsutatsu`
+- `list_qa_case_categories` / `get_qa_case` / `search_qa_case`
+- `list_saiketsu_categories` / `get_saiketsu` / `search_saiketsu`
+- `get_law` / `search_law`: e-Gov 法令 API v2 を 24h in-memory cache 付きで呼ぶ
 - `crawl:tax-answer`: NTA タックスアンサーを Markdown + metadata に正規化する
-- official MCP SDK ベースの typed tool output
+- `release:vectors`: local semantic search 用 release asset の足場を生成する
 
 ## クイックスタート
 
 ```bash
 npm install @zeimu-ai/open-zeimu-mcp
 ```
-
-## 使い方
 
 MCP クライアント設定例:
 
@@ -63,10 +53,108 @@ MCP クライアント設定例:
 | `LOG_LEVEL` | `info` | Pino のログレベル |
 | `DATA_DIR` | `./data` | データセットのルートディレクトリ |
 | `VECTORS_CACHE_DIR` | `~/.cache/open-zeimu-mcp/vectors` | ローカル vector cache |
+| `ONNX_MODEL_FILENAME` | `bge-m3-int8.onnx.tar.gz` | local semantic model asset 名 |
 
 設定は `process.env` からのみ読み取ります。`.env` の直読みは行いません。
 
+`EMBEDDING_BACKEND=local` では、`VECTORS_CACHE_DIR/<package-version>/` 配下に
+次の 2 つの asset がそろったときだけ local semantic wiring が ready になります。
+
+- `bge-m3-int8.onnx.tar.gz`
+- `tax-answer-vectors-<package-version>.bin`
+
+不足している場合は fallback し、`health` で状態を確認できます。
+
+## 利用例
+
+カテゴリ付きタックスアンサー検索:
+
+```json
+{
+  "name": "search_tax_answer",
+  "arguments": {
+    "query": "基礎控除",
+    "category": "shotoku",
+    "limit": 5
+  }
+}
+```
+
+文書回答事例カテゴリ一覧:
+
+```json
+{
+  "name": "list_written_answer_categories",
+  "arguments": {}
+}
+```
+
+`page_hint` 付き文書回答事例検索:
+
+```json
+{
+  "name": "search_written_answer",
+  "arguments": {
+    "query": "第2ページ",
+    "category": "hyoka",
+    "limit": 5
+  }
+}
+```
+
+通達検索:
+
+```json
+{
+  "name": "search_tsutatsu",
+  "arguments": {
+    "query": "仕入税額控除",
+    "category": "shohi",
+    "limit": 5
+  }
+}
+```
+
+質疑応答事例検索:
+
+```json
+{
+  "name": "search_qa_case",
+  "arguments": {
+    "query": "交際費",
+    "category": "hojin",
+    "limit": 5
+  }
+}
+```
+
+裁決事例取得/検索:
+
+```json
+{
+  "name": "get_saiketsu",
+  "arguments": {
+    "id": "sai-001"
+  }
+}
+```
+
+```json
+{
+  "name": "search_saiketsu",
+  "arguments": {
+    "query": "立退料",
+    "category": "shotoku",
+    "limit": 5
+  }
+}
+```
+
 ## タックスアンサー crawler
+
+`www.nta.go.jp` の NTA タックスアンサーを取得し、`robots.txt` を尊重し、
+`1 req/sec` を守りながら Markdown / JSON metadata だけを書き出します。
+raw HTML は保存しません。
 
 dry-run:
 
@@ -87,154 +175,40 @@ data/tax_answer/<id>/<id>.md
 data/tax_answer/<id>/<id>.meta.json
 ```
 
-raw HTML は保存せず、`robots.txt` と `1 req/sec` を守って実行します。
-
-## タックスアンサー取得例
-
-```json
-{
-  "name": "get_tax_answer",
-  "arguments": {
-    "id": "1200"
-  }
-}
-```
-
-```json
-{
-  "name": "list_tax_answer_categories",
-  "arguments": {}
-}
-```
-
-```json
-{
-  "name": "search_tax_answer",
-  "arguments": {
-    "query": "基礎控除",
-    "limit": 5
-  }
-}
-```
-
-## 文書回答事例取得例
-
-```json
-{
-  "name": "get_written_answer",
-  "arguments": {
-    "id": "202401"
-  }
-}
-```
-
-## 通達取得例
-
-```json
-{
-  "name": "get_tsutatsu",
-  "arguments": {
-    "id": "tsu-001"
-  }
-}
-```
-
-```json
-{
-  "name": "list_tsutatsu_categories",
-  "arguments": {}
-}
-```
-
-```json
-{
-  "name": "search_tsutatsu",
-  "arguments": {
-    "query": "仕入税額控除",
-    "limit": 5
-  }
-}
-```
-
-## 質疑応答事例取得例
-
-```json
-{
-  "name": "get_qa_case",
-  "arguments": {
-    "id": "qa-001"
-  }
-}
-```
-
-```json
-{
-  "name": "list_qa_case_categories",
-  "arguments": {}
-}
-```
-
-```json
-{
-  "name": "search_qa_case",
-  "arguments": {
-    "query": "交際費",
-    "limit": 5
-  }
-}
-```
-
-```json
-{
-  "name": "search_written_answer",
-  "arguments": {
-    "query": "第2ページ",
-    "limit": 5
-  }
-}
-```
-
-## アーキテクチャ
-
-- [docs/architecture.md](docs/architecture.md)
-- [docs/api.md](docs/api.md)
-
-## lexical_search 例
-
-```json
-{
-  "name": "lexical_search",
-  "arguments": {
-    "query": "基礎控除",
-    "source_types": ["tax_answer"],
-    "limit": 5
-  }
-}
-```
-
-## よくある質問
-
-### 何がもう使えますか
-
-現時点では `health`、`stats`、`lexical_search`、
-`list_tax_answer_categories`、`get_tax_answer`、`search_tax_answer`、
-`list_tsutatsu_categories`、`get_tsutatsu`、`search_tsutatsu`、
-`list_qa_case_categories`、`get_qa_case`、`search_qa_case`、
-`get_written_answer`、`search_written_answer`、`get_law`、`search_law`
-が利用でき、crawler で tax_answer データを生成できます。
-
-### 本番利用できますか
-
-まだ active development 段階です。`v0.1.0` に向けて機能を拡張中です。
-
-## コントリビューション
-
-コントリビューションを歓迎します。変更を加える前に、まず Issue を作成して議論してください。
+## Vector Release Scaffold
 
 ```bash
-git clone https://github.com/zeimu-ai/open-zeimu-mcp.git
-cd open-zeimu-mcp
+npm run release:vectors
 ```
+
+`artifacts/vectors/release-plan.json` と placeholder ディレクトリだけを生成します。
+実際の ONNX model と vector binary は git に含めず、GitHub Release asset として
+別途アップロードします。
+
+## 現状
+
+active development 中です。現時点で lexical search、tax-answer crawler、
+5 source type の packaged retrieval/search、category filter、e-Gov 法令取得、
+semantic asset inspection、release dry-run scaffold まで実装済みです。
+
+## 開発
+
+```bash
+npm install --include=dev
+npm run typecheck
+npm test
+npm run build
+npm run release:vectors
+npx changeset status
+npm run release:dry-run
+npm start
+```
+
+詳細:
+
+- Architecture: [docs/architecture.md](docs/architecture.md)
+- Tool API examples: [docs/api.md](docs/api.md)
+- Testing notes: [docs/TESTING.md](docs/TESTING.md)
 
 ## ライセンス
 

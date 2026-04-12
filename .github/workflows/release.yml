@@ -1,20 +1,28 @@
-name: Release
+name: Release Dry Run
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
+    paths:
+      - ".changeset/**"
+      - ".github/workflows/release.yml"
+      - "package.json"
+      - "package-lock.json"
+      - "README.md"
+      - "README.ja.md"
+      - "CHANGELOG.md"
+      - "docs/**"
 
 concurrency: ${{ github.workflow }}-${{ github.ref }}
 
 permissions:
-  contents: write
-  pull-requests: write
-  id-token: write
+  contents: read
 
 jobs:
   release:
-    name: Release
+    name: Release Dry Run
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
@@ -22,9 +30,8 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
-          node-version: '22'
-          cache: 'npm'
-          registry-url: 'https://registry.npmjs.org'
+          node-version: "22"
+          cache: "npm"
 
       - name: Install dependencies
         run: npm ci
@@ -32,15 +39,8 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Create Release Pull Request or Publish
-        id: changesets
-        if: ${{ env.NPM_TOKEN != '' }}
-        uses: changesets/action@v1
-        with:
-          publish: npm run release
-          title: 'chore: version packages'
-          commit: 'chore: version packages'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - name: Changeset status
+        run: npx changeset status
+
+      - name: npm publish dry run
+        run: npm run release:dry-run

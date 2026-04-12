@@ -8,6 +8,11 @@ import { createLogger } from "./lib/logger.js";
 import { buildLexicalIndex } from "./search/lexical-index.js";
 import { buildHealthResult, healthInputSchema, healthOutputSchema } from "./tools/health.js";
 import {
+  buildGetSaiketsuResult,
+  getSaiketsuInputSchema,
+  getSaiketsuOutputSchema,
+} from "./tools/get-saiketsu.js";
+import {
   buildGetQaCaseResult,
   getQaCaseInputSchema,
   getQaCaseOutputSchema,
@@ -33,10 +38,20 @@ import {
   listQaCaseCategoriesOutputSchema,
 } from "./tools/list-qa-case-categories.js";
 import {
+  buildListSaiketsuCategoriesResult,
+  listSaiketsuCategoriesInputSchema,
+  listSaiketsuCategoriesOutputSchema,
+} from "./tools/list-saiketsu-categories.js";
+import {
   buildListTaxAnswerCategoriesResult,
   listTaxAnswerCategoriesInputSchema,
   listTaxAnswerCategoriesOutputSchema,
 } from "./tools/list-tax-answer-categories.js";
+import {
+  buildListWrittenAnswerCategoriesResult,
+  listWrittenAnswerCategoriesInputSchema,
+  listWrittenAnswerCategoriesOutputSchema,
+} from "./tools/list-written-answer-categories.js";
 import {
   buildListTsutatsuCategoriesResult,
   listTsutatsuCategoriesInputSchema,
@@ -52,6 +67,11 @@ import {
   searchQaCaseInputSchema,
   searchQaCaseOutputSchema,
 } from "./tools/search-qa-case.js";
+import {
+  buildSearchSaiketsuResult,
+  searchSaiketsuInputSchema,
+  searchSaiketsuOutputSchema,
+} from "./tools/search-saiketsu.js";
 import {
   buildSearchTaxAnswerResult,
   searchTaxAnswerInputSchema,
@@ -163,7 +183,7 @@ async function createServerInternal({
       },
     },
     async () => {
-      const structuredContent = await buildStatsResult({ env, lexicalIndex });
+      const structuredContent = await buildStatsResult({ env, lexicalIndex, version });
 
       return {
         content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
@@ -224,6 +244,30 @@ async function createServerInternal({
   );
 
   server.registerTool(
+    "list_written_answer_categories",
+    {
+      title: "List Written Answer Categories",
+      description: "同梱済み文書回答事例のカテゴリ一覧と文書件数を返します。",
+      inputSchema: listWrittenAnswerCategoriesInputSchema,
+      outputSchema: listWrittenAnswerCategoriesOutputSchema,
+      annotations: {
+        readOnlyHint: true,
+        destructiveHint: false,
+        idempotentHint: true,
+        openWorldHint: false,
+      },
+    },
+    async () => {
+      const structuredContent = buildListWrittenAnswerCategoriesResult({ documents });
+
+      return {
+        content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
+        structuredContent,
+      };
+    },
+  );
+
+  server.registerTool(
     "list_tsutatsu_categories",
     {
       title: "List Tsutatsu Categories",
@@ -272,6 +316,30 @@ async function createServerInternal({
   );
 
   server.registerTool(
+    "list_saiketsu_categories",
+    {
+      title: "List Saiketsu Categories",
+      description: "同梱済み裁決事例のカテゴリ一覧と文書件数を返します。",
+      inputSchema: listSaiketsuCategoriesInputSchema,
+      outputSchema: listSaiketsuCategoriesOutputSchema,
+      annotations: {
+        readOnlyHint: true,
+        destructiveHint: false,
+        idempotentHint: true,
+        openWorldHint: false,
+      },
+    },
+    async () => {
+      const structuredContent = buildListSaiketsuCategoriesResult({ documents });
+
+      return {
+        content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
+        structuredContent,
+      };
+    },
+  );
+
+  server.registerTool(
     "get_tax_answer",
     {
       title: "Get Tax Answer",
@@ -288,6 +356,33 @@ async function createServerInternal({
     async (input) => {
       const structuredContent = await buildGetTaxAnswerResult({
         input: getTaxAnswerInputSchema.parse(input),
+        documents,
+      });
+
+      return {
+        content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
+        structuredContent,
+      };
+    },
+  );
+
+  server.registerTool(
+    "get_written_answer",
+    {
+      title: "Get Written Answer",
+      description: "ID を指定して、パッケージ済みの文書回答事例本文を取得します。",
+      inputSchema: getWrittenAnswerInputSchema,
+      outputSchema: getWrittenAnswerOutputSchema,
+      annotations: {
+        readOnlyHint: true,
+        destructiveHint: false,
+        idempotentHint: true,
+        openWorldHint: false,
+      },
+    },
+    async (input) => {
+      const structuredContent = await buildGetWrittenAnswerResult({
+        input: getWrittenAnswerInputSchema.parse(input),
         documents,
       });
 
@@ -353,6 +448,33 @@ async function createServerInternal({
   );
 
   server.registerTool(
+    "get_saiketsu",
+    {
+      title: "Get Saiketsu",
+      description: "ID を指定して、パッケージ済みの裁決事例本文を取得します。",
+      inputSchema: getSaiketsuInputSchema,
+      outputSchema: getSaiketsuOutputSchema,
+      annotations: {
+        readOnlyHint: true,
+        destructiveHint: false,
+        idempotentHint: true,
+        openWorldHint: false,
+      },
+    },
+    async (input) => {
+      const structuredContent = await buildGetSaiketsuResult({
+        input: getSaiketsuInputSchema.parse(input),
+        documents,
+      });
+
+      return {
+        content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
+        structuredContent,
+      };
+    },
+  );
+
+  server.registerTool(
     "search_tax_answer",
     {
       title: "Search Tax Answer",
@@ -370,6 +492,34 @@ async function createServerInternal({
       const structuredContent = buildSearchTaxAnswerResult({
         lexicalIndex,
         input: searchTaxAnswerInputSchema.parse(input),
+      });
+
+      return {
+        content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
+        structuredContent,
+      };
+    },
+  );
+
+  server.registerTool(
+    "search_written_answer",
+    {
+      title: "Search Written Answer",
+      description: "パッケージ済みの文書回答事例を全文検索します。",
+      inputSchema: searchWrittenAnswerInputSchema,
+      outputSchema: searchWrittenAnswerOutputSchema,
+      annotations: {
+        readOnlyHint: true,
+        destructiveHint: false,
+        idempotentHint: true,
+        openWorldHint: false,
+      },
+    },
+    async (input) => {
+      const structuredContent = buildSearchWrittenAnswerResult({
+        lexicalIndex,
+        documents,
+        input: searchWrittenAnswerInputSchema.parse(input),
       });
 
       return {
@@ -436,12 +586,12 @@ async function createServerInternal({
   );
 
   server.registerTool(
-    "get_written_answer",
+    "search_saiketsu",
     {
-      title: "Get Written Answer",
-      description: "ID を指定して、パッケージ済みの文書回答事例本文を取得します。",
-      inputSchema: getWrittenAnswerInputSchema,
-      outputSchema: getWrittenAnswerOutputSchema,
+      title: "Search Saiketsu",
+      description: "パッケージ済みの裁決事例を全文検索します。",
+      inputSchema: searchSaiketsuInputSchema,
+      outputSchema: searchSaiketsuOutputSchema,
       annotations: {
         readOnlyHint: true,
         destructiveHint: false,
@@ -450,37 +600,10 @@ async function createServerInternal({
       },
     },
     async (input) => {
-      const structuredContent = await buildGetWrittenAnswerResult({
-        input: getWrittenAnswerInputSchema.parse(input),
-        documents,
-      });
-
-      return {
-        content: [{ type: "text", text: JSON.stringify(structuredContent, null, 2) }],
-        structuredContent,
-      };
-    },
-  );
-
-  server.registerTool(
-    "search_written_answer",
-    {
-      title: "Search Written Answer",
-      description: "パッケージ済みの文書回答事例を全文検索します。",
-      inputSchema: searchWrittenAnswerInputSchema,
-      outputSchema: searchWrittenAnswerOutputSchema,
-      annotations: {
-        readOnlyHint: true,
-        destructiveHint: false,
-        idempotentHint: true,
-        openWorldHint: false,
-      },
-    },
-    async (input) => {
-      const structuredContent = buildSearchWrittenAnswerResult({
+      const structuredContent = buildSearchSaiketsuResult({
         lexicalIndex,
         documents,
-        input: searchWrittenAnswerInputSchema.parse(input),
+        input: searchSaiketsuInputSchema.parse(input),
       });
 
       return {
@@ -550,7 +673,7 @@ async function createServerInternal({
     server,
     async start(transport: Transport = new StdioServerTransport()) {
       await server.connect(transport);
-      logger.info({ toolCount: 16, lexicalIndexSize: lexicalIndex.size }, "MCP server started");
+      logger.info({ toolCount: 20, lexicalIndexSize: lexicalIndex.size }, "MCP server started");
     },
     close() {
       return server.close();

@@ -6,6 +6,7 @@ import { findSearchDocumentOrThrow, getStringMetadata } from "./document-utils.j
 
 export const searchQaCaseInputSchema = z.object({
   query: z.string().trim().min(1),
+  category: z.string().trim().min(1).optional(),
   limit: z.number().int().min(1).max(50).default(20),
 });
 
@@ -44,6 +45,7 @@ export function buildSearchQaCaseResult({
   const result = lexicalIndex.search({
     query: input.query,
     sourceTypes: ["qa_case"],
+    category: input.category,
     limit: input.limit,
   });
 

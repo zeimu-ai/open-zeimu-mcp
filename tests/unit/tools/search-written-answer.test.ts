@@ -6,9 +6,10 @@ import { buildSearchWrittenAnswerResult } from "../../../src/tools/search-writte
 const lexicalIndex: LexicalIndex = {
   size: 2,
   builtAt: "2026-04-12T00:00:00.000Z",
-  search({ query, sourceTypes, limit }) {
+  search({ query, sourceTypes, category, limit }) {
     expect(query).toBe("第2ページ");
     expect(sourceTypes).toEqual(["written_answer"]);
+    expect(category).toBe("hyoka");
     expect(limit).toBe(5);
 
     return {
@@ -57,6 +58,7 @@ describe("buildSearchWrittenAnswerResult", () => {
       ],
       input: {
         query: "第2ページ",
+        category: "hyoka",
         limit: 5,
       },
     });
