@@ -1,0 +1,37 @@
+{
+  "id": "1300",
+  "title": "所得の区分のあらまし",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1300.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:12:03.824Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:63315c731e1052a850ab3f4fbe461e9a8c714df8619fe95756cdc31102518771",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1300 所得の区分のあらまし",
+    "1300 所得の区分のあらまし"
+  ],
+  "headings": [
+    "所得の区分のあらまし",
+    "対象税目",
+    "概要",
+    "利子所得",
+    "配当所得",
+    "不動産所得",
+    "事業所得",
+    "給与所得",
+    "退職所得",
+    "山林所得",
+    "譲渡所得",
+    "一時所得",
+    "雑所得",
+    "根拠法令等",
+    "お問い合わせ先"
+  ],
+  "etag": "\"48c1-641a0b8486930\"",
+  "last_modified": "Tue, 21 Oct 2025 01:00:02 GMT"
+}

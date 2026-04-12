@@ -1,0 +1,43 @@
+{
+  "id": "1000",
+  "title": "所得税のしくみ",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1000.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:01:31.170Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a59b76fbc7f75b28d712fb105208cf83ad43f9a70ae7953f73d4e3fb30a4d5be",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1000 所得税のしくみ",
+    "1000 所得税のしくみ"
+  ],
+  "headings": [
+    "所得税のしくみ",
+    "対象税目",
+    "概要",
+    "所得金額の計算",
+    "課税所得金額の計算",
+    "所得税額の計算",
+    "基準所得税額の計算",
+    "復興特別所得税額の計算",
+    "所得税および復興特別所得税の申告納税額の計算",
+    "具体例",
+    "具体例1",
+    "具体例2",
+    "手続き",
+    "申告等の期限",
+    "申告等の方法",
+    "申告先等",
+    "注意事項",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"68c0-641a0b84a3a08\"",
+  "last_modified": "Tue, 21 Oct 2025 01:00:02 GMT"
+}

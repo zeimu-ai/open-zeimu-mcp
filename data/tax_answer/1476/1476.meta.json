@@ -1,0 +1,31 @@
+{
+  "id": "1476",
+  "title": "特定口座制度",
+  "category": "shotoku",
+  "category_path": "所得税（配当所得、譲渡所得）",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1476.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:12:34.872Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:19360951619a952f20e5e58f3de1b75a82e4d57adaa8c67e2f9f2dcde7e596d6",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1476 特定口座制度",
+    "1476 特定口座制度"
+  ],
+  "headings": [
+    "特定口座制度",
+    "対象税目",
+    "概要",
+    "特定口座内における源泉徴収の選択",
+    "源泉徴収口座内で受け入れた配当等と譲渡損失との損益通算",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"48b8-641b4d70b55f8\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:18 GMT"
+}

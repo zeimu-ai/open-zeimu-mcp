@@ -1,0 +1,36 @@
+{
+  "id": "1170",
+  "title": "寡婦控除",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1170.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:01:57.129Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9ad39da74f6be1073fdb0204798cbed61f5db503cb953c9418c56a518652ada1",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1170 寡婦控除",
+    "1170 寡婦控除"
+  ],
+  "headings": [
+    "寡婦控除",
+    "対象税目",
+    "概要",
+    "寡婦控除の金額（令和2年分以後）",
+    "寡婦控除の金額（令和元年分以前）",
+    "対象者または対象物",
+    "寡婦控除の対象となる人の範囲（令和2年分以後）",
+    "寡婦控除の対象となる人の範囲（令和元年分以前）",
+    "寡婦控除（特別の寡婦）の対象となる人の範囲（令和元年分以前）",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4605-6418ff5533a28\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:12 GMT"
+}

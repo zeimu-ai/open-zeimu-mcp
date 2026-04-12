@@ -1,0 +1,30 @@
+{
+  "id": "2011",
+  "title": "課税される所得と非課税所得",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2011.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:13:42.001Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9be4587bf77aa9c89183138a30844e39ea838c9a49a5676c67e409f4f3a5c737",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2011 課税される所得と非課税所得",
+    "2011 課税される所得と非課税所得"
+  ],
+  "headings": [
+    "課税される所得と非課税所得",
+    "対象税目",
+    "概要",
+    "所得とは",
+    "非課税所得",
+    "根拠法令等",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"5393-641a0b8469470\"",
+  "last_modified": "Tue, 21 Oct 2025 01:00:02 GMT"
+}

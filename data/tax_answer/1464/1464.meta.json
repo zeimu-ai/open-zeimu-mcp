@@ -1,0 +1,33 @@
+{
+  "id": "1464",
+  "title": "譲渡した株式等の取得費",
+  "category": "shotoku",
+  "category_path": "所得税（譲渡所得）",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1464.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:12:27.865Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f5fd84501af9be4afff9f8bd91c2c98e7c283edd923e885fd40d50df700a7a69",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1464 譲渡した株式等の取得費",
+    "1464 譲渡した株式等の取得費"
+  ],
+  "headings": [
+    "譲渡した株式等の取得費",
+    "対象税目",
+    "概要",
+    "払込みや購入以外で株式等を取得した場合の取得費（取得価額）",
+    "取得費を計算する際の1単位当たりの価額の調整",
+    "同一銘柄の株式等を2回以上にわたって購入している場合の取得費",
+    "取得費が分からない場合などの取扱い",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4d48-641b4d710dff0\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:18 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "6355",
+  "title": "課税売上げと課税仕入れ",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6355.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:00:21.951Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:718c02322601b37ab7f891e9443c91a6dd41eaed76b6cec83443d8a96066a456",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6355 課税売上げと課税仕入れ",
+    "6355 課税売上げと課税仕入れ"
+  ],
+  "headings": [
+    "課税売上げと課税仕入れ",
+    "対象税目",
+    "概要",
+    "課税売上げ",
+    "課税仕入れ",
+    "仕入税額控除",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3a13-641b4d67ef090\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:08 GMT"
+}

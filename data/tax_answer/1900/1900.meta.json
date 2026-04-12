@@ -1,0 +1,31 @@
+{
+  "id": "1900",
+  "title": "給与所得者で確定申告が必要な人",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1900.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:13:22.970Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:65f1cdbc072232c93461948137a38b525d82b9f430b47777c3a7f5df35858a2d",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1900 給与所得者で確定申告が必要な人",
+    "1900 給与所得者で確定申告が必要な人"
+  ],
+  "headings": [
+    "給与所得者で確定申告が必要な人",
+    "対象税目",
+    "概要",
+    "所得金額の合計金額に含まれない所得",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"45e2-6418ff5b8ce10\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:18 GMT"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1480",
+  "title": "山林所得",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1480.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:12:37.885Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:fb12b8d1f53595b364cfc16c3714f6beba2aada212172dec402b9d54e3364a21",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1480 山林所得",
+    "1480 山林所得"
+  ],
+  "headings": [
+    "山林所得",
+    "対象税目",
+    "概要",
+    "計算方法・計算式",
+    "所得の計算方法",
+    "総収入金額",
+    "必要経費",
+    "必要経費の特例",
+    "税額の計算方法",
+    "根拠法令等",
+    "関連リンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3d61-641a0b926ea20\"",
+  "last_modified": "Tue, 21 Oct 2025 01:00:17 GMT"
+}

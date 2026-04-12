@@ -1,0 +1,30 @@
+{
+  "id": "6253",
+  "title": "キャンセル料",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6253.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:00:10.931Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:42bdeeaa3d045ff1fadb7bc96b40f695373fa298f088ca6696ac218e6b410b5b",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6253 キャンセル料",
+    "6253 キャンセル料"
+  ],
+  "headings": [
+    "キャンセル料",
+    "対象税目",
+    "概要",
+    "解約に伴う事務手数料としてのキャンセル料",
+    "逸失利益に対する損害賠償金としてのキャンセル料",
+    "全額について事務手数料に相当する部分と損害賠償金に相当する部分を区分することなく一括して受領しているキャンセル料",
+    "根拠法令等",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3503-641b4d687e588\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:09 GMT"
+}

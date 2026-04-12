@@ -1,0 +1,35 @@
+{
+  "id": "2040",
+  "title": "予定納税",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2040.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:13:52.015Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5795dca3d34e5c88b48c6c81d841357ec82d8311ade6958db5ae1bc387f81d8e",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2040 予定納税",
+    "2040 予定納税"
+  ],
+  "headings": [
+    "予定納税",
+    "対象税目",
+    "概要",
+    "計算方法・計算式",
+    "予定納税基準額の計算方法",
+    "手続き",
+    "予定納税額の納付",
+    "減額申請の方法",
+    "納付または提出先等",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"523a-638d6e1b5aa80\"",
+  "last_modified": "Tue, 01 Jul 2025 04:50:21 GMT"
+}

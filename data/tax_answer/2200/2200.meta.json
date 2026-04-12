@@ -1,0 +1,29 @@
+{
+  "id": "2200",
+  "title": "収入金額とその計算",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2200.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:14:06.047Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:59c478b80f5a51b73e3f886befb4080139385f556dc13a7806309e8257569a62",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2200 収入金額とその計算",
+    "2200 収入金額とその計算"
+  ],
+  "headings": [
+    "収入金額とその計算",
+    "対象税目",
+    "概要",
+    "収入すべき金額",
+    "根拠法令等",
+    "関連リンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"384f-641a0b83be610\"",
+  "last_modified": "Tue, 21 Oct 2025 01:00:01 GMT"
+}

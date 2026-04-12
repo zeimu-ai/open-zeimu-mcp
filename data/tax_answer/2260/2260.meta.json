@@ -1,0 +1,31 @@
+{
+  "id": "2260",
+  "title": "所得税の税率",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2260.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:14:16.060Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c0a5065d99e15e568c12c67740bdc99b3cabfb5dc4f9f7e413f2ad562f271e82",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2260 所得税の税率",
+    "2260 所得税の税率"
+  ],
+  "headings": [
+    "所得税の税率",
+    "対象税目",
+    "概要",
+    "計算方法・計算式",
+    "平成27年分以後",
+    "具体例",
+    "根拠法令等",
+    "関連リンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4efd-641a0b8353720\"",
+  "last_modified": "Tue, 21 Oct 2025 01:00:01 GMT"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "6505",
+  "title": "簡易課税制度",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6505.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:00:52.009Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:182c8567760695a2bbf749a49699124fd17b418d9740b208f4b57fc8a4244d76",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6505 簡易課税制度",
+    "6505 簡易課税制度"
+  ],
+  "headings": [
+    "簡易課税制度",
+    "対象税目",
+    "概要",
+    "対象者または対象物",
+    "計算方法・計算式",
+    "基本的な計算の方法",
+    "特例の計算",
+    "事業区分をしていない場合の取扱い",
+    "手続き",
+    "災害その他やむを得ない事情がある場合",
+    "提出書類等",
+    "注意事項",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"63da-64dfb248afef8\"",
+  "last_modified": "Fri, 27 Mar 2026 05:55:05 GMT"
+}

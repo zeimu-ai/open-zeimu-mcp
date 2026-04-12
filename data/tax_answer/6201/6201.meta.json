@@ -1,0 +1,30 @@
+{
+  "id": "6201",
+  "title": "非課税となる取引",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6201.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T07:59:55.904Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:fa90c19d4e50356078a8c34c0b747d350e7f1728dd7cdd1681ef62cc7c8c3e06",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6201 非課税となる取引",
+    "6201 非課税となる取引"
+  ],
+  "headings": [
+    "非課税となる取引",
+    "対象税目",
+    "概要",
+    "主な非課税取引",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4560-641b4d6958da0\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:10 GMT"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "2010",
+  "title": "納税義務者となる個人",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2010.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:13:40.992Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1e3e7ed47002ebaace7399f64ca2fa9cb134ab7008e85ee70df61b7ca2eefc03",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2010 納税義務者となる個人",
+    "2010 納税義務者となる個人"
+  ],
+  "headings": [
+    "納税義務者となる個人",
+    "対象税目",
+    "概要",
+    "居住者の課税所得の範囲",
+    "非居住者の課税所得の範囲",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4a04-641a0b8478a88\"",
+  "last_modified": "Tue, 21 Oct 2025 01:00:02 GMT"
+}

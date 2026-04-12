@@ -1,0 +1,32 @@
+{
+  "id": "1904",
+  "title": "給与所得者と電子申告",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1904.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:13:26.984Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a71a6be5d42a378388f9fc7ab655a29600b468549fab88e439eb10d09ba33181",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1904 給与所得者と電子申告",
+    "1904 給与所得者と電子申告"
+  ],
+  "headings": [
+    "給与所得者と電子申告",
+    "対象税目",
+    "概要",
+    "e-Taxの利点",
+    "添付省略できる第三者作成書類",
+    "添付書類のイメージデータによる提出",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4b86-6418ff5b5c0d0\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:18 GMT"
+}

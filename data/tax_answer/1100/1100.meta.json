@@ -1,0 +1,30 @@
+{
+  "id": "1100",
+  "title": "所得控除のあらまし",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1100.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:01:32.092Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a83707048cdd920c8f37fa17a3fe4de86190fc3032900e968d956e293f44068e",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1100 所得控除のあらまし",
+    "1100 所得控除のあらまし"
+  ],
+  "headings": [
+    "所得控除のあらまし",
+    "対象税目",
+    "概要",
+    "所得控除の種類",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"45f1-64a2398ff2a10\"",
+  "last_modified": "Fri, 06 Feb 2026 08:30:11 GMT"
+}

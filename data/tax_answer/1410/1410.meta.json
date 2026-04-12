@@ -1,0 +1,39 @@
+{
+  "id": "1410",
+  "title": "給与所得控除",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1410.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:12:20.849Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:89d0b350f0c64ff44413be7e05e1c33f496455c47befbd2e918007bcbe60f326",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1410 給与所得控除",
+    "1410 給与所得控除"
+  ],
+  "headings": [
+    "給与所得控除",
+    "対象税目",
+    "概要",
+    "令和7年分以降 （注1）",
+    "令和2年分から令和6年分",
+    "平成28年分",
+    "給与所得者の特定支出控除の特例",
+    "対象者または対象物",
+    "計算方法・計算式",
+    "給与所得の金額の計算",
+    "令和2年分以降",
+    "給与収入の合計額（令和7年分以降）",
+    "給与収入の合計額（令和2年分から令和6年分）",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"7561-642fd6c0dfc98\"",
+  "last_modified": "Fri, 07 Nov 2025 09:01:07 GMT"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "7125",
+  "title": "営業に関しない受取書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/inshi/7125.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T07:57:44.648Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4b15fa96ab0ee58449ac96c3c3baa598bf9ef82c7dcf1bcbabfa102b263f82d3",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.7125 営業に関しない受取書",
+    "7125 営業に関しない受取書"
+  ],
+  "headings": [
+    "営業に関しない受取書",
+    "対象税目",
+    "概要",
+    "内容",
+    "根拠法令等",
+    "根拠リンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3e61-63fec713c4558\"",
+  "last_modified": "Mon, 29 Sep 2025 08:30:04 GMT"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1500",
+  "title": "雑所得",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1500.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:12:40.879Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f5a197ea7317f8607a8cdc61f6c3e51f4e139fb1d50724cfe52c403070228ab7",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1500 雑所得",
+    "1500 雑所得"
+  ],
+  "headings": [
+    "雑所得",
+    "対象税目",
+    "概要",
+    "所得の計算方法",
+    "税額の計算方法",
+    "所得税の源泉徴収",
+    "令和4年分以後の業務に係る雑所得",
+    "注意事項",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4e56-6418ff5eae648\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:22 GMT"
+}

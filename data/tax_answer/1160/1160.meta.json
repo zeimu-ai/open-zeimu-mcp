@@ -1,0 +1,33 @@
+{
+  "id": "1160",
+  "title": "障害者控除",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1160.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:01:56.130Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:fb4593659b3dbb3714307fc6ae42737023294544b48069f0f3075681589c5642",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1160 障害者控除",
+    "1160 障害者控除"
+  ],
+  "headings": [
+    "障害者控除",
+    "対象税目",
+    "概要",
+    "障害者控除の金額",
+    "対象者または対象物",
+    "障害者控除の対象となる人の範囲",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4c54-641a0b870d8c0\"",
+  "last_modified": "Tue, 21 Oct 2025 01:00:05 GMT"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "7122",
+  "title": "文書の記載金額",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/inshi/7122.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:06:56.255Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:66d42a1d9d3557644b9cb357dce88af15843cd7ab93c8db4e22544225c267d21",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.7122 文書の記載金額",
+    "7122 文書の記載金額"
+  ],
+  "headings": [
+    "文書の記載金額",
+    "対象税目",
+    "概要",
+    "内容",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"5ac8-64a5ff2002038\"",
+  "last_modified": "Mon, 09 Feb 2026 08:30:02 GMT"
+}

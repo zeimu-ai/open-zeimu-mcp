@@ -1,0 +1,36 @@
+{
+  "id": "4602",
+  "title": "土地家屋の評価",
+  "category": "sozoku",
+  "category_path": "相続税、贈与税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/sozoku/4602.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:15:09.166Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:28a30a644109c82d809f075dcc65a126cbd290e86f55557cdac9cff61dafa9f3",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.4602 土地家屋の評価",
+    "4602 土地家屋の評価"
+  ],
+  "headings": [
+    "土地家屋の評価",
+    "対象税目",
+    "概要",
+    "土地",
+    "家屋",
+    "その他",
+    "＜参考＞マンションの評価方法",
+    "敷地利用権（土地部分）の価額",
+    "区分所有権（家屋部分）の価額",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4a4b-641b4d7798500\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:25 GMT"
+}

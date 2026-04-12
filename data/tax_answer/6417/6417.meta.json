@@ -1,0 +1,35 @@
+{
+  "id": "6417",
+  "title": "課税売上割合に準ずる割合",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6417.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:00:31.967Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:36adbe4104418450c3a646f9ff19396b3621c75b20a4629a33286757fd5fc4fc",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6417 課税売上割合に準ずる割合",
+    "6417 課税売上割合に準ずる割合"
+  ],
+  "headings": [
+    "課税売上割合に準ずる割合",
+    "対象税目",
+    "概要",
+    "課税売上割合に準ずる割合の算定",
+    "課税売上割合に準ずる割合の適用範囲",
+    "対象者または対象物",
+    "手続き",
+    "申告等の方法",
+    "申告先等",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3ff4-641b4d6760f20\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:08 GMT"
+}

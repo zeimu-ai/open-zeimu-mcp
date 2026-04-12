@@ -1,0 +1,32 @@
+{
+  "id": "6301",
+  "title": "課税標準",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6301.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:00:13.944Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ea4f7578a3ca01788955219a90af98b894f87f1a71c63791925b390982bfb3db",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6301 課税標準",
+    "6301 課税標準"
+  ],
+  "headings": [
+    "課税標準",
+    "対象税目",
+    "概要",
+    "課税資産の譲渡等に係る消費税の課税標準",
+    "保税地域から引き取られる課税貨物に係る消費税の課税標準",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4139-64dfb248f3518\"",
+  "last_modified": "Fri, 27 Mar 2026 05:55:05 GMT"
+}

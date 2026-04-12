@@ -1,0 +1,30 @@
+{
+  "id": "9209",
+  "title": "コンビニ納付(バーコード付納付書)",
+  "category": "osirase",
+  "category_path": null,
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/osirase/9209.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T07:59:17.848Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c3fb3bc771f9472ea4c035440e5273cdbc7be7433fd0e5f907ee1c23b42043a7",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.9209 コンビニ納付(バーコード付納付書)",
+    "9209 コンビニ納付(バーコード付納付書)"
+  ],
+  "headings": [
+    "コンビニ納付(バーコード付納付書)",
+    "概要",
+    "コンビニ納付（バーコード付納付書）の納付手続",
+    "バーコード付納付書が利用可能なコンビニエンスストア",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"38ab-63fec71f905a8\"",
+  "last_modified": "Mon, 29 Sep 2025 08:30:17 GMT"
+}

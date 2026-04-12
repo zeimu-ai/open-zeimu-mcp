@@ -1,0 +1,32 @@
+{
+  "id": "2100",
+  "title": "減価償却のあらまし",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2100.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:13:59.035Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:dfd1ebb567f158a77e3582dc9b5e6f8af6cea90fec3291f68d65ace7530dd473",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2100 減価償却のあらまし",
+    "2100 減価償却のあらまし"
+  ],
+  "headings": [
+    "減価償却のあらまし",
+    "対象税目",
+    "概要",
+    "償却方法",
+    "償却方法の選定",
+    "東日本大震災に関する税制上の措置（概要）",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"51bb-6418ff51bede8\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:08 GMT"
+}

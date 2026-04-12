@@ -1,0 +1,36 @@
+{
+  "id": "1600",
+  "title": "公的年金等の課税関係",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1600.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:13:08.934Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f93da2e35608ddaba82608ad8b4f4d5a13c70b3bfdf129b955a258d0ccd5ee03",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1600 公的年金等の課税関係",
+    "1600 公的年金等の課税関係"
+  ],
+  "headings": [
+    "公的年金等の課税関係",
+    "対象税目",
+    "概要",
+    "公的年金等からの源泉徴収",
+    "計算方法・計算式",
+    "公的年金等に係る雑所得の速算表(令和2年分以後)",
+    "公的年金等に係る雑所得の速算表(平成17年分から令和元年分まで)",
+    "具体例",
+    "手続き",
+    "申告等の方法",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4d44-6418ff5e91570\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:22 GMT"
+}

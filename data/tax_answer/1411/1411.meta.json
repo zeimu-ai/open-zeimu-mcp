@@ -1,0 +1,32 @@
+{
+  "id": "1411",
+  "title": "所得金額調整控除",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1411.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:12:21.840Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:329db35621fd574b49ce7519a7bd4e6971e70cf1f159913020005a9bf183db8f",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1411 所得金額調整控除",
+    "1411 所得金額調整控除"
+  ],
+  "headings": [
+    "所得金額調整控除",
+    "対象税目",
+    "概要",
+    "子ども・特別障害者等を有する者等の所得金額調整控除",
+    "給与所得と年金所得の双方を有する者に対する所得金額調整控除",
+    "対象者または対象物",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3f66-6418ff5bdb7e0\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:19 GMT"
+}

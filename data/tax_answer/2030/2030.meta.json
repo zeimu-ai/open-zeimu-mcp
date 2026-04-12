@@ -1,0 +1,36 @@
+{
+  "id": "2030",
+  "title": "還付申告",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2030.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:13:49.011Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:28bf81593537b58d6f87c357e21f526e9397f394409eb0b9444e136e635a8104",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2030 還付申告",
+    "2030 還付申告"
+  ],
+  "headings": [
+    "還付申告",
+    "対象税目",
+    "概要",
+    "還付申告の具体例",
+    "還付申告の対象とならない所得の具体例",
+    "手続き",
+    "申告等の期限",
+    "申告先等",
+    "提出書類等",
+    "注意事項",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"506e-64a2398e27e38\"",
+  "last_modified": "Fri, 06 Feb 2026 08:30:09 GMT"
+}

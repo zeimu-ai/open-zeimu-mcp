@@ -1,0 +1,35 @@
+{
+  "id": "4613",
+  "title": "貸宅地の評価",
+  "category": "hyoka",
+  "category_path": "相続税、贈与税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hyoka/4613.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T07:57:06.576Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5675c8e8835e850d95bc7a5c36ba102a33c770e0530a0c76206d092732a94eb4",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.4613 貸宅地の評価",
+    "4613 貸宅地の評価"
+  ],
+  "headings": [
+    "貸宅地の評価",
+    "対象税目",
+    "概要",
+    "計算方法・計算式",
+    "1　借地権の目的となっている宅地",
+    "2　定期借地権等の目的となっている宅地",
+    "3　地上権の目的となっている宅地",
+    "4　区分地上権の目的となっている宅地",
+    "5　区分地上権に準ずる地役権の目的となっている承役地である宅地",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"538e-641b4d789b970\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:26 GMT"
+}

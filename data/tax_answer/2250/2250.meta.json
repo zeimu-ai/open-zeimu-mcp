@@ -1,0 +1,29 @@
+{
+  "id": "2250",
+  "title": "損益通算",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2250.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:14:15.066Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:cedf36e53e5b87942b787faaebb79e3191572d0979e71cbba63cccc36f0d3008",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2250 損益通算",
+    "2250 損益通算"
+  ],
+  "headings": [
+    "損益通算",
+    "対象税目",
+    "概要",
+    "損益通算の対象となる所得の範囲",
+    "根拠法令等",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4af0-641a0b8362d38\"",
+  "last_modified": "Tue, 21 Oct 2025 01:00:01 GMT"
+}

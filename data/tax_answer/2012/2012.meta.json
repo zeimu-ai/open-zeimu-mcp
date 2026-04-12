@@ -1,0 +1,32 @@
+{
+  "id": "2012",
+  "title": "居住者・非居住者の判定(複数の滞在地がある人の場合)",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2012.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:13:42.997Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b8b303d70d3833e7327af379ba724687fff4406ecdb04b6353929afc755bce04",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2012 居住者・非居住者の判定(複数の滞在地がある人の場合)",
+    "2012 居住者・非居住者の判定(複数の滞在地がある人の場合)"
+  ],
+  "headings": [
+    "居住者・非居住者の判定(複数の滞在地がある人の場合)",
+    "対象税目",
+    "概要",
+    "日本の居住者かどうかの判定（住所または居所の有無）",
+    "租税条約による判定",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"41ec-641a0b844fe30\"",
+  "last_modified": "Tue, 21 Oct 2025 01:00:02 GMT"
+}

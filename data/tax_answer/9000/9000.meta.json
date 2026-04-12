@@ -1,0 +1,28 @@
+{
+  "id": "9000",
+  "title": "国税と地方税の種類",
+  "category": "osirase",
+  "category_path": null,
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/osirase/9000.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T07:59:08.832Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5d8e2a65b428ca1205ef471cd6639e5fe048aa76dc68feab15bfc686faa2b085",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.9000 国税と地方税の種類",
+    "9000 国税と地方税の種類"
+  ],
+  "headings": [
+    "国税と地方税の種類",
+    "概要",
+    "主な国税",
+    "主な地方税",
+    "お問い合わせ先",
+    "地方税に関するご相談"
+  ],
+  "etag": "\"3365-63fec71ffdba8\"",
+  "last_modified": "Mon, 29 Sep 2025 08:30:17 GMT"
+}

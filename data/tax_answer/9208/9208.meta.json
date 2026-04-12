@@ -1,0 +1,29 @@
+{
+  "id": "9208",
+  "title": "納税証明書の請求",
+  "category": "osirase",
+  "category_path": null,
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/osirase/9208.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T07:59:15.851Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:19ad1cfc62b03bd1fe2b61aef5e7ba3e87ec3feabdb4c57cf3e892bcdff14002",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.9208 納税証明書の請求",
+    "9208 納税証明書の請求"
+  ],
+  "headings": [
+    "納税証明書の請求",
+    "概要",
+    "納税証明書の種類",
+    "e-Taxによるオンライン請求",
+    "根拠法令等",
+    "関連リンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"36e0-63fec71fa7ca8\"",
+  "last_modified": "Mon, 29 Sep 2025 08:30:17 GMT"
+}

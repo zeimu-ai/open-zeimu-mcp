@@ -1,0 +1,31 @@
+{
+  "id": "6617",
+  "title": "納税地",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6617.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:01:12.050Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4ed42f03bcb161d2f36e9f1be121470aec7f7d6ef102e3a89acc4a4465472602",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6617 納税地",
+    "6617 納税地"
+  ],
+  "headings": [
+    "納税地",
+    "対象税目",
+    "概要",
+    "国内取引に係る納税地",
+    "外国貨物に係る納税地",
+    "根拠法令等",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3bb9-641b4d6be5ed8\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:12 GMT"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1177",
+  "title": "特定親族特別控除",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1177.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:02:01.139Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b7a24e2a96a3e8eb1963d6a276848da0ba949706ebc7da62882ef74214b3cd1e",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1177 特定親族特別控除",
+    "1177 特定親族特別控除"
+  ],
+  "headings": [
+    "特定親族特別控除",
+    "対象税目",
+    "概要",
+    "特定親族特別控除の金額",
+    "特定親族に該当する人の範囲",
+    "対象者または対象物",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4c6a-6418ff54e2d30\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:11 GMT"
+}

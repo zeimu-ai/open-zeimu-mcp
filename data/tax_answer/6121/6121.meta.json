@@ -1,0 +1,32 @@
+{
+  "id": "6121",
+  "title": "納税義務者",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6121.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T07:59:42.883Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7d469b06a41a1655e3effdf4d985794d0485fe1741158be748af6f4a049819e8",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6121 納税義務者",
+    "6121 納税義務者"
+  ],
+  "headings": [
+    "納税義務者",
+    "対象税目",
+    "概要",
+    "国内取引の納税義務者",
+    "特定課税仕入れにかかる納税義務者（リバースチャージ方式）",
+    "輸入取引の納税義務者",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3fea-641b4d6da3ba8\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:14 GMT"
+}

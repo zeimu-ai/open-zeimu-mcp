@@ -1,0 +1,30 @@
+{
+  "id": "7191",
+  "title": "登録免許税の税額表",
+  "category": "inshi",
+  "category_path": "登録免許税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/inshi/7191.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T07:57:53.676Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1f371af5e004fe6c49c39d5e77029ba88719f6d7793e68cc20d516215f157aa8",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.7191 登録免許税の税額表",
+    "7191 登録免許税の税額表"
+  ],
+  "headings": [
+    "登録免許税の税額表",
+    "対象税目",
+    "概要",
+    "不動産の登記（主なもの）",
+    "会社の商業登記（主なもの）",
+    "個人の商業登記",
+    "根拠法令等",
+    "お問い合わせ先"
+  ],
+  "etag": "\"75dd-63fec7134a438\"",
+  "last_modified": "Mon, 29 Sep 2025 08:30:04 GMT"
+}

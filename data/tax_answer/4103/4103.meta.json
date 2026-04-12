@@ -1,0 +1,39 @@
+{
+  "id": "4103",
+  "title": "相続時精算課税の選択",
+  "category": "sozoku",
+  "category_path": "相続税、贈与税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/sozoku/4103.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:14:19.066Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f403512b9ef8a58b9ab330e08ccbf231a893e099a84a99f363c8470baa14b1a4",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.4103 相続時精算課税の選択",
+    "4103 相続時精算課税の選択"
+  ],
+  "headings": [
+    "相続時精算課税の選択",
+    "対象税目",
+    "概要",
+    "対象者または対象物",
+    "適用対象者",
+    "適用対象財産等",
+    "計算方法・計算式",
+    "具体例",
+    "贈与税額及び相続税額の計算",
+    "手続き",
+    "申告等の方法",
+    "申告先等",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"6783-649ccd7c021e8\"",
+  "last_modified": "Mon, 02 Feb 2026 01:00:02 GMT"
+}

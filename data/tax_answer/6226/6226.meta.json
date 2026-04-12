@@ -1,0 +1,32 @@
+{
+  "id": "6226",
+  "title": "住宅の貸付け",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6226.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:00:04.930Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6a12d7972c05e758bb73265e983005b161a97c108b97ee8064325c04360cdbc3",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6226 住宅の貸付け",
+    "6226 住宅の貸付け"
+  ],
+  "headings": [
+    "住宅の貸付け",
+    "対象税目",
+    "概要",
+    "住宅の範囲",
+    "住宅の貸付けの範囲",
+    "対価たる家賃の範囲",
+    "転貸する場合の取扱い",
+    "用途変更の場合",
+    "根拠法令等",
+    "お問い合わせ先"
+  ],
+  "etag": "\"445c-641b4d68bfc68\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:09 GMT"
+}

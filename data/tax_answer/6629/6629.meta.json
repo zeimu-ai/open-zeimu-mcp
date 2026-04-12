@@ -1,0 +1,31 @@
+{
+  "id": "6629",
+  "title": "消費税の各種届出書",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6629.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:01:15.059Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0f5ab972751de73f20299d905d371bfbbabf60f9c91013ffff2b6028a7beae59",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6629 消費税の各種届出書",
+    "6629 消費税の各種届出書"
+  ],
+  "headings": [
+    "消費税の各種届出書",
+    "対象税目",
+    "概要",
+    "届出関係",
+    "承認・許可関係",
+    "登録関係",
+    "根拠法令等",
+    "関連リンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"9a30-64dfb248916b0\"",
+  "last_modified": "Fri, 27 Mar 2026 05:55:05 GMT"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1150",
+  "title": "一定の寄附金を支払ったとき(寄附金控除)",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1150.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:01:53.134Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:fe020007026aa099189beba88078d88cd103e008beb4bbdd128aeb7a95edae36",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1150 一定の寄附金を支払ったとき(寄附金控除)",
+    "1150 一定の寄附金を支払ったとき(寄附金控除)"
+  ],
+  "headings": [
+    "一定の寄附金を支払ったとき(寄附金控除)",
+    "対象税目",
+    "概要",
+    "特定寄附金の範囲",
+    "対象者または対象物",
+    "計算方法・計算式",
+    "手続き",
+    "申告等の方法",
+    "申告先等",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"7058-64a2398fc2888\"",
+  "last_modified": "Fri, 06 Feb 2026 08:30:11 GMT"
+}

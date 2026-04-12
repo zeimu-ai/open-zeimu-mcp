@@ -1,0 +1,30 @@
+{
+  "id": "8001",
+  "title": "災害等による期限の延長",
+  "category": "saigai",
+  "category_path": null,
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/saigai/8001.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T07:59:19.853Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:db9026e15d773345cc07508da896ee6b836f518187fa92fc225c12dd6878e076",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.8001 災害等による期限の延長",
+    "8001 災害等による期限の延長"
+  ],
+  "headings": [
+    "災害等による期限の延長",
+    "概要",
+    "地域指定による期限延長",
+    "対象者指定による期限延長",
+    "個別指定による期限延長",
+    "根拠法令等",
+    "関連リンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3b64-63fec719ba750\"",
+  "last_modified": "Mon, 29 Sep 2025 08:30:11 GMT"
+}

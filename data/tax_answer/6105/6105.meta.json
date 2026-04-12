@@ -1,0 +1,32 @@
+{
+  "id": "6105",
+  "title": "課税の対象",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6105.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T07:59:37.873Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:26e1c328eafc31c0d05078de1e8c5cb0242fdbd2f8caf05aec2bce525c7218d1",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6105 課税の対象",
+    "6105 課税の対象"
+  ],
+  "headings": [
+    "課税の対象",
+    "対象税目",
+    "概要",
+    "国内において事業者が事業として対価を得て行う資産の譲渡等",
+    "特定仕入れ",
+    "外国貨物の引取り",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"419e-641b4d6df2190\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:15 GMT"
+}

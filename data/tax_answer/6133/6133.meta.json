@@ -1,0 +1,30 @@
+{
+  "id": "6133",
+  "title": "輸入する貨物の納税義務者",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6133.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T07:59:45.892Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:63f2bbaefb1ce8de3cd5cd67727c8029e9e47bcb219d0995ac74a4baf7f9f46c",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6133 輸入する貨物の納税義務者",
+    "6133 輸入する貨物の納税義務者"
+  ],
+  "headings": [
+    "輸入する貨物の納税義務者",
+    "対象税目",
+    "概要",
+    "納税義務者",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3b4c-641b4d6d7a780\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:14 GMT"
+}

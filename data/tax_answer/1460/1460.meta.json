@@ -1,0 +1,32 @@
+{
+  "id": "1460",
+  "title": "譲渡所得(土地、建物及び株式等以外の資産を譲渡したとき)",
+  "category": "shotoku",
+  "category_path": "所得税（譲渡所得）",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1460.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:12:25.851Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b15f16e00f445b27bd85154b90d847623bde900f81a67d53f87fcbcb25e87603",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1460 譲渡所得(土地、建物及び株式等以外の資産を譲渡したとき)",
+    "1460 譲渡所得(土地、建物及び株式等以外の資産を譲渡したとき)"
+  ],
+  "headings": [
+    "譲渡所得(土地、建物及び株式等以外の資産を譲渡したとき)",
+    "対象税目",
+    "概要",
+    "計算方法・計算式",
+    "所得の計算方法（土地、建物および株式等以外の資産を譲渡したとき）",
+    "税額の計算方法（土地、建物および株式等以外の資産を譲渡したとき）",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"42f7-641b4d72c3fc0\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:20 GMT"
+}

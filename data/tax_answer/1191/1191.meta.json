@@ -1,0 +1,33 @@
+{
+  "id": "1191",
+  "title": "配偶者控除",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1191.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:02:09.156Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a2eb7d60ff6b99ccc3b1da4c8bca60190880c2a3ad9ef0a45332e105e0a3bc49",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1191 配偶者控除",
+    "1191 配偶者控除"
+  ],
+  "headings": [
+    "配偶者控除",
+    "対象税目",
+    "概要",
+    "配偶者控除の金額",
+    "控除対象配偶者となる人の範囲",
+    "対象者または対象物",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"5082-6418ff546c2c0\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:11 GMT"
+}

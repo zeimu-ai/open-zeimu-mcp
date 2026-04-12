@@ -1,0 +1,30 @@
+{
+  "id": "2230",
+  "title": "源泉分離課税制度",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2230.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:14:13.071Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:adcf9aea63e41421866e1ea2b81e8116887dbb6377dcd6e459831af52efb1f8c",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2230 源泉分離課税制度",
+    "2230 源泉分離課税制度"
+  ],
+  "headings": [
+    "源泉分離課税制度",
+    "対象税目",
+    "概要",
+    "対象となる所得",
+    "計算方法・計算式",
+    "根拠法令等",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3c2e-641a0b8385400\"",
+  "last_modified": "Tue, 21 Oct 2025 01:00:01 GMT"
+}

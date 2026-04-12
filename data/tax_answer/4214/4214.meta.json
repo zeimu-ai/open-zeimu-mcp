@@ -1,0 +1,38 @@
+{
+  "id": "4214",
+  "title": "相続税の物納",
+  "category": "sozoku",
+  "category_path": "相続税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/sozoku/4214.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:14:56.145Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:22748ed6aa4d1188031f696dfc5cfca02043e5ff66cbb79b84646e2cc1b39ea8",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.4214 相続税の物納",
+    "4214 相続税の物納"
+  ],
+  "headings": [
+    "相続税の物納",
+    "対象税目",
+    "概要",
+    "物納の要件",
+    "管理処分不適格財産",
+    "物納劣後財産",
+    "物納手続関係書類の提出期限",
+    "物納の許可までの審査期間",
+    "物納財産の価額（収納価額）",
+    "物納の再申請・延納申請への変更",
+    "条件付許可",
+    "利子税の納付",
+    "特定物納制度（延納から物納への変更）",
+    "根拠法令等",
+    "関連リンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"6a3e-641b4d61c17e0\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:02 GMT"
+}

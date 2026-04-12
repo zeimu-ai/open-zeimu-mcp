@@ -1,0 +1,29 @@
+{
+  "id": "2036",
+  "title": "確定申告書の税務署への送付",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2036.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:13:51.020Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a5927f691ee0c46b1a80cf640e7943c30fcd7641fb21d3d2dd71e2a1c3373024",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2036 確定申告書の税務署への送付",
+    "2036 確定申告書の税務署への送付"
+  ],
+  "headings": [
+    "確定申告書の税務署への送付",
+    "対象税目",
+    "概要",
+    "郵便または信書便で提出した申告書の提出日の取扱い",
+    "根拠法令等",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3821-6418ff5224ad0\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:09 GMT"
+}

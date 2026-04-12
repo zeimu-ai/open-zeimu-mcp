@@ -1,0 +1,33 @@
+{
+  "id": "2024",
+  "title": "確定申告を忘れたとき",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2024.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:13:46.004Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:04e3a60ba8d0d61954c1f50b6f09bb384173f8a585d2a4ea33d34ae1792efaf6",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2024 確定申告を忘れたとき",
+    "2024 確定申告を忘れたとき"
+  ],
+  "headings": [
+    "確定申告を忘れたとき",
+    "対象税目",
+    "概要",
+    "加算税",
+    "延滞税",
+    "手続き",
+    "申告先等",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"50a1-6461eb7b45948\"",
+  "last_modified": "Wed, 17 Dec 2025 05:00:05 GMT"
+}

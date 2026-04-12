@@ -1,0 +1,34 @@
+{
+  "id": "1490",
+  "title": "一時所得",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1490.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:12:38.888Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c395ff1f11a6a5c33167025bc12164efcb5ff5e402302ce03409d81fbd8b3b2c",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1490 一時所得",
+    "1490 一時所得"
+  ],
+  "headings": [
+    "一時所得",
+    "対象税目",
+    "概要",
+    "内容",
+    "計算方法・計算式",
+    "所得の計算方法",
+    "税額の計算方法",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4da2-6418ff5ed2098\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:22 GMT"
+}

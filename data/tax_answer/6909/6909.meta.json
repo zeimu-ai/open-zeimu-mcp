@@ -1,0 +1,30 @@
+{
+  "id": "6909",
+  "title": "税抜経理と税込経理の選択適用(個人の場合)",
+  "category": "shohi",
+  "category_path": "消費税、所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6909.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:01:23.071Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:594bc385f38e012548e96f2c9379cade84966290a61bcbde8811ada05bf11155",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6909 税抜経理と税込経理の選択適用(個人の場合)",
+    "6909 税抜経理と税込経理の選択適用(個人の場合)"
+  ],
+  "headings": [
+    "税抜経理と税込経理の選択適用(個人の場合)",
+    "対象税目",
+    "概要",
+    "2以上の所得を生ずべき業務を行う場合",
+    "収入に係る取引について税抜経理方式を適用している場合",
+    "根拠法令等",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3c25-641b4d6b6d528\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:12 GMT"
+}

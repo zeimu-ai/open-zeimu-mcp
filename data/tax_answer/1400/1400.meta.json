@@ -1,0 +1,37 @@
+{
+  "id": "1400",
+  "title": "給与所得",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1400.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:12:19.850Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8ed8b37c4267b890e780254d0408a9f6059676d7bf64f48687390533241aa71d",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1400 給与所得",
+    "1400 給与所得"
+  ],
+  "headings": [
+    "給与所得",
+    "対象税目",
+    "概要",
+    "計算方法・計算式",
+    "所得の計算方法",
+    "収入金額",
+    "給与所得控除",
+    "給与所得者の特定支出控除",
+    "所得金額調整控除",
+    "税額の精算",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4b6f-64a2398ed9228\"",
+  "last_modified": "Fri, 06 Feb 2026 08:30:10 GMT"
+}

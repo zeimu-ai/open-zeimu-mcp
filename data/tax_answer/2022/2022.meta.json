@@ -1,0 +1,35 @@
+{
+  "id": "2022",
+  "title": "納税者が死亡したときの確定申告(準確定申告)",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2022.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:13:45.015Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3762150a81f67ebd0c164fb8271cf31e6b7907deceed7d19f0bb551a54966180",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2022 納税者が死亡したときの確定申告(準確定申告)",
+    "2022 納税者が死亡したときの確定申告(準確定申告)"
+  ],
+  "headings": [
+    "納税者が死亡したときの確定申告(準確定申告)",
+    "対象税目",
+    "概要",
+    "相続人等が2人以上いる場合",
+    "準確定申告における所得控除の適用",
+    "手続き",
+    "申告等の期限",
+    "申告等の方法",
+    "申告先等",
+    "提出書類等",
+    "根拠法令等",
+    "関連リンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4bcd-64dfb2482d520\"",
+  "last_modified": "Fri, 27 Mar 2026 05:55:04 GMT"
+}

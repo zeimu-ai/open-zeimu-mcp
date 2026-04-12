@@ -1,0 +1,33 @@
+{
+  "id": "1330",
+  "title": "配当金を受け取ったとき(配当所得)",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1330.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:12:08.846Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b541303d7860e1269e46ab852c7791da1c5faef42f307fd4f8a21287f80ced7f",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1330 配当金を受け取ったとき(配当所得)",
+    "1330 配当金を受け取ったとき(配当所得)"
+  ],
+  "headings": [
+    "配当金を受け取ったとき(配当所得)",
+    "対象税目",
+    "概要",
+    "計算方法・計算式",
+    "所得の計算方法",
+    "配当所得の源泉徴収",
+    "税額の計算方法",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"518a-6418ff58aad78\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:15 GMT"
+}

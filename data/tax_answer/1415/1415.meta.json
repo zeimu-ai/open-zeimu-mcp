@@ -1,0 +1,32 @@
+{
+  "id": "1415",
+  "title": "給与所得者の特定支出控除",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1415.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:12:22.854Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:89899e373d025d8cc9966c461ba907efde9ddb1a126c441f966fb209a0e4ccfe",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1415 給与所得者の特定支出控除",
+    "1415 給与所得者の特定支出控除"
+  ],
+  "headings": [
+    "給与所得者の特定支出控除",
+    "対象税目",
+    "概要",
+    "対象者または対象物",
+    "手続き",
+    "申告等の方法",
+    "申告先等",
+    "根拠法令等",
+    "関連リンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4a60-64a2398ec9058\"",
+  "last_modified": "Fri, 06 Feb 2026 08:30:10 GMT"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2072",
+  "title": "青色申告特別控除",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2072.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:13:54.032Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:df003a6782f75c0089ab661cdeccfa4f3cf8abec0f4fe0e6bdea2b29cc562a01",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2072 青色申告特別控除",
+    "2072 青色申告特別控除"
+  ],
+  "headings": [
+    "青色申告特別控除",
+    "対象税目",
+    "概要",
+    "55万円の青色申告特別控除",
+    "65万円の青色申告特別控除",
+    "10万円の青色申告特別控除",
+    "対象者または対象物",
+    "手続き",
+    "申告先等",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4925-6418ff5202bd8\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:08 GMT"
+}

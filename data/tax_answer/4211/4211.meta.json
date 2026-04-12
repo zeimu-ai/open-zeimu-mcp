@@ -1,0 +1,35 @@
+{
+  "id": "4211",
+  "title": "相続税の延納",
+  "category": "sozoku",
+  "category_path": "相続税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/sozoku/4211.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:14:55.138Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:edff16646090895441609da3097c075713f82e18b1fb027ba93b779a0e78e88c",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.4211 相続税の延納",
+    "4211 相続税の延納"
+  ],
+  "headings": [
+    "相続税の延納",
+    "対象税目",
+    "概要",
+    "延納の要件",
+    "担保の種類",
+    "担保提供関係書類の提出期限",
+    "延納の許可までの審査期間",
+    "延納期間および延納利子税",
+    "相続税の延納期間および延納に係る利子",
+    "特定物納制度（延納から物納への変更）",
+    "根拠法令等",
+    "関連リンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"5c1e-641b4d61d15c8\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:02 GMT"
+}

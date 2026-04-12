@@ -1,0 +1,30 @@
+{
+  "id": "2220",
+  "title": "総合課税制度",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2220.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:14:12.065Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8ae09e4ae028e09c2abd583a7cacc7d59637ccf04f303911a1525eb1fc86d761",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2220 総合課税制度",
+    "2220 総合課税制度"
+  ],
+  "headings": [
+    "総合課税制度",
+    "対象税目",
+    "概要",
+    "対象となる所得",
+    "計算方法・計算式",
+    "根拠法令等",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3d90-641a0b83951e8\"",
+  "last_modified": "Tue, 21 Oct 2025 01:00:01 GMT"
+}

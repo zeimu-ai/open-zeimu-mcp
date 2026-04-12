@@ -1,0 +1,33 @@
+{
+  "id": "6371",
+  "title": "端数計算",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6371.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:00:25.954Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5f35439ac933d2090994d38e9af128921ae1814fd904d998be3fddaff12c49ef",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6371 端数計算",
+    "6371 端数計算"
+  ],
+  "headings": [
+    "端数計算",
+    "対象税目",
+    "概要",
+    "課税標準額の端数について",
+    "消費税額の端数について",
+    "納付すべき消費税額などの端数について",
+    "適格請求書に記載すべき消費税額等の端数について",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3f68-641b4d67acdf8\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:08 GMT"
+}

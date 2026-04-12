@@ -1,0 +1,30 @@
+{
+  "id": "1535",
+  "title": "NISA制度",
+  "category": "shotoku",
+  "category_path": "所得税（配当所得、譲渡所得）",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1535.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:12:57.921Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:dcacd3a48646885e1ab48fab56d17786eab9c3b846232b8ff81d2cbbb1384b17",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1535 NISA制度",
+    "1535 NISA制度"
+  ],
+  "headings": [
+    "NISA制度",
+    "対象税目",
+    "概要",
+    "NISAの概要",
+    "ジュニアNISAの概要",
+    "根拠法令等",
+    "関連リンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3da3-641b4d70677e0\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:17 GMT"
+}

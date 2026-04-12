@@ -1,0 +1,35 @@
+{
+  "id": "2026",
+  "title": "確定申告を間違えたとき",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2026.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:13:47.017Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b2fa0cda3f2ef5974a9ee2801d97d0eb40da13308f32fb908fa24327183e50ac",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2026 確定申告を間違えたとき",
+    "2026 確定申告を間違えたとき"
+  ],
+  "headings": [
+    "確定申告を間違えたとき",
+    "対象税目",
+    "概要",
+    "納める税金が多過ぎた場合や還付される税金が少な過ぎた場合",
+    "納める税金が少な過ぎた場合や還付される税金が多過ぎた場合",
+    "手続き",
+    "申告先等",
+    "注意事項",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4a73-6461eb7b34fa8\"",
+  "last_modified": "Wed, 17 Dec 2025 05:00:05 GMT"
+}

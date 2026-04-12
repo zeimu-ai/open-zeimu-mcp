@@ -1,0 +1,33 @@
+{
+  "id": "1190",
+  "title": "配偶者の所得がいくらまでなら配偶者控除が受けられるか",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1190.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:02:08.150Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ba3b5a0fcfe27cc004f32ac4af1573f7696e3faaa1a0f8b182c13f894c4c3483",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1190 配偶者の所得がいくらまでなら配偶者控除が受けられるか",
+    "1190 配偶者の所得がいくらまでなら配偶者控除が受けられるか"
+  ],
+  "headings": [
+    "配偶者の所得がいくらまでなら配偶者控除が受けられるか",
+    "対象税目",
+    "概要",
+    "具体例",
+    "配偶者の所得が給与所得だけの場合",
+    "配偶者に給与所得以外の所得がある場合",
+    "合計所得金額から除かれるもの",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4b53-64a2398f6ae30\"",
+  "last_modified": "Fri, 06 Feb 2026 08:30:10 GMT"
+}

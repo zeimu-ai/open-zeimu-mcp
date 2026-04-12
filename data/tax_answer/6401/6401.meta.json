@@ -1,0 +1,34 @@
+{
+  "id": "6401",
+  "title": "仕入控除税額の計算方法",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6401.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:00:29.969Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:35811c6e418ee75098bd7eaa1f6711d1a44ad605c5f1b8af6ef26956e7b6e128",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6401 仕入控除税額の計算方法",
+    "6401 仕入控除税額の計算方法"
+  ],
+  "headings": [
+    "仕入控除税額の計算方法",
+    "対象税目",
+    "概要",
+    "申告・控除の内容",
+    "対象者または対象物",
+    "計算方法・計算式",
+    "個別対応方式",
+    "一括比例配分方式",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"481c-641b4d677b500\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:08 GMT"
+}

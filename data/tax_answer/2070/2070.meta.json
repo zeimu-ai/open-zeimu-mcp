@@ -1,0 +1,40 @@
+{
+  "id": "2070",
+  "title": "青色申告制度",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2070.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:13:53.021Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ce7637e97e971052452b6ea49d8ee392f8f0ccca00ad9cfa2f760a85561f8fd7",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2070 青色申告制度",
+    "2070 青色申告制度"
+  ],
+  "headings": [
+    "青色申告制度",
+    "対象税目",
+    "概要",
+    "青色申告者の帳簿書類とその保存",
+    "青色申告の特典",
+    "青色申告特別控除",
+    "青色事業専従者給与",
+    "貸倒引当金",
+    "純損失の繰越しと繰戻し",
+    "対象者または対象物",
+    "手続き",
+    "申告等の方法",
+    "申告先等",
+    "提出書類等",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"676d-6418ff5214ce8\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:08 GMT"
+}

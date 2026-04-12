@@ -1,0 +1,38 @@
+{
+  "id": "1140",
+  "title": "生命保険料控除",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1140.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:01:49.118Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5d1bf7b3f4aea5f46847a340d468cac96677808d9def151e8db03f3af601fbd6",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1140 生命保険料控除",
+    "1140 生命保険料控除"
+  ],
+  "headings": [
+    "生命保険料控除",
+    "対象税目",
+    "概要",
+    "生命保険料控除の金額",
+    "新契約（平成24年1月1日以後に締結した保険契約等）に基づく場合の控除額",
+    "旧契約（平成23年12月31日以前に締結した保険契約等）に基づく場合の控除額",
+    "新契約と旧契約の双方に加入している場合の控除額",
+    "対象者または対象物",
+    "手続き",
+    "申告等の方法",
+    "申告先等",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"5d2f-6418ff55783d0\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:12 GMT"
+}

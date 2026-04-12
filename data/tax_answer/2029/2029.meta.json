@@ -1,0 +1,31 @@
+{
+  "id": "2029",
+  "title": "確定申告書の提出先(納税地)",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/2029.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:13:48.010Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5444253fc7386434cd4a2ef00ff85ae7c83e220fe0a440d8fcc4ef0aef393f36",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2029 確定申告書の提出先(納税地)",
+    "2029 確定申告書の提出先(納税地)"
+  ],
+  "headings": [
+    "確定申告書の提出先(納税地)",
+    "対象税目",
+    "概要",
+    "主な納税地",
+    "納税地の特例",
+    "根拠法令等",
+    "関連リンク",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3999-641a0b83e7a38\"",
+  "last_modified": "Tue, 21 Oct 2025 01:00:01 GMT"
+}

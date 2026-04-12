@@ -1,0 +1,35 @@
+{
+  "id": "6601",
+  "title": "申告と納税",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6601.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:01:03.035Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:305829796ee746f4212ab50db517c36971edffff761a6d11867e835fe5897435",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6601 申告と納税",
+    "6601 申告と納税"
+  ],
+  "headings": [
+    "申告と納税",
+    "対象税目",
+    "概要",
+    "申告と納税（原則）",
+    "申告と納税（特例：課税期間特例の適用のある場合）",
+    "申告と納税（輸入貨物を引き取るとき）",
+    "手続き",
+    "申告等の期限",
+    "申告先等",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"562e-641b4d6c5fff8\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:13 GMT"
+}

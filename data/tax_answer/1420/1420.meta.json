@@ -1,0 +1,34 @@
+{
+  "id": "1420",
+  "title": "退職金を受け取ったとき(退職所得)",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1420.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:12:23.844Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ce1e1f0af6f02051d2583603b9014f4e61511f56bff356b6c41340b3868ea3a4",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1420 退職金を受け取ったとき(退職所得)",
+    "1420 退職金を受け取ったとき(退職所得)"
+  ],
+  "headings": [
+    "退職金を受け取ったとき(退職所得)",
+    "対象税目",
+    "概要",
+    "計算方法・計算式",
+    "所得の計算方法",
+    "退職所得控除額の計算方法",
+    "税額の計算方法",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"523e-6418ff5ee16b0\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:22 GMT"
+}

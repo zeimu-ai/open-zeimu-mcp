@@ -1,0 +1,30 @@
+{
+  "id": "6901",
+  "title": "納付税額又は還付税額の経理処理",
+  "category": "shohi",
+  "category_path": "消費税、所得税、法人税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6901.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:01:20.071Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0ef9b5e42271a1683e71b7db6e641f232e101957e8fce134acee64a4c28a0557",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6901 納付税額又は還付税額の経理処理",
+    "6901 納付税額又は還付税額の経理処理"
+  ],
+  "headings": [
+    "納付税額又は還付税額の経理処理",
+    "対象税目",
+    "概要",
+    "税抜経理方式を選択適用した場合",
+    "税込経理方式を選択適用した場合",
+    "根拠法令等",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3f8d-641b4d6b9e650\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:12 GMT"
+}

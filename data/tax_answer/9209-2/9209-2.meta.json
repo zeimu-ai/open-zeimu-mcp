@@ -1,0 +1,30 @@
+{
+  "id": "9209-2",
+  "title": "コンビニ納付（QRコード）",
+  "category": "osirase",
+  "category_path": null,
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/osirase/9209-2.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T07:59:16.840Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:db9ee6478b7819043e5762e3b2b423b2b277db126a977b41af16e47d9cb47f82",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.9209-2 コンビニ納付（QRコード）",
+    "9209-2 コンビニ納付（QRコード）"
+  ],
+  "headings": [
+    "コンビニ納付（QRコード）",
+    "概要",
+    "コンビニ納付（QRコード）の納付手続",
+    "利用可能なコンビニエンスストア",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"36c0-63fec71f9c128\"",
+  "last_modified": "Mon, 29 Sep 2025 08:30:17 GMT"
+}

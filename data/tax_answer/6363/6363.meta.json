@@ -1,0 +1,36 @@
+{
+  "id": "6363",
+  "title": "値引き、返品、割戻しなどが行われた場合の税額の調整(仕入れに係る対価の返還等)",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6363.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:00:23.953Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7869871ed749548c0f2e76e216727bf9e360718937d976f9a07563af5beb229f",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6363 値引き、返品、割戻しなどが行われた場合の税額の調整(仕入れに係る対価の返還等)",
+    "6363 値引き、返品、割戻しなどが行われた場合の税額の調整(仕入れに係る対価の返還等)"
+  ],
+  "headings": [
+    "値引き、返品、割戻しなどが行われた場合の税額の調整(仕入れに係る対価の返還等)",
+    "対象税目",
+    "概要",
+    "調整が必要な取引",
+    "調整が必要ない取引",
+    "調整を行わない取引",
+    "調整を行う時期",
+    "調整の方法",
+    "対象者または対象物",
+    "調整を行う必要がある事業者",
+    "計算方法・計算式",
+    "根拠法令等",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"5181-641b4d67d4ab0\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:08 GMT"
+}

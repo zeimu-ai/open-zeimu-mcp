@@ -1,0 +1,33 @@
+{
+  "id": "1171",
+  "title": "ひとり親控除",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1171.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:01:58.144Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b841b0c83f018080d250cf71e41f734c20ac147212539246e8dd227e25567fd3",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.1171 ひとり親控除",
+    "1171 ひとり親控除"
+  ],
+  "headings": [
+    "ひとり親控除",
+    "対象税目",
+    "概要",
+    "ひとり親控除の金額",
+    "対象者または対象物",
+    "ひとり親控除の対象となる人の範囲",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3f48-64a2398fa6750\"",
+  "last_modified": "Fri, 06 Feb 2026 08:30:11 GMT"
+}

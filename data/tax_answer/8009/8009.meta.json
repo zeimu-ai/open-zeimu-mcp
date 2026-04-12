@@ -1,0 +1,35 @@
+{
+  "id": "8009",
+  "title": "災害により被害を受けたときの法人税の取扱い",
+  "category": "saigai",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/saigai/8009.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T07:59:27.859Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6e7129d873693977ccb97e8a7c22f24c8706cc1b5ab5425497a669dcaf8ed15a",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.8009 災害により被害を受けたときの法人税の取扱い",
+    "8009 災害により被害を受けたときの法人税の取扱い"
+  ],
+  "headings": [
+    "災害により被害を受けたときの法人税の取扱い",
+    "対象税目",
+    "概要",
+    "災害により滅失・損壊した資産等",
+    "資産の評価損",
+    "復旧のために支出する費用",
+    "災害損失特別勘定の設定等",
+    "災害による損失金の繰越し",
+    "災害損失欠損金の繰戻しによる還付",
+    "中間申告（仮決算）における災害損失金額に係る所得税額の還付",
+    "根拠法令等",
+    "関連リンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"46fa-63fec71950418\"",
+  "last_modified": "Mon, 29 Sep 2025 08:30:10 GMT"
+}

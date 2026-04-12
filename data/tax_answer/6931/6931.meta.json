@@ -1,0 +1,30 @@
+{
+  "id": "6931",
+  "title": "消費税等と譲渡所得",
+  "category": "shohi",
+  "category_path": "消費税、所得税（譲渡所得）",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6931.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T08:01:29.072Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4074e82613c6d426e816b1bb0afe8513e152f3837c2b7b68010c6358f9986e8c",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.6931 消費税等と譲渡所得",
+    "6931 消費税等と譲渡所得"
+  ],
+  "headings": [
+    "消費税等と譲渡所得",
+    "対象税目",
+    "概要",
+    "課税事業者が事業用の資産を譲渡した場合",
+    "課税事業者が生活用の資産を譲渡した場合または免税事業者や事業者でない者が資産を譲渡した場合",
+    "根拠法令等",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3865-641b4d6b202c8\"",
+  "last_modified": "Wed, 22 Oct 2025 01:00:12 GMT"
+}
