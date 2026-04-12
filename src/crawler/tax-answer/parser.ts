@@ -219,7 +219,9 @@ function extractCategory(pathname: string) {
 }
 
 function extractBodyArea(html: string) {
-  const startTagMatch = html.match(/<div[^>]+id="bodyArea"[^>]*>/iu);
+  const startTagMatch =
+    html.match(/<div[^>]+id="bodyArea"[^>]*>/iu) ??
+    html.match(/<div[^>]+class="[^"]*\bfull-content\b[^"]*\bcontents\b[^"]*"[^>]*>/iu);
 
   if (!startTagMatch || startTagMatch.index === undefined) {
     throw new Error("Failed to locate #bodyArea");
@@ -343,6 +345,11 @@ function convertTable(tableHtml: string) {
 function convertInline(fragment: string) {
   const withLinks = fragment.replace(/<a[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/giu, (_match, href, text) => {
     const label = normalizeText(stripAllTags(text));
+
+    if (href.trim() === "" || /^(?:#|javascript:|mailto:|tel:)/iu.test(href)) {
+      return label;
+    }
+
     const absoluteUrl = toAbsoluteTaxAnswerUrl(href, "https://www.nta.go.jp/taxes/shiraberu/taxanswer/index2.htm");
     return `[${label}](${absoluteUrl})`;
   });

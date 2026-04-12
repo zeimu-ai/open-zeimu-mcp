@@ -19,7 +19,7 @@ export function toAbsoluteTaxAnswerUrl(href: string, base: string): string {
 }
 
 function assertAllowedHost(url: URL) {
-  if (!ALLOWLIST_HOSTS.has(url.hostname)) {
+  if (!ALLOWLIST_HOSTS.has(url.hostname) && !url.hostname.endsWith(".go.jp")) {
     throw new Error(`Disallowed host: ${url.hostname}`);
   }
 

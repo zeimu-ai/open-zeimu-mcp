@@ -4,14 +4,14 @@ import { join } from "node:path";
 
 import { describe, expect, it } from "vitest";
 
-import { crawlTaxAnswer } from "../../../../src/crawler/tax-answer/crawler.js";
+import { crawlTaxAnswer, inferCategoryFromId } from "../../../../src/crawler/tax-answer/crawler.js";
 
-const page1200Html = `<!DOCTYPE html>
+const pageHtml = (id: string) => `<!DOCTYPE html>
 <html lang="ja">
   <body>
     <div id="bodyArea">
       <div class="page-header" id="page-top">
-        <h1>No.1200 税額控除</h1>
+        <h1>No.${id} 税額控除</h1>
       </div>
       <h2>対象税目</h2>
       <p>所得税</p>
@@ -39,7 +39,7 @@ describe("crawlTaxAnswer", () => {
       }
 
       if (url.endsWith("/shotoku/1200.htm")) {
-        return new Response(page1200Html, {
+        return new Response(pageHtml("1200"), {
           status: 200,
           headers: {
             etag: '"fixture-etag-1200"',
@@ -89,5 +89,20 @@ describe("crawlTaxAnswer", () => {
       etag: '"fixture-etag-1200"',
     });
     expect(metadata.headings).toContain("関連コード");
+  });
+
+  it("routes explicit ids to the NTA category slug used by the code index", () => {
+    expect(inferCategoryFromId("1200")).toBe("shotoku");
+    expect(inferCategoryFromId("2502")).toBe("gensen");
+    expect(inferCategoryFromId("3105")).toBe("joto");
+    expect(inferCategoryFromId("4102")).toBe("sozoku");
+    expect(inferCategoryFromId("4402")).toBe("zoyo");
+    expect(inferCategoryFromId("4503")).toBe("sozoku");
+    expect(inferCategoryFromId("5100")).toBe("hojin");
+    expect(inferCategoryFromId("6101")).toBe("shohi");
+    expect(inferCategoryFromId("7100")).toBe("inshi");
+    expect(inferCategoryFromId("7200")).toBe("fufuku");
+    expect(inferCategoryFromId("7400")).toBe("hotei");
+    expect(inferCategoryFromId("8001")).toBe("saigai");
   });
 });
