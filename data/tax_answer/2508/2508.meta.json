@@ -1,0 +1,31 @@
+{
+  "id": "2508",
+  "title": "給与所得となるもの",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2508.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T06:03:29.726Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b80ce107b409b7baa4e32eb0fabf28745d0b502b52c892c31684c9cd90791e83",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2508 給与所得となるもの",
+    "2508 給与所得となるもの"
+  ],
+  "headings": [
+    "給与所得となるもの",
+    "対象税目",
+    "概要",
+    "手当",
+    "現物給与",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4e6a-6418ff4ea52b0\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:05 GMT"
+}

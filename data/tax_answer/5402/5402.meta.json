@@ -1,0 +1,31 @@
+{
+  "id": "5402",
+  "title": "修繕費とならないものの判定",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5402.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T06:09:13.633Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8caeaf037b3d974abdc3949e17055fc44701ea2e6149c2ab79fe85b136afe97e",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.5402 修繕費とならないものの判定",
+    "5402 修繕費とならないものの判定"
+  ],
+  "headings": [
+    "修繕費とならないものの判定",
+    "対象税目",
+    "概要",
+    "修繕費になるかどうかの判定",
+    "修繕費であるか資本的支出であるかが明らかでない金額がある場合",
+    "災害により固定資産について被害を受けた場合",
+    "根拠法令等",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4296-641bb1fa1d020\"",
+  "last_modified": "Wed, 22 Oct 2025 08:30:05 GMT"
+}

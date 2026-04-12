@@ -1,0 +1,37 @@
+{
+  "id": "2725",
+  "title": "退職所得となるもの",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2725.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T06:03:59.783Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:99cd71c3688e4ee79223dbacb020b6499a051db2e7a890c69ea2c97d2fd498f5",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2725 退職所得となるもの",
+    "2725 退職所得となるもの"
+  ],
+  "headings": [
+    "退職所得となるもの",
+    "対象税目",
+    "概要",
+    "退職手当等とみなされるもの",
+    "引き続き勤務する人に支払われる給与で退職手当等とされるもの",
+    "使用人から執行役員への就任に伴い退職手当等として支給される一時金",
+    "受給者が掛金を拠出することにより退職に際して使用者から支払われる一時金",
+    "過去の勤務に基づき使用者であった者から支給される年金に代えて支払われる一時金",
+    "解雇予告手当",
+    "確定給付企業年金法等の規定に基づいて支払われる一時金",
+    "未払賃金立替払制度に基づき国が弁済する未払賃金",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"7514-6418ff4cd0a98\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:03 GMT"
+}

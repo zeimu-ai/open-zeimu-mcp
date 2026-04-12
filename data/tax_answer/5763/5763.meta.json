@@ -1,0 +1,32 @@
+{
+  "id": "5763",
+  "title": "欠損金の繰戻しによる還付",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5763.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T06:10:11.693Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:26b02135da9a42e81fc03bdb4b9825f4ca917a9bcccc4bc7a1afd86e7d79e82e",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.5763 欠損金の繰戻しによる還付",
+    "5763 欠損金の繰戻しによる還付"
+  ],
+  "headings": [
+    "欠損金の繰戻しによる還付",
+    "対象税目",
+    "概要",
+    "青色申告書を提出する法人の欠損金の繰戻しによる還付",
+    "解散等の事実が生じた事業年度の欠損金の繰戻しによる還付",
+    "災害損失欠損金額の繰戻しによる還付",
+    "適用要件",
+    "計算方法・計算式",
+    "根拠法令等",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4ef6-641bb1f6c3d48\"",
+  "last_modified": "Wed, 22 Oct 2025 08:30:02 GMT"
+}

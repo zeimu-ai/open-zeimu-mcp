@@ -1,0 +1,31 @@
+{
+  "id": "2520",
+  "title": "2か所以上から給与をもらっている人の源泉徴収",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2520.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T06:03:35.740Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:619e2bc82a5f59e7f0bd6696478de2a2e44e4eb31f2101b48e5c4b555a7c5a09",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2520 2か所以上から給与をもらっている人の源泉徴収",
+    "2520 2か所以上から給与をもらっている人の源泉徴収"
+  ],
+  "headings": [
+    "2か所以上から給与をもらっている人の源泉徴収",
+    "対象税目",
+    "概要",
+    "「主たる給与」と「従たる給与」",
+    "「従たる給与についての扶養控除等申告書」が提出されている場合の源泉徴収税額の求め方",
+    "対象者または対象物",
+    "根拠法令等",
+    "関連リンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4014-6418ff4e499d8\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:05 GMT"
+}

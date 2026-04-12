@@ -1,0 +1,32 @@
+{
+  "id": "5760",
+  "title": "所得税額控除",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5760.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T06:10:08.693Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f1004248179bf4aedade9b6b64207f7e60918505786d9ba9ba18c4bdee461a97",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.5760 所得税額控除",
+    "5760 所得税額控除"
+  ],
+  "headings": [
+    "所得税額控除",
+    "対象税目",
+    "概要",
+    "所有期間に対応する所得税額控除",
+    "所有期間対応分の計算",
+    "その事業年度で控除しきれなかった場合の取扱い",
+    "手続き",
+    "注意事項",
+    "根拠法令等",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4203-64a5ff2029cf0\"",
+  "last_modified": "Mon, 09 Feb 2026 08:30:02 GMT"
+}

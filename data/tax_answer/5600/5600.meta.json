@@ -1,0 +1,36 @@
+{
+  "id": "5600",
+  "title": "土地や建物を交換したときの圧縮記帳",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5600.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T06:09:44.676Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a10957fab373adf84f51bd1d055a178307b9edb20da86632f7affa49af563e02",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.5600 土地や建物を交換したときの圧縮記帳",
+    "5600 土地や建物を交換したときの圧縮記帳"
+  ],
+  "headings": [
+    "土地や建物を交換したときの圧縮記帳",
+    "対象税目",
+    "概要",
+    "対象者または対象物",
+    "対象となる法人",
+    "圧縮記帳の対象となる交換",
+    "計算方法・計算式",
+    "交換差金等がない場合",
+    "交換差金等を受け取った場合",
+    "交換差金等を支払った場合",
+    "手続き",
+    "根拠法令等",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"41b1-641bb1f84c2a0\"",
+  "last_modified": "Wed, 22 Oct 2025 08:30:03 GMT"
+}

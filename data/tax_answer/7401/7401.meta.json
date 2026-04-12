@@ -1,0 +1,32 @@
+{
+  "id": "7401",
+  "title": "法定調書の種類",
+  "category": "hotei",
+  "category_path": null,
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hotei/7401.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T06:10:24.704Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:847b0cabb51de7aa9ebf4219c6d13a7bc98a1d13e351a4087dc4e5bc62b17d34",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.7401 法定調書の種類",
+    "7401 法定調書の種類"
+  ],
+  "headings": [
+    "法定調書の種類",
+    "概要",
+    "所得税法に規定するもの",
+    "相続税法に規定するもの",
+    "租税特別措置法に規定するもの",
+    "国外送金等調書法に規定するもの",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"6517-63fec7220b5d0\"",
+  "last_modified": "Mon, 29 Sep 2025 08:30:19 GMT"
+}

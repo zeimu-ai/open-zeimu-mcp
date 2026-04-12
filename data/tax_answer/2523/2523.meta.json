@@ -1,0 +1,38 @@
+{
+  "id": "2523",
+  "title": "賞与に対する源泉徴収",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2523.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T06:03:36.737Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:38826f0f8f5ae2bec4eb8c2e876c6773f475812563a925b2378ed4386a85538a",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2523 賞与に対する源泉徴収",
+    "2523 賞与に対する源泉徴収"
+  ],
+  "headings": [
+    "賞与に対する源泉徴収",
+    "対象税目",
+    "概要",
+    "賞与の意義",
+    "計算方法・計算式",
+    "通常の場合（「給与所得者の扶養控除等申告書」を提出している場合）",
+    "前月の給与の金額（社会保険料等を差し引いた金額）の10倍を超える賞与（社会保険料等を差し引いた金額）を支払う場合",
+    "前月に給与の支払がない場合",
+    "具体例",
+    "通常の場合（「給与所得者の扶養控除等申告書」を提出している場合）",
+    "前月の給与の金額の10倍を超える賞与を支払う場合",
+    "前月に給与の支払がない場合",
+    "根拠法令等",
+    "関連リンク",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"4bac-6418ff4e3b360\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:04 GMT"
+}

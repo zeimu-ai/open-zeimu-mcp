@@ -1,0 +1,32 @@
+{
+  "id": "2532",
+  "title": "給与等に係る源泉所得税及び復興特別所得税の納税地",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2532.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T06:03:39.757Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b345dff6de79dd3c370eebd342d27dd944cd73127402f703c173e71b78567bc0",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.2532 給与等に係る源泉所得税及び復興特別所得税の納税地",
+    "2532 給与等に係る源泉所得税及び復興特別所得税の納税地"
+  ],
+  "headings": [
+    "給与等に係る源泉所得税及び復興特別所得税の納税地",
+    "対象税目",
+    "概要",
+    "原則",
+    "非居住者に対し国内源泉所得となる給与等が国外で支払われる場合",
+    "役員に対する賞与で支払確定後1年を経過した日において支払があったとみなされる場合",
+    "事務所等の所在地が移転した場合",
+    "根拠法令等",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3837-6418ff4e11b50\"",
+  "last_modified": "Mon, 20 Oct 2025 05:00:04 GMT"
+}

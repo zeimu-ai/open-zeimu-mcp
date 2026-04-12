@@ -1,0 +1,28 @@
+{
+  "id": "5759",
+  "title": "法人税の税率",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5759.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T06:10:07.694Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:62f3e3d8d2565f5f6c4ec6ccf6d67ac499e883d23985ddd20c3f59be8d856707",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.5759 法人税の税率",
+    "5759 法人税の税率"
+  ],
+  "headings": [
+    "法人税の税率",
+    "対象税目",
+    "概要",
+    "税率",
+    "根拠法令等",
+    "お問い合わせ先"
+  ],
+  "etag": "\"6664-641bb1f6fdef8\"",
+  "last_modified": "Wed, 22 Oct 2025 08:30:02 GMT"
+}

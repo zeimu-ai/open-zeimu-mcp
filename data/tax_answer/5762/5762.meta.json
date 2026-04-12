@@ -1,0 +1,32 @@
+{
+  "id": "5762",
+  "title": "青色申告書を提出した事業年度の欠損金の繰越控除",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5762.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T06:10:10.691Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8ae5917d01befb477dc5321a6ece76b19145c356f8be8ba3ec496f311f6bfe17",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.5762 青色申告書を提出した事業年度の欠損金の繰越控除",
+    "5762 青色申告書を提出した事業年度の欠損金の繰越控除"
+  ],
+  "headings": [
+    "青色申告書を提出した事業年度の欠損金の繰越控除",
+    "対象税目",
+    "概要",
+    "繰越控除をする法人等",
+    "繰越控除される欠損金額",
+    "損金算入の順序",
+    "対象者または対象物",
+    "根拠法令等",
+    "関連コード",
+    "お問い合わせ先"
+  ],
+  "etag": "\"61f5-641bb1f6d27a8\"",
+  "last_modified": "Wed, 22 Oct 2025 08:30:02 GMT"
+}

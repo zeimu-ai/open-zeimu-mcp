@@ -1,0 +1,31 @@
+{
+  "id": "5320",
+  "title": "貸倒損失として処理できる場合",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5320.htm",
+  "source_type": "tax_answer",
+  "crawled_at": "2026-04-12T06:08:53.628Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b41bb7e0373d430199d8aeadaee19ecc0b0e762d95111f07a485db01ee6cf89b",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "No.5320 貸倒損失として処理できる場合",
+    "5320 貸倒損失として処理できる場合"
+  ],
+  "headings": [
+    "貸倒損失として処理できる場合",
+    "対象税目",
+    "概要",
+    "金銭債権が切り捨てられた場合",
+    "金銭債権の全額が回収不能となった場合",
+    "一定期間取引停止後弁済がない場合等",
+    "根拠法令等",
+    "QAリンク",
+    "お問い合わせ先"
+  ],
+  "etag": "\"3946-641bb1fb48530\"",
+  "last_modified": "Wed, 22 Oct 2025 08:30:06 GMT"
+}
