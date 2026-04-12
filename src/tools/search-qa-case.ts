@@ -1,13 +1,16 @@
 import { z } from "zod";
 
 import type { LexicalIndex } from "../search/lexical-index.js";
+import type { SemanticSearchEngine } from "../search/semantic-engine.js";
 import type { LoadedDocument } from "../types/index.js";
 import { findSearchDocumentOrThrow, getStringMetadata } from "./document-utils.js";
+import { runSourceSearch, searchModeSchema } from "./search-common.js";
 
 export const searchQaCaseInputSchema = z.object({
   query: z.string().trim().min(1),
   category: z.string().trim().min(1).optional(),
   limit: z.number().int().min(1).max(50).default(20),
+  search_mode: searchModeSchema,
 });
 
 export const searchQaCaseOutputSchema = z.object({
@@ -33,20 +36,22 @@ export const searchQaCaseOutputSchema = z.object({
 export type SearchQaCaseInput = z.infer<typeof searchQaCaseInputSchema>;
 export type SearchQaCaseOutput = z.infer<typeof searchQaCaseOutputSchema>;
 
-export function buildSearchQaCaseResult({
+export async function buildSearchQaCaseResult({
   lexicalIndex,
+  semanticEngine,
   documents,
   input,
 }: {
   lexicalIndex: LexicalIndex;
+  semanticEngine: SemanticSearchEngine;
   documents: LoadedDocument[];
   input: SearchQaCaseInput;
-}): SearchQaCaseOutput {
-  const result = lexicalIndex.search({
-    query: input.query,
-    sourceTypes: ["qa_case"],
-    category: input.category,
-    limit: input.limit,
+}): Promise<SearchQaCaseOutput> {
+  const result = await runSourceSearch({
+    lexicalIndex,
+    semanticEngine,
+    input,
+    sourceType: "qa_case",
   });
 
   return {

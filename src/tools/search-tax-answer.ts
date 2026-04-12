@@ -1,11 +1,14 @@
 import { z } from "zod";
 
 import type { LexicalIndex } from "../search/lexical-index.js";
+import type { SemanticSearchEngine } from "../search/semantic-engine.js";
+import { runSourceSearch, searchModeSchema } from "./search-common.js";
 
 export const searchTaxAnswerInputSchema = z.object({
   query: z.string().trim().min(1),
   category: z.string().trim().min(1).optional(),
   limit: z.number().int().min(1).max(50).default(20),
+  search_mode: searchModeSchema,
 });
 
 export const searchTaxAnswerOutputSchema = z.object({
@@ -26,18 +29,20 @@ export const searchTaxAnswerOutputSchema = z.object({
 export type SearchTaxAnswerInput = z.infer<typeof searchTaxAnswerInputSchema>;
 export type SearchTaxAnswerOutput = z.infer<typeof searchTaxAnswerOutputSchema>;
 
-export function buildSearchTaxAnswerResult({
+export async function buildSearchTaxAnswerResult({
   lexicalIndex,
+  semanticEngine,
   input,
 }: {
   lexicalIndex: LexicalIndex;
+  semanticEngine: SemanticSearchEngine;
   input: SearchTaxAnswerInput;
-}): SearchTaxAnswerOutput {
-  const result = lexicalIndex.search({
-    query: input.query,
-    sourceTypes: ["tax_answer"],
-    category: input.category,
-    limit: input.limit,
+}): Promise<SearchTaxAnswerOutput> {
+  const result = await runSourceSearch({
+    lexicalIndex,
+    semanticEngine,
+    input,
+    sourceType: "tax_answer",
   });
 
   return {

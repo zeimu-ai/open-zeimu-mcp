@@ -48,6 +48,7 @@ describe("buildHealthResult", () => {
         status: "disabled",
         ready: false,
         reason: "EMBEDDING_BACKEND=none",
+        total_chunks: 0,
       },
     });
   });
@@ -78,6 +79,7 @@ describe("buildHealthResult", () => {
       backend: "local",
       status: "missing_assets",
       ready: false,
+      total_chunks: 0,
     });
     expect(result.uptime).toBe(3);
   });
@@ -105,6 +107,7 @@ describe("buildHealthResult", () => {
       backend: "supabase",
       status: "stub",
       ready: false,
+      total_chunks: 0,
     });
   });
 });
@@ -116,6 +119,11 @@ function makeEnv(overrides: Partial<Env> = {}): Env {
     dataDir: "./data",
     vectorsCacheDir: "~/.cache/open-zeimu-mcp/vectors",
     onnxModelFileName: "bge-m3-int8.onnx.tar.gz",
+    tokenizerFileName: "tokenizer.json",
+    tokenizerConfigFileName: "tokenizer_config.json",
+    embeddingChunkSize: 512,
+    embeddingChunkOverlap: 64,
+    embeddingMaxTokens: 512,
     ...overrides,
   };
 }

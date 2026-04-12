@@ -34,7 +34,11 @@ describe("buildStatsResult", () => {
     });
     expect(result.semantic).toEqual({
       backend: "none",
+      semantic_ready: false,
       vectors_loaded: false,
+      loaded_sources: [],
+      total_chunks: 0,
+      total_bytes: 0,
     });
   });
 
@@ -78,13 +82,33 @@ describe("buildStatsResult", () => {
 
     await mkdir(env.dataDir, { recursive: true });
     await writeFixture(join(versionDir, env.onnxModelFileName), new Date());
-    await writeFixture(join(versionDir, "tax-answer-vectors-0.0.0.bin"), new Date());
+    await writeFixture(join(versionDir, env.tokenizerFileName), new Date());
+    await writeFixture(join(versionDir, env.tokenizerConfigFileName), new Date());
+    await writeFile(
+      join(versionDir, "tax_answer-vectors-0.0.0.bin"),
+      Buffer.from(new Float32Array([1, 0, 0]).buffer),
+    );
+    await writeFile(
+      join(versionDir, "tax_answer-vectors-0.0.0.index.json"),
+      JSON.stringify({
+        version: "0.0.0",
+        source_type: "tax_answer",
+        dimensions: 3,
+        chunk_count: 1,
+        chunks: [{ id: "1200", chunk_id: 0, chunk_offset: 0 }],
+      }),
+      "utf8",
+    );
 
     const result = await buildStatsResult({ env });
 
     expect(result.semantic).toEqual({
       backend: "local",
+      semantic_ready: true,
       vectors_loaded: true,
+      loaded_sources: ["tax_answer"],
+      total_chunks: 1,
+      total_bytes: 12,
     });
   });
 
@@ -97,7 +121,11 @@ describe("buildStatsResult", () => {
 
     expect(result.semantic).toEqual({
       backend: "supabase",
+      semantic_ready: false,
       vectors_loaded: false,
+      loaded_sources: [],
+      total_chunks: 0,
+      total_bytes: 0,
     });
   });
 
@@ -127,6 +155,11 @@ function makeEnv(overrides: Partial<Env> = {}): Env {
     dataDir: "./data",
     vectorsCacheDir: "~/.cache/open-zeimu-mcp/vectors",
     onnxModelFileName: "bge-m3-int8.onnx.tar.gz",
+    tokenizerFileName: "tokenizer.json",
+    tokenizerConfigFileName: "tokenizer_config.json",
+    embeddingChunkSize: 512,
+    embeddingChunkOverlap: 64,
+    embeddingMaxTokens: 512,
     ...overrides,
   };
 }

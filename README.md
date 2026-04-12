@@ -5,14 +5,14 @@
 `open-zeimu-mcp` is an OSS MCP server for Japanese tax primary sources. The
 current build ships lexical search, packaged retrieval/search tools for tax
 answers, written answers, tsutatsu, qa cases, and saiketsu, plus e-Gov law
-lookup, a tax-answer crawler, and local-semantic asset scaffolding.
+lookup, a tax-answer crawler, and local semantic search / hybrid search.
 
 ## What is open-zeimu-mcp?
 
 - Zero-setup MCP server for Japanese tax primary-source retrieval
 - Designed for `npm install @zeimu-ai/open-zeimu-mcp`
 - Built on the official Model Context Protocol TypeScript SDK
-- Packaged-source search is lexical by default, with opt-in semantic wiring
+- Packaged-source search is lexical by default, with opt-in semantic / hybrid retrieval
 
 ## Quick Start
 
@@ -50,6 +50,7 @@ Example MCP client configuration:
 - `list_saiketsu_categories`, `get_saiketsu`, `search_saiketsu`
 - `get_law`, `search_law`: e-Gov Law API v2 with 24h in-memory cache
 - `crawl:tax-answer`: NTA Tax Answer crawler to normalized Markdown + metadata
+- `precompute:embeddings`: local chunk embedding precompute for packaged sources
 - `release:vectors`: release-asset scaffold generator for local semantic search
 
 ## Configuration
@@ -61,18 +62,27 @@ Example MCP client configuration:
 | `DATA_DIR` | `./data` | Root directory for packaged dataset files |
 | `VECTORS_CACHE_DIR` | `~/.cache/open-zeimu-mcp/vectors` | Local vector cache path |
 | `ONNX_MODEL_FILENAME` | `bge-m3-int8.onnx.tar.gz` | Expected local semantic model asset name |
+| `TOKENIZER_FILENAME` | `tokenizer.json` | Expected tokenizer asset name |
+| `TOKENIZER_CONFIG_FILENAME` | `tokenizer_config.json` | Expected tokenizer config asset name |
+| `EMBEDDING_CHUNK_SIZE` | `512` | Character chunk size used during precompute/search |
+| `EMBEDDING_CHUNK_OVERLAP` | `64` | Character overlap between adjacent chunks |
+| `EMBEDDING_MAX_TOKENS` | `512` | Max tokenizer length for query / chunk encoding |
 
 This package reads configuration from `process.env` only. It does not load a
 `.env` file.
 
-`EMBEDDING_BACKEND=local` becomes ready only when both files exist under
+`EMBEDDING_BACKEND=local` becomes ready only when the model + tokenizer exist and
+at least one precomputed source vector set exists under
 `VECTORS_CACHE_DIR/<package-version>/`:
 
 - `bge-m3-int8.onnx.tar.gz`
-- `tax-answer-vectors-<package-version>.bin`
+- `tokenizer.json`
+- `tokenizer_config.json`
+- `<source_type>-vectors-<package-version>.bin`
+- `<source_type>-vectors-<package-version>.index.json`
 
-If either file is missing, the server falls back cleanly and exposes the asset
-state through `health`.
+If the local semantic set is incomplete, the server falls back cleanly and exposes
+the asset state through `health`.
 
 ## Tool Examples
 
@@ -85,6 +95,34 @@ Tax answer search with category filter:
     "query": "基礎控除",
     "category": "shotoku",
     "limit": 5
+  }
+}
+```
+
+Tax answer search with semantic mode:
+
+```json
+{
+  "name": "search_tax_answer",
+  "arguments": {
+    "query": "給与所得控除の趣旨",
+    "category": "shotoku",
+    "limit": 5,
+    "search_mode": "semantic"
+  }
+}
+```
+
+Tax answer search with hybrid mode:
+
+```json
+{
+  "name": "search_tax_answer",
+  "arguments": {
+    "query": "基礎控除",
+    "category": "shotoku",
+    "limit": 5,
+    "search_mode": "hybrid"
   }
 }
 ```
@@ -202,18 +240,21 @@ Generate the release scaffold for local semantic assets:
 
 ```bash
 npm run release:vectors
+npm run precompute:embeddings -- 0.1.0-alpha.0
 ```
 
 This writes `artifacts/vectors/release-plan.json` plus placeholder directories
-only. The actual ONNX model and vector binary are intentionally excluded from
-git and should be uploaded as GitHub Release assets.
+only. `precompute:embeddings` writes `<source_type>-vectors-<version>.bin` plus
+`<source_type>-vectors-<version>.index.json` into `VECTORS_CACHE_DIR/<version>/`.
+The actual ONNX model, tokenizer assets, and vector binaries are intentionally excluded
+from git and should be uploaded as GitHub Release assets.
 
 ## Status
 
 Under active development. The current implemented surface covers lexical search,
-tax-answer crawling, packaged retrieval/search across five packaged source
-types, e-Gov law lookup, category filters, semantic asset inspection, and
-release dry-run scaffolding on the path to `v0.1.0`.
+semantic search, hybrid search, tax-answer crawling, packaged retrieval/search
+across five packaged source types, e-Gov law lookup, category filters, vector
+precompute, and release dry-run scaffolding on the path to `v0.1.0`.
 
 ## Development
 
@@ -222,6 +263,7 @@ npm install --include=dev
 npm run typecheck
 npm test
 npm run build
+npm run precompute:embeddings -- 0.1.0-alpha.0
 npm run release:vectors
 npx changeset status
 npm run release:dry-run
@@ -232,6 +274,8 @@ More details:
 
 - Architecture: [docs/architecture.md](docs/architecture.md)
 - Tool API examples: [docs/api.md](docs/api.md)
+- Data-source/vector operations: [docs/data-sources.md](docs/data-sources.md)
+- Roadmap: [docs/ROADMAP.md](docs/ROADMAP.md)
 - Testing notes: [docs/TESTING.md](docs/TESTING.md)
 
 ## Data Sources and Licenses

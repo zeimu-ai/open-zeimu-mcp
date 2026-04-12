@@ -11,6 +11,11 @@ async function main() {
     dataDir: args.dataDir,
     vectorsCacheDir: "~/.cache/open-zeimu-mcp/vectors",
     onnxModelFileName: "bge-m3-int8.onnx.tar.gz",
+    tokenizerFileName: "tokenizer.json",
+    tokenizerConfigFileName: "tokenizer_config.json",
+    embeddingChunkSize: 512,
+    embeddingChunkOverlap: 64,
+    embeddingMaxTokens: 512,
   });
 
   const result = await crawlTaxAnswer({

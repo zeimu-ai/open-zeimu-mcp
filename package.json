@@ -42,6 +42,7 @@
     "lint:yaml": "yamllint .",
     "start": "node ./node_modules/tsx/dist/cli.mjs src/index.ts",
     "crawl:tax-answer": "node ./node_modules/tsx/dist/cli.mjs src/crawler/tax-answer/cli.ts",
+    "precompute:embeddings": "node ./node_modules/tsx/dist/cli.mjs scripts/precompute-embeddings.ts",
     "release:vectors": "node ./node_modules/tsx/dist/cli.mjs scripts/release-vectors.ts",
     "typecheck": "node ./node_modules/typescript/bin/tsc --noEmit",
     "test": "node ./node_modules/vitest/vitest.mjs run",
@@ -56,6 +57,7 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.29.0",
+    "@huggingface/tokenizers": "^0.1.3",
     "fast-glob": "^3.3.3",
     "gray-matter": "^4.0.3",
     "minisearch": "^7.2.0",

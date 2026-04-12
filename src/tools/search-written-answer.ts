@@ -1,13 +1,16 @@
 import { z } from "zod";
 
 import type { LexicalIndex } from "../search/lexical-index.js";
+import type { SemanticSearchEngine } from "../search/semantic-engine.js";
 import type { LoadedDocument } from "../types/index.js";
 import { buildPageHint, getStringMetadata } from "./document-utils.js";
+import { runSourceSearch, searchModeSchema } from "./search-common.js";
 
 export const searchWrittenAnswerInputSchema = z.object({
   query: z.string().trim().min(1),
   category: z.string().trim().min(1).optional(),
   limit: z.number().int().min(1).max(50).default(20),
+  search_mode: searchModeSchema,
 });
 
 export const searchWrittenAnswerOutputSchema = z.object({
@@ -34,20 +37,22 @@ export const searchWrittenAnswerOutputSchema = z.object({
 export type SearchWrittenAnswerInput = z.infer<typeof searchWrittenAnswerInputSchema>;
 export type SearchWrittenAnswerOutput = z.infer<typeof searchWrittenAnswerOutputSchema>;
 
-export function buildSearchWrittenAnswerResult({
+export async function buildSearchWrittenAnswerResult({
   lexicalIndex,
+  semanticEngine,
   documents,
   input,
 }: {
   lexicalIndex: LexicalIndex;
+  semanticEngine: SemanticSearchEngine;
   documents: LoadedDocument[];
   input: SearchWrittenAnswerInput;
-}): SearchWrittenAnswerOutput {
-  const result = lexicalIndex.search({
-    query: input.query,
-    sourceTypes: ["written_answer"],
-    category: input.category,
-    limit: input.limit,
+}): Promise<SearchWrittenAnswerOutput> {
+  const result = await runSourceSearch({
+    lexicalIndex,
+    semanticEngine,
+    input,
+    sourceType: "written_answer",
   });
 
   return {

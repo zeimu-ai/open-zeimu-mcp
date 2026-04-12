@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 
 import type { LexicalIndex } from "../../../src/search/lexical-index.js";
+import type { SemanticSearchEngine } from "../../../src/search/semantic-engine.js";
 import { buildSearchWrittenAnswerResult } from "../../../src/tools/search-written-answer.js";
 
 const lexicalIndex: LexicalIndex = {
@@ -27,10 +28,25 @@ const lexicalIndex: LexicalIndex = {
   },
 };
 
+const semanticEngine: SemanticSearchEngine = {
+  backend: "none",
+  ready: false,
+  reason: "backend_disabled",
+  runtime_available: false,
+  vectors_loaded: false,
+  chunk_count: 0,
+  total_bytes: 0,
+  loaded_sources: [],
+  async search() {
+    return [];
+  },
+};
+
 describe("buildSearchWrittenAnswerResult", () => {
-  it("forces written_answer filtering and derives page hints", () => {
-    const result = buildSearchWrittenAnswerResult({
+  it("forces written_answer filtering and derives page hints", async () => {
+    const result = await buildSearchWrittenAnswerResult({
       lexicalIndex,
+      semanticEngine,
       documents: [
         {
           id: "202401",
@@ -60,6 +76,7 @@ describe("buildSearchWrittenAnswerResult", () => {
         query: "第2ページ",
         category: "hyoka",
         limit: 5,
+        search_mode: "lexical",
       },
     });
 

@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 
 import type { LexicalIndex } from "../../../src/search/lexical-index.js";
+import type { SemanticSearchEngine } from "../../../src/search/semantic-engine.js";
 import { buildSearchQaCaseResult } from "../../../src/tools/search-qa-case.js";
 
 const lexicalIndex: LexicalIndex = {
@@ -26,10 +27,25 @@ const lexicalIndex: LexicalIndex = {
   },
 };
 
+const semanticEngine: SemanticSearchEngine = {
+  backend: "none",
+  ready: false,
+  reason: "backend_disabled",
+  runtime_available: false,
+  vectors_loaded: false,
+  chunk_count: 0,
+  total_bytes: 0,
+  loaded_sources: [],
+  async search() {
+    return [];
+  },
+};
+
 describe("buildSearchQaCaseResult", () => {
-  it("forces qa_case filtering and returns enriched results", () => {
-    const result = buildSearchQaCaseResult({
+  it("forces qa_case filtering and returns enriched results", async () => {
+    const result = await buildSearchQaCaseResult({
       lexicalIndex,
+      semanticEngine,
       documents: [
         {
           id: "qa-001",
@@ -59,6 +75,7 @@ describe("buildSearchQaCaseResult", () => {
         query: "交際費",
         category: "hojin",
         limit: 5,
+        search_mode: "lexical",
       },
     });
 

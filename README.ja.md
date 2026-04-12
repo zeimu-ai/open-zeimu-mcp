@@ -5,7 +5,7 @@
 `open-zeimu-mcp` は、日本の税務一次情報を取得・検索するための OSS MCP
 サーバーです。現在は lexical search、タックスアンサー・文書回答事例・通達・
 質疑応答事例・裁決事例のカテゴリ一覧/取得/検索、e-Gov 法令取得、NTA
-タックスアンサー crawler、local semantic asset の足場を実装しています。
+タックスアンサー crawler、local semantic search / hybrid search を実装しています。
 
 ## 特徴
 
@@ -19,6 +19,7 @@
 - `list_saiketsu_categories` / `get_saiketsu` / `search_saiketsu`
 - `get_law` / `search_law`: e-Gov 法令 API v2 を 24h in-memory cache 付きで呼ぶ
 - `crawl:tax-answer`: NTA タックスアンサーを Markdown + metadata に正規化する
+- `precompute:embeddings`: packaged source を chunk 単位で埋め込み事前計算する
 - `release:vectors`: local semantic search 用 release asset の足場を生成する
 
 ## クイックスタート
@@ -54,14 +55,23 @@ MCP クライアント設定例:
 | `DATA_DIR` | `./data` | データセットのルートディレクトリ |
 | `VECTORS_CACHE_DIR` | `~/.cache/open-zeimu-mcp/vectors` | ローカル vector cache |
 | `ONNX_MODEL_FILENAME` | `bge-m3-int8.onnx.tar.gz` | local semantic model asset 名 |
+| `TOKENIZER_FILENAME` | `tokenizer.json` | tokenizer asset 名 |
+| `TOKENIZER_CONFIG_FILENAME` | `tokenizer_config.json` | tokenizer config asset 名 |
+| `EMBEDDING_CHUNK_SIZE` | `512` | 事前計算と検索で使う文字チャンク長 |
+| `EMBEDDING_CHUNK_OVERLAP` | `64` | 隣接チャンクの重なり幅 |
+| `EMBEDDING_MAX_TOKENS` | `512` | query / chunk encode の最大 token 数 |
 
 設定は `process.env` からのみ読み取ります。`.env` の直読みは行いません。
 
 `EMBEDDING_BACKEND=local` では、`VECTORS_CACHE_DIR/<package-version>/` 配下に
-次の 2 つの asset がそろったときだけ local semantic wiring が ready になります。
+model + tokenizer があり、少なくとも 1 source の vector asset があるときに
+local semantic backend が ready になります。
 
 - `bge-m3-int8.onnx.tar.gz`
-- `tax-answer-vectors-<package-version>.bin`
+- `tokenizer.json`
+- `tokenizer_config.json`
+- `<source_type>-vectors-<package-version>.bin`
+- `<source_type>-vectors-<package-version>.index.json`
 
 不足している場合は fallback し、`health` で状態を確認できます。
 
@@ -76,6 +86,34 @@ MCP クライアント設定例:
     "query": "基礎控除",
     "category": "shotoku",
     "limit": 5
+  }
+}
+```
+
+semantic search:
+
+```json
+{
+  "name": "search_tax_answer",
+  "arguments": {
+    "query": "給与所得控除の趣旨",
+    "category": "shotoku",
+    "limit": 5,
+    "search_mode": "semantic"
+  }
+}
+```
+
+hybrid search:
+
+```json
+{
+  "name": "search_tax_answer",
+  "arguments": {
+    "query": "基礎控除",
+    "category": "shotoku",
+    "limit": 5,
+    "search_mode": "hybrid"
   }
 }
 ```
@@ -179,17 +217,22 @@ data/tax_answer/<id>/<id>.meta.json
 
 ```bash
 npm run release:vectors
+npm run precompute:embeddings -- 0.1.0-alpha.0
 ```
 
-`artifacts/vectors/release-plan.json` と placeholder ディレクトリだけを生成します。
-実際の ONNX model と vector binary は git に含めず、GitHub Release asset として
-別途アップロードします。
+`artifacts/vectors/release-plan.json` と placeholder ディレクトリを生成します。
+`precompute:embeddings` は `VECTORS_CACHE_DIR/<version>/` に
+`<source_type>-vectors-<version>.bin` と
+`<source_type>-vectors-<version>.index.json` を出力します。実際の ONNX model、
+tokenizer asset、vector binary は git に含めず、GitHub Release asset として別途
+アップロードします。
 
 ## 現状
 
-active development 中です。現時点で lexical search、tax-answer crawler、
-5 source type の packaged retrieval/search、category filter、e-Gov 法令取得、
-semantic asset inspection、release dry-run scaffold まで実装済みです。
+active development 中です。現時点で lexical search、semantic search、hybrid
+search、tax-answer crawler、5 source type の packaged retrieval/search、
+category filter、e-Gov 法令取得、vector precompute、release dry-run scaffold
+まで実装済みです。
 
 ## 開発
 
@@ -198,6 +241,7 @@ npm install --include=dev
 npm run typecheck
 npm test
 npm run build
+npm run precompute:embeddings -- 0.1.0-alpha.0
 npm run release:vectors
 npx changeset status
 npm run release:dry-run
@@ -208,6 +252,8 @@ npm start
 
 - Architecture: [docs/architecture.md](docs/architecture.md)
 - Tool API examples: [docs/api.md](docs/api.md)
+- Data-source/vector operations: [docs/data-sources.md](docs/data-sources.md)
+- Roadmap: [docs/ROADMAP.md](docs/ROADMAP.md)
 - Testing notes: [docs/TESTING.md](docs/TESTING.md)
 
 ## ライセンス

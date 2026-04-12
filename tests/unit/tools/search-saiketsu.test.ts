@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 
 import type { LexicalIndex } from "../../../src/search/lexical-index.js";
+import type { SemanticSearchEngine } from "../../../src/search/semantic-engine.js";
 import { buildSearchSaiketsuResult } from "../../../src/tools/search-saiketsu.js";
 
 const lexicalIndex: LexicalIndex = {
@@ -26,10 +27,25 @@ const lexicalIndex: LexicalIndex = {
   },
 };
 
+const semanticEngine: SemanticSearchEngine = {
+  backend: "none",
+  ready: false,
+  reason: "backend_disabled",
+  runtime_available: false,
+  vectors_loaded: false,
+  chunk_count: 0,
+  total_bytes: 0,
+  loaded_sources: [],
+  async search() {
+    return [];
+  },
+};
+
 describe("buildSearchSaiketsuResult", () => {
-  it("forces saiketsu filtering and returns enriched results", () => {
-    const result = buildSearchSaiketsuResult({
+  it("forces saiketsu filtering and returns enriched results", async () => {
+    const result = await buildSearchSaiketsuResult({
       lexicalIndex,
+      semanticEngine,
       documents: [
         {
           id: "sai-001",
@@ -59,6 +75,7 @@ describe("buildSearchSaiketsuResult", () => {
         query: "立退料",
         category: "shotoku",
         limit: 5,
+        search_mode: "lexical",
       },
     });
 

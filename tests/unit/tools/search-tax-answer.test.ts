@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest";
 
 import { buildSearchTaxAnswerResult } from "../../../src/tools/search-tax-answer.js";
 import type { LexicalIndex } from "../../../src/search/lexical-index.js";
+import type { SemanticSearchEngine } from "../../../src/search/semantic-engine.js";
 
 const lexicalIndex: LexicalIndex = {
   size: 2,
@@ -26,14 +27,30 @@ const lexicalIndex: LexicalIndex = {
   },
 };
 
+const semanticEngine: SemanticSearchEngine = {
+  backend: "none",
+  ready: false,
+  reason: "backend_disabled",
+  runtime_available: false,
+  vectors_loaded: false,
+  chunk_count: 0,
+  total_bytes: 0,
+  loaded_sources: [],
+  async search() {
+    return [];
+  },
+};
+
 describe("buildSearchTaxAnswerResult", () => {
-  it("forces tax_answer source filtering and returns total_count", () => {
-    const result = buildSearchTaxAnswerResult({
+  it("forces tax_answer source filtering and returns total_count", async () => {
+    const result = await buildSearchTaxAnswerResult({
       lexicalIndex,
+      semanticEngine,
       input: {
         query: "基礎控除",
         category: "shotoku",
         limit: 5,
+        search_mode: "lexical",
       },
     });
 

@@ -1,13 +1,16 @@
 import { z } from "zod";
 
 import type { LexicalIndex } from "../search/lexical-index.js";
+import type { SemanticSearchEngine } from "../search/semantic-engine.js";
 import type { LoadedDocument } from "../types/index.js";
 import { findSearchDocumentOrThrow, getStringMetadata } from "./document-utils.js";
+import { runSourceSearch, searchModeSchema } from "./search-common.js";
 
 export const searchTsutatsuInputSchema = z.object({
   query: z.string().trim().min(1),
   category: z.string().trim().min(1).optional(),
   limit: z.number().int().min(1).max(50).default(20),
+  search_mode: searchModeSchema,
 });
 
 export const searchTsutatsuOutputSchema = z.object({
@@ -33,20 +36,22 @@ export const searchTsutatsuOutputSchema = z.object({
 export type SearchTsutatsuInput = z.infer<typeof searchTsutatsuInputSchema>;
 export type SearchTsutatsuOutput = z.infer<typeof searchTsutatsuOutputSchema>;
 
-export function buildSearchTsutatsuResult({
+export async function buildSearchTsutatsuResult({
   lexicalIndex,
+  semanticEngine,
   documents,
   input,
 }: {
   lexicalIndex: LexicalIndex;
+  semanticEngine: SemanticSearchEngine;
   documents: LoadedDocument[];
   input: SearchTsutatsuInput;
-}): SearchTsutatsuOutput {
-  const result = lexicalIndex.search({
-    query: input.query,
-    sourceTypes: ["tsutatsu"],
-    category: input.category,
-    limit: input.limit,
+}): Promise<SearchTsutatsuOutput> {
+  const result = await runSourceSearch({
+    lexicalIndex,
+    semanticEngine,
+    input,
+    sourceType: "tsutatsu",
   });
 
   return {

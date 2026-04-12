@@ -14,6 +14,11 @@ describe("loadEnv", () => {
       dataDir: "./data",
       vectorsCacheDir: `${homedir()}/.cache/open-zeimu-mcp/vectors`,
       onnxModelFileName: "bge-m3-int8.onnx.tar.gz",
+      tokenizerFileName: "tokenizer.json",
+      tokenizerConfigFileName: "tokenizer_config.json",
+      embeddingChunkSize: 512,
+      embeddingChunkOverlap: 64,
+      embeddingMaxTokens: 512,
     });
   });
 
@@ -32,6 +37,11 @@ describe("loadEnv", () => {
       dataDir: "/tmp/open-zeimu-mcp/data",
       vectorsCacheDir: `${homedir()}/custom-cache`,
       onnxModelFileName: "custom-bge.onnx.tar.gz",
+      tokenizerFileName: "tokenizer.json",
+      tokenizerConfigFileName: "tokenizer_config.json",
+      embeddingChunkSize: 512,
+      embeddingChunkOverlap: 64,
+      embeddingMaxTokens: 512,
     });
   });
 

@@ -4,6 +4,13 @@
 
 ### Added
 
+- local `bge-m3` query encoder backed by `onnxruntime-node` + `@huggingface/tokenizers`
+- `semantic-indexer` cosine retrieval over precomputed chunk vectors
+- hybrid retrieval via reciprocal rank fusion (RRF)
+- `search_mode=semantic|hybrid` support for packaged `search_*` tools
+- `scripts/precompute-embeddings.ts` and `npm run precompute:embeddings`
+- semantic stats in `health` / `stats`: loaded sources, chunk count, total bytes
+- `docs/data-sources.md` and `docs/ROADMAP.md`
 - `list_tax_answer_categories` MCP tool: 同梱済みタックスアンサーのカテゴリ一覧を返す
 - `list_written_answer_categories` MCP tool: 同梱済み文書回答事例のカテゴリ一覧を返す
 - `get_tax_answer` MCP tool: 同梱済みタックスアンサー本文を ID で取得
@@ -36,6 +43,7 @@
 
 ### Changed
 
+- README / API docs / architecture now document semantic search, hybrid search, tokenizer assets, and precompute workflow
 - lexical search internals now retain match offsets for source-specific post-processing
 - lexical search now uses source-aware internal keys so duplicate document IDs across source types do not collide
 - lexical search now supports optional category filters inside packaged `search_*` tools

@@ -17,6 +17,11 @@ describe("createServer", () => {
         dataDir: fixturesDir,
         vectorsCacheDir: `${fixturesDir}/vectors`,
         onnxModelFileName: "bge-m3-int8.onnx.tar.gz",
+        tokenizerFileName: "tokenizer.json",
+        tokenizerConfigFileName: "tokenizer_config.json",
+        embeddingChunkSize: 512,
+        embeddingChunkOverlap: 64,
+        embeddingMaxTokens: 512,
       },
       version: "0.0.0",
     });
@@ -93,7 +98,11 @@ describe("createServer", () => {
       },
       semantic: {
         backend: "none",
+        semantic_ready: false,
         vectors_loaded: false,
+        loaded_sources: [],
+        total_chunks: 0,
+        total_bytes: 0,
       },
     });
 

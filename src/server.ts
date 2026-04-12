@@ -6,6 +6,8 @@ import type { Env } from "./config/env.js";
 import { loadMarkdownDocuments } from "./data/md-loader.js";
 import { createLogger } from "./lib/logger.js";
 import { buildLexicalIndex } from "./search/lexical-index.js";
+import { createSemanticSearchEngine, type SemanticSearchEngine } from "./search/semantic-engine.js";
+import type { QueryEmbeddingRuntime } from "./embeddings/bge-m3-runtime.js";
 import { buildHealthResult, healthInputSchema, healthOutputSchema } from "./tools/health.js";
 import {
   buildGetSaiketsuResult,
@@ -108,24 +110,44 @@ export type OpenZeimuMcpServer = {
 export function createServer({
   env,
   version = DEFAULT_SERVER_VERSION,
+  semantic,
 }: {
   env: Env;
   version?: string;
+  semantic?: {
+    createQueryRuntime?: (input: {
+      env: Env;
+      version: string;
+    }) => Promise<QueryEmbeddingRuntime>;
+  };
 }): Promise<OpenZeimuMcpServer> {
-  return createServerInternal({ env, version });
+  return createServerInternal({ env, version, semantic });
 }
 
 async function createServerInternal({
   env,
   version,
+  semantic,
 }: {
   env: Env;
   version: string;
+  semantic?: {
+    createQueryRuntime?: (input: {
+      env: Env;
+      version: string;
+    }) => Promise<QueryEmbeddingRuntime>;
+  };
 }): Promise<OpenZeimuMcpServer> {
   const logger = createLogger(env);
   const startedAt = Date.now();
   const documents = await loadMarkdownDocuments({ dataDir: env.dataDir });
   const lexicalIndex = await buildLexicalIndex({ documents });
+  const semanticEngine = await createSemanticSearchEngine({
+    env,
+    version,
+    documents,
+    createQueryRuntime: semantic?.createQueryRuntime,
+  });
   const egovRepository = new EgovRepository();
   const server = new McpServer(
     {
@@ -489,8 +511,9 @@ async function createServerInternal({
       },
     },
     async (input) => {
-      const structuredContent = buildSearchTaxAnswerResult({
+      const structuredContent = await buildSearchTaxAnswerResult({
         lexicalIndex,
+        semanticEngine,
         input: searchTaxAnswerInputSchema.parse(input),
       });
 
@@ -516,8 +539,9 @@ async function createServerInternal({
       },
     },
     async (input) => {
-      const structuredContent = buildSearchWrittenAnswerResult({
+      const structuredContent = await buildSearchWrittenAnswerResult({
         lexicalIndex,
+        semanticEngine,
         documents,
         input: searchWrittenAnswerInputSchema.parse(input),
       });
@@ -544,8 +568,9 @@ async function createServerInternal({
       },
     },
     async (input) => {
-      const structuredContent = buildSearchTsutatsuResult({
+      const structuredContent = await buildSearchTsutatsuResult({
         lexicalIndex,
+        semanticEngine,
         documents,
         input: searchTsutatsuInputSchema.parse(input),
       });
@@ -572,8 +597,9 @@ async function createServerInternal({
       },
     },
     async (input) => {
-      const structuredContent = buildSearchQaCaseResult({
+      const structuredContent = await buildSearchQaCaseResult({
         lexicalIndex,
+        semanticEngine,
         documents,
         input: searchQaCaseInputSchema.parse(input),
       });
@@ -600,8 +626,9 @@ async function createServerInternal({
       },
     },
     async (input) => {
-      const structuredContent = buildSearchSaiketsuResult({
+      const structuredContent = await buildSearchSaiketsuResult({
         lexicalIndex,
+        semanticEngine,
         documents,
         input: searchSaiketsuInputSchema.parse(input),
       });
@@ -673,7 +700,14 @@ async function createServerInternal({
     server,
     async start(transport: Transport = new StdioServerTransport()) {
       await server.connect(transport);
-      logger.info({ toolCount: 20, lexicalIndexSize: lexicalIndex.size }, "MCP server started");
+      logger.info(
+        {
+          toolCount: 20,
+          lexicalIndexSize: lexicalIndex.size,
+          semanticReady: semanticEngine.ready,
+        },
+        "MCP server started",
+      );
     },
     close() {
       return server.close();

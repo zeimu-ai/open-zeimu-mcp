@@ -33,7 +33,7 @@ Output example:
 Notes:
 
 - `checks.vectors` becomes `true` only when the local semantic asset set is ready.
-- `vector_assets` reports the expected model/vector filenames and readiness state.
+- `vector_assets` reports model/tokenizer filenames, loaded source types, total chunks, total bytes, and per-source vector file state.
 
 ## `stats`
 
@@ -61,14 +61,19 @@ Output example:
   },
   "semantic": {
     "backend": "local",
-    "vectors_loaded": true
+    "semantic_ready": true,
+    "vectors_loaded": true,
+    "loaded_sources": ["tax_answer", "written_answer"],
+    "total_chunks": 144,
+    "total_bytes": 589824
   }
 }
 ```
 
 Notes:
 
-- `semantic.vectors_loaded` is `true` only for the local backend with both release assets present.
+- `semantic.semantic_ready` is `true` only for the local backend with model + tokenizer + at least one precomputed vector source.
+- `semantic.vectors_loaded` indicates whether any vector chunks were loaded.
 - `supabase` is currently exposed as a stub backend.
 
 ## `lexical_search`
@@ -99,6 +104,7 @@ The following tool families share the same conventions:
   - `query`: required string
   - `category`: optional string
   - `limit`: optional integer, max `50`
+  - `search_mode`: optional string, `lexical` (default), `semantic`, or `hybrid`
 
 ### Tax Answer
 
@@ -114,10 +120,17 @@ Example:
   "arguments": {
     "query": "基礎控除",
     "category": "shotoku",
-    "limit": 5
+    "limit": 5,
+    "search_mode": "hybrid"
   }
 }
 ```
+
+Notes:
+
+- `semantic` uses only vector hits.
+- `hybrid` fuses lexical and semantic rankings with reciprocal rank fusion (RRF, `k=60`).
+- If semantic assets are unavailable for the requested source, `search_*` falls back to lexical results.
 
 ### Written Answer
 

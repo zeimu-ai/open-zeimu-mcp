@@ -22,6 +22,14 @@ export const healthOutputSchema = z.object({
     root_dir: z.string(),
     version_dir: z.string(),
     runtime_package: z.string(),
+    tokenizer_asset: z.object({
+      file_name: z.string(),
+      exists: z.boolean(),
+    }),
+    tokenizer_config_asset: z.object({
+      file_name: z.string(),
+      exists: z.boolean(),
+    }),
     model_asset: z.object({
       file_name: z.string(),
       exists: z.boolean(),
@@ -33,6 +41,22 @@ export const healthOutputSchema = z.object({
     ready: z.boolean(),
     missing: z.array(z.string()),
     reason: z.string(),
+    runtime_available: z.boolean(),
+    latest_version: z.string().nullable(),
+    total_chunks: z.number().int().nonnegative(),
+    total_bytes: z.number().int().nonnegative(),
+    loaded_sources: z.array(z.enum(["law", "tax_answer", "tsutatsu", "qa_case", "written_answer", "saiketsu"])),
+    vector_indexes: z.array(
+      z.object({
+        source_type: z.enum(["law", "tax_answer", "tsutatsu", "qa_case", "written_answer", "saiketsu"]),
+        file_name: z.string(),
+        index_file_name: z.string(),
+        exists: z.boolean(),
+        index_exists: z.boolean(),
+        chunk_count: z.number().int().nonnegative(),
+        bytes: z.number().int().nonnegative(),
+      }),
+    ),
   }),
 });
 

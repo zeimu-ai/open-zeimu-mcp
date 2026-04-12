@@ -27,7 +27,11 @@ export const statsOutputSchema = z.object({
   }),
   semantic: z.object({
     backend: z.enum(["none", "local", "supabase"]),
+    semantic_ready: z.boolean(),
     vectors_loaded: z.boolean(),
+    loaded_sources: z.array(z.enum(["law", "tax_answer", "tsutatsu", "qa_case", "written_answer", "saiketsu"])),
+    total_chunks: z.number().int().nonnegative(),
+    total_bytes: z.number().int().nonnegative(),
   }),
 });
 
@@ -61,7 +65,11 @@ export async function buildStatsResult({
     },
     semantic: {
       backend: env.embeddingBackend,
-      vectors_loaded: env.embeddingBackend === "local" ? vectorAssets.ready : false,
+      semantic_ready: env.embeddingBackend === "local" ? vectorAssets.ready : false,
+      vectors_loaded: env.embeddingBackend === "local" ? vectorAssets.total_chunks > 0 : false,
+      loaded_sources: vectorAssets.loaded_sources,
+      total_chunks: vectorAssets.total_chunks,
+      total_bytes: vectorAssets.total_bytes,
     },
   };
 }

@@ -26,17 +26,31 @@ describe("semantic-assets", () => {
       root_dir: env.vectorsCacheDir,
       version_dir: `${env.vectorsCacheDir}/0.1.0-alpha.0`,
       runtime_package: "onnxruntime-node",
+      tokenizer_asset: {
+        file_name: "tokenizer.json",
+        exists: false,
+      },
+      tokenizer_config_asset: {
+        file_name: "tokenizer_config.json",
+        exists: false,
+      },
       model_asset: {
         file_name: "bge-m3-int8.onnx.tar.gz",
         exists: false,
       },
       vector_asset: {
-        file_name: "tax-answer-vectors-0.1.0-alpha.0.bin",
+        file_name: "tax_answer-vectors-0.1.0-alpha.0.bin",
         exists: false,
       },
       ready: false,
       missing: [],
       reason: "EMBEDDING_BACKEND=none",
+      runtime_available: expect.any(Boolean),
+      latest_version: "0.1.0-alpha.0",
+      total_chunks: 0,
+      total_bytes: 0,
+      loaded_sources: [],
+      vector_indexes: expect.any(Array),
     });
   });
 
@@ -51,7 +65,12 @@ describe("semantic-assets", () => {
 
     const assets = await inspectVectorAssets({ env, version: "0.1.0-alpha.0" });
     expect(assets.status).toBe("missing_assets");
-    expect(assets.missing).toEqual(["bge-m3-int8.onnx.tar.gz", "tax-answer-vectors-0.1.0-alpha.0.bin"]);
+    expect(assets.missing).toEqual([
+      "bge-m3-int8.onnx.tar.gz",
+      "tokenizer.json",
+      "tokenizer_config.json",
+      "<no-precomputed-vectors>",
+    ]);
 
     const backend = await loadSemanticBackend({ env, version: "0.1.0-alpha.0" });
     expect(backend).toMatchObject({
@@ -86,13 +105,28 @@ describe("semantic-assets", () => {
 
     await mkdir(versionDir, { recursive: true });
     await writeFile(join(versionDir, "bge-m3-int8.onnx.tar.gz"), "placeholder", "utf8");
-    await writeFile(join(versionDir, "tax-answer-vectors-0.1.0-alpha.0.bin"), "placeholder", "utf8");
+    await writeFile(join(versionDir, "tokenizer.json"), "placeholder", "utf8");
+    await writeFile(join(versionDir, "tokenizer_config.json"), "{}", "utf8");
+    await writeFile(join(versionDir, "tax_answer-vectors-0.1.0-alpha.0.bin"), Buffer.from(new Float32Array([1, 0, 0]).buffer));
+    await writeFile(
+      join(versionDir, "tax_answer-vectors-0.1.0-alpha.0.index.json"),
+      JSON.stringify({
+        version: "0.1.0-alpha.0",
+        source_type: "tax_answer",
+        dimensions: 3,
+        chunk_count: 1,
+        chunks: [{ id: "1200", chunk_id: 0, chunk_offset: 0 }],
+      }),
+      "utf8",
+    );
 
     await expect(inspectVectorAssets({ env, version: "0.1.0-alpha.0" })).resolves.toMatchObject({
       backend: "local",
       status: "ready",
       ready: true,
       missing: [],
+      loaded_sources: ["tax_answer"],
+      total_chunks: 1,
     });
   });
 });
@@ -104,6 +138,11 @@ function makeEnv(overrides: Partial<Env> = {}): Env {
     dataDir: "./data",
     vectorsCacheDir: "~/.cache/open-zeimu-mcp/vectors",
     onnxModelFileName: "bge-m3-int8.onnx.tar.gz",
+    tokenizerFileName: "tokenizer.json",
+    tokenizerConfigFileName: "tokenizer_config.json",
+    embeddingChunkSize: 512,
+    embeddingChunkOverlap: 64,
+    embeddingMaxTokens: 512,
     ...overrides,
   };
 }
