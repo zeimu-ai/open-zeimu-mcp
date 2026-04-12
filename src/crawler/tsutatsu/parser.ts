@@ -57,7 +57,7 @@ export function parseTsutatsuPage({
   const pageSlug = extractPageSlug(parsedUrl.pathname);
   const id = `tsutatsu-${category}-${pageSlug}`;
   const bodyArea = extractBodyArea(html);
-  const title = extractTagText(bodyArea, "h1");
+  const title = extractPrimaryTitle(bodyArea, html);
 
   if (!title) {
     throw new Error(`Failed to parse title from ${url}`);
@@ -222,6 +222,34 @@ function extractBodyArea(html: string) {
 function extractTagText(html: string, tagName: string) {
   const match = html.match(new RegExp(`<${tagName}[^>]*>([\\s\\S]*?)</${tagName}>`, "iu"));
   return match?.[1] ? normalizeText(stripAllTags(match[1])) : null;
+}
+
+function extractPrimaryTitle(bodyArea: string, html: string) {
+  const h1Title = extractTagText(bodyArea, "h1");
+
+  if (h1Title) {
+    return h1Title;
+  }
+
+  const centeredStrongMatch = bodyArea.match(
+    /<p[^>]*(?:align="center"|text-align:\s*center)[^>]*>\s*<strong>([\s\S]*?)<\/strong>\s*<\/p>/iu,
+  );
+  const centeredStrongTitle = centeredStrongMatch?.[1]
+    ? normalizeText(stripAllTags(centeredStrongMatch[1]))
+    : null;
+
+  if (centeredStrongTitle) {
+    return centeredStrongTitle;
+  }
+
+  const strongMatch = bodyArea.match(/<strong>([\s\S]*?)<\/strong>/iu);
+  const strongTitle = strongMatch?.[1] ? normalizeText(stripAllTags(strongMatch[1])) : null;
+
+  if (strongTitle) {
+    return strongTitle;
+  }
+
+  return extractTagText(html, "title");
 }
 
 function stripDecorations(html: string) {

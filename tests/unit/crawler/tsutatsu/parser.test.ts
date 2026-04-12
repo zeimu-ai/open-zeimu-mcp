@@ -48,4 +48,25 @@ describe("parseTsutatsuPage", () => {
     expect(result.meta.content_hash).toMatch(/^sha256:/u);
     expect(result.meta.license).toBe("public_data");
   });
+
+  it("falls back to a centered strong title when h1 is absent", () => {
+    const result = parseTsutatsuPage({
+      html: `<!DOCTYPE html>
+<html lang="ja">
+  <body>
+    <div id="bodyArea">
+      <p align="center"><strong>第4章　通則</strong></p>
+      <h2>（納税義務）</h2>
+      <p class="indent1"><strong>14－1　</strong>例示文です。</p>
+    </div>
+  </body>
+</html>`,
+      url: "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/14/14_04.htm",
+      crawledAt: "2026-04-12T01:00:00.000Z",
+    });
+
+    expect(result.document.title).toBe("第4章　通則");
+    expect(result.document.aliases).toContain("第4章　通則");
+    expect(result.markdown).toContain("# 第4章　通則");
+  });
 });
