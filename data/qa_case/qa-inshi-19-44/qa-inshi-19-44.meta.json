@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-44",
+  "title": "再発行した受取書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/44.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:36.050Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:30b745b29aa4cb330bf17a3ea90d5ec8617b6081b20e40153e7f42c0560fd1c0",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "再発行した受取書",
+    "19-44"
+  ],
+  "headings": [
+    "再発行した受取書",
+    "再発行した受取書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達第19条、別表第一 第17文書の1",
+  "document_number": "19-44",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1313-64508074b8a70\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:44 GMT"
+}

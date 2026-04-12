@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-16-05",
+  "title": "単身赴任手当等",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/16/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:57.560Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:42b45374ccdef3ad6d509f2985467c396b6aa42c0ae4ca9a89df6b8560cdef2a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "単身赴任手当等",
+    "16-05"
+  ],
+  "headings": [
+    "単身赴任手当等",
+    "単身赴任手当等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第12号、消費税法基本通達11-6-4",
+  "document_number": "16-05",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"16a4-6450806e52f50\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:38 GMT"
+}

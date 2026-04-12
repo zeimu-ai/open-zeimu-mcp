@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-04-26",
+  "title": "がけ地補正率を適用するがけ地等を有する宅地",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/04/26.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:19.880Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0bf55f9cc781b0cb0b13ef8cc8c1f260a97842de57dda81e9bc66307e520bb74",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "がけ地補正率を適用するがけ地等を有する宅地",
+    "04-26"
+  ],
+  "headings": [
+    "がけ地補正率を適用するがけ地等を有する宅地",
+    "がけ地補正率を適用するがけ地等を有する宅地",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達20-5",
+  "document_number": "04-26",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"12ca-6450806244880\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:25 GMT"
+}

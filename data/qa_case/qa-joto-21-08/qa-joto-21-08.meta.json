@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-21-08",
+  "title": "農地を寄附した場合の寄附年月日",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/21/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:50.075Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:029b4c0460564788c6902b97477874e6914c67a3bc5cda7f47214ca464e99d02",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "農地を寄附した場合の寄附年月日",
+    "21-08"
+  ],
+  "headings": [
+    "農地を寄附した場合の寄附年月日",
+    "農地を寄附した場合の寄附年月日",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第40条\n租税特別措置法施行令第25条の17第1項\n昭和55年4月23日直資2-181「租税特別措置法第40条第1項後段の規定による譲渡所得等の非課税の取扱いについて」5",
+  "document_number": "21-08",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1378-64508054c3be8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:11 GMT"
+}

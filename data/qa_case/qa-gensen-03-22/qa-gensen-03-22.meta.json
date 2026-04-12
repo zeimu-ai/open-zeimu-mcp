@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-03-22",
+  "title": "通勤手当と住宅手当を合算して支給する場合の取扱い",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/03/22.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:51.980Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e58f7dce5975ea37822a5221736d5d8ae048e7b18e4cf84a84ff9c51502fdfeb",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "通勤手当と住宅手当を合算して支給する場合の取扱い",
+    "03-22"
+  ],
+  "headings": [
+    "通勤手当と住宅手当を合算して支給する場合の取扱い",
+    "通勤手当と住宅手当を合算して支給する場合の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第9条第1項第5号、所得税法施行令第20条の2",
+  "document_number": "03-22",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"14fa-6450809279988\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:15 GMT"
+}

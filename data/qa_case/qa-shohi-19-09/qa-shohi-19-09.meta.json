@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-19-09",
+  "title": "販売目的で取得した土地を資材置場として利用している場合の造成費",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/19/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:00.462Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:61f884b9aa2de23fddf09cd9645e7b2e89efd6341cda6f774f9b651675d5d88f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "販売目的で取得した土地を資材置場として利用している場合の造成費",
+    "19-09"
+  ],
+  "headings": [
+    "販売目的で取得した土地を資材置場として利用している場合の造成費",
+    "販売目的で取得した土地を資材置場として利用している場合の造成費",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第2項、消費税法基本通達11-2-15、11-2-20",
+  "document_number": "19-09",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"164c-6450806c4bea0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:35 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-10-05",
+  "title": "認可外保育施設の利用料",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/10/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:55.594Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:170924bbe6afc2b25a59a97db0d52279e15cb5fbb14c287305055618f8c690ed",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "認可外保育施設の利用料",
+    "10-05"
+  ],
+  "headings": [
+    "認可外保育施設の利用料",
+    "認可外保育施設の利用料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法別表第二第7号ハ、消費税法施行令第14条の3第1号、\n平成17年厚生労働省告示第128号「消費税法施行令第14条の3第1号の規定に基づき内閣総理大臣が指定する保育所を経営する事業に類する事業として行われる資産の譲渡等」",
+  "document_number": "10-05",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"19d7-6450806feb678\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:39 GMT"
+}

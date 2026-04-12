@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-04-02",
+  "title": "庭内神しの敷地等",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/04/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:19.647Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1acf1dfbc6d6c351cef4b5244f4a457bbaab59f6944d624646004c2db3e140b8",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "庭内神しの敷地等",
+    "04-02"
+  ],
+  "headings": [
+    "庭内神しの敷地等",
+    "庭内神しの敷地等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "相続税法第12条第1項第2号\n相続税法基本通達12-1、12-2",
+  "document_number": "04-02",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"14a8-6450805362f60\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:09 GMT"
+}

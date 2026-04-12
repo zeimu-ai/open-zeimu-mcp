@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-17-05",
+  "title": "依頼票（控）",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/17/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:33.364Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:790619cde6719efca7e4ac94810ae28b3d55de4a74611dab303334f811d77f65",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "依頼票（控）",
+    "17-05"
+  ],
+  "headings": [
+    "依頼票（控）",
+    "依頼票（控）",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則5",
+  "document_number": "17-05",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1359-645080769c8a0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:46 GMT"
+}

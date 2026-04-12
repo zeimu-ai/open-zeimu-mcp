@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-09-01",
+  "title": "転貸を前提とした住宅の貸付け",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/09/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:55.130Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3b89d28aca17095760c913bd684f8f65e78b93244259949f353b33f8976a6a62",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "転貸を前提とした住宅の貸付け",
+    "09-01"
+  ],
+  "headings": [
+    "転貸を前提とした住宅の貸付け",
+    "転貸を前提とした住宅の貸付け",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法別表第二第13号、消費税法基本通達6-13-7、6-13-11",
+  "document_number": "09-01",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"131b-6450807048aa8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:40 GMT"
+}

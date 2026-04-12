@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-02-02",
+  "title": "宅地の評価単位－自用地",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/02/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:16.348Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7b94a5d9bf5a370feff96f978417d5aa0e8b882fe10e97a4e0334ecc8b3cc755",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "宅地の評価単位－自用地",
+    "02-02"
+  ],
+  "headings": [
+    "宅地の評価単位－自用地",
+    "宅地の評価単位－自用地",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達7-2",
+  "document_number": "02-02",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"1259-64508064cc7b0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:28 GMT"
+}

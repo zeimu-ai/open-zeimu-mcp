@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-05-14",
+  "title": "競落した資産の取得時期",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/05/14.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:39.367Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d73c285d0523a630bc8c81a0178e9cc5dd2f35d0776e697613f99bf10bf98405",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "競落した資産の取得時期",
+    "05-14"
+  ],
+  "headings": [
+    "競落した資産の取得時期",
+    "競落した資産の取得時期",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達33－9、36-12　民事執行法第74条",
+  "document_number": "05-14",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"139c-6450805ce6c08\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:19 GMT"
+}

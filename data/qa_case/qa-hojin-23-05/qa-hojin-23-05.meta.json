@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-23-05",
+  "title": "外国税額控除における国外所得金額の範囲",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/23/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:09.859Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:66f99bd7db62ac138b37ce95106a7d0c73fdef6ac58aa6e40bb99bc03b4aacfa",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "外国税額控除における国外所得金額の範囲",
+    "23-05"
+  ],
+  "headings": [
+    "外国税額控除における国外所得金額の範囲",
+    "外国税額控除における国外所得金額の範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第69条第1項、第4項\n法人税法施行令第141条の2、第145条の2第1項\n法人税基本通達16－3－40",
+  "document_number": "23-05",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1942-6450809e2c780\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:28 GMT"
+}

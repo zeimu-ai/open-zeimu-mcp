@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-05-08",
+  "title": "代物弁済により取得した土地の取得費",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/05/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:39.050Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c15d74673e99c03120edb37da9892582a26830ab603c0d0ba4180f78ff7d222f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "代物弁済により取得した土地の取得費",
+    "05-08"
+  ],
+  "headings": [
+    "代物弁済により取得した土地の取得費",
+    "代物弁済により取得した土地の取得費",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第38条",
+  "document_number": "05-08",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"11f9-6450805d1cf38\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:19 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-08-02",
+  "title": "土地売買契約書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/08/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:27.390Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8c5e389612379ff3ea00b328f97ebb08cbc39331bbf637cd591dc7d7bcc33199",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "土地売買契約書",
+    "08-02"
+  ],
+  "headings": [
+    "土地売買契約書",
+    "土地売買契約書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第91条",
+  "document_number": "08-02",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"23cd-6450807b08dd0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:51 GMT"
+}

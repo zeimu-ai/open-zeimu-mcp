@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-05-03",
+  "title": "貸ビル建設期間中に借主が支払う地代相当額",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/05/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:53.942Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f3505560d04983c73378e2f3c1b171bd2a4b69caddcce50ea5dd71e8aa141179",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "貸ビル建設期間中に借主が支払う地代相当額",
+    "05-03"
+  ],
+  "headings": [
+    "貸ビル建設期間中に借主が支払う地代相当額",
+    "貸ビル建設期間中に借主が支払う地代相当額",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法別表第二第一号、消費税法施行令第8条、消費税法基本通達6-1-5",
+  "document_number": "05-03",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"139b-645080712d6d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:40 GMT"
+}

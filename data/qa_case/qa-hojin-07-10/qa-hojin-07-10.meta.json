@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-07-10",
+  "title": "複数の土地と複数の土地とを交換した場合の圧縮記帳",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/07/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:01.744Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a8293f189e4494ae42c4a35486d080b3f3e7342d214d7657d1e4bbfa4c804dae",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "複数の土地と複数の土地とを交換した場合の圧縮記帳",
+    "07-10"
+  ],
+  "headings": [
+    "複数の土地と複数の土地とを交換した場合の圧縮記帳",
+    "複数の土地と複数の土地とを交換した場合の圧縮記帳",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第50条\n法人税法施行令第92条第1項、第92条の2第1項",
+  "document_number": "07-10",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"2480-645080a36b3e0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:33 GMT"
+}

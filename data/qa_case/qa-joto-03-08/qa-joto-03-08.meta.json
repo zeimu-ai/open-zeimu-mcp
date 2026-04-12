@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-03-08",
+  "title": "隣接する土地に共有建物を建築する場合の借地権利金",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/03/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:38.539Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:bf81bd1f8dbbd5bb503db92292fbd93103f4e966258752c4fe6d88e383571534",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "隣接する土地に共有建物を建築する場合の借地権利金",
+    "03-08"
+  ],
+  "headings": [
+    "隣接する土地に共有建物を建築する場合の借地権利金",
+    "隣接する土地に共有建物を建築する場合の借地権利金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第33条第1項\n所得税法施行令第79条第1項\n所得税基本通達33-15の2",
+  "document_number": "03-08",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"15bd-6450805d86aa0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:20 GMT"
+}

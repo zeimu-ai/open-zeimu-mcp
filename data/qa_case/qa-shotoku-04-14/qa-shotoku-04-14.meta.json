@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-14",
+  "title": "生計を一にする親族の有する資産に係る特別償却",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/14.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:09.457Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:dc86a572e1f8de4f5fc831bccc07e79cf082b31f30e413311360e5984bf900bc",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "生計を一にする親族の有する資産に係る特別償却",
+    "04-14"
+  ],
+  "headings": [
+    "生計を一にする親族の有する資産に係る特別償却",
+    "生計を一にする親族の有する資産に係る特別償却",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第37条、第49条、第56条、租税特別措置法第12条",
+  "document_number": "04-14",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"16f6-64508087cb770\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:04 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-82",
+  "title": "姉の子供の医療費を支払った場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/82.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:14.608Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d959d29eb6a558f53c5695a9dc224cde7d36308b0389e533f97a8a7868cebe2f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "姉の子供の医療費を支払った場合",
+    "05-82"
+  ],
+  "headings": [
+    "姉の子供の医療費を支払った場合",
+    "姉の子供の医療費を支払った場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第73条第1項、民法第725条",
+  "document_number": "05-82",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1240-64508083e79d8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:00 GMT"
+}

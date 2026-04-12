@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-72",
+  "title": "特定健康診査と特定保健指導が年をまたがって行われた場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/72.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:14.145Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e1f335d6ab2db6293cd655e2a31aa2a84bbce179d73dac3ebf3520388afb5044",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特定健康診査と特定保健指導が年をまたがって行われた場合",
+    "05-72"
+  ],
+  "headings": [
+    "特定健康診査と特定保健指導が年をまたがって行われた場合",
+    "特定健康診査と特定保健指導が年をまたがって行われた場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第73条第1項、第120条第4項、第5項、所得税法施行令第207条、所得税法施行規則第40条の3第1項第2号、所得税基本通達73-2、73-4",
+  "document_number": "05-72",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1acf-64508084407b8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:00 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-02-01",
+  "title": "契約書の意義",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/02/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:24.900Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d0a5a1de0f9ca44050a375efe1d46992ea6c8e174ce35584eab799b17b6bf0d8",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "契約書の意義",
+    "02-01"
+  ],
+  "headings": [
+    "契約書の意義",
+    "契約書の意義",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則5、印紙税法基本通達第12条",
+  "document_number": "02-01",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"15ac-6450807cf6c28\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:53 GMT"
+}

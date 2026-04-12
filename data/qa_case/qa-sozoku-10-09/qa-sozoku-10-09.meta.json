@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-10-09",
+  "title": "特定同族会社に貸し付けられていた建物が相続税の申告期限までに建て替えられた場合の小規模宅地等の特例",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/10/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:21.185Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:bf24b1fe32bc2b9fbfae58af2616cc7adf38a44ff0cbab4c831dd8f9a3640d40",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特定同族会社に貸し付けられていた建物が相続税の申告期限までに建て替えられた場合の小規模宅地等の特例",
+    "10-09"
+  ],
+  "headings": [
+    "特定同族会社に貸し付けられていた建物が相続税の申告期限までに建て替えられた場合の小規模宅地等の特例",
+    "特定同族会社に貸し付けられていた建物が相続税の申告期限までに建て替えられた場合の小規模宅地等の特例",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第69条の4第3項第3号\n租税特別措置法関係通達69の4-19",
+  "document_number": "10-09",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"14fb-645080526e938\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:08 GMT"
+}

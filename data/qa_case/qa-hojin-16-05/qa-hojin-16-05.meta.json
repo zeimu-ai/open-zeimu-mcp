@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-16-05",
+  "title": "保証人がいる場合の貸倒れ",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/16/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:07.067Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:bddce86d7ce6b327d6912a9027cf3a869b4ec344b39cb4f9d7a605a4727b65cf",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "保証人がいる場合の貸倒れ",
+    "16-05"
+  ],
+  "headings": [
+    "保証人がいる場合の貸倒れ",
+    "保証人がいる場合の貸倒れ",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "破産法第34条\n民事執行法第131条\n法人税基本通達9-6-2",
+  "document_number": "16-05",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"15e6-6450809ffd118\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:30 GMT"
+}

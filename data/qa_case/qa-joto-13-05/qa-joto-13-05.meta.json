@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-13-05",
+  "title": "土地を取得した者以外の者が優良住宅等を建築した場合(15号)",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/13/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:42.258Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:bacfbb540276ed3cee84b6e39c630012fef16b35082d37cf8cf09eafa623da0a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "土地を取得した者以外の者が優良住宅等を建築した場合(15号)",
+    "13-05"
+  ],
+  "headings": [
+    "土地を取得した者以外の者が優良住宅等を建築した場合(15号)",
+    "土地を取得した者以外の者が優良住宅等を建築した場合(15号)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第31条の2第2項第15号\n租税特別措置法関係通達31の2-19",
+  "document_number": "13-05",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1331-6450805aa0b88\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:17 GMT"
+}

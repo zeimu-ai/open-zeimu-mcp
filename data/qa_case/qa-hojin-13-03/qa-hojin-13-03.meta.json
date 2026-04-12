@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-13-03",
+  "title": "子会社等の範囲(2)",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/13/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:04.089Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8daf6253f48b4611b497044f93b72fdd1e4ea2ee6f2a3e85255edd5519cb55fc",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "子会社等の範囲(2)",
+    "13-03"
+  ],
+  "headings": [
+    "子会社等の範囲(2)",
+    "子会社等の範囲(2)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税基本通達9－4－1(注)\n法人税基本通達9－6－2",
+  "document_number": "13-03",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1318-645080a1f95e8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:32 GMT"
+}

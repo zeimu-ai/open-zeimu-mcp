@@ -1,0 +1,33 @@
+{
+  "id": "qa-shohi-19-07",
+  "title": "貸ビルを建設する土地の造成費",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/19/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:00.351Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7bd07fdbb52c7646f2ac415ba9dfadd00914e62ec700e92d5f61f836500efcd9",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "貸ビルを建設する土地の造成費",
+    "19-07"
+  ],
+  "headings": [
+    "貸ビルを建設する土地の造成費",
+    "貸ビルを建設する土地の造成費",
+    "【照会要旨】",
+    "○支出する費用",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第2項、消費税法基本通達11-2-20",
+  "document_number": "19-07",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"16d4-6450806c5fb08\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:35 GMT"
+}

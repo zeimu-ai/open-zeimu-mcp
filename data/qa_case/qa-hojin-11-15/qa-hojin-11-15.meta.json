@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-11-15",
+  "title": "役員に対する歩合給(定期同額給与)",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/11/15.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:03.381Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:df1f25c593b0d3a75dd05464d2a34c4b6c7328fdb9ae70031b22b13ac10ff242",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "役員に対する歩合給(定期同額給与)",
+    "11-15"
+  ],
+  "headings": [
+    "役員に対する歩合給(定期同額給与)",
+    "役員に対する歩合給(定期同額給与)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第34条第1項第1号、第2項、法人税法施行令第69条第1項第1号",
+  "document_number": "11-15",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"19c7-645080a262980\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:32 GMT"
+}

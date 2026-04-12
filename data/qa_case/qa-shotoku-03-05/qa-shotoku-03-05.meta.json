@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-03-05",
+  "title": "返還を受けた利息制限法の制限超過利息",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/03/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:08.646Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9148f8e769a8d30180f75d42857442b19c80319053f1547ddf8d86c01d96e88a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "返還を受けた利息制限法の制限超過利息",
+    "03-05"
+  ],
+  "headings": [
+    "返還を受けた利息制限法の制限超過利息",
+    "返還を受けた利息制限法の制限超過利息",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第36条、第37条",
+  "document_number": "03-05",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1704-64508088640d8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:05 GMT"
+}

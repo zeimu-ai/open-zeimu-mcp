@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-26-02",
+  "title": "リバースチャージ方式による申告を要する者",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/26/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:04.616Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:bcf46feb4410a5361416a9303197151202feef8ed3af44b426883b39ce474d6d",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "リバースチャージ方式による申告を要する者",
+    "26-02"
+  ],
+  "headings": [
+    "リバースチャージ方式による申告を要する者",
+    "リバースチャージ方式による申告を要する者",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第5条第1項、第30条第1項、平成27年改正法附則第42条、第44条第2項",
+  "document_number": "26-02",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"196f-64508068fef18\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:32 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-05-02",
+  "title": "同一の号の課税事項が2以上記載されている文書の作成者",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/05/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:26.105Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:64a7ecb4a4ab158644ecedc51a4153bf0d7cb8ab4f8ef075b1e43a2bc823438f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "同一の号の課税事項が2以上記載されている文書の作成者",
+    "05-02"
+  ],
+  "headings": [
+    "同一の号の課税事項が2以上記載されている文書の作成者",
+    "同一の号の課税事項が2以上記載されている文書の作成者",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法第3条第2項、印紙税法基本通達第45条",
+  "document_number": "05-02",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1388-6450807c15e80\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:52 GMT"
+}

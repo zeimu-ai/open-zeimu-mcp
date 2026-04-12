@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-51",
+  "title": "長期入院中の者の年末・年始の帰宅旅費",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/51.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:13.047Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1b004188bbaa3473e6fc1c0f92f7e9ca494a8270ba6bd95764d9e2133b42cccc",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "長期入院中の者の年末・年始の帰宅旅費",
+    "05-51"
+  ],
+  "headings": [
+    "長期入院中の者の年末・年始の帰宅旅費",
+    "長期入院中の者の年末・年始の帰宅旅費",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第207条、所得税基本通達73-3",
+  "document_number": "05-51",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"118c-64508085159e0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:01 GMT"
+}

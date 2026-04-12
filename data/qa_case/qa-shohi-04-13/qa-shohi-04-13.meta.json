@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-04-13",
+  "title": "株券の発行がない株式の譲渡に係る内外判定",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/04/13.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:53.693Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:81d45930fded26d8837396fcc907b42520afa1e4d3621e33c4b6a49d763eebc2",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "株券の発行がない株式の譲渡に係る内外判定",
+    "04-13"
+  ],
+  "headings": [
+    "株券の発行がない株式の譲渡に係る内外判定",
+    "株券の発行がない株式の譲渡に係る内外判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法施行令第6条第1項第9号、第9条第1項第1号",
+  "document_number": "04-13",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"152c-645080716af30\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:41 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-21-14",
+  "title": "値引きに補填される交付金",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/21/14.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:02.685Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:51d760687a9110f45e1a64e048198695676766eac610f574ad3b1cfc73604fa0",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "値引きに補填される交付金",
+    "21-14"
+  ],
+  "headings": [
+    "値引きに補填される交付金",
+    "値引きに補填される交付金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第60条第４項、消費税法施行令第75条第１項、消費税法基本通達16－２－１、16－２－２",
+  "document_number": "21-14",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"18d9-6450806a68070\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:33 GMT"
+}

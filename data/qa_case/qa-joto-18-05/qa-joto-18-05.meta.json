@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-18-05",
+  "title": "相続人が譲渡する被相続人の居住用財産",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/18/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:47.420Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:11e14c932613b34cc959bfaf2d773b7ae2707fad17c9daef3828c401662f1099",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "相続人が譲渡する被相続人の居住用財産",
+    "18-05"
+  ],
+  "headings": [
+    "相続人が譲渡する被相続人の居住用財産",
+    "相続人が譲渡する被相続人の居住用財産",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第35条第1項、第2項",
+  "document_number": "18-05",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"12b9-64508056a81e8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:13 GMT"
+}

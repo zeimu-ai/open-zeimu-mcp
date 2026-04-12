@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-15-06",
+  "title": "個人向け国債の評価",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/15/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:23.366Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:727dd7fb0f586cad3728b909fc4987dda9b2a8cd0e378e4101189f1dfaf283e7",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "個人向け国債の評価",
+    "15-06"
+  ],
+  "headings": [
+    "個人向け国債の評価",
+    "個人向け国債の評価",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達5、197-2、198、199\n個人向け国債の発行等に関する省令第6条、第7条",
+  "document_number": "15-06",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"13b3-6450805fa8ce8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:22 GMT"
+}

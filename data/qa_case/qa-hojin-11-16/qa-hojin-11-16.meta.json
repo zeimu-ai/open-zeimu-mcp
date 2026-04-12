@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-11-16",
+  "title": "定めどおりに支給されたかどうかの判定(事前確定届出給与)",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/11/16.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:03.494Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6deae170324baba5bcbb221b92f66ac38579607b51c6e5d4bdf89ba3d66c2d76",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "定めどおりに支給されたかどうかの判定(事前確定届出給与)",
+    "11-16"
+  ],
+  "headings": [
+    "定めどおりに支給されたかどうかの判定(事前確定届出給与)",
+    "定めどおりに支給されたかどうかの判定(事前確定届出給与)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第34条第1項第2号\n法人税法施行令第69条第3項～第8項\n法人税法施行規則第22条の3第2項、第3項　法人税基本通達9－2－14",
+  "document_number": "11-16",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1e9c-645080a25a898\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:32 GMT"
+}

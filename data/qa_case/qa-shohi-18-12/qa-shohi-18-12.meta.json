@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-18-12",
+  "title": "スキャナで読み取った電磁的記録の保存による仕入税額控除の適用について",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/18/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:59.994Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3a132b4349d2b86b39c4162f27565b20f23fad8a1b889150e89ca8811359c994",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "スキャナで読み取った電磁的記録の保存による仕入税額控除の適用について",
+    "18-12"
+  ],
+  "headings": [
+    "スキャナで読み取った電磁的記録の保存による仕入税額控除の適用について",
+    "スキャナで読み取った電磁的記録の保存による仕入税額控除の適用について",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第7項、電子帳簿保存法第2条第1項第3号、第4条第3項",
+  "document_number": "18-12",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"16ed-6450806ca7390\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:36 GMT"
+}

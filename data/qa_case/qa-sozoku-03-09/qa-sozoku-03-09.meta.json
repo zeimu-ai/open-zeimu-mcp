@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-03-09",
+  "title": "死亡退職金の課税時期",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/03/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:19.430Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1b73abaaecda76a9349f8ef713673387ea0b754a64af9235dd228703a9d7abac",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "死亡退職金の課税時期",
+    "03-09"
+  ],
+  "headings": [
+    "死亡退職金の課税時期",
+    "死亡退職金の課税時期",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "相続税法第3条第1項第2号\n相続税法基本通達3-30",
+  "document_number": "03-09",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"12a5-64508053890c0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:09 GMT"
+}

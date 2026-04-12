@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-17-06",
+  "title": "共有地の分割等",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/17/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:58.859Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:69d8096e482b0d929c356a88099063e7f2ffc50e564646f7bb39c52c3bc7430f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "共有地の分割等",
+    "17-06"
+  ],
+  "headings": [
+    "共有地の分割等",
+    "共有地の分割等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号",
+  "document_number": "17-06",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1a93-6450806d6db58\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:37 GMT"
+}

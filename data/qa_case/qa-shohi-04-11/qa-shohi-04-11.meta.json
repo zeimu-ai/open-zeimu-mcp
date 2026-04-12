@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-04-11",
+  "title": "看板広告に係る内外判定",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/04/11.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:53.580Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c2d51685574624d3b21ab16fae1611a9b25906c3ef658caba18c844ccacbb079",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "看板広告に係る内外判定",
+    "04-11"
+  ],
+  "headings": [
+    "看板広告に係る内外判定",
+    "看板広告に係る内外判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法施行令第6条第2項第6号、消費税法基本通達5-7-15",
+  "document_number": "04-11",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1355-645080717ff20\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:41 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-06-55",
+  "title": "米国の大学教授に支払う講演料",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/06/55.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:57.619Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:548cc38a4e5cb53d0b7fdd0f9001d49094692833f82e122a954fe158ca856b54",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "米国の大学教授に支払う講演料",
+    "06-55"
+  ],
+  "headings": [
+    "米国の大学教授に支払う講演料",
+    "米国の大学教授に支払う講演料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第161条第1項第12号イ、日米租税条約第3条第1項(e)、(g)、第7条",
+  "document_number": "06-55",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"155b-6450808ed5778\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:12 GMT"
+}

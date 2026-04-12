@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-12-22",
+  "title": "広告契約書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/12/22.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:30.720Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:baf5781a0a53bd09fe1e8127bdb7a101f2caee9920f37b0f68ec0c65f5a244ac",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "広告契約書",
+    "12-22"
+  ],
+  "headings": [
+    "広告契約書",
+    "広告契約書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則3のイ、印紙税法施行令第26条、印紙税法基本通達別表第一 第2号文書の12",
+  "document_number": "12-22",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1427-6450807887430\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:48 GMT"
+}

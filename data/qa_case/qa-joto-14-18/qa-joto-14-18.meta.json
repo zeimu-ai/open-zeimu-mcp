@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-14-18",
+  "title": "交換により取得した資産を代替資産とすることの可否",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/14/18.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:44.026Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3599b3e1f029a89537402413d0e5ef2b44fadc67d7646762d2626f70ff8ca11a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "交換により取得した資産を代替資産とすることの可否",
+    "14-18"
+  ],
+  "headings": [
+    "交換により取得した資産を代替資産とすることの可否",
+    "交換により取得した資産を代替資産とすることの可否",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第33条第1項",
+  "document_number": "14-18",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1288-6450805941a58\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:15 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-01",
+  "title": "米国自営業者税は外国税額控除の対象となるか",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:14.868Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:31408ed177e6f786ef3f96734d1846e62290498b49ddcbac498d460ef2d918cd",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "米国自営業者税は外国税額控除の対象となるか",
+    "06-01"
+  ],
+  "headings": [
+    "米国自営業者税は外国税額控除の対象となるか",
+    "米国自営業者税は外国税額控除の対象となるか",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第95条、所得税法施行令第221条",
+  "document_number": "06-01",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"146e-645080839e9e0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:00 GMT"
+}

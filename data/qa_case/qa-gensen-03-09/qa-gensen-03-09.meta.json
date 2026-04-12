@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-03-09",
+  "title": "2以上の所得者がいる場合の扶養親族等の所属",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/03/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:51.251Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e242c94f62e1b29e4e97963f2de0abef77afe7953920798e5b5f5019814a03ed",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "2以上の所得者がいる場合の扶養親族等の所属",
+    "03-09"
+  ],
+  "headings": [
+    "2以上の所得者がいる場合の扶養親族等の所属",
+    "2以上の所得者がいる場合の扶養親族等の所属",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第218条、第219条",
+  "document_number": "03-09",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1443-64508093001e0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:16 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-02-02",
+  "title": "金融機関の店舗の分割があった場合の異動申告書",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/02/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:50.085Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d70d62cda27d4ace9aa0b9b817f73443979d5e4d2a23ae74d05104ae04fc11ac",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "金融機関の店舗の分割があった場合の異動申告書",
+    "02-02"
+  ],
+  "headings": [
+    "金融機関の店舗の分割があった場合の異動申告書",
+    "金融機関の店舗の分割があった場合の異動申告書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第43条、第44条第1項",
+  "document_number": "02-02",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"124a-64508093b5068\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:17 GMT"
+}

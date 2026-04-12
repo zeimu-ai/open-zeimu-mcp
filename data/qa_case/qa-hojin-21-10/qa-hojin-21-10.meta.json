@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-21-10",
+  "title": "医療保健業の範囲（休日・夜間診療）",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/21/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:08.984Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6a7ad5dbedeb9ae4385d4c2fd7e3103e4856362f5d3e017ab7260b373b76b847",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "医療保健業の範囲（休日・夜間診療）",
+    "21-10"
+  ],
+  "headings": [
+    "医療保健業の範囲（休日・夜間診療）",
+    "医療保健業の範囲（休日・夜間診療）",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第2条第6号、第9号の2、第13号、第4条、第6条\n法人税法施行令第5条第1項第17号、第29号\n法人税法施行規則第5条第4号\n法人税基本通達15－1－63",
+  "document_number": "21-10",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1924-6450809ec31a8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:28 GMT"
+}

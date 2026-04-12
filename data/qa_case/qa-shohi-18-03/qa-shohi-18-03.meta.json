@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-18-03",
+  "title": "一定期間分の取引のまとめ記載",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/18/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:59.529Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5edd19e379c4bd3398b9f7b208fb2af44291f2500fd0105e37f4b1afa6e0f1ad",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "一定期間分の取引のまとめ記載",
+    "18-03"
+  ],
+  "headings": [
+    "一定期間分の取引のまとめ記載",
+    "一定期間分の取引のまとめ記載",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第7項、第8項",
+  "document_number": "18-03",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"154c-6450806cf49d8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:36 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-03-41",
+  "title": "過去に遡及して残業手当を支払った場合",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/03/41.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:53.080Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:beb03bdbe11fc090dc19270fdcd36fa0ae504b51938218076fd8ad75f0102c10",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "過去に遡及して残業手当を支払った場合",
+    "03-41"
+  ],
+  "headings": [
+    "過去に遡及して残業手当を支払った場合",
+    "過去に遡及して残業手当を支払った場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達36-9",
+  "document_number": "03-41",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"12e4-64508091cc030\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:15 GMT"
+}

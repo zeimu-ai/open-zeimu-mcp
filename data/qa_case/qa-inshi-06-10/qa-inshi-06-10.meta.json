@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-06-10",
+  "title": "納付印を押すことができる文書の範囲",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/06/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:26.604Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:dca30e365b3c5be7bfb09e5749f9707e8cba8058c68a21dc144e8ebed3fef881",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "納付印を押すことができる文書の範囲",
+    "06-10"
+  ],
+  "headings": [
+    "納付印を押すことができる文書の範囲",
+    "納付印を押すことができる文書の範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法第10条第2項",
+  "document_number": "06-10",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1457-6450807bada88\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:52 GMT"
+}

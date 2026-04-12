@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-33-56",
+  "title": "合併法人の売上先が被合併法人のみであった場合の事業関連性について",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/33/56.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:15.156Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d1ea6d75187b8baaf5d5a49a266a3fc33d533ed363f55500839d2a9c56b3f28b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "合併法人の売上先が被合併法人のみであった場合の事業関連性について",
+    "33-56"
+  ],
+  "headings": [
+    "合併法人の売上先が被合併法人のみであった場合の事業関連性について",
+    "合併法人の売上先が被合併法人のみであった場合の事業関連性について",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第２条第12号の８ハ\n法人税法施行令第４条の３第４項\n法人税法施行規則第３条",
+  "document_number": "33-56",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"20d4-6450809a5ddc0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:24 GMT"
+}

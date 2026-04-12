@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-20-16",
+  "title": "製造小売と喫茶店を兼業している場合の取扱い",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/20/16.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:02.025Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:64dd504286e0c1be75209b4717eeead536d6dafdbf4ee6aa72dfc4ca09696f8a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "製造小売と喫茶店を兼業している場合の取扱い",
+    "20-16"
+  ],
+  "headings": [
+    "製造小売と喫茶店を兼業している場合の取扱い",
+    "製造小売と喫茶店を兼業している場合の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第37条、消費税法施行令第57条第5項",
+  "document_number": "20-16",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"11ab-6450806af1b90\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:34 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-36",
+  "title": "妊娠中絶の費用",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/36.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:12.279Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:da12e7e871cfd16adce00ef05cf6e51151b2d1746c465d1abde84228f89d9ddd",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "妊娠中絶の費用",
+    "05-36"
+  ],
+  "headings": [
+    "妊娠中絶の費用",
+    "妊娠中絶の費用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第207条",
+  "document_number": "05-36",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"107d-64508085a9140\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:02 GMT"
+}

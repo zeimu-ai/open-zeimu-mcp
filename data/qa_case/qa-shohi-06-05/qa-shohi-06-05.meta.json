@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-06-05",
+  "title": "貸株取扱手数料及び品貸料",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/06/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:54.413Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5bdd415a0d3c20de707de6685d6484611f577892d3c32748bf344d4732a3f44b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "貸株取扱手数料及び品貸料",
+    "06-05"
+  ],
+  "headings": [
+    "貸株取扱手数料及び品貸料",
+    "貸株取扱手数料及び品貸料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法別表第二第3号、消費税法施行令第10条第3項第11号",
+  "document_number": "06-05",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1186-64508070d7fa0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:40 GMT"
+}

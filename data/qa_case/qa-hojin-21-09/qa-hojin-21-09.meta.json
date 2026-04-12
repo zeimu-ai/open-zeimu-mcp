@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-21-09",
+  "title": "非課税となるオープン病院等",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/21/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:08.933Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9ec414fabddba492fb8df27e9c6f29854f1558b994307ea3bbf50f1da39f30d9",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "非課税となるオープン病院等",
+    "21-09"
+  ],
+  "headings": [
+    "非課税となるオープン病院等",
+    "非課税となるオープン病院等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第2条第6号、第9号の2、第13号、第4条、第6条\n法人税法施行令第5条第1項第29号ヲ\n法人税法施行規則第5条\n法人税基本通達15－1－60",
+  "document_number": "21-09",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"14bf-6450809eccde8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:28 GMT"
+}

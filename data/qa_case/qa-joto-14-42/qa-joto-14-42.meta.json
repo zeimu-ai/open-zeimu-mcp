@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-14-42",
+  "title": "権利変換期日前での申告の可否及び被相続人が先行取得した資産を代替資産とすることの可否",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/14/42.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:45.265Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1499dee2de03c43eb6869be877c828f4728001fd7da4d690eee2b24e0fbe7e72",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "権利変換期日前での申告の可否及び被相続人が先行取得した資産を代替資産とすることの可否",
+    "14-42"
+  ],
+  "headings": [
+    "権利変換期日前での申告の可否及び被相続人が先行取得した資産を代替資産とすることの可否",
+    "権利変換期日前での申告の可否及び被相続人が先行取得した資産を代替資産とすることの可否",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第33条\n租税特別措置法第33条第１項、第２項\n租税特別措置法関係通達33-7(4)",
+  "document_number": "14-42",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"15d5-645080584cc60\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:14 GMT"
+}

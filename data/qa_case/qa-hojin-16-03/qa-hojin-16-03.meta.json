@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-16-03",
+  "title": "第三者に対して債務免除を行った場合の貸倒れ",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/16/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:06.988Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3db1ec65ee6345e4d447bea13eea2466fb9b04e8ca66143de31102a9d6278663",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "第三者に対して債務免除を行った場合の貸倒れ",
+    "16-03"
+  ],
+  "headings": [
+    "第三者に対して債務免除を行った場合の貸倒れ",
+    "第三者に対して債務免除を行った場合の貸倒れ",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税基本通達9-6-1(4)",
+  "document_number": "16-03",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1aae-645080a0101c8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:30 GMT"
+}

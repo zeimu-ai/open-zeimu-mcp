@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-23-03",
+  "title": "中間申告における法第42条、第43条の併用",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/23/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:03.767Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5a5f4752d2d96bbdcaf8b754feac9b9e4cf10b385dd3bfd2eebd25d023c66ed0",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "中間申告における法第42条、第43条の併用",
+    "23-03"
+  ],
+  "headings": [
+    "中間申告における法第42条、第43条の併用",
+    "中間申告における法第42条、第43条の併用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第42条、第43条、消費税法基本通達15-1-2",
+  "document_number": "23-03",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"13ff-6450806999ba8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:33 GMT"
+}

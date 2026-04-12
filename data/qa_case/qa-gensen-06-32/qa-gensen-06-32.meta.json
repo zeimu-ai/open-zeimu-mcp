@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-06-32",
+  "title": "国外で留守家族に支払われる給与",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/06/32.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:56.702Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c39deb703e808941a1ab78af6ba2a010c128c575c28f325faa7d48d538e05c63",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "国外で留守家族に支払われる給与",
+    "06-32"
+  ],
+  "headings": [
+    "国外で留守家族に支払われる給与",
+    "国外で留守家族に支払われる給与",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第161条第1項第12号イ、第212条第2項、日仏租税条約第15条第2項",
+  "document_number": "06-32",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1439-6450808f71b78\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:12 GMT"
+}

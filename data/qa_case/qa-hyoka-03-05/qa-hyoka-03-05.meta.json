@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-03-05",
+  "title": "側方路線に宅地の一部が接している場合の評価",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/03/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:17.165Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:51c83b07712f141420f07d20b66682647878ee13c4d1eedf1f4036feac628b73",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "側方路線に宅地の一部が接している場合の評価",
+    "03-05"
+  ],
+  "headings": [
+    "側方路線に宅地の一部が接している場合の評価",
+    "側方路線に宅地の一部が接している場合の評価",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達16",
+  "document_number": "03-05",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"157d-6450806436558\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:27 GMT"
+}

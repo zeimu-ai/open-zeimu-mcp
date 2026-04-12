@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-17-05",
+  "title": "外国の銀行への預金から生じる利子",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/17/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:58.803Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:906220e8145bf09b4ace56077603a9cc25d8a2fd04c039ca69ace73ad9fe0f4b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "外国の銀行への預金から生じる利子",
+    "17-05"
+  ],
+  "headings": [
+    "外国の銀行への預金から生じる利子",
+    "外国の銀行への預金から生じる利子",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第7条第1項、第30条、第31条、消費税法施行令第6条第3項、第10条第3項第1号、第17条第3項、第51条第2項",
+  "document_number": "17-05",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"18cf-6450806d75c40\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:37 GMT"
+}

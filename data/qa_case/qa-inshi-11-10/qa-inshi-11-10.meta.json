@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-11-10",
+  "title": "貨物受取書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/11/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:29.475Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:520fe9d9bac99c5f6cf61d9cf0ebf998de0269767f21159812fc69864f103aa3",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "貨物受取書",
+    "11-10"
+  ],
+  "headings": [
+    "貨物受取書",
+    "貨物受取書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 「非課税物件」の欄、印紙税法基本通達別表第一 第1号の4文書の3",
+  "document_number": "11-10",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1780-645080796f320\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:49 GMT"
+}

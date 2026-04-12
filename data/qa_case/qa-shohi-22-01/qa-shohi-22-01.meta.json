@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-22-01",
+  "title": "消費税における「事業」の定義",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/22/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:02.742Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5443ef46a46217d935c54356b75505cb2e39a0e99afeb948472f7555aa279f52",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "消費税における「事業」の定義",
+    "22-01"
+  ],
+  "headings": [
+    "消費税における「事業」の定義",
+    "消費税における「事業」の定義",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号、第4条、消費税法基本通達5-1-1",
+  "document_number": "22-01",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1323-6450806a616f8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:33 GMT"
+}

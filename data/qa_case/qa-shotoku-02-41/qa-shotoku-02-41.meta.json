@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-41",
+  "title": "保有する外国通貨を他の外国通貨に交換した場合の為替差損益の取扱い",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/41.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:07.664Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:abf1bcce909868f1eb1d322c155bdf4b3082d94e171ef25ce03626f4ef8f9e31",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "保有する外国通貨を他の外国通貨に交換した場合の為替差損益の取扱い",
+    "02-41"
+  ],
+  "headings": [
+    "保有する外国通貨を他の外国通貨に交換した場合の為替差損益の取扱い",
+    "保有する外国通貨を他の外国通貨に交換した場合の為替差損益の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第36条、第174条第7号、第209条の2、所得税法施行令第298条",
+  "document_number": "02-41",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1613-6450808946dc0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:06 GMT"
+}

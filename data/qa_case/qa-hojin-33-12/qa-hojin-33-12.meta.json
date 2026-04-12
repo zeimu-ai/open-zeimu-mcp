@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-33-12",
+  "title": "特定役員引継要件（みなし役員）の判定",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/33/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:13.091Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f9b9ce30eef47937840593dd1bc13d8a035a0cf8b715ae2768b38075462e10f1",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特定役員引継要件（みなし役員）の判定",
+    "33-12"
+  ],
+  "headings": [
+    "特定役員引継要件（みなし役員）の判定",
+    "特定役員引継要件（みなし役員）の判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法施行令第4条の3第4項第2号\n法人税基本通達1－4－7",
+  "document_number": "33-12",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"18e4-6450809be7a88\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:25 GMT"
+}

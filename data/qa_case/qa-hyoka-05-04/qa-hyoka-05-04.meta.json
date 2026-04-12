@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-05-04",
+  "title": "遺産が未分割である場合の議決権割合の判定",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/05/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:21.441Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:51d48810bf74a4f7e09dc59653ee4ad7a852ba2cc4e14fb920bb6ac2cef1e80a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "遺産が未分割である場合の議決権割合の判定",
+    "05-04"
+  ],
+  "headings": [
+    "遺産が未分割である場合の議決権割合の判定",
+    "遺産が未分割である場合の議決権割合の判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達188\n平成2年12月27日付直評23外「相続税及び贈与税における取引相場のない株式等の評価明細書の様式及び記載方法等について」通達　第1表の1　3(5)",
+  "document_number": "05-04",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"17a3-645080611a6f8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:24 GMT"
+}

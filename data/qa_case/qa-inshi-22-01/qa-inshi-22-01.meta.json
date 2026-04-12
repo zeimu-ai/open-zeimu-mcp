@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-22-01",
+  "title": "課税対象となる文書の範囲",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/22/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:36.925Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:01abcc9d318ec365eaf12341aeb6c39e7bf309107b4adca575dc4190b0681300",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "課税対象となる文書の範囲",
+    "22-01"
+  ],
+  "headings": [
+    "課税対象となる文書の範囲",
+    "課税対象となる文書の範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法第3条、第5条",
+  "document_number": "22-01",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"174c-645080740d440\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:44 GMT"
+}

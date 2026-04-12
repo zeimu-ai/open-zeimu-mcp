@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-23",
+  "title": "会社員が家屋を賃貸した場合に作成する受取書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/23.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:35.007Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:748669b0ec94c71fe9f0f1e0f53783adc1024d4f22419e2f07ad40d86239fa7e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "会社員が家屋を賃貸した場合に作成する受取書",
+    "19-23"
+  ],
+  "headings": [
+    "会社員が家屋を賃貸した場合に作成する受取書",
+    "会社員が家屋を賃貸した場合に作成する受取書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 第17号文書「非課税物件の欄」",
+  "document_number": "19-23",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"135e-6450807571f48\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:45 GMT"
+}

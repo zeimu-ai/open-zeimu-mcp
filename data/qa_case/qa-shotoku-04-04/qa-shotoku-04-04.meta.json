@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-04",
+  "title": "法人成りした場合の一括償却資産の必要経費算入",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:08.996Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:da0af0d36060e0a2799e1037ff393f39064a1becfaf4b8dee18d0e286101d4f6",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "法人成りした場合の一括償却資産の必要経費算入",
+    "04-04"
+  ],
+  "headings": [
+    "法人成りした場合の一括償却資産の必要経費算入",
+    "法人成りした場合の一括償却資産の必要経費算入",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第139条、所得税基本通達49－40の2、49－40の3",
+  "document_number": "04-04",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"15fd-645080881f348\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:05 GMT"
+}

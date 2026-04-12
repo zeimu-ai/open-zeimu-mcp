@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-14-06",
+  "title": "医療法人の出資持分の変更があった場合",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/14/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:22.273Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:942212d76eee0c7a9ab92604ca90ee4ee6c39fd979fb8d5f2ee4442447a030c0",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "医療法人の出資持分の変更があった場合",
+    "14-06"
+  ],
+  "headings": [
+    "医療法人の出資持分の変更があった場合",
+    "医療法人の出資持分の変更があった場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "相続税法第9条\n相続税法基本通達9-4",
+  "document_number": "14-06",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"1209-64508051a98e0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:07 GMT"
+}

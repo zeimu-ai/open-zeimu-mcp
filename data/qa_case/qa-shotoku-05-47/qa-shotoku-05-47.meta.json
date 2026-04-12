@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-47",
+  "title": "病院に支払うクリーニング代",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/47.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:12.843Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:bcc93d18c6dee00e7188a573918ab135edaa42649b6b21b0ef8fa13bcdd9d853",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "病院に支払うクリーニング代",
+    "05-47"
+  ],
+  "headings": [
+    "病院に支払うクリーニング代",
+    "病院に支払うクリーニング代",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達73-3",
+  "document_number": "05-47",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"118b-645080853f5d8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:02 GMT"
+}

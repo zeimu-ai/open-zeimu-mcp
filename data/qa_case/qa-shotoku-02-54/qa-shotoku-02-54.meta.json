@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-54",
+  "title": "一の申請に対し複数回支給される地方公共団体からの給付金の所得区分",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/54.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:08.343Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:86d332b7bb009812ef75574731f327f8f33a9aa6da04d61e47695556e7f55295",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "一の申請に対し複数回支給される地方公共団体からの給付金の所得区分",
+    "02-54"
+  ],
+  "headings": [
+    "一の申請に対し複数回支給される地方公共団体からの給付金の所得区分",
+    "一の申請に対し複数回支給される地方公共団体からの給付金の所得区分",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第34条、35条　所得税基本通達34―１(5)",
+  "document_number": "02-54",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1911-64508088c0950\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:05 GMT"
+}

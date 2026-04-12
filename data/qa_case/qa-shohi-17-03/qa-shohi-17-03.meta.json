@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-17-03",
+  "title": "還付加算金がある場合の課税売上割合の計算",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/17/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:58.704Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f7c84f4abcf4d56da51294dbff5d6050641005985ad7689fc1a83e0cc68ef3fc",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "還付加算金がある場合の課税売上割合の計算",
+    "17-03"
+  ],
+  "headings": [
+    "還付加算金がある場合の課税売上割合の計算",
+    "還付加算金がある場合の課税売上割合の計算",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第6項",
+  "document_number": "17-03",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"149b-6450806d890d8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:37 GMT"
+}

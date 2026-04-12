@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-09-03",
+  "title": "下宿の取扱い",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/09/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:55.242Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4f4db95d5a5d6cc806639dbbc436f28aa688825532632aed0e8730affa30b012",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "下宿の取扱い",
+    "09-03"
+  ],
+  "headings": [
+    "下宿の取扱い",
+    "下宿の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法別表第二第13号、消費税法施行令第16条の2、消費税法基本通達6-13-4",
+  "document_number": "09-03",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"123b-645080702e0e0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:39 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-42",
+  "title": "親族に支払う療養上の世話の費用",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/42.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:12.585Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5c00d3dd49bdbc6db94bb21e46fc28ca9687e165cae5ee26a7712711a32d80df",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "親族に支払う療養上の世話の費用",
+    "05-42"
+  ],
+  "headings": [
+    "親族に支払う療養上の世話の費用",
+    "親族に支払う療養上の世話の費用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第207条第5号、所得税基本通達73-6",
+  "document_number": "05-42",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1240-645080856dff0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:02 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-05-07",
+  "title": "新聞に掲載することを目的とする座談会の報酬",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/05/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:54.476Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c278fd3f9720f99b6e0f285bbed31818879a5fca94af342dd446791b70f4f997",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "新聞に掲載することを目的とする座談会の報酬",
+    "05-07"
+  ],
+  "headings": [
+    "新聞に掲載することを目的とする座談会の報酬",
+    "新聞に掲載することを目的とする座談会の報酬",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第204条第1項第1号、所得税基本通達204-6",
+  "document_number": "05-07",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1371-64508090dfed8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:14 GMT"
+}

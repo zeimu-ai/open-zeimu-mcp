@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-48",
+  "title": "病院に支払うテレビや冷蔵庫の賃借料等",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/48.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:12.904Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f7d607c73ade583058e27276cfd80244e91f1999ff9cfe9b06f5c9ee4f4b231e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "病院に支払うテレビや冷蔵庫の賃借料等",
+    "05-48"
+  ],
+  "headings": [
+    "病院に支払うテレビや冷蔵庫の賃借料等",
+    "病院に支払うテレビや冷蔵庫の賃借料等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達73-3",
+  "document_number": "05-48",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1143-64508085322e8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:01 GMT"
+}

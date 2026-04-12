@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-03-03",
+  "title": "借地を無償で返還した場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/03/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:08.532Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7908c5493a47bdff852ef2460fc4e0173276373415e76f909a3f15e7436b4fa6",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "借地を無償で返還した場合",
+    "03-03"
+  ],
+  "headings": [
+    "借地を無償で返還した場合",
+    "借地を無償で返還した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税基本通達13-1-14(3)",
+  "document_number": "03-03",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1453-6450808875248\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:05 GMT"
+}

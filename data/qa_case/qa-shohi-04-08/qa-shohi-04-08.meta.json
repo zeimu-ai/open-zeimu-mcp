@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-04-08",
+  "title": "外国から資産を賃借する場合の内外判定",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/04/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:53.421Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c49f05d960888fcad018849a72ccfb7373ec0e555ca1cd4e222feb147cebae3b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "外国から資産を賃借する場合の内外判定",
+    "04-08"
+  ],
+  "headings": [
+    "外国から資産を賃借する場合の内外判定",
+    "外国から資産を賃借する場合の内外判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第4条第3項第1号",
+  "document_number": "04-08",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"12f4-645080719df98\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:41 GMT"
+}

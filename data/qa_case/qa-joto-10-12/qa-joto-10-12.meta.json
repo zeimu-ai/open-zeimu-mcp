@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-10-12",
+  "title": "機構の有する土地との交換",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/10/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:40.867Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:bc8ccd0fc5c8c9d9383442892f64072ece3bd803f3e3e6044dca1987aaee5446",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "機構の有する土地との交換",
+    "10-12"
+  ],
+  "headings": [
+    "機構の有する土地との交換",
+    "機構の有する土地との交換",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第58条",
+  "document_number": "10-12",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"11d0-6450805baf790\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:18 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-07-03",
+  "title": "青色申告特別控除（10万円）と確定申告の要否",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/07/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:18.088Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:82d173e16f5ae7320578e508ca455ad5e507fe995bad4746dc5f4f600e63e13e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "青色申告特別控除（10万円）と確定申告の要否",
+    "07-03"
+  ],
+  "headings": [
+    "青色申告特別控除（10万円）と確定申告の要否",
+    "青色申告特別控除（10万円）と確定申告の要否",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第121条第１項１号、租税特別措置法第25の２条第１項第１号、所得税基本通達121－6",
+  "document_number": "07-03",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"17c2-64508080e0b68\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:57 GMT"
+}

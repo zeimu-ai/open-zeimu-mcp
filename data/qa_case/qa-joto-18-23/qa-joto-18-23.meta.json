@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-18-23",
+  "title": "相続時に地震に対する安全性に係る規定等を満たしている場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/18/23.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:48.365Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:fa016d42c177f28c75cf8d394fc6df2c6b4d2eb278c45ea7ee5d8ee1239d1d3f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "相続時に地震に対する安全性に係る規定等を満たしている場合",
+    "18-23"
+  ],
+  "headings": [
+    "相続時に地震に対する安全性に係る規定等を満たしている場合",
+    "相続時に地震に対する安全性に係る規定等を満たしている場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第35条第３項\n租税特別措置法施行令第23条第3項\n租税特別措置法施行規則第18条の２第２項\n平成21年国土交通省告示第685号",
+  "document_number": "18-23",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1666-64508055f4300\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:12 GMT"
+}

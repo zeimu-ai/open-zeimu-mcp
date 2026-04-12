@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-22-15",
+  "title": "特定新規設立法人の納税義務免除の特例",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/22/15.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:03.463Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f79fff29d7bbe071f92ddee20985e9ecb5a37e583078587faa041057f504c4ee",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特定新規設立法人の納税義務免除の特例",
+    "22-15"
+  ],
+  "headings": [
+    "特定新規設立法人の納税義務免除の特例",
+    "特定新規設立法人の納税義務免除の特例",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第12条の3第1項、消費税法施行令第25条の2、消費税法施行令第25条の3、消費税法基本通達1－5－15の2",
+  "document_number": "22-15",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1ca3-64508069d7bd8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:33 GMT"
+}

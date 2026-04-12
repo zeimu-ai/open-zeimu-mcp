@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-05-15",
+  "title": "破産管財人報酬",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/05/15.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:54.949Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9fcbefb658b6317bdb75be04d941ac86432b72b4940bc847ff989aa4d14d8fe1",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "破産管財人報酬",
+    "05-15"
+  ],
+  "headings": [
+    "破産管財人報酬",
+    "破産管財人報酬",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第204条第1項",
+  "document_number": "05-15",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1593-6450809094fa0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:13 GMT"
+}

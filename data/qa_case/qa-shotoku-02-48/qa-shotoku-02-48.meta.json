@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-48",
+  "title": "適格退職年金制度廃止後に継続している退職年金契約",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/48.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:08.016Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:609bacf3b1dfd4e8bb96375ca90a2863acbd8c4053f83272e8ed75604e80fdce",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "適格退職年金制度廃止後に継続している退職年金契約",
+    "02-48"
+  ],
+  "headings": [
+    "適格退職年金制度廃止後に継続している退職年金契約",
+    "適格退職年金制度廃止後に継続している退職年金契約",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第31条、第34条、第35条、所得税法施行令第64条、第65条、第72条、第82条の2、第183条、法人税法附則第20条",
+  "document_number": "02-48",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1861-64508088fa718\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:05 GMT"
+}

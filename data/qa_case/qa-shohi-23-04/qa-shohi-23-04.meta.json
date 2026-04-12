@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-23-04",
+  "title": "中間申告額がマイナスとなる場合",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/23/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:03.826Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1da42f96d7bbba3230b7dbdb81ca4e4a36805cbcaafb17571347910f27d8af16",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "中間申告額がマイナスとなる場合",
+    "23-04"
+  ],
+  "headings": [
+    "中間申告額がマイナスとなる場合",
+    "中間申告額がマイナスとなる場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第44条、消費税法基本通達15-1-5、15-1-6",
+  "document_number": "23-04",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"123d-6450806990350\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:33 GMT"
+}

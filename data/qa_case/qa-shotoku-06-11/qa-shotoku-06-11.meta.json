@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-11",
+  "title": "借入金等を借り換えた場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/11.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:15.393Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2e307a46b014684cae96bb808c9224604a341f56f4b5f05f44d86a72d803ad7b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "借入金等を借り換えた場合",
+    "06-11"
+  ],
+  "headings": [
+    "借入金等を借り換えた場合",
+    "借入金等を借り換えた場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第1項、租税特別措置法関係通達41-16",
+  "document_number": "06-11",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"15b2-6450808334a90\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:59 GMT"
+}

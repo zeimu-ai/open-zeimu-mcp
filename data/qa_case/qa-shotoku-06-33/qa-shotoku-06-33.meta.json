@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-33",
+  "title": "据置期間がある場合の償還期間等",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/33.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:16.533Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d3c4e00dc54d930aed72b38e83aff3527cff50a4ba26ed16ddd228339700dc7f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "据置期間がある場合の償還期間等",
+    "06-33"
+  ],
+  "headings": [
+    "据置期間がある場合の償還期間等",
+    "据置期間がある場合の償還期間等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第1項",
+  "document_number": "06-33",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"14a7-6450808263eb8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:59 GMT"
+}

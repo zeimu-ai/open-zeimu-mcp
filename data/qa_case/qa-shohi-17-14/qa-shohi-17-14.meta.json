@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-17-14",
+  "title": "課税売上割合に準ずる割合の適用の方法",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/17/14.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:59.278Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:365461f948a6aa26e2e48e77fc09ab5e34b394c584d4364eca3052ea28860876",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "課税売上割合に準ずる割合の適用の方法",
+    "17-14"
+  ],
+  "headings": [
+    "課税売上割合に準ずる割合の適用の方法",
+    "課税売上割合に準ずる割合の適用の方法",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第3項、第6項、消費税法施行令第47条第6項",
+  "document_number": "17-14",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1744-6450806d22068\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:36 GMT"
+}

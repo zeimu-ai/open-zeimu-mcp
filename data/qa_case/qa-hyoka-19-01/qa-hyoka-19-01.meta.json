@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-19-01",
+  "title": "増改築等に係る家屋の状況に応じた固定資産税評価額が付されていない家屋の評価",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/19/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:24.036Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d1ac23c2726ecf49d958ca074f6e8f74b21881351f52b927efa2855fb0fefb4f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "増改築等に係る家屋の状況に応じた固定資産税評価額が付されていない家屋の評価",
+    "19-01"
+  ],
+  "headings": [
+    "増改築等に係る家屋の状況に応じた固定資産税評価額が付されていない家屋の評価",
+    "増改築等に係る家屋の状況に応じた固定資産税評価額が付されていない家屋の評価",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達5、89、89-2(2)、93\n減価償却資産の耐用年数等に関する省令",
+  "document_number": "19-01",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"15a5-6450805eeb1c0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:21 GMT"
+}

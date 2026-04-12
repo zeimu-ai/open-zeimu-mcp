@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-32",
+  "title": "学会参加費用の特定支出控除の適用可否",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/32.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:10.342Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:657f625cac86dec951e708572ebfacf90f31cb190237fae0bd150dee9affea14",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "学会参加費用の特定支出控除の適用可否",
+    "04-32"
+  ],
+  "headings": [
+    "学会参加費用の特定支出控除の適用可否",
+    "学会参加費用の特定支出控除の適用可否",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第57条の２",
+  "document_number": "04-32",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1367-64508087218b0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:04 GMT"
+}

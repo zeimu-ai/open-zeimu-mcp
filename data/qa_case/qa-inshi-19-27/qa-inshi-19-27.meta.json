@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-27",
+  "title": "清算人が作成する受取書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/27.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:35.165Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:16c6618b76bcbac81c350a333914d24f01fdd10aa4216c8c3d54623ad75766c3",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "清算人が作成する受取書",
+    "19-27"
+  ],
+  "headings": [
+    "清算人が作成する受取書",
+    "清算人が作成する受取書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 第17号文書関係",
+  "document_number": "19-27",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"131b-6450807558cf0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:45 GMT"
+}

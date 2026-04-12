@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-01-10",
+  "title": "災害減免法の適用",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/01/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:49.756Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:880d1bc4beb6ef80034ab2863fd1fcf7416c3a861d72fb03f28f7cc4a368b8af",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "災害減免法の適用",
+    "01-10"
+  ],
+  "headings": [
+    "災害減免法の適用",
+    "災害減免法の適用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "災害被害者に対する租税の減免、徴収猶予等に関する法律第3条　災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令第4条",
+  "document_number": "01-10",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1511-64508093e4250\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:17 GMT"
+}

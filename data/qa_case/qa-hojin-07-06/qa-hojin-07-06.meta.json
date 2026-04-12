@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-07-06",
+  "title": "交換と売買とが併せて行われた場合の取扱い",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/07/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:01.469Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ddfa0566ad1644390a2c2977ee65abeb627147aca6456c2f22dd8ddb595c57ab",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "交換と売買とが併せて行われた場合の取扱い",
+    "07-06"
+  ],
+  "headings": [
+    "交換と売買とが併せて行われた場合の取扱い",
+    "交換と売買とが併せて行われた場合の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第50条\n租税特別措置法第65条の7第1項\n法人税基本通達10－6－4、10－6－5",
+  "document_number": "07-06",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1756-645080a391540\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:33 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-01",
+  "title": "事業用固定資産の取得に伴う生命保険契約の保険料",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:08.844Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:358af5e20d51a47f47a9b0913eb729963f0698326a52715d367c5be9245d107f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "事業用固定資産の取得に伴う生命保険契約の保険料",
+    "04-01"
+  ],
+  "headings": [
+    "事業用固定資産の取得に伴う生命保険契約の保険料",
+    "事業用固定資産の取得に伴う生命保険契約の保険料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第37条、所得税基本通達37-27",
+  "document_number": "04-01",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"130f-645080883d7a8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:05 GMT"
+}

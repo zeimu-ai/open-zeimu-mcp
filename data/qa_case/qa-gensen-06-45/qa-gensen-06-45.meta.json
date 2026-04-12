@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-06-45",
+  "title": "米国法人に支払うコンテナーの使用料",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/06/45.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:57.270Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2f7b85f5439c6e289f4f8109cbfec811b7c893a3f1a4312b05dcdeb777b2fa91",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "米国法人に支払うコンテナーの使用料",
+    "06-45"
+  ],
+  "headings": [
+    "米国法人に支払うコンテナーの使用料",
+    "米国法人に支払うコンテナーの使用料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "日米租税条約第8条第4項",
+  "document_number": "06-45",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"13be-6450808f133c0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:12 GMT"
+}

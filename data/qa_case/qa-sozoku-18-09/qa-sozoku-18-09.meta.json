@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-18-09",
+  "title": "納付すべき相続税額が算出されない配偶者についての納税猶予の適用",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/18/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:23.764Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1a72b979a9d453cb43732cb47d392b17fac998db0612fd95539c0a374a994c17",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "納付すべき相続税額が算出されない配偶者についての納税猶予の適用",
+    "18-09"
+  ],
+  "headings": [
+    "納付すべき相続税額が算出されない配偶者についての納税猶予の適用",
+    "納付すべき相続税額が算出されない配偶者についての納税猶予の適用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第70条の6\n租税特別措置法関係通達70の6-37",
+  "document_number": "18-09",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"16fc-645080501c568\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:06 GMT"
+}

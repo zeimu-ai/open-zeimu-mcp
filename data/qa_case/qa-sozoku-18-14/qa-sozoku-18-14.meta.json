@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-18-14",
+  "title": "土地区画整理事業に係る土地",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/18/14.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:24.023Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9edde13fec3b93bafe7167e1d71ffe51d06e373189b975a30ccf2ae8051a5ed0",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "土地区画整理事業に係る土地",
+    "18-14"
+  ],
+  "headings": [
+    "土地区画整理事業に係る土地",
+    "土地区画整理事業に係る土地",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "土地区画整理法第89条\n租税特別措置法関係通達70の4-1、12、70の6-1、13、13の3",
+  "document_number": "18-14",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"12f9-6450804fd9ee8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:06 GMT"
+}

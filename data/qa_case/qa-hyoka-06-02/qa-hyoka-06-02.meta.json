@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-06-02",
+  "title": "従業員の範囲",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/06/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:21.536Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:cc2deda60d286043d4028c6396950448183cc22f0ef5e7975d4228afa671056e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "従業員の範囲",
+    "06-02"
+  ],
+  "headings": [
+    "従業員の範囲",
+    "従業員の範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達178(2)",
+  "document_number": "06-02",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"1bc4-6450806107648\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:24 GMT"
+}

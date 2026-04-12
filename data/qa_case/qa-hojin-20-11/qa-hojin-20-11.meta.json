@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-20-11",
+  "title": "フードバンクへ食品を提供した場合の取扱い",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/20/11.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:08.344Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2fb4f9e2f9c7418135b0917897c5bb6b6800eedfa8ca05c03f2969ffd96abccb",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "フードバンクへ食品を提供した場合の取扱い",
+    "20-11"
+  ],
+  "headings": [
+    "フードバンクへ食品を提供した場合の取扱い",
+    "フードバンクへ食品を提供した場合の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第22条第3項、第37条",
+  "document_number": "20-11",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1992-6450809f2c540\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:29 GMT"
+}

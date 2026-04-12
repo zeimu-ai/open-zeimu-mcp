@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-01-13",
+  "title": "弁済供託する場合の源泉徴収義務",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/01/13.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:49.957Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f6893ddbef516f5e69ac602e552a04b2f5ea734f7a6b45e054957412fb6a1635",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "弁済供託する場合の源泉徴収義務",
+    "01-13"
+  ],
+  "headings": [
+    "弁済供託する場合の源泉徴収義務",
+    "弁済供託する場合の源泉徴収義務",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達181～223共-1、民法第494条",
+  "document_number": "01-13",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"14d4-64508093c7d30\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:17 GMT"
+}

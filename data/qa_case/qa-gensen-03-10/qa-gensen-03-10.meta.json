@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-03-10",
+  "title": "配偶者控除とひとり親控除の双方適用",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/03/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:51.270Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ad99e2b650d92e12f1d015962619c1c4ddefb0afeff6e9608ca6253dba88da51",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "配偶者控除とひとり親控除の双方適用",
+    "03-10"
+  ],
+  "headings": [
+    "配偶者控除とひとり親控除の双方適用",
+    "配偶者控除とひとり親控除の双方適用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第85条第1項、第3項、所得税基本通達81-1",
+  "document_number": "03-10",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"13b5-64508092f7158\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:16 GMT"
+}

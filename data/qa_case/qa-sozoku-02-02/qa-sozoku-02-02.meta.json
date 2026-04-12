@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-02-02",
+  "title": "所有権留保契約に基づいて割賦購入された住宅を相続により取得した場合",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/02/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:18.608Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c73039ee2a67dc51f182d054389a6415f32bc10d6289e4657327d24a7aff4c5c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "所有権留保契約に基づいて割賦購入された住宅を相続により取得した場合",
+    "02-02"
+  ],
+  "headings": [
+    "所有権留保契約に基づいて割賦購入された住宅を相続により取得した場合",
+    "所有権留保契約に基づいて割賦購入された住宅を相続により取得した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "相続税法第11条の2第1項",
+  "document_number": "02-02",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"13c1-6450805423968\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:10 GMT"
+}

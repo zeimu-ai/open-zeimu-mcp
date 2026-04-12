@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-20-05",
+  "title": "日本標準産業分類からみた事業区分(大分類－F電気・ガス・熱供給・水道業、G情報通信業、H運輸業、郵便業)",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/20/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:01.451Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:33d05e0d7996c70df5133fd082de2745bdfc8e74102c003633dee02ec3f6a18e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "日本標準産業分類からみた事業区分(大分類－F電気・ガス・熱供給・水道業、G情報通信業、H運輸業、郵便業)",
+    "20-05"
+  ],
+  "headings": [
+    "日本標準産業分類からみた事業区分(大分類－F電気・ガス・熱供給・水道業、G情報通信業、H運輸業、郵便業)",
+    "日本標準産業分類からみた事業区分(大分類－F電気・ガス・熱供給・水道業、G情報通信業、H運輸業、郵便業)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法施行令第57条第5項、消費税法基本通達13-2-4",
+  "document_number": "20-05",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"3367-6450806b6b4e0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:34 GMT"
+}

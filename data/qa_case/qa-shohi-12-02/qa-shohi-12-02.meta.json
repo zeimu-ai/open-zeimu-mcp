@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-12-02",
+  "title": "商品券の発行に係る売上げの計上時期",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/12/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:56.216Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:38a60d57970ae24bfee547dddf18d1dbbc095de45a85ac710eb477366cc99cc9",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "商品券の発行に係る売上げの計上時期",
+    "12-02"
+  ],
+  "headings": [
+    "商品券の発行に係る売上げの計上時期",
+    "商品券の発行に係る売上げの計上時期",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法別表第二第4号ハ、消費税法基本通達6-4-5、9-1-22、法人税基本通達2-1-39",
+  "document_number": "12-02",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"16ba-6450806f74438\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:39 GMT"
+}

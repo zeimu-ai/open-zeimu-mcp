@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-16-19",
+  "title": "質物を流質した場合の課税仕入れに係る支払対価の額",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/16/19.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:58.138Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:44030282cf5368fda28b570ba43f76cc53aa17cff541f5771fc6d1edf96952d3",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "質物を流質した場合の課税仕入れに係る支払対価の額",
+    "16-19"
+  ],
+  "headings": [
+    "質物を流質した場合の課税仕入れに係る支払対価の額",
+    "質物を流質した場合の課税仕入れに係る支払対価の額",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第12号、第30条第7項、第9項、消費税法施行令第49条第1項、第4項",
+  "document_number": "16-19",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1692-6450806ded268\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:37 GMT"
+}

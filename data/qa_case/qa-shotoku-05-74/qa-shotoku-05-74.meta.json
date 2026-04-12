@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-74",
+  "title": "旧生命保険料と新生命保険料の支払がある場合の生命保険料控除額",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/74.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:14.194Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a2c1be3a5d7033555187e307d8308b13c73e681380370e67a56c8850ac9f5854",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "旧生命保険料と新生命保険料の支払がある場合の生命保険料控除額",
+    "05-74"
+  ],
+  "headings": [
+    "旧生命保険料と新生命保険料の支払がある場合の生命保険料控除額",
+    "旧生命保険料と新生命保険料の支払がある場合の生命保険料控除額",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第76条第1項",
+  "document_number": "05-74",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1c98-6450808435fc0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:00 GMT"
+}

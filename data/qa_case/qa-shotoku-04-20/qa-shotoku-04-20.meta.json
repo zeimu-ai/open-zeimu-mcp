@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-20",
+  "title": "平成19年3月31日以前に取得した減価償却資産に資本的支出をした場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/20.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:09.775Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:420bb119af454a8470cd7b24a319aee66c8079ba6c66900df9c5e4ced16538f8",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "平成19年3月31日以前に取得した減価償却資産に資本的支出をした場合",
+    "04-20"
+  ],
+  "headings": [
+    "平成19年3月31日以前に取得した減価償却資産に資本的支出をした場合",
+    "平成19年3月31日以前に取得した減価償却資産に資本的支出をした場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第49条、所得税法施行令第127条、第132条、所得税基本通達49-1の2、49-31",
+  "document_number": "04-20",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1a1e-64508087919a8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:04 GMT"
+}

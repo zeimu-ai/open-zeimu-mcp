@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-16-02",
+  "title": "野球場のシーズン予約席料",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/16/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:57.411Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d07d78b35b153364fa9d3f24c18e242e1f562b6b7454e542888fe314ccfa78d5",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "野球場のシーズン予約席料",
+    "16-02"
+  ],
+  "headings": [
+    "野球場のシーズン予約席料",
+    "野球場のシーズン予約席料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第12号",
+  "document_number": "16-02",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"13b3-6450806e72f08\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:38 GMT"
+}

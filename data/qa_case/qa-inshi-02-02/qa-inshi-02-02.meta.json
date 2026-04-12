@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-02-02",
+  "title": "写、副本、謄本等と表示された契約書の取扱い",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/02/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:24.954Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c54d33882e9729c8e474406cc8b2af8275c16f9b6b9f4b7a9c99d75d3564b4dd",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "写、副本、謄本等と表示された契約書の取扱い",
+    "02-02"
+  ],
+  "headings": [
+    "写、副本、謄本等と表示された契約書の取扱い",
+    "写、副本、謄本等と表示された契約書の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則5、印紙税法基本通達第19条",
+  "document_number": "02-02",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1450-6450807cedf88\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:53 GMT"
+}

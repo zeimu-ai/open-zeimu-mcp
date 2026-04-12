@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-18-05",
+  "title": "根抵当権設定契約書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/18/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:33.729Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e8c9df33d39a9b5ca9bea8c306dc3b599c3ff9bd7e430dbe5b26cb3d16dce4c5",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "根抵当権設定契約書",
+    "18-05"
+  ],
+  "headings": [
+    "根抵当権設定契約書",
+    "根抵当権設定契約書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則5",
+  "document_number": "18-05",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"14ef-645080765dcb8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:46 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-21-01",
+  "title": "国等における消費税の還付金の取扱い",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/21/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:02.061Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9bba11a900223b74d1fe653cf36db6f57ef0e2053807b27db70ac91bbbcaf8d2",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "国等における消費税の還付金の取扱い",
+    "21-01"
+  ],
+  "headings": [
+    "国等における消費税の還付金の取扱い",
+    "国等における消費税の還付金の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第60条第4項、消費税法施行令第75条第1項",
+  "document_number": "21-01",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1264-6450806ae92d8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:34 GMT"
+}

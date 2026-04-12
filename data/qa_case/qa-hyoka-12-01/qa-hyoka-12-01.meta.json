@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-12-01",
+  "title": "長期間清算中の会社",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/12/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:22.796Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4a7c219da5b12baa5e0ffc7e7b63f21b89c6a3831bbad97ff765a486abc2d849",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "長期間清算中の会社",
+    "12-01"
+  ],
+  "headings": [
+    "長期間清算中の会社",
+    "長期間清算中の会社",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達4-4、185、189-6",
+  "document_number": "12-01",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"1285-6450806012080\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:23 GMT"
+}

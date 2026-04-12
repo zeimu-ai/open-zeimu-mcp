@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-02-01",
+  "title": "被相続人の準確定申告に係る還付金等",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/02/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:18.548Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:58f0061c5a440b652b35c26d0b543652cd16593928c70b7d21c3164fc9b575fd",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "被相続人の準確定申告に係る還付金等",
+    "02-01"
+  ],
+  "headings": [
+    "被相続人の準確定申告に係る還付金等",
+    "被相続人の準確定申告に係る還付金等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第125条第2項\n国税通則法第58条\n所得税基本通達35-1(4)",
+  "document_number": "02-01",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"13b5-645080542dd78\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:10 GMT"
+}

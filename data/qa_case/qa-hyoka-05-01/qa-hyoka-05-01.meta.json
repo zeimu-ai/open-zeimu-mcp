@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-05-01",
+  "title": "同族株主の判定",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/05/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:21.271Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2d96a102a45b589ad09590c18743ab092b8075b5133c95448d184f8af53b5252",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "同族株主の判定",
+    "05-01"
+  ],
+  "headings": [
+    "同族株主の判定",
+    "同族株主の判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達188(1)\n法人税基本通達1-3-5",
+  "document_number": "05-01",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"118b-6450806138388\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:24 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-22-06",
+  "title": "課税売上高の範囲",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/22/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:02.999Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f15d1d46c743f6ddc43885d9fd5ab592f485dd096dbfaca992d129f48af457b7",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "課税売上高の範囲",
+    "22-06"
+  ],
+  "headings": [
+    "課税売上高の範囲",
+    "課税売上高の範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第4条第5項、第9条第2項、第28条第3項、消費税法基本通達1-4-2、10-1-11",
+  "document_number": "22-06",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1636-6450806a2dad8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:33 GMT"
+}

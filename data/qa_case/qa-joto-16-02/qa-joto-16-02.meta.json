@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-16-02",
+  "title": "賃貸している土地の底地が住宅の建替用地として買収された場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/16/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:46.104Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:495b6652e95f4b8d52bf11537bb48ef836a9eaf7cdead3de2ad90c6a1bfd8bc8",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "賃貸している土地の底地が住宅の建替用地として買収された場合",
+    "16-02"
+  ],
+  "headings": [
+    "賃貸している土地の底地が住宅の建替用地として買収された場合",
+    "賃貸している土地の底地が住宅の建替用地として買収された場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第34条の2第2項第1号",
+  "document_number": "16-02",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1380-64508057a6450\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:14 GMT"
+}

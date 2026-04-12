@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-19-01",
+  "title": "債券・株式の課税仕入区分",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/19/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:00.050Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ace837c21a46b705e9249a41cd521397aca407ebda03bdb6270b9f836dcf81ba",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "債券・株式の課税仕入区分",
+    "19-01"
+  ],
+  "headings": [
+    "債券・株式の課税仕入区分",
+    "債券・株式の課税仕入区分",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第2項、第6項、消費税法施行令第6条第1項第9号、第9条第1項第1号、第48条、消費税法基本通達11－2－11",
+  "document_number": "19-01",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"2cea-6450806c9d750\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:36 GMT"
+}

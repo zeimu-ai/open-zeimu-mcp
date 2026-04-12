@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-48",
+  "title": "家族のみが再居住した場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/48.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:17.318Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:bd3a3d1bfa00ae6764c91f52c4e4fe64d8491e4bbdcac8bdbe96517eead8294a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "家族のみが再居住した場合",
+    "06-48"
+  ],
+  "headings": [
+    "家族のみが再居住した場合",
+    "家族のみが再居住した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第28項、第29項、租税特別措置法関係通達41－4",
+  "document_number": "06-48",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"15ba-64508081d1310\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:58 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-16-03",
+  "title": "給与とされた交通費",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/16/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:57.457Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:15e74007df3db2560163bcd9594c2b4fe13915263c83a5016bc034674f4863ac",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "給与とされた交通費",
+    "16-03"
+  ],
+  "headings": [
+    "給与とされた交通費",
+    "給与とされた交通費",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第12号、消費税法基本通達11-6-4",
+  "document_number": "16-03",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"120e-6450806e67770\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:38 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-29",
+  "title": "居住用部分のみを対象とする借入金",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/29.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:16.328Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4578ff3dd8d6e95a86227f205aeaf82dd772a5a815ebb6e12697ff8134cad00e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "居住用部分のみを対象とする借入金",
+    "06-29"
+  ],
+  "headings": [
+    "居住用部分のみを対象とする借入金",
+    "居住用部分のみを対象とする借入金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第1項、租税特別措置法施行令第26条第7項",
+  "document_number": "06-29",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"12bb-645080828b3a0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:59 GMT"
+}

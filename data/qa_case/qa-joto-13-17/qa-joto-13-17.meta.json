@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-13-17",
+  "title": "優良住宅等の建設敷地の判定(15号)",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/13/17.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:42.896Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:436d2ccf5fc2338b9831143eee33e478aef95343d594cbb3283e35187c9742f0",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "優良住宅等の建設敷地の判定(15号)",
+    "13-17"
+  ],
+  "headings": [
+    "優良住宅等の建設敷地の判定(15号)",
+    "優良住宅等の建設敷地の判定(15号)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第31条の2第2項第15号",
+  "document_number": "13-17",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"120d-6450805a200f0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:16 GMT"
+}

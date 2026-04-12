@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-11",
+  "title": "還付加算金が雑所得として課税される場合の必要経費",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/11.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:09.364Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e269fc592d45f9a9da1b25727d3fdef3eb44cae7f1c73484e273825bca695bf4",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "還付加算金が雑所得として課税される場合の必要経費",
+    "04-11"
+  ],
+  "headings": [
+    "還付加算金が雑所得として課税される場合の必要経費",
+    "還付加算金が雑所得として課税される場合の必要経費",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第37条、第45条、所得税基本通達37-25(3)",
+  "document_number": "04-11",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1314-64508087dc4f8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:04 GMT"
+}

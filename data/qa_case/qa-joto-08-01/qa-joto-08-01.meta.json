@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-08-01",
+  "title": "地方公共団体に寄附するためのみの目的で固定資産である土地に区画形質の変更を加えてその全部を寄附した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/08/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:40.044Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:bce46f4d1dd755f7a59c15a5ecf6404f5b999c962d4ce8fb52acf780a4a56702",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "地方公共団体に寄附するためのみの目的で固定資産である土地に区画形質の変更を加えてその全部を寄附した場合",
+    "08-01"
+  ],
+  "headings": [
+    "地方公共団体に寄附するためのみの目的で固定資産である土地に区画形質の変更を加えてその全部を寄附した場合",
+    "地方公共団体に寄附するためのみの目的で固定資産である土地に区画形質の変更を加えてその全部を寄附した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第59条第1項第1号\n租税特別措置法第40条第1項\n所得税基本通達33-4",
+  "document_number": "08-01",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"152e-6450805c5e470\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:19 GMT"
+}

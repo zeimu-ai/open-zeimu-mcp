@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-12-09",
+  "title": "請負の意義",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/12/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:30.042Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a4bda6bf088c3762209177362b57fafc6a5d27afaa7dbbeac8b0e6ab18331ad6",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "請負の意義",
+    "12-09"
+  ],
+  "headings": [
+    "請負の意義",
+    "請負の意義",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則2、印紙税法基本通達別表第一第2号文章の1",
+  "document_number": "12-09",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1921-6450807905ba0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:49 GMT"
+}

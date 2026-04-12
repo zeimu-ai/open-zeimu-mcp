@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-10-18",
+  "title": "土地所有者と借地権者とが共に他の土地と交換した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/10/18.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:41.177Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4e48983dd75e0e4db7de4f426bfd5e0980e4633227ee2ba6f83511c3fd451fcd",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "土地所有者と借地権者とが共に他の土地と交換した場合",
+    "10-18"
+  ],
+  "headings": [
+    "土地所有者と借地権者とが共に他の土地と交換した場合",
+    "土地所有者と借地権者とが共に他の土地と交換した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第58条",
+  "document_number": "10-18",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"15e2-6450805b755e0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:18 GMT"
+}

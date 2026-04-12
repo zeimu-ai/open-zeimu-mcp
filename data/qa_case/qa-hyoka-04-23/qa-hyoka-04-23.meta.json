@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-04-23",
+  "title": "借地権の意義",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/04/23.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:19.718Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7a347dfd5aeff42e8f57deec727b21ef28e29f56021af49c7ea5c2f6c3c99abd",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "借地権の意義",
+    "04-23"
+  ],
+  "headings": [
+    "借地権の意義",
+    "借地権の意義",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達9、86、87\n所得税法施行令第79条、\n法人税法施行令第137条、第138条、第139条",
+  "document_number": "04-23",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"143c-6450806262128\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:25 GMT"
+}

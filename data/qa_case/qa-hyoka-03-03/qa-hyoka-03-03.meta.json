@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-03-03",
+  "title": "地区の異なる2以上の路線に接する宅地の評価",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/03/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:17.065Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:55e15a0b2d4511c6e2f5d1e214c979de2b00c599bdac6a8b4ee0045058907457",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "地区の異なる2以上の路線に接する宅地の評価",
+    "03-03"
+  ],
+  "headings": [
+    "地区の異なる2以上の路線に接する宅地の評価",
+    "地区の異なる2以上の路線に接する宅地の評価",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達15、16",
+  "document_number": "03-03",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"1335-645080644a990\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:27 GMT"
+}

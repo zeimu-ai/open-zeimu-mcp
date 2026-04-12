@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-01-02",
+  "title": "超過物納に係る過誤納金に対する譲渡所得の課税",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/01/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:37.507Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:08ab9a3a950143eebe5f101ae751a650c55850fe82f77cf1b20b12cf1c77d347",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "超過物納に係る過誤納金に対する譲渡所得の課税",
+    "01-02"
+  ],
+  "headings": [
+    "超過物納に係る過誤納金に対する譲渡所得の課税",
+    "超過物納に係る過誤納金に対する譲渡所得の課税",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第40条の3、相続税法第41条第1項、第43条第2項",
+  "document_number": "01-02",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1518-6450805e497d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:21 GMT"
+}

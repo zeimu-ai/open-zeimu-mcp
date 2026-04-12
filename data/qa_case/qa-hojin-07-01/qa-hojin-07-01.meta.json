@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-07-01",
+  "title": "保険差益の圧縮記帳における滅失経費の範囲",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/07/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:01.239Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7c77625e4430ccc947b31d5c03edf62dc7861f181fc811944b9fdcc1a876bbcc",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "保険差益の圧縮記帳における滅失経費の範囲",
+    "07-01"
+  ],
+  "headings": [
+    "保険差益の圧縮記帳における滅失経費の範囲",
+    "保険差益の圧縮記帳における滅失経費の範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第47条第1項\n法人税法施行令第85条第1項第1号\n法人税基本通達10－5－5",
+  "document_number": "07-01",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"12fd-645080a3bb138\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:34 GMT"
+}

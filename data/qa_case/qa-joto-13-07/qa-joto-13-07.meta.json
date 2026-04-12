@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-13-07",
+  "title": "仮換地指定の変更があった場合の「仮換地指定があった日」の判定(16号)",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/13/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:42.360Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:81516432c49a8a87668c66be23c9640b4c22e6d7586534d3685f2ae653a9f424",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "仮換地指定の変更があった場合の「仮換地指定があった日」の判定(16号)",
+    "13-07"
+  ],
+  "headings": [
+    "仮換地指定の変更があった場合の「仮換地指定があった日」の判定(16号)",
+    "仮換地指定の変更があった場合の「仮換地指定があった日」の判定(16号)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第31条の2第2項第16号",
+  "document_number": "13-07",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"15f6-6450805a8c368\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:17 GMT"
+}

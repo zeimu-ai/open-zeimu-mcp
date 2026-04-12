@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-03-02",
+  "title": "土地改良区が換地処分により取得した土地を譲渡し、その代金を組合員に分配した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/03/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:38.230Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5403e7f57b5943a59bace8623cefebf2be1eb1b7f947489dcb90d3d3fbe8a2ca",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "土地改良区が換地処分により取得した土地を譲渡し、その代金を組合員に分配した場合",
+    "03-02"
+  ],
+  "headings": [
+    "土地改良区が換地処分により取得した土地を譲渡し、その代金を組合員に分配した場合",
+    "土地改良区が換地処分により取得した土地を譲渡し、その代金を組合員に分配した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "土地改良法第53条の3、第54条の2第5項",
+  "document_number": "03-02",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"13fd-6450805dc2b90\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:20 GMT"
+}

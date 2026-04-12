@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-12-14",
+  "title": "基本契約に基づき作成する加工明細等",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/12/14.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:30.301Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6e160b0695d278dc3fa80c133987ffbf36662fcdb0bfbb600faf690fc8299683",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "基本契約に基づき作成する加工明細等",
+    "12-14"
+  ],
+  "headings": [
+    "基本契約に基づき作成する加工明細等",
+    "基本契約に基づき作成する加工明細等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達第3条、第21条",
+  "document_number": "12-14",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1574-64508078d2368\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:49 GMT"
+}

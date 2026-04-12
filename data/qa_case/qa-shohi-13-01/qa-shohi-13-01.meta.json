@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-13-01",
+  "title": "産業医の報酬",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/13/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:56.529Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:27333eb4e43bfa2a4e0edb8d9553e684b98fafb7855233f96293382b237bb4d5",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "産業医の報酬",
+    "13-01"
+  ],
+  "headings": [
+    "産業医の報酬",
+    "産業医の報酬",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第8号、第12号",
+  "document_number": "13-01",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1294-6450806f31200\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:38 GMT"
+}

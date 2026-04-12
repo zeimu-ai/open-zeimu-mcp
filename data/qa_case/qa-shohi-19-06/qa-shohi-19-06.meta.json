@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-19-06",
+  "title": "株式の売買に伴う課税仕入れ",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/19/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:00.307Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8f622023fb141ffd4f192d25a0b7b6754bb71d521eec8de6b1abf80348547503",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "株式の売買に伴う課税仕入れ",
+    "19-06"
+  ],
+  "headings": [
+    "株式の売買に伴う課税仕入れ",
+    "株式の売買に伴う課税仕入れ",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第2項、消費税法基本通達11-2-15",
+  "document_number": "19-06",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"160a-6450806c68b90\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:35 GMT"
+}

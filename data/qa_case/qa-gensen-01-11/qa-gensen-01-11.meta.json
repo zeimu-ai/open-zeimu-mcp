@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-01-11",
+  "title": "源泉徴収の対象となる所得の支払地の判定",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/01/11.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:49.882Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a52f103b707d78be1a7a6ecd8f45e20c969f3159eac3d32397636a64c3e46d4b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "源泉徴収の対象となる所得の支払地の判定",
+    "01-11"
+  ],
+  "headings": [
+    "源泉徴収の対象となる所得の支払地の判定",
+    "源泉徴収の対象となる所得の支払地の判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第212条第1項、第2項",
+  "document_number": "01-11",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"15fd-64508093dade0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:17 GMT"
+}

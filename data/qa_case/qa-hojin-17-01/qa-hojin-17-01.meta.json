@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-17-01",
+  "title": "地方税の予納額の損金算入時期",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/17/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:07.310Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:19b0d7cfbb0f2d05db3584697095c886f7ab955c7a97cabf78ca161ec73be3a7",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "地方税の予納額の損金算入時期",
+    "17-01"
+  ],
+  "headings": [
+    "地方税の予納額の損金算入時期",
+    "地方税の予納額の損金算入時期",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "地方税法第17条の3\n法人税基本通達9－5－1",
+  "document_number": "17-01",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"127c-6450809fd2580\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:29 GMT"
+}

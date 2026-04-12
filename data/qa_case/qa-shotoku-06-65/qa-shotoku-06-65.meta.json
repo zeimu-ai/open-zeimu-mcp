@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-65",
+  "title": "家屋が災害により居住できなくなった場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/65.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:17.883Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:46de4d6cab2e7b0ae8b3068090bb6be6e3001ee35ed7d08e368723aaa5891011",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "家屋が災害により居住できなくなった場合",
+    "06-65"
+  ],
+  "headings": [
+    "家屋が災害により居住できなくなった場合",
+    "家屋が災害により居住できなくなった場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第1項、第15項、第34項、租税特別措置法関係通達41－29の6、東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律第13条第1項、第2項、平成29年法律第4号附則第55条",
+  "document_number": "06-65",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1b1b-64508081640f8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:57 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-50",
+  "title": "コード決済サービスを利用して決済を行った者に交付する領収書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/50.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:36.362Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6a55d6f90762972796ff8d133bfd9cb29ac262441c4b29d75003467f0f3fd396",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "コード決済サービスを利用して決済を行った者に交付する領収書",
+    "19-50"
+  ],
+  "headings": [
+    "コード決済サービスを利用して決済を行った者に交付する領収書",
+    "コード決済サービスを利用して決済を行った者に交付する領収書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一 第17号文書の1",
+  "document_number": "19-50",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"2825-645080747e0f0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:44 GMT"
+}

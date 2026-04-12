@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-05-03",
+  "title": "特別土地保有税と取得費",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/05/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:38.910Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:dc348747a1d7a502b3506c8cebbbc9bd09b3b7d9ddfe09668f9c5029e1d55d34",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特別土地保有税と取得費",
+    "05-03"
+  ],
+  "headings": [
+    "特別土地保有税と取得費",
+    "特別土地保有税と取得費",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第38条\n地方税法第594条、第596条",
+  "document_number": "05-03",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1396-6450805d428c8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:20 GMT"
+}

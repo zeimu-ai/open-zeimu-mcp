@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-14-43",
+  "title": "補償金の支払請求をした日の判定(6か月の判定)",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/14/43.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:45.325Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:66e8b56569b4d6a859be1be55809d78c46b4cc614060e9523913a7f30f27832e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "補償金の支払請求をした日の判定(6か月の判定)",
+    "14-43"
+  ],
+  "headings": [
+    "補償金の支払請求をした日の判定(6か月の判定)",
+    "補償金の支払請求をした日の判定(6か月の判定)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法施行令第22条の4第2項第2号\n租税特別措置法関係通達33の4-2\n土地収用法第46条の2",
+  "document_number": "14-43",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1296-6450805841c98\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:14 GMT"
+}

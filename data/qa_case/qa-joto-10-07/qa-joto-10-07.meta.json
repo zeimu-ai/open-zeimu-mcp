@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-10-07",
+  "title": "土地と立木付き土地の交換をした場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/10/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:40.608Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b9776e0f27c016ea5b7a09249e9bf654fb5da66fb590ad4e4128ab025dee6b8b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "土地と立木付き土地の交換をした場合",
+    "10-07"
+  ],
+  "headings": [
+    "土地と立木付き土地の交換をした場合",
+    "土地と立木付き土地の交換をした場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第58条",
+  "document_number": "10-07",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"12c1-6450805be00e8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:18 GMT"
+}

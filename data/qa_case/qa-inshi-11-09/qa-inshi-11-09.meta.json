@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-11-09",
+  "title": "送り状",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/11/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:29.423Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9e604f756ed74214f303ecba4644fa3e3e564361d44a6dc13617efdd9eb4bd12",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "送り状",
+    "11-09"
+  ],
+  "headings": [
+    "送り状",
+    "送り状",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表第1号の4文書定義欄3",
+  "document_number": "11-09",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"12bc-64508079777f0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:49 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-21-03",
+  "title": "判取帳の範囲",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/21/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:36.835Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0dac7e4e8cb469ab710c0b30eda4d1d201dcde8982120f370fb98003161cf7c4",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "判取帳の範囲",
+    "21-03"
+  ],
+  "headings": [
+    "判取帳の範囲",
+    "判取帳の範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法第4条第4項、租税特別措置法第91条、印紙税法基本通達別表第一 第20号文書の1",
+  "document_number": "21-03",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"178e-6450807424370\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:44 GMT"
+}

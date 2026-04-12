@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-06-10",
+  "title": "給与の計算期間の中途で非居住者となった者に支給する超過勤務手当（基本給との計算期間が異なる場合）",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/06/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:55.640Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:bd7a2bef4172071df8fc951fa290930dc2b12496954a4eed23a25ba9d854cad3",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "給与の計算期間の中途で非居住者となった者に支給する超過勤務手当（基本給との計算期間が異なる場合）",
+    "06-10"
+  ],
+  "headings": [
+    "給与の計算期間の中途で非居住者となった者に支給する超過勤務手当（基本給との計算期間が異なる場合）",
+    "給与の計算期間の中途で非居住者となった者に支給する超過勤務手当（基本給との計算期間が異なる場合）",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達161-41、212-5",
+  "document_number": "06-10",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1817-645080902f6a0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:13 GMT"
+}

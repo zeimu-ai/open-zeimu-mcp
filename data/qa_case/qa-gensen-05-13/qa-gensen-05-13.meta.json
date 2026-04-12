@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-05-13",
+  "title": "居住者に支払う職務発明の対価",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/05/13.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:54.828Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1908a8c07c18461aecc45d31d8f99f4dbaa6be4153c80ab11657ff3f74f24a63",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "居住者に支払う職務発明の対価",
+    "05-13"
+  ],
+  "headings": [
+    "居住者に支払う職務発明の対価",
+    "居住者に支払う職務発明の対価",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第204条第1項第1号、特許法第35条",
+  "document_number": "05-13",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"138d-64508090a8050\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:14 GMT"
+}

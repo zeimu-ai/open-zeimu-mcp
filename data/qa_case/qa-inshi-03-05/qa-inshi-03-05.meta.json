@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-03-05",
+  "title": "記載金額の計算",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/03/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:25.736Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b667ba5b76e28d98498c9cc22e872a1e3e883069457d380b97087feb7f4567cb",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "記載金額の計算",
+    "03-05"
+  ],
+  "headings": [
+    "記載金額の計算",
+    "記載金額の計算",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則4二、印紙税法基本通達第24条、第26条、第27条、第28条、第29条、第30条、第31条、第35条",
+  "document_number": "03-05",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"23d6-6450807c59c70\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:52 GMT"
+}

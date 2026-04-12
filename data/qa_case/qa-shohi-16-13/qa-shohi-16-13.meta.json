@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-16-13",
+  "title": "試作用、サンプル用資材の税額控除",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/16/13.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:57.821Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:79f5d5cf1c6691faa7045bca9384eda30f1fc91053f20c32b30cce97329c1768",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "試作用、サンプル用資材の税額控除",
+    "16-13"
+  ],
+  "headings": [
+    "試作用、サンプル用資材の税額控除",
+    "試作用、サンプル用資材の税額控除",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第1項、消費税法基本通達11-2-14",
+  "document_number": "16-13",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"126b-6450806e258c0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:37 GMT"
+}

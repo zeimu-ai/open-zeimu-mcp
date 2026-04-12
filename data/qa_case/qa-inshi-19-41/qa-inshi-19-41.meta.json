@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-41",
+  "title": "配当金領収証",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/41.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:35.890Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:fe993936258db536c2e030628ec5f421e639738546b99a9542d7f248303de156",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "配当金領収証",
+    "19-41"
+  ],
+  "headings": [
+    "配当金領収証",
+    "配当金領収証",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一 第16号文書の2",
+  "document_number": "19-41",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1426-64508074d3ff0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:44 GMT"
+}

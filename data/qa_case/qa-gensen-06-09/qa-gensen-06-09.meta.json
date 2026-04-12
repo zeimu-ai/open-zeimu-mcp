@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-06-09",
+  "title": "退職して帰国した外国人の住民税の負担",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/06/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:55.529Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b5a3cf9590927e33b0fd617b68efb4624fb012518ed06f50c555109834e3958f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "退職して帰国した外国人の住民税の負担",
+    "06-09"
+  ],
+  "headings": [
+    "退職して帰国した外国人の住民税の負担",
+    "退職して帰国した外国人の住民税の負担",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第161条第1項第12号イ",
+  "document_number": "06-09",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1283-645080903a668\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:13 GMT"
+}

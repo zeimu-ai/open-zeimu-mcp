@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-15-03",
+  "title": "課税資産の譲渡等に該当しない売掛債権の取得に係る貸倒れ",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/15/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:57.201Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9d34031eee1c14ca1e3c03510ae333ad6a555f4279eb73e5990596701981e9ac",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "課税資産の譲渡等に該当しない売掛債権の取得に係る貸倒れ",
+    "15-03"
+  ],
+  "headings": [
+    "課税資産の譲渡等に該当しない売掛債権の取得に係る貸倒れ",
+    "課税資産の譲渡等に該当しない売掛債権の取得に係る貸倒れ",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第9号、第6条第1項、第39条、別表第二第2号、消費税法施行令第9条第1項第4号",
+  "document_number": "15-03",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"149a-6450806eb0380\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:38 GMT"
+}

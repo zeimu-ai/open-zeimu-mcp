@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-51",
+  "title": "政治団体が作成する受取書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/51.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:36.408Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1a3834903fe1aae79db871cddeccdd2f9f0f397a1a8477ae80e62f9585c2a2bf",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "政治団体が作成する受取書",
+    "19-51"
+  ],
+  "headings": [
+    "政治団体が作成する受取書",
+    "政治団体が作成する受取書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一第17号文書「非課税物件の欄」",
+  "document_number": "19-51",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1178-6450807472958\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:44 GMT"
+}

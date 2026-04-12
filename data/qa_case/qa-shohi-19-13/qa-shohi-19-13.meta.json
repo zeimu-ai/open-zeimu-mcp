@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-19-13",
+  "title": "被災者に対する自社製品等の提供",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/19/13.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:00.670Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2ca386f3d86377ff29d376ec932c72f7f9092ee8ac5c800f96913680bbb0b9ae",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "被災者に対する自社製品等の提供",
+    "19-13"
+  ],
+  "headings": [
+    "被災者に対する自社製品等の提供",
+    "被災者に対する自社製品等の提供",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第2項、消費税法基本通達11-2-17",
+  "document_number": "19-13",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"14fb-6450806c245d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:35 GMT"
+}

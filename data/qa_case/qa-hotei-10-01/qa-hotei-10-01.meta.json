@@ -1,0 +1,32 @@
+{
+  "id": "qa-hotei-10-01",
+  "title": "法人が非上場株式を購入した場合",
+  "category": "hotei",
+  "category_path": "法定調書",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hotei/10/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:15.877Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:37183d44aa0949b0b42884f96d104b0e6b70e6a7d6cdd5f65df13106a33da2d9",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "法人が非上場株式を購入した場合",
+    "10-01"
+  ],
+  "headings": [
+    "法人が非上場株式を購入した場合",
+    "法人が非上場株式を購入した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第224条の3第1項、第2項、第225条第1項第10号",
+  "document_number": "10-01",
+  "tags": [
+    "法定調書"
+  ],
+  "etag": "\"1559-6450808dbea88\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:10 GMT"
+}

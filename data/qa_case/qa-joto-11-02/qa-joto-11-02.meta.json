@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-11-02",
+  "title": "保証債務を履行するために2つの資産を譲渡した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/11/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:41.335Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b7f63cead1e1fe0d8eaeb9bf2de1eba21e5b5d9d771b356f25bc2e22585c069c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "保証債務を履行するために2つの資産を譲渡した場合",
+    "11-02"
+  ],
+  "headings": [
+    "保証債務を履行するために2つの資産を譲渡した場合",
+    "保証債務を履行するために2つの資産を譲渡した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第64条第2項\n所得税法施行令第180条第2項",
+  "document_number": "11-02",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1c0b-6450805b57d38\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:18 GMT"
+}

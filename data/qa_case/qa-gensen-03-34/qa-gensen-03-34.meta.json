@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-03-34",
+  "title": "時間外勤務が深夜に及ぶ場合のホテル代",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/03/34.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:52.671Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e5b63708d600749b13260603d9863aed5965cfb74d2932e0890bf4b1ca198f62",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "時間外勤務が深夜に及ぶ場合のホテル代",
+    "03-34"
+  ],
+  "headings": [
+    "時間外勤務が深夜に及ぶ場合のホテル代",
+    "時間外勤務が深夜に及ぶ場合のホテル代",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第28条",
+  "document_number": "03-34",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1373-645080920e2c8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:15 GMT"
+}

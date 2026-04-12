@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-13",
+  "title": "相続により取得した住宅に係る借入金",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/13.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:15.494Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7b8e6f14b068b47a048197a11e0bb804a57e69f89f729a88c7274a841daa84c6",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "相続により取得した住宅に係る借入金",
+    "06-13"
+  ],
+  "headings": [
+    "相続により取得した住宅に係る借入金",
+    "相続により取得した住宅に係る借入金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条",
+  "document_number": "06-13",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"11fb-6450808321dc8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:59 GMT"
+}

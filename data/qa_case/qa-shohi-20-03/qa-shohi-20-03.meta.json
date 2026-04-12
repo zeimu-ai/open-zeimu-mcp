@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-20-03",
+  "title": "日本標準産業分類からみた事業区分(大分類－A農業、林業、B漁業、C鉱業、採石業、砂利採取業、D建設業)",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/20/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:01.345Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:09eb7a342c2606ca465805096dff02754d2930c04ab5feca92679418c0d0b462",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "日本標準産業分類からみた事業区分(大分類－A農業、林業、B漁業、C鉱業、採石業、砂利採取業、D建設業)",
+    "20-03"
+  ],
+  "headings": [
+    "日本標準産業分類からみた事業区分(大分類－A農業、林業、B漁業、C鉱業、採石業、砂利採取業、D建設業)",
+    "日本標準産業分類からみた事業区分(大分類－A農業、林業、B漁業、C鉱業、採石業、砂利採取業、D建設業)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法施行令第57条第5項、消費税法基本通達13-2-4",
+  "document_number": "20-03",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"4592-6450806b8cff0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:35 GMT"
+}

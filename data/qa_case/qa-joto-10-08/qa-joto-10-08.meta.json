@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-10-08",
+  "title": "一団の土地を2分して交換した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/10/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:40.683Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c8907326904e946aed5cbc4fa0aab10351a203c64e89b61ac14e47f194fdac6b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "一団の土地を2分して交換した場合",
+    "10-08"
+  ],
+  "headings": [
+    "一団の土地を2分して交換した場合",
+    "一団の土地を2分して交換した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第58条\n所得税基本通達58-9",
+  "document_number": "10-08",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"130f-6450805bd5cd8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:18 GMT"
+}

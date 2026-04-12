@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-07-16",
+  "title": "源泉徴収の対象とされない給与収入がある場合の確定申告",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/07/16.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:18.337Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6a6b9beaf3f888b8317757cb436e5919683593e61a6a9e4b2227957791afb70c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "源泉徴収の対象とされない給与収入がある場合の確定申告",
+    "07-16"
+  ],
+  "headings": [
+    "源泉徴収の対象とされない給与収入がある場合の確定申告",
+    "源泉徴収の対象とされない給与収入がある場合の確定申告",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第120条、第121条第１項、所得税基本通達121-５",
+  "document_number": "07-16",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"14af-64508080adee8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:57 GMT"
+}

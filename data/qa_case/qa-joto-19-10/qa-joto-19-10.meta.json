@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-19-10",
+  "title": "表の第1号の「農業」の範囲",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/19/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:49.085Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4db9fe2d472e374c1ca1d29c585d205fabcbb250f4a44ca68ab9c32f2414ef57",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "表の第1号の「農業」の範囲",
+    "19-10"
+  ],
+  "headings": [
+    "表の第1号の「農業」の範囲",
+    "表の第1号の「農業」の範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第37条第1項の表の第1号",
+  "document_number": "19-10",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1252-6450805577300\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:11 GMT"
+}

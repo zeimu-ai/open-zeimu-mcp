@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-10-14",
+  "title": "転売の目的で交換した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/10/14.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:40.961Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:02ec6230563a790535bd0e9f77d94d7a810b60c4f1ea4552a4117de294165139",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "転売の目的で交換した場合",
+    "10-14"
+  ],
+  "headings": [
+    "転売の目的で交換した場合",
+    "転売の目的で交換した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第58条",
+  "document_number": "10-14",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1535-6450805b9a3b8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:18 GMT"
+}

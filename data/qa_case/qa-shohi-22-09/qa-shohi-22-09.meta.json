@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-22-09",
+  "title": "特定期間の給与等支払額の範囲",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/22/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:03.156Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8d6bc7dedee17d7f00ba433ec66add98c50f436f614ffd5020e874140d0f0d7e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特定期間の給与等支払額の範囲",
+    "22-09"
+  ],
+  "headings": [
+    "特定期間の給与等支払額の範囲",
+    "特定期間の給与等支払額の範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第9条の2、消費税法施行規則第11条の2、消費税法基本通達1-5-23",
+  "document_number": "22-09",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"13d2-6450806a10a00\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:33 GMT"
+}

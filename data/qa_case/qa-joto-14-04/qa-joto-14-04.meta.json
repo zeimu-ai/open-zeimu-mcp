@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-14-04",
+  "title": "複数の建物の移転補償金のうち特定の建物に係る移転補償金のみを対価補償金とすることの可否",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/14/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:43.302Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:172262892c6571497584e2323a5ac029d5e246a1bc89fc6f747e8a2d10026d35",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "複数の建物の移転補償金のうち特定の建物に係る移転補償金のみを対価補償金とすることの可否",
+    "14-04"
+  ],
+  "headings": [
+    "複数の建物の移転補償金のうち特定の建物に係る移転補償金のみを対価補償金とすることの可否",
+    "複数の建物の移転補償金のうち特定の建物に係る移転補償金のみを対価補償金とすることの可否",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第44条\n所得税基本通達34-1(9)\n租税特別措置法関係通達33-14",
+  "document_number": "14-04",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1395-64508059d4218\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:16 GMT"
+}

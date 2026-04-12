@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-03-23",
+  "title": "緊急業務のために出社する従業員に支給するタクシー代等",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/03/23.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:52.032Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3a3eb73c8f2784afde7119c976bf29ad66854eb936dbf256854249c567c27c22",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "緊急業務のために出社する従業員に支給するタクシー代等",
+    "03-23"
+  ],
+  "headings": [
+    "緊急業務のために出社する従業員に支給するタクシー代等",
+    "緊急業務のために出社する従業員に支給するタクシー代等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第9条第1項第4号、第5号",
+  "document_number": "03-23",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"152d-645080926eda8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:15 GMT"
+}

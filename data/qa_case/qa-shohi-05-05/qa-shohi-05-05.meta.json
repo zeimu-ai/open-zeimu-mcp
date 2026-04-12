@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-05-05",
+  "title": "耕作権の譲渡",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/05/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:54.044Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3a5fdabdedf00cc0076d8b5dc7da3b8fb3678fc6c6a0c8e93fadc7fbabf99658",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "耕作権の譲渡",
+    "05-05"
+  ],
+  "headings": [
+    "耕作権の譲渡",
+    "耕作権の譲渡",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法別表第二第1号、消費税法基本通達6-1-2",
+  "document_number": "05-05",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1202-6450807119e50\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:40 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-02-06",
+  "title": "予約契約書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/02/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:25.164Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:320dee7637fe6bcdffdfee4938c901e2bdde7af6f7f8112dca0791fc1b115989",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "予約契約書",
+    "02-06"
+  ],
+  "headings": [
+    "予約契約書",
+    "予約契約書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則5、印紙税法基本通達第15条",
+  "document_number": "02-06",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"122b-6450807cc4b60\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:53 GMT"
+}

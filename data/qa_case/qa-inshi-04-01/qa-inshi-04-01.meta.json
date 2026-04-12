@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-04-01",
+  "title": "通帳等のみなし作成の取扱い",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/04/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:25.994Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:69181297b70954f9fe4b882a98919ccd7e62f03c6f6c9969928b94ad8a4017b7",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "通帳等のみなし作成の取扱い",
+    "04-01"
+  ],
+  "headings": [
+    "通帳等のみなし作成の取扱い",
+    "通帳等のみなし作成の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法第4条第4項、租税特別措置法第91条、消費税法の改正等に伴う印紙税の取扱いについて（平成元年3月10日付間消3－2・最終改正　令和元年7月1日付課消4－55）",
+  "document_number": "04-01",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1efe-6450807c29318\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:52 GMT"
+}

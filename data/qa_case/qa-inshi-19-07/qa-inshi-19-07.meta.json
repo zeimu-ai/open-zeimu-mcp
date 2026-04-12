@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-07",
+  "title": "相殺による領収書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:34.228Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8d29675eb0779134c6a9925416b148e22751f06ee986e75370098d3025d246b6",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "相殺による領収書",
+    "19-07"
+  ],
+  "headings": [
+    "相殺による領収書",
+    "相殺による領収書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一 第17号文書の20",
+  "document_number": "19-07",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"12cc-6450807601058\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:46 GMT"
+}

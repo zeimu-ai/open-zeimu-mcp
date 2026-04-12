@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-03-07",
+  "title": "終身積立保険移行特約により変額年金保険を終身積立保険に移行した場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/03/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:08.754Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9b913e7bd42b63a1ac6ff643885f2a8ba3c31cb2c009f3ed3a34573cf6523bb7",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "終身積立保険移行特約により変額年金保険を終身積立保険に移行した場合",
+    "03-07"
+  ],
+  "headings": [
+    "終身積立保険移行特約により変額年金保険を終身積立保険に移行した場合",
+    "終身積立保険移行特約により変額年金保険を終身積立保険に移行した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第36条、昭53.2.10直資2-36、直所3-5「契約転換制度の所得税法及び相続税法上の取扱いについて」",
+  "document_number": "03-07",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1c06-6450808851be0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:05 GMT"
+}

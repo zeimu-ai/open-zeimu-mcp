@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-18-02",
+  "title": "一取引で複数の種類の商品を購入した場合",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/18/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:59.480Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4a00eeb46e1d223df690dcafc2f30610a5fb0c1302e2a42423d955f26e322bf6",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "一取引で複数の種類の商品を購入した場合",
+    "18-02"
+  ],
+  "headings": [
+    "一取引で複数の種類の商品を購入した場合",
+    "一取引で複数の種類の商品を購入した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第7項、第8項",
+  "document_number": "18-02",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1369-6450806cfe230\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:36 GMT"
+}

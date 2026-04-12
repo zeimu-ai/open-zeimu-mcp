@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-03-08",
+  "title": "ふるさと納税の返礼品の収入計上時期",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/03/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:08.799Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:590e443c1fcbf46538125b411a511ccb7d9e97c48d36c74271cf27888a340c15",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "ふるさと納税の返礼品の収入計上時期",
+    "03-08"
+  ],
+  "headings": [
+    "ふるさと納税の返礼品の収入計上時期",
+    "ふるさと納税の返礼品の収入計上時期",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達36-13",
+  "document_number": "03-08",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"13d8-64508088473e8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:05 GMT"
+}

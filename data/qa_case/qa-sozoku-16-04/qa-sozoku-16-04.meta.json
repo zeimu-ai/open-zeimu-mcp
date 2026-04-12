@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-16-04",
+  "title": "贈与税の配偶者控除の対象となる居住用不動産の範囲(2)",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/16/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:22.782Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b2a5ba84c682d4b6d7061f73d54acc9881a98e2285d6fe3311338fe6c2162f7c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "贈与税の配偶者控除の対象となる居住用不動産の範囲(2)",
+    "16-04"
+  ],
+  "headings": [
+    "贈与税の配偶者控除の対象となる居住用不動産の範囲(2)",
+    "贈与税の配偶者控除の対象となる居住用不動産の範囲(2)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "相続税法第21条の6第1項\n相続税法基本通達21の6-1\n昭和48年11月1日付直資2-189「使用貸借に係る土地についての相続税及び贈与税の取扱いについて」",
+  "document_number": "16-04",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"13ba-64508051512d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:07 GMT"
+}

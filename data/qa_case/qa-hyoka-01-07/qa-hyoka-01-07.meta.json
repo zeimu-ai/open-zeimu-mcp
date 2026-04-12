@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-01-07",
+  "title": "山林の地積",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/01/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:16.242Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c1a330c2696f59f0bd8144ad7748c23fac44ab0c6bf5b3cc25de19c6d1302588",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "山林の地積",
+    "01-07"
+  ],
+  "headings": [
+    "山林の地積",
+    "山林の地積",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達8",
+  "document_number": "01-07",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"1003-64508064e32f8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:28 GMT"
+}

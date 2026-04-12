@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-08-03",
+  "title": "売買目的で保有する有価証券の評価",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/08/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:22.369Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7cb9f27606e926a393c9662a17ca360d986563583adaf2e15a8a80457908d80f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "売買目的で保有する有価証券の評価",
+    "08-03"
+  ],
+  "headings": [
+    "売買目的で保有する有価証券の評価",
+    "売買目的で保有する有価証券の評価",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達4-2、132、133、134、135、168～172",
+  "document_number": "08-03",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"12a4-6450806064cb8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:23 GMT"
+}

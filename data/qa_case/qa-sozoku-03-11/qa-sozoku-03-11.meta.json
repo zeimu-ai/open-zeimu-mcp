@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-03-11",
+  "title": "遺言に基づき遺産の換価代金で特定公益信託を設定した場合の相続税及び譲渡所得の課税関係",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/03/11.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:19.539Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a154edf5131804f825463f424952cd0ef2fa33c59fbe81b8f16f22ca299570a8",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "遺言に基づき遺産の換価代金で特定公益信託を設定した場合の相続税及び譲渡所得の課税関係",
+    "03-11"
+  ],
+  "headings": [
+    "遺言に基づき遺産の換価代金で特定公益信託を設定した場合の相続税及び譲渡所得の課税関係",
+    "遺言に基づき遺産の換価代金で特定公益信託を設定した場合の相続税及び譲渡所得の課税関係",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "相続税法第9条の2、相続税法附則24\n相続税法基本通達9の2－6\n所得税法施行令第217条の2第1項\n民法第1012条、第1015条",
+  "document_number": "03-11",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"1e8c-64508053744b8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:09 GMT"
+}

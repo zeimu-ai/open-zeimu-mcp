@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-35",
+  "title": "肉豚価格差補填事業に係る返還金",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/35.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:07.349Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a83ec35fb6ec8b7af98ebbc05eb9809e3621374850f99f71d58ef3919671e7dd",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "肉豚価格差補填事業に係る返還金",
+    "02-35"
+  ],
+  "headings": [
+    "肉豚価格差補填事業に係る返還金",
+    "肉豚価格差補填事業に係る返還金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第27条、所得税法施行令第167条の2、所得税基本通達27－5",
+  "document_number": "02-35",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"13ae-6450808984df0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:06 GMT"
+}

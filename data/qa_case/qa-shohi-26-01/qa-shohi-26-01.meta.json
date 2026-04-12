@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-26-01",
+  "title": "特定課税仕入れがある場合の納税義務の判定",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/26/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:04.552Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:223b3316216347fddeb2e892355e6a05ea71708dd54471d0a8a9fbb80fca6b55",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特定課税仕入れがある場合の納税義務の判定",
+    "26-01"
+  ],
+  "headings": [
+    "特定課税仕入れがある場合の納税義務の判定",
+    "特定課税仕入れがある場合の納税義務の判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第9条第1項\n消費税法基本通達1-4-2（注）4",
+  "document_number": "26-01",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"14c2-64508069077d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:32 GMT"
+}

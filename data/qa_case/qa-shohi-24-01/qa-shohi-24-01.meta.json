@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-24-01",
+  "title": "匿名組合の出資者の持分の譲渡",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/24/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:04.043Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8c45bb5f4f1f68d6f3db635f1d209bc8247a080d1aa93e4cd0dde92f00086097",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "匿名組合の出資者の持分の譲渡",
+    "24-01"
+  ],
+  "headings": [
+    "匿名組合の出資者の持分の譲渡",
+    "匿名組合の出資者の持分の譲渡",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法別表第二第2号、消費税法施行令第9条第1項第2号",
+  "document_number": "24-01",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"13e8-6450806967ec8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:32 GMT"
+}

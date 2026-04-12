@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-02-01",
+  "title": "新聞販売権の譲渡",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/02/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:37.713Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:dc4cbb435c555a1d09fe51aca1416318b3289f59dfdb410236f4d426a16bb608",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "新聞販売権の譲渡",
+    "02-01"
+  ],
+  "headings": [
+    "新聞販売権の譲渡",
+    "新聞販売権の譲渡",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第33条　所得税法施行令第120条",
+  "document_number": "02-01",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"11cd-6450805e21f00\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:21 GMT"
+}

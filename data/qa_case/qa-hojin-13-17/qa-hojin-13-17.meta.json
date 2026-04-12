@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-13-17",
+  "title": "支援者が極少数である場合の支援者の合意",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/13/17.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:04.901Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:aab4c9908dced14244f9899db0cb73efd9509b42c3a83c4cbfe78d03328dac4c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "支援者が極少数である場合の支援者の合意",
+    "13-17"
+  ],
+  "headings": [
+    "支援者が極少数である場合の支援者の合意",
+    "支援者が極少数である場合の支援者の合意",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税基本通達9－4－2",
+  "document_number": "13-17",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"12af-645080a178b50\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:31 GMT"
+}

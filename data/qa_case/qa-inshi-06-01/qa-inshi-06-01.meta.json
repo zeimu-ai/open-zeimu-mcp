@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-06-01",
+  "title": "納税地の特定",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/06/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:26.151Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3912a686fda079d83d9cac82bdebcad252b4a36a3385d6ee47c3f2957fe0da5b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "納税地の特定",
+    "06-01"
+  ],
+  "headings": [
+    "納税地の特定",
+    "納税地の特定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法第6条、第9条～第11条、印紙税法施行令第4条、印紙税法基本通達第50条～52条",
+  "document_number": "06-01",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"24b1-6450807c0aeb8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:52 GMT"
+}

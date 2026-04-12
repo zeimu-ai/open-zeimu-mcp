@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-21-07",
+  "title": "繰越明許費の取扱い",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/21/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:02.378Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:fe6c11f0bc65a6e28531369eb49be12e71ec6661e21968700ed67f99a422b64e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "繰越明許費の取扱い",
+    "21-07"
+  ],
+  "headings": [
+    "繰越明許費の取扱い",
+    "繰越明許費の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第60条第4項、消費税法施行令第75条",
+  "document_number": "21-07",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"181c-6450806aac248\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:34 GMT"
+}

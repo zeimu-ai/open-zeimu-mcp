@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-05-06",
+  "title": "借家権の譲渡所得の計算上控除する取得費",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/05/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:38.950Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:140d58c57740cfdc02a8ea4e0294eb3d69c2a4ccdb32c457d21d00308bd73ecf",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "借家権の譲渡所得の計算上控除する取得費",
+    "05-06"
+  ],
+  "headings": [
+    "借家権の譲渡所得の計算上控除する取得費",
+    "借家権の譲渡所得の計算上控除する取得費",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第38条、第50条\n所得税法施行令第7条第1項第3号、第137条第1項第2号\n所得税基本通達2-27(1)、33-6、38-15、50-3",
+  "document_number": "05-06",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"12db-6450805d37ce8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:20 GMT"
+}

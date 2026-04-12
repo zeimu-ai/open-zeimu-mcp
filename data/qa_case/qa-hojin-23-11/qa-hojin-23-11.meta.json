@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-23-11",
+  "title": "組織再編成があった場合の特定法人の判定について（従業員数の調整の有無）",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/23/11.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:10.013Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3d47c3e037dad82b993bccd42d7df1c8a903758f40f144683c108b607ca31b46",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "組織再編成があった場合の特定法人の判定について（従業員数の調整の有無）",
+    "23-11"
+  ],
+  "headings": [
+    "組織再編成があった場合の特定法人の判定について（従業員数の調整の有無）",
+    "組織再編成があった場合の特定法人の判定について（従業員数の調整の有無）",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第42条の12の５第２項、第５項第10号",
+  "document_number": "23-11",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"256d-6450809e115e8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:28 GMT"
+}

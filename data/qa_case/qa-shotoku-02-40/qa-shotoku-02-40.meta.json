@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-40",
+  "title": "預け入れていた外貨建預貯金を払い出して貸付用の建物を購入した場合の為替差損益の取扱い",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/40.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:07.596Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:16eb490f0d51322785dfe94be2d3a5104e857cede831d765c915fa3d074609b6",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "預け入れていた外貨建預貯金を払い出して貸付用の建物を購入した場合の為替差損益の取扱い",
+    "02-40"
+  ],
+  "headings": [
+    "預け入れていた外貨建預貯金を払い出して貸付用の建物を購入した場合の為替差損益の取扱い",
+    "預け入れていた外貨建預貯金を払い出して貸付用の建物を購入した場合の為替差損益の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第36条、第57条の3、所得税法施行令第118条、第167条の6",
+  "document_number": "02-40",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1a03-64508089511d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:06 GMT"
+}

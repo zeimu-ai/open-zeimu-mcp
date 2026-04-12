@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-41",
+  "title": "家事代行サービスに支払う紹介手数料",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/41.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:12.537Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0edc0af5339ac4857bf400d886baa5252f6cc58357cd59fd03594f4e9071b8cf",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "家事代行サービスに支払う紹介手数料",
+    "05-41"
+  ],
+  "headings": [
+    "家事代行サービスに支払う紹介手数料",
+    "家事代行サービスに支払う紹介手数料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達73-6",
+  "document_number": "05-41",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"115b-6450808578bd0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:02 GMT"
+}

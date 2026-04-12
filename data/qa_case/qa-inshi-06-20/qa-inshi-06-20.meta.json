@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-06-20",
+  "title": "交付を受けた文書に過誤納があった場合の還付",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/06/20.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:27.134Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:70d5595ff6feec7313b506afa4d131f59541c1180c2c6d24121e9c48a997f1ca",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "交付を受けた文書に過誤納があった場合の還付",
+    "06-20"
+  ],
+  "headings": [
+    "交付を受けた文書に過誤納があった場合の還付",
+    "交付を受けた文書に過誤納があった場合の還付",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法第10条第2項、印紙税法基本通達第115条の2",
+  "document_number": "06-20",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1827-6450807b3f100\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:51 GMT"
+}

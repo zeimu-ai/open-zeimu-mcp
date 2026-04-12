@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-09",
+  "title": "区画整理事業により休業する期間の青色事業専従者給与",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:09.256Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:be7fa9c04ea762a27363fd99560223731859277954d318e1925a93cd7283978a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "区画整理事業により休業する期間の青色事業専従者給与",
+    "04-09"
+  ],
+  "headings": [
+    "区画整理事業により休業する期間の青色事業専従者給与",
+    "区画整理事業により休業する期間の青色事業専従者給与",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第57条、昭40.10.8直審(資)4「青色事業専従者が事業から給与の支給を受けた場合の贈与税の取扱いについて」",
+  "document_number": "04-09",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1377-64508087ef1c0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:04 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-21-06",
+  "title": "寄附者等に対する特別の利益の供与があった場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/21/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:49.963Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:01206c5fb054c15405a364327b5e729b66e9210a3322bb5c1b36f00c2edae47c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "寄附者等に対する特別の利益の供与があった場合",
+    "21-06"
+  ],
+  "headings": [
+    "寄附者等に対する特別の利益の供与があった場合",
+    "寄附者等に対する特別の利益の供与があった場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第40条\n租税特別措置法施行令第25条の17第5項第3号、第6項第2号 　昭和55年4月23日直資2－181「租税特別措置法第40条第1項後段の規定による譲渡所得等の非課税の取扱いについて」19",
+  "document_number": "21-06",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"181b-64508054d7080\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:11 GMT"
+}

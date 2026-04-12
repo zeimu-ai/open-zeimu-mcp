@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-10-08",
+  "title": "特定居住用宅地等の要件の一つである「相続開始時から申告期限まで引き続き当該建物に居住していること」の意義",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/10/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:21.162Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ec95e1c3f1d9eaac988f26b07f3ff5245240086f9ec4f36bd8d829a4028bddab",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特定居住用宅地等の要件の一つである「相続開始時から申告期限まで引き続き当該建物に居住していること」の意義",
+    "10-08"
+  ],
+  "headings": [
+    "特定居住用宅地等の要件の一つである「相続開始時から申告期限まで引き続き当該建物に居住していること」の意義",
+    "特定居住用宅地等の要件の一つである「相続開始時から申告期限まで引き続き当該建物に居住していること」の意義",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第69条の4第3項第2号",
+  "document_number": "10-08",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"150d-64508052771f0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:08 GMT"
+}

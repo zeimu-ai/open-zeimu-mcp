@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-01",
+  "title": "シロアリの駆除費用",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:10.493Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:98706fec63d79d6f66dc359b492ce023bba232c79dc2c230afeb90a5887a5908",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "シロアリの駆除費用",
+    "05-01"
+  ],
+  "headings": [
+    "シロアリの駆除費用",
+    "シロアリの駆除費用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第2条第1項第27号、第72条、所得税法施行令第9条、第206条第1項第3号、所得税基本通達70-11",
+  "document_number": "05-01",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"13c4-64508086ebd50\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:03 GMT"
+}

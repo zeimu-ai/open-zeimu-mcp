@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-08-04",
+  "title": "土地贈与契約書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/08/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:27.493Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d1eb9a688df4931bcef266ff2e063ac161532f35858227fe499ba03c9ffa596d",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "土地贈与契約書",
+    "08-04"
+  ],
+  "headings": [
+    "土地贈与契約書",
+    "土地贈与契約書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一（第1号の1文書）",
+  "document_number": "08-04",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"11da-6450807af4998\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:51 GMT"
+}

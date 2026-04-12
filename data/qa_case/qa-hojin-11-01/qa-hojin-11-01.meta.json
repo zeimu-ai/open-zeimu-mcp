@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-11-01",
+  "title": "相続財産に含まれる株式が未分割である場合の使用人兼務役員の判定",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/11/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:02.810Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b87905faefed097c6d1dc36ecace2700e01c862fad17ba6614e9c980f332096c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "相続財産に含まれる株式が未分割である場合の使用人兼務役員の判定",
+    "11-01"
+  ],
+  "headings": [
+    "相続財産に含まれる株式が未分割である場合の使用人兼務役員の判定",
+    "相続財産に含まれる株式が未分割である場合の使用人兼務役員の判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法施行令第71条\n民法第898条、第909条",
+  "document_number": "11-01",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1492-645080a2bd6a0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:32 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-17-01",
+  "title": "再ファクタリングの場合の課税売上割合の計算",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/17/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:58.597Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:06598021dc4612e83c290df90f5237986efed41a8b99d99d2759919015d74de5",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "再ファクタリングの場合の課税売上割合の計算",
+    "17-01"
+  ],
+  "headings": [
+    "再ファクタリングの場合の課税売上割合の計算",
+    "再ファクタリングの場合の課税売上割合の計算",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第6項、消費税法施行令第48条",
+  "document_number": "17-01",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1566-6450806d9b1e8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:37 GMT"
+}

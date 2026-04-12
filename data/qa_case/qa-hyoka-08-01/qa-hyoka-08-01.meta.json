@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-08-01",
+  "title": "評価会社が受け取った生命保険金の取扱い",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/08/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:22.258Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:35bee38f56c697e40d75fc38bc8043b651451d32b4f4cd0b705a0c37566360a4",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "評価会社が受け取った生命保険金の取扱い",
+    "08-01"
+  ],
+  "headings": [
+    "評価会社が受け取った生命保険金の取扱い",
+    "評価会社が受け取った生命保険金の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達185、186、186-2\n平成2年12月27日付直評23外「相続税及び贈与税における取引相場のない株式等の評価明細書の様式及び記載方法等について」通達　第5表2(4)",
+  "document_number": "08-01",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"17e3-6450806078920\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:23 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-57",
+  "title": "死亡した父親の医療費",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/57.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:13.368Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6c8930ef34eeeefac5c00a13efa9d0afdabb8b2bc22b607bea53595e8256a73a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "死亡した父親の医療費",
+    "05-57"
+  ],
+  "headings": [
+    "死亡した父親の医療費",
+    "死亡した父親の医療費",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達73-1、73-2",
+  "document_number": "05-57",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"14af-64508084d79b0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:01 GMT"
+}

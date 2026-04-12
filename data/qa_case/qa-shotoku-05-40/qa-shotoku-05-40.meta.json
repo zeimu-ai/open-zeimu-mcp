@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-40",
+  "title": "医師やナースセンターに対する贈物の購入費用",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/40.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:12.483Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9219495009548db3496c16a7d38f71bdc1ae0fea0aaa1bb4806b3d9ba38b898b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "医師やナースセンターに対する贈物の購入費用",
+    "05-40"
+  ],
+  "headings": [
+    "医師やナースセンターに対する贈物の購入費用",
+    "医師やナースセンターに対する贈物の購入費用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第207条、所得税基本通達73-3",
+  "document_number": "05-40",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"11e9-6450808584f20\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:02 GMT"
+}

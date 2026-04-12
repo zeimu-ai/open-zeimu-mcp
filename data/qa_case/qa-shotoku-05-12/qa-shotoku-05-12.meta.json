@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-12",
+  "title": "かぜ薬の購入費用",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:11.090Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:393af1d28f614ff7be2d7f58e3064094f4a7742485568ddc3b9875d4f8bfc851",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "かぜ薬の購入費用",
+    "05-12"
+  ],
+  "headings": [
+    "かぜ薬の購入費用",
+    "かぜ薬の購入費用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第207条、所得税基本通達73-5",
+  "document_number": "05-12",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1307-64508086854b0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:03 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-14",
+  "title": "底地の購入に係る借入金",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/14.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:15.548Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ccc52b59d5d42e015b3de735155a3af930850b50a36473bdc2d3f8c8c3254c2a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "底地の購入に係る借入金",
+    "06-14"
+  ],
+  "headings": [
+    "底地の購入に係る借入金",
+    "底地の購入に係る借入金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第1項、租税特別措置法施行令第26条第9項～第18項",
+  "document_number": "06-14",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"16c8-64508083179b8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:59 GMT"
+}

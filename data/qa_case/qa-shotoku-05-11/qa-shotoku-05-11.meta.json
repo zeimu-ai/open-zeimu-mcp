@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-11",
+  "title": "無痛分べん講座の受講費用",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/11.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:11.066Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0b45efc4cc289a7668eda5a9bb87622dec0f1249b86b4b4733b8be533e939524",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "無痛分べん講座の受講費用",
+    "05-11"
+  ],
+  "headings": [
+    "無痛分べん講座の受講費用",
+    "無痛分べん講座の受講費用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第207条、所得税基本通達73-3",
+  "document_number": "05-11",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"121c-645080868e150\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:03 GMT"
+}

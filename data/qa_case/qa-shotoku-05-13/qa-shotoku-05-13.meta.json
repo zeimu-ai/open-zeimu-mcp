@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-13",
+  "title": "食事療法に基づく食品の購入費用",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/13.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:11.142Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:109ff4ff65574f7274020096ccb796026caf99214c246147c1a0882ba2298aee",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "食事療法に基づく食品の購入費用",
+    "05-13"
+  ],
+  "headings": [
+    "食事療法に基づく食品の購入費用",
+    "食事療法に基づく食品の購入費用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第207条、所得税基本通達73-3",
+  "document_number": "05-13",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"11c4-645080867c040\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:03 GMT"
+}

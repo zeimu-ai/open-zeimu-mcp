@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-14-28",
+  "title": "土地の使用に代わる買取りの請求に基づく土地の買取り",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/14/28.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:44.551Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:85f432b2a5a5d66188729dadf9d6683c2b7747e84c73b4e3a64c9007b92ff316",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "土地の使用に代わる買取りの請求に基づく土地の買取り",
+    "14-28"
+  ],
+  "headings": [
+    "土地の使用に代わる買取りの請求に基づく土地の買取り",
+    "土地の使用に代わる買取りの請求に基づく土地の買取り",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第33条第1項第2号、第33条の4第3項第1号\n土地収用法第42条、第81条、第87条",
+  "document_number": "14-28",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"16ed-64508058e4628\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:15 GMT"
+}

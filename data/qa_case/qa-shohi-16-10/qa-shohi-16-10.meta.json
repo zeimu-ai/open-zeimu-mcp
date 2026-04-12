@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-16-10",
+  "title": "会社が負担する社員の食事代金",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/16/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:57.721Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d422a407c3df33e44219b7a69a45b3b167fd50021e885f7fdab830560923a3ba",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "会社が負担する社員の食事代金",
+    "16-10"
+  ],
+  "headings": [
+    "会社が負担する社員の食事代金",
+    "会社が負担する社員の食事代金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第2条第1項第12号",
+  "document_number": "16-10",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"137a-6450806e37200\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:37 GMT"
+}

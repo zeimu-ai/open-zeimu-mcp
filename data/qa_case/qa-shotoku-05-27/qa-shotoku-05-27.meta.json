@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-27",
+  "title": "出産のために欠勤した場合に給付される出産手当金",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/27.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:11.861Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:30ff3f617c456784add6033fa4153c1f30e343df27b62b2f1906831c36a2db31",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "出産のために欠勤した場合に給付される出産手当金",
+    "05-27"
+  ],
+  "headings": [
+    "出産のために欠勤した場合に給付される出産手当金",
+    "出産のために欠勤した場合に給付される出産手当金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第73条第1項、所得税基本通達73-8(4)、73-9",
+  "document_number": "05-27",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1460-64508085f1d50\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:02 GMT"
+}

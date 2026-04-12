@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-26",
+  "title": "ビニールハウスの耐用年数",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/26.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:10.026Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4b8f2fc1ead042013093b485c040344773c2f0f53fab1261478b78796e4b2967",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "ビニールハウスの耐用年数",
+    "04-26"
+  ],
+  "headings": [
+    "ビニールハウスの耐用年数",
+    "ビニールハウスの耐用年数",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "減価償却資産の耐用年数等に関する省令第1条第1項、別表第一",
+  "document_number": "04-26",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"13b9-64508087600b0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:04 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-03-33",
+  "title": "海外勤務期間内に控除対象扶養親族が死亡した場合の扶養控除の適用",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/03/33.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:52.616Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7e42d05919344a029b5fecdb77da2e1cffbd5e684c3ed53bd5efd01c2f826204",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "海外勤務期間内に控除対象扶養親族が死亡した場合の扶養控除の適用",
+    "03-33"
+  ],
+  "headings": [
+    "海外勤務期間内に控除対象扶養親族が死亡した場合の扶養控除の適用",
+    "海外勤務期間内に控除対象扶養親族が死亡した場合の扶養控除の適用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第102条、所得税法施行令第258条",
+  "document_number": "03-33",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"132b-64508092186d8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:15 GMT"
+}

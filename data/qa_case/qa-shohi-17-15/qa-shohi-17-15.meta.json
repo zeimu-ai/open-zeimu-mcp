@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-17-15",
+  "title": "課税売上割合に準ずる割合が95％以上の場合の取扱い",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/17/15.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:59.340Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1f6cdf4d9d998c377a3f7c521926ec4e7a15564df84aa7539a6f64408522e679",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "課税売上割合に準ずる割合が95％以上の場合の取扱い",
+    "17-15"
+  ],
+  "headings": [
+    "課税売上割合に準ずる割合が95％以上の場合の取扱い",
+    "課税売上割合に準ずる割合が95％以上の場合の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第2項、消費税法基本通達11-5-9",
+  "document_number": "17-15",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"14bc-6450806d197b0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:36 GMT"
+}

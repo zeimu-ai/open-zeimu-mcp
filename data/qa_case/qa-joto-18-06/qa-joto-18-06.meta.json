@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-18-06",
+  "title": "扶養親族の居住の用に供している相続家屋",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/18/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:47.477Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9a5efd9144870ed2e901d0fcf036686e981b88a7ecedef9ad03e7316c23a6886",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "扶養親族の居住の用に供している相続家屋",
+    "18-06"
+  ],
+  "headings": [
+    "扶養親族の居住の用に供している相続家屋",
+    "扶養親族の居住の用に供している相続家屋",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第35条第1項、第2項\n租税特別措置法関係通達35-6、31の3-6",
+  "document_number": "18-06",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1267-645080569e990\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:13 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-24-01",
+  "title": "課税される定款の範囲",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/24/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:37.199Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ebd7e3870b4c9914c8f1d4741938046b18e111d774deab6bb32e660f8ad88f11",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "課税される定款の範囲",
+    "24-01"
+  ],
+  "headings": [
+    "課税される定款の範囲",
+    "課税される定款の範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の「定義欄」「非課税物件の欄」",
+  "document_number": "24-01",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"15fd-64508073da7c0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:43 GMT"
+}

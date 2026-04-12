@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-15-15",
+  "title": "償却費の額の合計額の計算",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/15/15.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:23.704Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:560840b941a1861229334d7cd7722be107934a0487ea44f73c992df64ebf1fa6",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "償却費の額の合計額の計算",
+    "15-15"
+  ],
+  "headings": [
+    "償却費の額の合計額の計算",
+    "償却費の額の合計額の計算",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達92（2）、97、129、130、136\n減価償却資産の耐用年数等に関する省令",
+  "document_number": "15-15",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"12b0-6450805f656c8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:22 GMT"
+}

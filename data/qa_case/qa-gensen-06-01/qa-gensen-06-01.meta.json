@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-06-01",
+  "title": "土地等が共有されている場合の取扱い",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/06/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:55.104Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c473fd198dde65a8603c0e346025d37c3962886961418d4e8d1a1605f198a690",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "土地等が共有されている場合の取扱い",
+    "06-01"
+  ],
+  "headings": [
+    "土地等が共有されている場合の取扱い",
+    "土地等が共有されている場合の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第161条第1項第5号、第212条第1項、所得税法施行令第281条の3",
+  "document_number": "06-01",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1634-6450809081338\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:13 GMT"
+}

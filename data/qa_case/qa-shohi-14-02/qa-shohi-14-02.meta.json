@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-14-02",
+  "title": "現物出資の場合の課税標準",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/14/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:56.676Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1da4d28808315cff22dc112e3f26fab28f6e8f9e91d35168bcd23b811d4cce81",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "現物出資の場合の課税標準",
+    "14-02"
+  ],
+  "headings": [
+    "現物出資の場合の課税標準",
+    "現物出資の場合の課税標準",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法施行令第2条第1項第2号、第45条第2項第3号",
+  "document_number": "14-02",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1308-6450806f16450\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:38 GMT"
+}

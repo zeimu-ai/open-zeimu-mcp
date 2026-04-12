@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-27",
+  "title": "資本的支出の取得価額の特例",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/27.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:10.089Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e0b3c141db0e93e4ac65d7320d1de03b46b2bd264dd8a87dc5e6d43089ffc2c6",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "資本的支出の取得価額の特例",
+    "04-27"
+  ],
+  "headings": [
+    "資本的支出の取得価額の特例",
+    "資本的支出の取得価額の特例",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第120の2第1項第1号イ(2)、第127条第1項、第2項、第5項、平成23年政令第378号附則2条第2項",
+  "document_number": "04-27",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1a5e-6450808756088\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:04 GMT"
+}

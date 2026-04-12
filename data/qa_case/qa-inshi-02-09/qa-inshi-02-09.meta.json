@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-02-09",
+  "title": "補充契約書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/02/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:25.323Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7b8904af6d542e06ea82d29bce915f8097a7f03a5ebe80e41e3598c782a35017",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "補充契約書",
+    "02-09"
+  ],
+  "headings": [
+    "補充契約書",
+    "補充契約書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則5、印紙税法基本通達第18条",
+  "document_number": "02-09",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"11b5-6450807ca3050\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:53 GMT"
+}

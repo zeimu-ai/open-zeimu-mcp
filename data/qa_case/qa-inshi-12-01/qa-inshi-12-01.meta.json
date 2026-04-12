@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-12-01",
+  "title": "請負と売買の判断基準(1)",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/12/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:29.630Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1a536c5777be60cf5e1a60578663b747630cda4f162c24fc8607e10b4183d2f5",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "請負と売買の判断基準(1)",
+    "12-01"
+  ],
+  "headings": [
+    "請負と売買の判断基準(1)",
+    "請負と売買の判断基準(1)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則3のイ、印紙税法施行令第26条、印紙税法基本通達別表第一第2号文書の2",
+  "document_number": "12-01",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1ec3-64508079535d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:49 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-29",
+  "title": "数年間にわたり支払を受ける保険金",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/29.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:07.080Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a3ed7fb9492d97387dad2c95cf5ff4aff927010371ab1af2010ad5228a5ff4bc",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "数年間にわたり支払を受ける保険金",
+    "02-29"
+  ],
+  "headings": [
+    "数年間にわたり支払を受ける保険金",
+    "数年間にわたり支払を受ける保険金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法35条",
+  "document_number": "02-29",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"150d-64508089bf770\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:06 GMT"
+}

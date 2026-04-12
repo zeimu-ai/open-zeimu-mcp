@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-18-11",
+  "title": "インターネットを通じて取引を行った場合の仕入税額控除の適用について",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/18/11.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:59.945Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e425859cd2dbce9e67e0114c3341e72e83eac58008d147f5eb5ba0676217e9b0",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "インターネットを通じて取引を行った場合の仕入税額控除の適用について",
+    "18-11"
+  ],
+  "headings": [
+    "インターネットを通じて取引を行った場合の仕入税額控除の適用について",
+    "インターネットを通じて取引を行った場合の仕入税額控除の適用について",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第7項、第9項、消費税法施行令第50条第1項、消費税法施行規則第15条の5、電子帳簿保存法施行規則第2条第2項、第6項、第4条第1項",
+  "document_number": "18-11",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"30f7-6450806cb2b28\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:36 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-15-05",
+  "title": "2以上の取引を継続して行うための契約であることの要件",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/15/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:31.544Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a03c20ef1f9470f7c2481be47e2df289664afb716a4b0e3203262dece0100700",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "2以上の取引を継続して行うための契約であることの要件",
+    "15-05"
+  ],
+  "headings": [
+    "2以上の取引を継続して行うための契約であることの要件",
+    "2以上の取引を継続して行うための契約であることの要件",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一第7号文書の4、6",
+  "document_number": "15-05",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1375-64508077e8538\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:48 GMT"
+}

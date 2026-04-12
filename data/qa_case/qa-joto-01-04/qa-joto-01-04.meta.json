@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-01-04",
+  "title": "自己所有不動産を落札した場合の譲渡所得の課税",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/01/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:37.605Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:03563846e489540ae1c4625b95853c4f0a8d17eeb0171b0570a04dcb9cbc7194",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "自己所有不動産を落札した場合の譲渡所得の課税",
+    "01-04"
+  ],
+  "headings": [
+    "自己所有不動産を落札した場合の譲渡所得の課税",
+    "自己所有不動産を落札した場合の譲渡所得の課税",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第33条",
+  "document_number": "01-04",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1363-6450805e36338\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:21 GMT"
+}

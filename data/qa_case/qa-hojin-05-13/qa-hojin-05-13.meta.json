@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-05-13",
+  "title": "空撮専用ドローンの耐用年数",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/05/13.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:00.872Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3c98e2e730165ba4c6cfb5f291ca6e706d9871926c6a6e0aaa849760a5136c80",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "空撮専用ドローンの耐用年数",
+    "05-13"
+  ],
+  "headings": [
+    "空撮専用ドローンの耐用年数",
+    "空撮専用ドローンの耐用年数",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "減価償却資産の耐用年数等に関する省令別表第1\n航空法第2条第１項、第22項\n航空法施行規則第５条の２",
+  "document_number": "05-13",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1d96-645080a3fb878\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:34 GMT"
+}

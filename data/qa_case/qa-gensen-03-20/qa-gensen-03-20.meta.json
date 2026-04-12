@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-03-20",
+  "title": "交通用具を使用している者の通勤距離が変更となった場合の非課税限度額",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/03/20.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:51.847Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a81ff10a30ce3e40415481f221871049538e94a2137e9b3aad32b9f787b5ca9f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "交通用具を使用している者の通勤距離が変更となった場合の非課税限度額",
+    "03-20"
+  ],
+  "headings": [
+    "交通用具を使用している者の通勤距離が変更となった場合の非課税限度額",
+    "交通用具を使用している者の通勤距離が変更となった場合の非課税限度額",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第9条第1項第5号、所得税法施行令第20条の2",
+  "document_number": "03-20",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"156b-645080928ddc0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:15 GMT"
+}

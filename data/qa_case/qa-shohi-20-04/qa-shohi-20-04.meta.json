@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-20-04",
+  "title": "日本標準産業分類からみた事業区分(大分類－E製造業)",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/20/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:01.392Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6f02dd48f1443b70ef1f2e9b66d23b5d5324ca9247ec6869322311490607bdfd",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "日本標準産業分類からみた事業区分(大分類－E製造業)",
+    "20-04"
+  ],
+  "headings": [
+    "日本標準産業分類からみた事業区分(大分類－E製造業)",
+    "日本標準産業分類からみた事業区分(大分類－E製造業)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法施行令第57条第5項、消費税法基本通達13-2-4",
+  "document_number": "20-04",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"89e4-6450806b787d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:35 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-17-01",
+  "title": "未許可農地を転売した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/17/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:47.066Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c262fe2ed48030320ef3047cdf0696419e9cfc8dd6adb1da7670b0c3967b0c84",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "未許可農地を転売した場合",
+    "17-01"
+  ],
+  "headings": [
+    "未許可農地を転売した場合",
+    "未許可農地を転売した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第34条の3\n租税特別措置法関係通達31・32共-1の2\n農業振興地域の整備に関する法律第3条",
+  "document_number": "17-01",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1448-64508056eeeb8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:13 GMT"
+}

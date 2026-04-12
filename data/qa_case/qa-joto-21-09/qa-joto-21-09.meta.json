@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-21-09",
+  "title": "法人の機関の構成が親族等制限規定に抵触する場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/21/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:50.125Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0c3992e3300b2e87bff5fba7e3146a2907d2d8b6a66dd5dbec68c4c9d7bbd33d",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "法人の機関の構成が親族等制限規定に抵触する場合",
+    "21-09"
+  ],
+  "headings": [
+    "法人の機関の構成が親族等制限規定に抵触する場合",
+    "法人の機関の構成が親族等制限規定に抵触する場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第40条\n租税特別措置法施行令第25条の17第6項第1号",
+  "document_number": "21-09",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"13b4-64508054b7c80\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:11 GMT"
+}

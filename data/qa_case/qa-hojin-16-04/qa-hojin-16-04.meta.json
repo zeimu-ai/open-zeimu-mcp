@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-16-04",
+  "title": "担保物がある場合の貸倒れ",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/16/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:07.012Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f6eb94b71c96b66b153c39b740ae3f81b967e1ea0a5851fed39f45234baa45d0",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "担保物がある場合の貸倒れ",
+    "16-04"
+  ],
+  "headings": [
+    "担保物がある場合の貸倒れ",
+    "担保物がある場合の貸倒れ",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税基本通達9-6-1(4)、9-6-2",
+  "document_number": "16-04",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1969-645080a006588\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:30 GMT"
+}

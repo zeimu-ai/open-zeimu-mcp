@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-10-01",
+  "title": "相続開始の年に被相続人から贈与を受けた宅地に係る小規模宅地等の特例の適用の可否",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/10/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:20.733Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d3a3b73bf1baa680a94c8786304b6c75f4f6b2900f90b366a675dc69ee8300dd",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "相続開始の年に被相続人から贈与を受けた宅地に係る小規模宅地等の特例の適用の可否",
+    "10-01"
+  ],
+  "headings": [
+    "相続開始の年に被相続人から贈与を受けた宅地に係る小規模宅地等の特例の適用の可否",
+    "相続開始の年に被相続人から贈与を受けた宅地に係る小規模宅地等の特例の適用の可否",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第69条の4第1項\n租税特別措置法関係通達69の4－1",
+  "document_number": "10-01",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"15c9-64508052a2d28\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:08 GMT"
+}

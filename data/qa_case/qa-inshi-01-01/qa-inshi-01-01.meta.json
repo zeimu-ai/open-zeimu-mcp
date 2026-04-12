@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-01-01",
+  "title": "2以上の号に該当する文書の所属の決定",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/01/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:24.856Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f2d93e36302ea7ce9f6567b6dd504373cce3ec7e6adacd7e14036540e1ae9ad5",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "2以上の号に該当する文書の所属の決定",
+    "01-01"
+  ],
+  "headings": [
+    "2以上の号に該当する文書の所属の決定",
+    "2以上の号に該当する文書の所属の決定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一　課税物件表の適用に関する通則、租税特別措置法第91条、印紙税法基本通達第11条",
+  "document_number": "01-01",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1e27-6450807d01fd8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:53 GMT"
+}

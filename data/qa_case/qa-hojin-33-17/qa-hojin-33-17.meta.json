@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-33-17",
+  "title": "株式の保有関係が変更している場合の青色欠損金額の引継ぎ",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/33/17.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:13.343Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:32ff3fafe1c3cdd2d414176ab811d4945a314fbdd82a780b38dbdcddde0f91f4",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "株式の保有関係が変更している場合の青色欠損金額の引継ぎ",
+    "33-17"
+  ],
+  "headings": [
+    "株式の保有関係が変更している場合の青色欠損金額の引継ぎ",
+    "株式の保有関係が変更している場合の青色欠損金額の引継ぎ",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第57条第2項、第3項",
+  "document_number": "33-17",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"19b7-6450809bb9c28\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:25 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-02-12",
+  "title": "相続開始時点で売買契約中であった不動産に係る相続税の課税",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/02/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:19.076Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b054dac0a77bc2310e217c2708d810336adeb6dc3d7f31be8aca187411a87452",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "相続開始時点で売買契約中であった不動産に係る相続税の課税",
+    "02-12"
+  ],
+  "headings": [
+    "相続開始時点で売買契約中であった不動産に係る相続税の課税",
+    "相続開始時点で売買契約中であった不動産に係る相続税の課税",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "相続税法第２条、第13条\n財産評価基本通達204\n最高裁昭和61年12月５日判決、同平成２年７月13日判決",
+  "document_number": "02-12",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"1d9f-64508053d0d30\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:10 GMT"
+}

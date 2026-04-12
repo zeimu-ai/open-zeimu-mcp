@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-05-15",
+  "title": "相続財産の分与により取得した資産の取得費等",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/05/15.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:39.416Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9dee4a448b4339870f1d9972086a68de9272721d2db6f4c330faf1ff53f9f771",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "相続財産の分与により取得した資産の取得費等",
+    "05-15"
+  ],
+  "headings": [
+    "相続財産の分与により取得した資産の取得費等",
+    "相続財産の分与により取得した資産の取得費等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第60条第1項\n民法第958条の2第1項",
+  "document_number": "05-15",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"127b-6450805cdc028\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:19 GMT"
+}

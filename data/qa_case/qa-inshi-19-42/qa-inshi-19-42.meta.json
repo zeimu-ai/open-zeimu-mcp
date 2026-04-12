@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-42",
+  "title": "工事負担金の受取書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/42.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:35.938Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2d8abb65b274515dd4e94e2202ef3686be0a2467dc3f793c9f1a65c206c969e0",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "工事負担金の受取書",
+    "19-42"
+  ],
+  "headings": [
+    "工事負担金の受取書",
+    "工事負担金の受取書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一 第17号文書の15",
+  "document_number": "19-42",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1595-64508074c9fc8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:44 GMT"
+}

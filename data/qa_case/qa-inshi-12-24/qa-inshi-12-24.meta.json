@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-12-24",
+  "title": "プログラムの設計・開発契約書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/12/24.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:30.815Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:deec840f288cfa54ea4ed6159dfc8fdad956e43106252fe478ac426ade3b03ab",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "プログラムの設計・開発契約書",
+    "12-24"
+  ],
+  "headings": [
+    "プログラムの設計・開発契約書",
+    "プログラムの設計・開発契約書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一 第2号文書の1",
+  "document_number": "12-24",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1249-64508078737c8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:48 GMT"
+}

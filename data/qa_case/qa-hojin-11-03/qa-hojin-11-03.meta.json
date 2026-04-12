@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-11-03",
+  "title": "定期給与の額を改定した場合の損金不算入額(定期同額給与)",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/11/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:02.968Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e04df0c25086be1bcfa7a2bd5c78c015cb1d1cb13196f285b98a652056f69bbc",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "定期給与の額を改定した場合の損金不算入額(定期同額給与)",
+    "11-03"
+  ],
+  "headings": [
+    "定期給与の額を改定した場合の損金不算入額(定期同額給与)",
+    "定期給与の額を改定した場合の損金不算入額(定期同額給与)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第34条第1項第1号、法人税法施行令第69条第1項第1号",
+  "document_number": "11-03",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"2706-645080a2a9650\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:32 GMT"
+}

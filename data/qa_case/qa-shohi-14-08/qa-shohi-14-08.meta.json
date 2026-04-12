@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-14-08",
+  "title": "嘱託者から受領する立替税金、手数料等の取扱い",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/14/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:56.986Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:eabd91268339c98ec5b98d5192195119bf1383811c140ed171684bc96677e339",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "嘱託者から受領する立替税金、手数料等の取扱い",
+    "14-08"
+  ],
+  "headings": [
+    "嘱託者から受領する立替税金、手数料等の取扱い",
+    "嘱託者から受領する立替税金、手数料等の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法基本通達10-1-4",
+  "document_number": "14-08",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"13b4-6450806edab30\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:38 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-13-08",
+  "title": "保留地の譲渡(16号)",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/13/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:42.419Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3286690769bb7009f982f5bf923cdbd4bb65f4033fd92cac8714ca49260ff31a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "保留地の譲渡(16号)",
+    "13-08"
+  ],
+  "headings": [
+    "保留地の譲渡(16号)",
+    "保留地の譲渡(16号)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第31条の2第2項第16号\n土地区画整理法第96条、第104条第11項",
+  "document_number": "13-08",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"12b7-6450805a81f58\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:17 GMT"
+}

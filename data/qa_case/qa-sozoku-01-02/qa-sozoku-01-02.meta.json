@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-01-02",
+  "title": "家附の継子と相続税法第15条第2項の相続人",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/01/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:18.515Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9ad879df11f7c613b9b83b6ec742bdcc7297c1f705d70fa908ba5d812014ab2c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "家附の継子と相続税法第15条第2項の相続人",
+    "01-02"
+  ],
+  "headings": [
+    "家附の継子と相続税法第15条第2項の相続人",
+    "家附の継子と相続税法第15条第2項の相続人",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "民法附則第26条第1項\n相続税法第15条第2項、第18条",
+  "document_number": "01-02",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"13e0-6450805436e00\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:10 GMT"
+}

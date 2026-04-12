@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-11-06",
+  "title": "保証債務を履行するために資産を譲渡した直後に相続が開始した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/11/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:41.542Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:170dc120c51d6dab78e5bde996dbb38fe5f11663ad4ec3720afcc0750dfaad0e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "保証債務を履行するために資産を譲渡した直後に相続が開始した場合",
+    "11-06"
+  ],
+  "headings": [
+    "保証債務を履行するために資産を譲渡した直後に相続が開始した場合",
+    "保証債務を履行するために資産を譲渡した直後に相続が開始した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第64条第2項",
+  "document_number": "11-06",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"12cf-6450805b2d1a0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:17 GMT"
+}

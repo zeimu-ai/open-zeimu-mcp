@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-21-06",
+  "title": "前年度繰越金の取扱い",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/21/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:02.326Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0412cdd44d200ca6cbde528c41029ae5084c97b93e665e6e26152dc11a860efe",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "前年度繰越金の取扱い",
+    "21-06"
+  ],
+  "headings": [
+    "前年度繰越金の取扱い",
+    "前年度繰越金の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第60条第4項、消費税法施行令第75条",
+  "document_number": "21-06",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"12c0-6450806ab75f8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:34 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-81",
+  "title": "借入金で支払った医療費",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/81.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:14.560Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4daced82c20d4be96f6001bd4e9f4f1d286d4d08ba884d7903c4e9991d102860",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "借入金で支払った医療費",
+    "05-81"
+  ],
+  "headings": [
+    "借入金で支払った医療費",
+    "借入金で支払った医療費",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第73条第1項、所得税基本通達73-2",
+  "document_number": "05-81",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"121c-64508083f21d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:00 GMT"
+}

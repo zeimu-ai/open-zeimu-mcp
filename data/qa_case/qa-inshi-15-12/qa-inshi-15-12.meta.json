@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-15-12",
+  "title": "単価決定通知書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/15/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:31.906Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f57fee78fe99e9796fe3b7fa18b6aa09933936f89f83e3665609766cbe3eafa6",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "単価決定通知書",
+    "15-12"
+  ],
+  "headings": [
+    "単価決定通知書",
+    "単価決定通知書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一課税物件表の適用に関する通則3のイ、5、印紙税法基本通達第12条、第18条、別表第二",
+  "document_number": "15-12",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"13b4-64508077a6e58\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:47 GMT"
+}

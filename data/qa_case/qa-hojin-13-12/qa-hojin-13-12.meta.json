@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-13-12",
+  "title": "損失負担（支援）割合の合理性",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/13/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:04.637Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2b4c4f1cf91af5809b6d124b9a9bf2e6780bd2ea8acc7c48d33438a9177273c3",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "損失負担（支援）割合の合理性",
+    "13-12"
+  ],
+  "headings": [
+    "損失負担（支援）割合の合理性",
+    "損失負担（支援）割合の合理性",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税基本通達9－4－1、9－4－2",
+  "document_number": "13-12",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"126e-645080a1a8120\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:31 GMT"
+}

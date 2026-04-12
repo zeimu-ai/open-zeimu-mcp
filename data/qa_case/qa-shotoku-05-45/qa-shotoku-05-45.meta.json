@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-45",
+  "title": "介護老人保健施設の施設サービス費",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/45.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:12.741Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:41dfa3f1b033c67fb6180d3127d4a9d6f61e628fb95d2f3e0fc82d9b7cc8278e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "介護老人保健施設の施設サービス費",
+    "05-45"
+  ],
+  "headings": [
+    "介護老人保健施設の施設サービス費",
+    "介護老人保健施設の施設サービス費",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第207条、所得税基本通達73-3、介護保険法第8条第28項、第106条、介護保険法施行規則第20条",
+  "document_number": "05-45",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1511-64508085516e8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:02 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-06-02",
+  "title": "ホテルチェーンに加盟するに当たり支出する加盟一時金",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/06/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:00.944Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d2e3c9279d5c3e2fb5abe5b4772b39ea08e8a222489faab3f09e6ad8d9db43bb",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "ホテルチェーンに加盟するに当たり支出する加盟一時金",
+    "06-02"
+  ],
+  "headings": [
+    "ホテルチェーンに加盟するに当たり支出する加盟一時金",
+    "ホテルチェーンに加盟するに当たり支出する加盟一時金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第2条第24号\n法人税法施行令第14条第1項第6号ハ\n法人税基本通達8－2－1、8－2－3",
+  "document_number": "06-02",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"18ca-645080a3e83e0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:34 GMT"
+}

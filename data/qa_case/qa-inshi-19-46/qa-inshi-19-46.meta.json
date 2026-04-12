@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-46",
+  "title": "公益社団法人等が作成する受取書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/46.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:36.155Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:21800fc9c1be4dd9f1aa0569b11ce3137ddf7d2044612d93562cebbe336c63ad",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "公益社団法人等が作成する受取書",
+    "19-46"
+  ],
+  "headings": [
+    "公益社団法人等が作成する受取書",
+    "公益社団法人等が作成する受取書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 第17号文書「非課税物件の欄」2",
+  "document_number": "19-46",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"180f-64508074a2ae0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:44 GMT"
+}

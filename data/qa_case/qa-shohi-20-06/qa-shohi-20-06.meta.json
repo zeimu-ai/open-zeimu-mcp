@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-20-06",
+  "title": "日本標準産業分類からみた事業区分(大分類－I卸売業、小売業)",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/20/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:01.502Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e41d824a740f285af4ef5309b0700aa4505d3c6a6acd742bc993c70c338bea82",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "日本標準産業分類からみた事業区分(大分類－I卸売業、小売業)",
+    "20-06"
+  ],
+  "headings": [
+    "日本標準産業分類からみた事業区分(大分類－I卸売業、小売業)",
+    "日本標準産業分類からみた事業区分(大分類－I卸売業、小売業)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法施行令第57条第5項、第6項、消費税法基本通達13-2-2",
+  "document_number": "20-06",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"4f6e-6450806b5de08\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:34 GMT"
+}

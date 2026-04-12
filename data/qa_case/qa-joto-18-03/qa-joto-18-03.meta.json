@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-18-03",
+  "title": "居住の用に供している家屋を2以上有する場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/18/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:47.321Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4a796163eabf1957184f53ba6e2ffcf9938a4e0fab920f9be7f8e4b5e2248477",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "居住の用に供している家屋を2以上有する場合",
+    "18-03"
+  ],
+  "headings": [
+    "居住の用に供している家屋を2以上有する場合",
+    "居住の用に供している家屋を2以上有する場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第35条第1項、第2項\n租税特別措置法施行令第23条第1項、第20条の3第2項\n租税特別措置法関係通達35-6、31の3-9",
+  "document_number": "18-03",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"137a-64508056be560\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:13 GMT"
+}

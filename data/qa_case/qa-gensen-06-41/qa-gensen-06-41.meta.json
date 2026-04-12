@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-06-41",
+  "title": "履行期間が6か月を超える延払債権のうち利子計算期間が6か月以内のものに係る利子",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/06/41.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:57.042Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2726c7c728eacfe8287896e08443bdeadc961da8ba6787e8533efe021c15f3a6",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "履行期間が6か月を超える延払債権のうち利子計算期間が6か月以内のものに係る利子",
+    "06-41"
+  ],
+  "headings": [
+    "履行期間が6か月を超える延払債権のうち利子計算期間が6か月以内のものに係る利子",
+    "履行期間が6か月を超える延払債権のうち利子計算期間が6か月以内のものに係る利子",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第161条第1項第10号、第212条第1項、所得税法施行令第283条第1項",
+  "document_number": "06-41",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1df8-6450808f3a4c0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:12 GMT"
+}

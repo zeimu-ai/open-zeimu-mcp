@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-18-26",
+  "title": "用途上不可分の関係にある２以上の建築物を譲渡した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/18/26.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:48.456Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:76b847987c1c9dd309837962dd908aef8302c1430631ebe21810a0aaf5a3aa1a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "用途上不可分の関係にある２以上の建築物を譲渡した場合",
+    "18-26"
+  ],
+  "headings": [
+    "用途上不可分の関係にある２以上の建築物を譲渡した場合",
+    "用途上不可分の関係にある２以上の建築物を譲渡した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第35条第３項、第５項\n租税特別措置法施行令第23条第10項、第11項\n租税特別措置法関係通達35－８",
+  "document_number": "18-26",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1826-64508055e0a80\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:12 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-03-04",
+  "title": "借地人の費用負担で借地が宅地造成された場合の地主に対する課税",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/03/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:08.588Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5be19b09a2881a32dc248fd29d4ac270928ffeb695e54ba3f7e5791eca5af4af",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "借地人の費用負担で借地が宅地造成された場合の地主に対する課税",
+    "03-04"
+  ],
+  "headings": [
+    "借地人の費用負担で借地が宅地造成された場合の地主に対する課税",
+    "借地人の費用負担で借地が宅地造成された場合の地主に対する課税",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第36条",
+  "document_number": "03-04",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1200-645080886c990\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:05 GMT"
+}

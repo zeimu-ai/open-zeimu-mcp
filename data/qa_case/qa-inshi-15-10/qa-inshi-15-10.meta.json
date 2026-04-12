@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-15-10",
+  "title": "「売買に関する業務」に該当する要件(1)",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/15/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:31.806Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a9885585f9cb6b9febf1ddc421403db275f206391f2df5f9879785d7eb4248dd",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "「売買に関する業務」に該当する要件(1)",
+    "15-10"
+  ],
+  "headings": [
+    "「売買に関する業務」に該当する要件(1)",
+    "「売買に関する業務」に該当する要件(1)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法施行令第26条、印紙税法基本通達別表第一 第7号文書の7",
+  "document_number": "15-10",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"14a9-64508077baea8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:47 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-13-21",
+  "title": "被支援者に対する要支援額の算定",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/13/21.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:05.136Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ef84943a45038d10ea0fdc0b34a2edb43057f05951d3c0babd46bc23548f26a9",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "被支援者に対する要支援額の算定",
+    "13-21"
+  ],
+  "headings": [
+    "被支援者に対する要支援額の算定",
+    "被支援者に対する要支援額の算定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税基本通達9－4－2",
+  "document_number": "13-21",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"163f-645080a153d78\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:31 GMT"
+}

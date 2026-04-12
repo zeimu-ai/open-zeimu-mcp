@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-06-63",
+  "title": "非居住者である馬主が支払を受ける競馬の賞金等",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/06/63.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:57.969Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:35e693442cb8afbf641ad8fe6eff00c14253df82dafd3110827932a038447771",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "非居住者である馬主が支払を受ける競馬の賞金等",
+    "06-63"
+  ],
+  "headings": [
+    "非居住者である馬主が支払を受ける競馬の賞金等",
+    "非居住者である馬主が支払を受ける競馬の賞金等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第2条第1項第19号、第161条第1項第2号、第164条第1項、所得税法施行令第6条第9号、第200条第2項、所得税基本通達27-7、平15個人課税課情報第6号「競走馬の保有に係る所得の税務上の取扱いについて」、OECDモデル条約第3条第2項",
+  "document_number": "06-63",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1bab-6450808e8eaa8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:11 GMT"
+}

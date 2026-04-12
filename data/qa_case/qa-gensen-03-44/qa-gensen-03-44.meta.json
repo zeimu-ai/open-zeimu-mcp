@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-03-44",
+  "title": "使用者が使用人等に対し食事代として金銭を支給した場合",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/03/44.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:53.240Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:65eef90a670719545d49c23738b36306e3afc3276faa06761647aefd79e6b819",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "使用者が使用人等に対し食事代として金銭を支給した場合",
+    "03-44"
+  ],
+  "headings": [
+    "使用者が使用人等に対し食事代として金銭を支給した場合",
+    "使用者が使用人等に対し食事代として金銭を支給した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達36－38の2、昭和59年7月26日直法6－5、直所3－8「深夜勤務に伴う夜食の現物支給に代えて支給する金銭に対する所得税の取扱いについて」",
+  "document_number": "03-44",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1b3a-64e5265315e78\"",
+  "last_modified": "Tue, 31 Mar 2026 14:00:52 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-14-21",
+  "title": "一の効用を有する一組の資産",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/14/21.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:44.182Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f747a72a8f3f8c3fb1f11bfab6fcb17287f064fce55bb75592992978b413fa17",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "一の効用を有する一組の資産",
+    "14-21"
+  ],
+  "headings": [
+    "一の効用を有する一組の資産",
+    "一の効用を有する一組の資産",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第33条\n租税特別措置法施行令第22条第4項、第5項",
+  "document_number": "14-21",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"175d-6450805927090\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:15 GMT"
+}

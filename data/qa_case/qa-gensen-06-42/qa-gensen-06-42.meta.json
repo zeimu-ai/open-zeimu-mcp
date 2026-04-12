@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-06-42",
+  "title": "米国法人に支払う延払債権に係る利子",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/06/42.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:57.098Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c2747d4de921b235890401455a2eb151afa3a97b86b2ef312840095afd625256",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "米国法人に支払う延払債権に係る利子",
+    "06-42"
+  ],
+  "headings": [
+    "米国法人に支払う延払債権に係る利子",
+    "米国法人に支払う延払債権に係る利子",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第161条第1項第10号、所得税法施行令第283条第1項、日米租税条約第11条、改正議定書第4条",
+  "document_number": "06-42",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"15d2-6450808f2f4f8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:12 GMT"
+}

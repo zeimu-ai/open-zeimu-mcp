@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-11-05",
+  "title": "保証債務の履行に伴う求償権の行使不能額",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/11/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:41.485Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:91c608bc5bb87995b09da97ccf40178825e3fd96f034d57de04d0bbfa12b95e0",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "保証債務の履行に伴う求償権の行使不能額",
+    "11-05"
+  ],
+  "headings": [
+    "保証債務の履行に伴う求償権の行使不能額",
+    "保証債務の履行に伴う求償権の行使不能額",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第64条第2項\n民法第519条",
+  "document_number": "11-05",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"11a2-6450805b371c8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:17 GMT"
+}

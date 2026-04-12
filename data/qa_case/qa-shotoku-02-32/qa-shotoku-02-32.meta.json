@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-32",
+  "title": "役員に付与されたストックオプションを相続人が権利行使した場合の所得区分（6か月以内に一括して行使することが条件とされている場合）",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/32.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:07.182Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6ce9359b8de149394792f90da87e519622d3cd4efe7b8cf6c0b82d356a00b0ff",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "役員に付与されたストックオプションを相続人が権利行使した場合の所得区分（6か月以内に一括して行使することが条件とされている場合）",
+    "02-32"
+  ],
+  "headings": [
+    "役員に付与されたストックオプションを相続人が権利行使した場合の所得区分（6か月以内に一括して行使することが条件とされている場合）",
+    "役員に付与されたストックオプションを相続人が権利行使した場合の所得区分（6か月以内に一括して行使することが条件とされている場合）",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第34条",
+  "document_number": "02-32",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1975-64508089a49c0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:06 GMT"
+}

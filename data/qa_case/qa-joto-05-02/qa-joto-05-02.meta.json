@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-05-02",
+  "title": "分譲地の道路用地の取得費等",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/05/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:38.849Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:aba9399556d6eec8b59c998bf0b4219eb95e933a56349e19a44b00b05ac3dcd8",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "分譲地の道路用地の取得費等",
+    "05-02"
+  ],
+  "headings": [
+    "分譲地の道路用地の取得費等",
+    "分譲地の道路用地の取得費等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達36・37共-7",
+  "document_number": "05-02",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1400-6450805d4b180\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:20 GMT"
+}

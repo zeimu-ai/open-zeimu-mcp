@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-28",
+  "title": "法人組織の病院等が作成する受取書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/28.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:35.225Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2c4056cb2b4e9455955944ceb5bd28dc2e67758feb7c9577dbac25d1a1d8968f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "法人組織の病院等が作成する受取書",
+    "19-28"
+  ],
+  "headings": [
+    "法人組織の病院等が作成する受取書",
+    "法人組織の病院等が作成する受取書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一 第17号文書の27",
+  "document_number": "19-28",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"12dc-6450807550820\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:45 GMT"
+}

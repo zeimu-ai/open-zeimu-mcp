@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-12-04",
+  "title": "工事注文書等",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/12/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:29.774Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f46e75d15cff93406a82280af80d3259f1f3b0e0cda3b6a2fdccc7952dd76f52",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "工事注文書等",
+    "12-04"
+  ],
+  "headings": [
+    "工事注文書等",
+    "工事注文書等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則5、印紙税法基本通達第21条第2項",
+  "document_number": "12-04",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1ed0-6450807935558\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:49 GMT"
+}

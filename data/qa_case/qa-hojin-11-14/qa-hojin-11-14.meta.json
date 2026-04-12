@@ -1,0 +1,33 @@
+{
+  "id": "qa-hojin-11-14",
+  "title": "定期給与の増額改定に伴う一括支給額(定期同額給与)",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/11/14.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:03.336Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:92fea5c7d75812583f34a2a6186ac8b246b2f04c67d65218f1d24b9cc1232bd7",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "定期給与の増額改定に伴う一括支給額(定期同額給与)",
+    "11-14"
+  ],
+  "headings": [
+    "定期給与の増額改定に伴う一括支給額(定期同額給与)",
+    "定期給与の増額改定に伴う一括支給額(定期同額給与)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "(定めの内容)",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第34条第1項第1号",
+  "document_number": "11-14",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1d9a-645080a26ae50\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:32 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-77",
+  "title": "がん保険の保険料",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/77.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:14.354Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4777381fcc44ba1499ff506abbb6110e04dcf55b4f45d90e103fb40423616b0f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "がん保険の保険料",
+    "05-77"
+  ],
+  "headings": [
+    "がん保険の保険料",
+    "がん保険の保険料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第76条第1項、第2項、第6項、第7項、所得税法施行令第208条の6第2号",
+  "document_number": "05-77",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"13bb-64508084192d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:00 GMT"
+}

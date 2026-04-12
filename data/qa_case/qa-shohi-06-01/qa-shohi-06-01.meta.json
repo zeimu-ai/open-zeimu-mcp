@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-06-01",
+  "title": "手形の買取り等に対する課税関係",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/06/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:54.195Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:292017b3031861263d432fdae7658e7f3d58c7897e01a35458d4c2235b9e10bb",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "手形の買取り等に対する課税関係",
+    "06-01"
+  ],
+  "headings": [
+    "手形の買取り等に対する課税関係",
+    "手形の買取り等に対する課税関係",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法別表第二第3号、消費税法施行令第10条第3項第7号、第8号",
+  "document_number": "06-01",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"197a-64508070fbdd8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:40 GMT"
+}

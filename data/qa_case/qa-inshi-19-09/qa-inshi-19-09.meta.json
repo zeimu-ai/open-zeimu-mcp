@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-09",
+  "title": "有価証券の範囲",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:34.349Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b6da707ca661b605392d702efb307209a9dace8c50f3d3f66d12fe94a2580884",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "有価証券の範囲",
+    "19-09"
+  ],
+  "headings": [
+    "有価証券の範囲",
+    "有価証券の範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 第17号文書「定義欄」、印紙税法施行令第28条",
+  "document_number": "19-09",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"164b-64508075ea8f8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:45 GMT"
+}

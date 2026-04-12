@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-10-10",
+  "title": "手形債務残高確認弁済契約書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/10/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:28.741Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:570700acfce7e268dbaa41b5bbbde6456a9ddaee51229cc1adf2f93baec22540",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "手形債務残高確認弁済契約書",
+    "10-10"
+  ],
+  "headings": [
+    "手形債務残高確認弁済契約書",
+    "手形債務残高確認弁済契約書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一 第1号の3文書の3",
+  "document_number": "10-10",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1422-64508079eda90\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:50 GMT"
+}

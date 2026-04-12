@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-18-25",
+  "title": "農業所得の申告が贈与者以外の者によって行われていた場合",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/18/25.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:24.552Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ef078a7b77a7f6a9e93a81a978a8aa22d67195eefc6cf36f1d0dd701d0051e36",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "農業所得の申告が贈与者以外の者によって行われていた場合",
+    "18-25"
+  ],
+  "headings": [
+    "農業所得の申告が贈与者以外の者によって行われていた場合",
+    "農業所得の申告が贈与者以外の者によって行われていた場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第70条の4第1項\n租税特別措置法施行令第40条の6第6項\n租税特別措置法関係通達70の4-6",
+  "document_number": "18-25",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"13c2-6450804f7d670\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:05 GMT"
+}

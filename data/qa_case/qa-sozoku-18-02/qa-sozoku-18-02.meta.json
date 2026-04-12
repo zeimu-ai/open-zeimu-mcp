@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-18-02",
+  "title": "調整水田に対する納税猶予の適用",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/18/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:23.414Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b05b9745d8e34905cc4313d031c2d4a7d7937ed5610e0b43bfbd5ae850878149",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "調整水田に対する納税猶予の適用",
+    "18-02"
+  ],
+  "headings": [
+    "調整水田に対する納税猶予の適用",
+    "調整水田に対する納税猶予の適用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "農地法第2条第1項\n租税特別措置法第70条の4第1項、第70条の6第1項\n租税特別措置法関係通達70の4-1、70の6-1",
+  "document_number": "18-02",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"1361-645080505ad68\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:06 GMT"
+}

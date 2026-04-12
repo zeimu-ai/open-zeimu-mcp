@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-08-03",
+  "title": "不動産の売渡証書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/08/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:27.438Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5782b2fc655337d3df0b4928285bd8fc4ad3572dccef79776d1884137a83b275",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "不動産の売渡証書",
+    "08-03"
+  ],
+  "headings": [
+    "不動産の売渡証書",
+    "不動産の売渡証書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一課税物件表の適用に関する通則3のイ、印紙税法基本通達別表第一第1号の1文書の4",
+  "document_number": "08-03",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1302-6450807afe9c0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:51 GMT"
+}

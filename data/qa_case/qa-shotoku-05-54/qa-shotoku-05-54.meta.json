@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-54",
+  "title": "寝たきりの者のおむつ代",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/54.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:13.206Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9637c940d3052a05d043c4e5ad008f5803f573bcd4acfa001f5fc0fdf6d44993",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "寝たきりの者のおむつ代",
+    "05-54"
+  ],
+  "headings": [
+    "寝たきりの者のおむつ代",
+    "寝たきりの者のおむつ代",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第120条第4項、第5項、昭和62年12月24日付直所3-12「おむつに係る費用の医療費控除の取扱いについて」、平成14年６月25日付課個2-11「おむつに係る費用の医療費控除の取扱い（「おむつ使用証明書」に代えた簡易な証明手続等）について」、平成14年7月1日付厚生労働省通知「おむつに係る費用の医療費控除の取扱いについて」（最終改正令和６年10月10日医政総発1010第1号、障企発1010第1号、老総発1010第1号）",
+  "document_number": "05-54",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1f45-64508084f4a88\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:01 GMT"
+}

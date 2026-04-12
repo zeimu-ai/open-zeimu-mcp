@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-04-03",
+  "title": "金投資口座の内外判定",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/04/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:53.169Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:80ba0eb0e48b1604a42468aedf7d4c8e3800dadabb75155b7bb5c807d64025c7",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "金投資口座の内外判定",
+    "04-03"
+  ],
+  "headings": [
+    "金投資口座の内外判定",
+    "金投資口座の内外判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第4条第3項第1号",
+  "document_number": "04-03",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"123d-64508071cc9b0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:41 GMT"
+}

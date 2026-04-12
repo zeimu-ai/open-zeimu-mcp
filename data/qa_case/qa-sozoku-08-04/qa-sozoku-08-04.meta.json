@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-08-04",
+  "title": "米国籍を有する納税義務者が相続税の申告書に添付する印鑑証明書",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/08/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:20.520Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:455d18fdaf412716ce9b69d7303cdd9c5ca36143d7c32b04fe26d4d41ce413b3",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "米国籍を有する納税義務者が相続税の申告書に添付する印鑑証明書",
+    "08-04"
+  ],
+  "headings": [
+    "米国籍を有する納税義務者が相続税の申告書に添付する印鑑証明書",
+    "米国籍を有する納税義務者が相続税の申告書に添付する印鑑証明書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "相続税法第1条の3\n相続税法基本通達19の2-17",
+  "document_number": "08-04",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"1372-64508052c9a40\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:09 GMT"
+}

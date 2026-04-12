@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-02-04",
+  "title": "宅地の評価単位－使用貸借",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/02/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:16.446Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5a45ed796ce18308222882ea25a656af14e89ebf3e6ec6aade8d210ba1260e53",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "宅地の評価単位－使用貸借",
+    "02-04"
+  ],
+  "headings": [
+    "宅地の評価単位－使用貸借",
+    "宅地の評価単位－使用貸借",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達7-2\n昭和48年11月1日付直資2-189「使用貸借に係る土地についての相続税及び贈与税の取扱いについて」",
+  "document_number": "02-04",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"15b5-64508064b8760\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:27 GMT"
+}

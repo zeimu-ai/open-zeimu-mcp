@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-10-14",
+  "title": "住宅ローン本審査のご案内",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/10/14.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:28.948Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b17ed9ccb89c0a05e7e2fe113e51b24a265524bc10a365dfd15ca9e811d76d59",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "住宅ローン本審査のご案内",
+    "10-14"
+  ],
+  "headings": [
+    "住宅ローン本審査のご案内",
+    "住宅ローン本審査のご案内",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一課税物件表の適用に関する通則5、第1号の3文書、印紙税法基本通達第14条、第15条、別表第一第1号の3文書の10",
+  "document_number": "10-14",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"19be-64508079c88d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:50 GMT"
+}

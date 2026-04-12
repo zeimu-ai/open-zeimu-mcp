@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-07-14",
+  "title": "還付請求の消滅時効の起算日",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/07/14.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:18.239Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8da3073b1d2098f848b0b952ed756e6069720c269f352c9da3b254024dc3cbd8",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "還付請求の消滅時効の起算日",
+    "07-14"
+  ],
+  "headings": [
+    "還付請求の消滅時効の起算日",
+    "還付請求の消滅時効の起算日",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第121条、第122条、国税通則法第74条、所得税基本通達121-1",
+  "document_number": "07-14",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1455-64508080c1f38\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:57 GMT"
+}

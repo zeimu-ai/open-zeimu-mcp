@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-06-64",
+  "title": "源泉徴収の対象とされる支払が居住者に対するものか非居住者に対するものかの判定",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/06/64.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:58.100Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a53c5d89821b32fb373cfbf5576ee7e42e8230d4f14ad7bbc1c45f6df9728b4a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "源泉徴収の対象とされる支払が居住者に対するものか非居住者に対するものかの判定",
+    "06-64"
+  ],
+  "headings": [
+    "源泉徴収の対象とされる支払が居住者に対するものか非居住者に対するものかの判定",
+    "源泉徴収の対象とされる支払が居住者に対するものか非居住者に対するものかの判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第161条第1項第5号、第212条第1項、所得税基本通達36-9、36-12、212-5",
+  "document_number": "06-64",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1801-6450808e84698\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:11 GMT"
+}

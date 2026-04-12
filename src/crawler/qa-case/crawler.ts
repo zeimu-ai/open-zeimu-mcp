@@ -77,7 +77,19 @@ export async function crawlQaCase(options: QaCaseCrawlerOptions) {
       }
 
       const html = await decodeHtmlResponse(response);
-      const parsed = parseQaCasePage({ html, url, crawledAt });
+      let parsed;
+
+      try {
+        parsed = parseQaCasePage({ html, url, crawledAt });
+      } catch (error) {
+        if (isUnsupportedQaCasePageError(error)) {
+          logger.warn(`[qa-case] skipping unsupported page url=${url} reason=${getErrorMessage(error)}`);
+          continue;
+        }
+
+        throw error;
+      }
+
       const current = await readStoredQaCaseDocument(options.dataDir, parsed.document.id);
       const change = detectQaCaseChange({
         current:
@@ -272,4 +284,18 @@ function inferUrlFromId(id: string) {
   }
 
   return `https://www.nta.go.jp/law/shitsugi/${match[1]}/${match[2]}/${match[3]}.htm`;
+}
+
+function isUnsupportedQaCasePageError(error: unknown) {
+  if (!(error instanceof Error)) {
+    return false;
+  }
+
+  return /Failed to locate #bodyArea|Failed to parse closing boundary for #bodyArea/u.test(
+    error.message,
+  );
+}
+
+function getErrorMessage(error: unknown) {
+  return error instanceof Error ? error.message : String(error);
 }

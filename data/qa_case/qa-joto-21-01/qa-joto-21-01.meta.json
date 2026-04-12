@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-21-01",
+  "title": "債務承継がある場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/21/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:49.704Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:693191992fddffd1999bf8f3609ea32b14b557d0cb2dceb4769dd17c0c69855c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "債務承継がある場合",
+    "21-01"
+  ],
+  "headings": [
+    "債務承継がある場合",
+    "債務承継がある場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第40条\n所得税法第59条第1項第1号、第2号\n所得税基本通達59-2",
+  "document_number": "21-01",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1337-645080550a0e8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:11 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-10-16",
+  "title": "耕作権を交換譲渡し農地を交換取得した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/10/16.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:41.068Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a4dfcec9bc1f6649003ed4fe8c78b3545e6a3741468d7da5ad9a92359f54011b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "耕作権を交換譲渡し農地を交換取得した場合",
+    "10-16"
+  ],
+  "headings": [
+    "耕作権を交換譲渡し農地を交換取得した場合",
+    "耕作権を交換譲渡し農地を交換取得した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第58条\n所得税基本通達58-2の2\n農地法第3条、第5条、第18条",
+  "document_number": "10-16",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1480-6450805b882a8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:18 GMT"
+}

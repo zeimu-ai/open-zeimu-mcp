@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-06-27",
+  "title": "租税条約による限度税率が国内法による税率を超える場合の源泉徴収税率",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/06/27.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:56.382Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1c96a33282e5d623529bc9086bdd62d71476a51baaf7e9c9b6e6fcc325ee3eef",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "租税条約による限度税率が国内法による税率を超える場合の源泉徴収税率",
+    "06-27"
+  ],
+  "headings": [
+    "租税条約による限度税率が国内法による税率を超える場合の源泉徴収税率",
+    "租税条約による限度税率が国内法による税率を超える場合の源泉徴収税率",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税条約等実施特例法第3条の2第1項、日・ブラジル租税条約第11条第2項(a)",
+  "document_number": "06-27",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"13cd-6450808fa01a8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:12 GMT"
+}

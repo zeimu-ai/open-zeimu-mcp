@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-52",
+  "title": "湯治の費用",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/52.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:13.106Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b1c9b4a03556125951e18276ab6b3af6983f693167b9a2dc2c734891621b61e9",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "湯治の費用",
+    "05-52"
+  ],
+  "headings": [
+    "湯治の費用",
+    "湯治の費用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第207条、所得税基本通達73-3",
+  "document_number": "05-52",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"10f5-6450808507b38\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:01 GMT"
+}

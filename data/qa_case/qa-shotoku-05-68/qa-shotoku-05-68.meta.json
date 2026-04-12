@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-68",
+  "title": "地震保険料控除に関する経過措置",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/68.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:13.937Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8fafe5cae10cb93453f9d1bcf4bb35aa7de130e2787988dc4c8c34dc35cb330b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "地震保険料控除に関する経過措置",
+    "05-68"
+  ],
+  "headings": [
+    "地震保険料控除に関する経過措置",
+    "地震保険料控除に関する経過措置",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第77条、平成18年法律第10号附則第10条",
+  "document_number": "05-68",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"174c-645080846b738\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:01 GMT"
+}

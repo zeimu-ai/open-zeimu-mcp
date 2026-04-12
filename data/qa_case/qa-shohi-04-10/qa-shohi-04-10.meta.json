@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-04-10",
+  "title": "海外からのソフトウェアの借入れ",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/04/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:53.537Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:16dd26bec13081659c9fc396c607bff5487f910237ba24448e5a0f8df15c65bf",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "海外からのソフトウェアの借入れ",
+    "04-10"
+  ],
+  "headings": [
+    "海外からのソフトウェアの借入れ",
+    "海外からのソフトウェアの借入れ",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法施行令第6条第1項第7号",
+  "document_number": "04-10",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1580-6450807189b60\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:41 GMT"
+}

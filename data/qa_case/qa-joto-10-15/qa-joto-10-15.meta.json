@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-10-15",
+  "title": "交換により取得した資産を同一年中に譲渡した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/10/15.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:41.021Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3075e5de17f982f85af5e454f713a504250feb0e6b98e22e708dd202797a1ef9",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "交換により取得した資産を同一年中に譲渡した場合",
+    "10-15"
+  ],
+  "headings": [
+    "交換により取得した資産を同一年中に譲渡した場合",
+    "交換により取得した資産を同一年中に譲渡した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第58条第1項\n所得税基本通達58-5、58-6、58-8",
+  "document_number": "10-15",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"16bb-6450805b91330\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:18 GMT"
+}

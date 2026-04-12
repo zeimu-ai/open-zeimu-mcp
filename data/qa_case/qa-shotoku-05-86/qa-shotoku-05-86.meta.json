@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-86",
+  "title": "入院時に病院へ支払った保証金",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/86.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:14.820Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b3003d1a6fec25a7e5cc9aee24320e6b78e1181feeab2346ff2aa3ec94c78945",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "入院時に病院へ支払った保証金",
+    "05-86"
+  ],
+  "headings": [
+    "入院時に病院へ支払った保証金",
+    "入院時に病院へ支払った保証金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第73条第１項、所得税基本通達73-２",
+  "document_number": "05-86",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1347-64508083c0108\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:00 GMT"
+}

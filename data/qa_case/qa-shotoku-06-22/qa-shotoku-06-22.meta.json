@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-22",
+  "title": "店舗併用住宅を新築した場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/22.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:15.955Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b2ccefd96e7c55afb6aa9d576c36dffa6a07dff8161a4e8d917794a0c99dd397",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "店舗併用住宅を新築した場合",
+    "06-22"
+  ],
+  "headings": [
+    "店舗併用住宅を新築した場合",
+    "店舗併用住宅を新築した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法施行令第26条第7項、租税特別措置法関係通達41-27",
+  "document_number": "06-22",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"17c3-64508082cca80\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:59 GMT"
+}

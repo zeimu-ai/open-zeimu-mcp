@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-22-04",
+  "title": "一の文書の意義",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/22/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:37.096Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5a569693ee10b3fc71a8ece36977b36adaba7b3ffaffee50b0a8e6de89d0def7",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "一の文書の意義",
+    "22-04"
+  ],
+  "headings": [
+    "一の文書の意義",
+    "一の文書の意義",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法第4条第3項、印紙税法別表第一 課税物件表の適用に関する通則2、3、印紙税法基本通達第5条",
+  "document_number": "22-04",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1515-64508073f0750\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:43 GMT"
+}

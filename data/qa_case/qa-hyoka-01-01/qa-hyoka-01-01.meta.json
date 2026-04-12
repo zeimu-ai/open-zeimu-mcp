@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-01-01",
+  "title": "共有地の評価",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/01/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:15.932Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3d5f0facaf88b8c8c841e46f9d47b649d80ffc69a7340ef55658f299b827d5b8",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "共有地の評価",
+    "01-01"
+  ],
+  "headings": [
+    "共有地の評価",
+    "共有地の評価",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達2",
+  "document_number": "01-01",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"10c0-645080651f000\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:28 GMT"
+}

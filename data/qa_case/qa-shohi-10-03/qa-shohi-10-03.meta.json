@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-10-03",
+  "title": "学習塾等の授業料",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/10/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:55.497Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7d7a8c2b36273226b485521c1120004bd790206a0a3d4d52f8bc80c8be1c6a96",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "学習塾等の授業料",
+    "10-03"
+  ],
+  "headings": [
+    "学習塾等の授業料",
+    "学習塾等の授業料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法別表第二第11号ハ、消費税法基本通達6-11-1",
+  "document_number": "10-03",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"11ea-6450807000a50\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:39 GMT"
+}

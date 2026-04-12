@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-12-06",
+  "title": "契約金額が明らかである請負契約書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/12/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:29.883Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b063348616b0d7c65a0a49eed057e46d96a000eda29bf22e97251aa43591f27e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "契約金額が明らかである請負契約書",
+    "12-06"
+  ],
+  "headings": [
+    "契約金額が明らかである請負契約書",
+    "契約金額が明らかである請負契約書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一課税物件表の適用に関する通則4のホ",
+  "document_number": "12-06",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1b33-6450807920d38\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:49 GMT"
+}

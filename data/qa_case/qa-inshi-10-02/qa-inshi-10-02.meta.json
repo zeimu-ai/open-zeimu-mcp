@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-10-02",
+  "title": "連帯保証人の記載がある借入申込書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/10/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:28.320Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:095cd672fbe8d520733416fd18d8741ad76a8498ff57a4356dc32bdf7e75a9de",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "連帯保証人の記載がある借入申込書",
+    "10-02"
+  ],
+  "headings": [
+    "連帯保証人の記載がある借入申込書",
+    "連帯保証人の記載がある借入申込書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一(第13号文書)",
+  "document_number": "10-02",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"130f-6450807a39198\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:50 GMT"
+}

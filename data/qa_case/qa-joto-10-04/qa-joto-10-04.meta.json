@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-10-04",
+  "title": "農地を宅地に造成した後宅地と交換した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/10/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:40.463Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6957a3f750f3fada51da7d889243b0ed1db7165736c44703bb9cb7865a1da4a3",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "農地を宅地に造成した後宅地と交換した場合",
+    "10-04"
+  ],
+  "headings": [
+    "農地を宅地に造成した後宅地と交換した場合",
+    "農地を宅地に造成した後宅地と交換した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第58条\n租税特別措置法第37条の4\n所得税基本通達33-4、33-5、58-7\n租税特別措置法関係通達37-18",
+  "document_number": "10-04",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"156b-6450805bfc9f0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:18 GMT"
+}

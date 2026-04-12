@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-10-01",
+  "title": "非居住者円預金に係る手数料",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/10/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:55.392Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9cad493f66d9c65f71ecb8bd6952eddc0ea25499a12cff05866b8017d99da11f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "非居住者円預金に係る手数料",
+    "10-01"
+  ],
+  "headings": [
+    "非居住者円預金に係る手数料",
+    "非居住者円預金に係る手数料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第31条第1項、消費税法施行令第17条第2項",
+  "document_number": "10-01",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1419-64508070142d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:39 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-15-01",
+  "title": "交際費等の範囲（接待を受けるためのタクシー代）",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/15/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:06.461Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:13e2ff6e6821bbcca921877a187f71bffbae17ea1427c32f17addb07d4f6a2b5",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "交際費等の範囲（接待を受けるためのタクシー代）",
+    "15-01"
+  ],
+  "headings": [
+    "交際費等の範囲（接待を受けるためのタクシー代）",
+    "交際費等の範囲（接待を受けるためのタクシー代）",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第61条の4第6項",
+  "document_number": "15-01",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"151c-645080a062248\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:30 GMT"
+}

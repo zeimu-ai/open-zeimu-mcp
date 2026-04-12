@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-23-08",
+  "title": "任意の中間申告書を提出する旨の届出書の効力",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/23/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:03.980Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b01fd6db24b611eda11910b363fbf3876c1832f79a6f8170aba73c218971464c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "任意の中間申告書を提出する旨の届出書の効力",
+    "23-08"
+  ],
+  "headings": [
+    "任意の中間申告書を提出する旨の届出書の効力",
+    "任意の中間申告書を提出する旨の届出書の効力",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第42条第6項、第8項、消費税法基本通達15－1－1の3",
+  "document_number": "23-08",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"17fc-6450806971ef0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:32 GMT"
+}

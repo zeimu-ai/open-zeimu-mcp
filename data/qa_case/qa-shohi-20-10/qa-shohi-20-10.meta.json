@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-20-10",
+  "title": "事業の種類が区分されていない場合",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/20/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:01.711Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:11052cd354a3e34df395eeb06fab8b225fda4419b53e13a85c3fcb53bb4bf2d2",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "事業の種類が区分されていない場合",
+    "20-10"
+  ],
+  "headings": [
+    "事業の種類が区分されていない場合",
+    "事業の種類が区分されていない場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法施行令第57条第4項、消費税法基本通達13-3-2",
+  "document_number": "20-10",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"14a2-6450806b2e838\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:34 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-18-24",
+  "title": "同一年中に複数の者に贈与した場合",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/18/24.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:24.496Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9630f39728b3a3bbba0474a4723ddf8e3112c92401fb3f7c0787a8e27276c070",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "同一年中に複数の者に贈与した場合",
+    "18-24"
+  ],
+  "headings": [
+    "同一年中に複数の者に贈与した場合",
+    "同一年中に複数の者に贈与した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第70条の4第1項\n租税特別措置法施行令第40条の6第1項",
+  "document_number": "18-24",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"125b-6450804f85758\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:05 GMT"
+}

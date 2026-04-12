@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-85",
+  "title": "退職所得がある場合の配偶者特別控除",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/85.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:14.769Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:aa03fa0b335b79250c7da1c70c641e0b539c26a0c7d832bd0f0e35f477cd4883",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "退職所得がある場合の配偶者特別控除",
+    "05-85"
+  ],
+  "headings": [
+    "退職所得がある場合の配偶者特別控除",
+    "退職所得がある場合の配偶者特別控除",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第２条第１項第30号、第22条第２項、第83の２条第１項、第121条第２項",
+  "document_number": "05-85",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"17a1-64508083cb8a0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:00 GMT"
+}

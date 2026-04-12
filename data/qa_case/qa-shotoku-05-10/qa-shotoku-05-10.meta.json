@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-10",
+  "title": "妊婦の定期検診のための費用",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:10.966Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f214f8408a0db1349ddd84c1f504e39c0b0469fdccb92565228780eb5f318e07",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "妊婦の定期検診のための費用",
+    "05-10"
+  ],
+  "headings": [
+    "妊婦の定期検診のための費用",
+    "妊婦の定期検診のための費用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第207条、所得税基本通達73-7",
+  "document_number": "05-10",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"114f-6450808696df0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:03 GMT"
+}

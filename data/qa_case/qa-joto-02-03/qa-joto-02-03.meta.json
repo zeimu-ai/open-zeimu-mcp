@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-02-03",
+  "title": "造成未了の土地を相続して造成未了のまま譲渡した場合の所得区分",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/02/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:37.811Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a3d038918d117f15b051d5817f4640f5801f4d4e9ea8eeb7ba0e49a1adb57c8a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "造成未了の土地を相続して造成未了のまま譲渡した場合の所得区分",
+    "02-03"
+  ],
+  "headings": [
+    "造成未了の土地を相続して造成未了のまま譲渡した場合の所得区分",
+    "造成未了の土地を相続して造成未了のまま譲渡した場合の所得区分",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達33-4",
+  "document_number": "02-03",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"12e3-6450805e0deb0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:20 GMT"
+}

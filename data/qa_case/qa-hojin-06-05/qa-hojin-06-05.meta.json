@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-06-05",
+  "title": "試験研究費の額に含まれる人件費の額の範囲",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/06/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:01.102Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:867fb955946ca94e8f8f0f590303e9cff98be832ce03c40413727d596ff711bf",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "試験研究費の額に含まれる人件費の額の範囲",
+    "06-05"
+  ],
+  "headings": [
+    "試験研究費の額に含まれる人件費の額の範囲",
+    "試験研究費の額に含まれる人件費の額の範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第42条の4第19項第1号\n租税特別措置法施行令第27条の4第5項第1号",
+  "document_number": "06-05",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"17c6-645080a3d0ce0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:34 GMT"
+}

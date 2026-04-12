@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-24-02",
+  "title": "変更定款",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/24/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:37.249Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:98b30838a743f61ea5fd145b7c2573d739f74ee54b76877b11c40bb1af7afe80",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "変更定款",
+    "24-02"
+  ],
+  "headings": [
+    "変更定款",
+    "変更定款",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一 第6号文書の2",
+  "document_number": "24-02",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1271-64508073d1b20\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:43 GMT"
+}

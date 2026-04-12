@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-21-11",
+  "title": "団地管理組合等が行う駐車場の収益事業判定",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/21/11.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:09.079Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ac8210577c999dd0c080bf811b6fd374c52c3d7642f347c429661e0079bd3907",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "団地管理組合等が行う駐車場の収益事業判定",
+    "21-11"
+  ],
+  "headings": [
+    "団地管理組合等が行う駐車場の収益事業判定",
+    "団地管理組合等が行う駐車場の収益事業判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法施行令第5条第1項第31号\n建物の区分所有等に関する法律第47条第13項\n平成24年2月13日回答「マンション管理組合が区分所有者以外の者へのマンション駐車場の使用を認めた場合の収益事業の判定について」",
+  "document_number": "21-11",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"187a-6450809eaf158\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:28 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-36",
+  "title": "共有の家屋を連帯債務により取得した場合の借入金の額の計算",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/36.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:16.701Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6e28145ea69be991dab62faa1fafeaadee4cc27a7983e259a8ef20ae8e40700a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "共有の家屋を連帯債務により取得した場合の借入金の額の計算",
+    "06-36"
+  ],
+  "headings": [
+    "共有の家屋を連帯債務により取得した場合の借入金の額の計算",
+    "共有の家屋を連帯債務により取得した場合の借入金の額の計算",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条、昭34.6.16直資58「共かせぎ夫婦の間における住宅資金等の贈与の取扱について」",
+  "document_number": "06-36",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1aad-6450808244ab8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:58 GMT"
+}

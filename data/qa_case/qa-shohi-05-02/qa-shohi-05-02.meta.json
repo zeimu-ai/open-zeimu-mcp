@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-05-02",
+  "title": "土地の賃貸借により行われる採石等",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/05/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:53.895Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0f86d4e66ba51055f9cf6c1d1a7d83058c8b4f9a1ab64214e31fd768a7ef8c6d",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "土地の賃貸借により行われる採石等",
+    "05-02"
+  ],
+  "headings": [
+    "土地の賃貸借により行われる採石等",
+    "土地の賃貸借により行われる採石等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法別表第二第1号、消費税法基本通達6-1-2",
+  "document_number": "05-02",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"13d6-6450807141b08\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:41 GMT"
+}

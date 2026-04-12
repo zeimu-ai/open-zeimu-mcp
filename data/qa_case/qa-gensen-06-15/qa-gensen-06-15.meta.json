@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-06-15",
+  "title": "短期滞在者免税の要件である滞在日数の計算",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/06/15.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:55.815Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:728193783b854691983d85407af229bca1792761bfd208641eca3fd0ca8bf89f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "短期滞在者免税の要件である滞在日数の計算",
+    "06-15"
+  ],
+  "headings": [
+    "短期滞在者免税の要件である滞在日数の計算",
+    "短期滞在者免税の要件である滞在日数の計算",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "日韓租税条約第15条第2項、各国との租税条約",
+  "document_number": "06-15",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"14cd-64508090052d8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:13 GMT"
+}

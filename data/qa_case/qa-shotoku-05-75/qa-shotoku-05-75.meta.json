@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-75",
+  "title": "1枚の生命保険料控除証明書に旧生命保険料と新生命保険料の記載がある場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/75.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:14.244Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4abb79c488cb96c4b829ffe9f469c50c20c112c502e84bf4117e2b76e427e8c3",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "1枚の生命保険料控除証明書に旧生命保険料と新生命保険料の記載がある場合",
+    "05-75"
+  ],
+  "headings": [
+    "1枚の生命保険料控除証明書に旧生命保険料と新生命保険料の記載がある場合",
+    "1枚の生命保険料控除証明書に旧生命保険料と新生命保険料の記載がある場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第76条第1項、第120条第3項、所得税法施行令第262条第1項",
+  "document_number": "05-75",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"13f1-645080842cb50\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:00 GMT"
+}

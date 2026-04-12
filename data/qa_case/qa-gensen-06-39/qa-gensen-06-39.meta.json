@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-06-39",
+  "title": "外国で取得した建物に係る借入金の利子",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/06/39.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:56.899Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:bded9ab652d3d03c1565ef9e7094e5f85582ddbd6b35b997160bb61290906d34",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "外国で取得した建物に係る借入金の利子",
+    "06-39"
+  ],
+  "headings": [
+    "外国で取得した建物に係る借入金の利子",
+    "外国で取得した建物に係る借入金の利子",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第161条第1項第2号、第212条第1項、所得税法施行令第280条第1項第2号、日米租税条約第11条、改正議定書（令和元年8月30日発効）第4条、第15条",
+  "document_number": "06-39",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"16e5-6450808f4c5d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:12 GMT"
+}

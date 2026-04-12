@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-14-01",
+  "title": "特定調停において弁済期限の延長等が行われた場合",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/14/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:05.681Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0edd92cacdc892194abf728564e876144e59f9ccec0768c3428e382a7357123b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特定調停において弁済期限の延長等が行われた場合",
+    "14-01"
+  ],
+  "headings": [
+    "特定調停において弁済期限の延長等が行われた場合",
+    "特定調停において弁済期限の延長等が行われた場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第52条第1項\n法人税法施行令第96条第1項第1号\n法人税法施行規則第25条の2第2号",
+  "document_number": "14-01",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"14d7-645080a0fe260\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:31 GMT"
+}

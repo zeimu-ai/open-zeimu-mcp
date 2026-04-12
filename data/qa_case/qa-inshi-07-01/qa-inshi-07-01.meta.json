@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-07-01",
+  "title": "収入印紙の交換制度",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/07/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:27.285Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9d76fdb889c1df3992310d0a8d4d08ad80e80b9108e03a1cda1bf9eb2748e6b0",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "収入印紙の交換制度",
+    "07-01"
+  ],
+  "headings": [
+    "収入印紙の交換制度",
+    "収入印紙の交換制度",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙をもってする歳入金納付に関する法律第3条第6項、収入印紙及び自動車重量税印紙の売りさばきに関する省令第8条、第9条",
+  "document_number": "07-01",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"18fb-6450807b1e590\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:51 GMT"
+}

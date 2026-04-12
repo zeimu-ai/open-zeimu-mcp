@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-03-12",
+  "title": "非居住者であった期間内の社会保険料、生命保険料",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/03/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:51.433Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:480cb5e7cea52cd117c522108f06274c2bd3c6edde645a419cb9326be3b1c5c1",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "非居住者であった期間内の社会保険料、生命保険料",
+    "03-12"
+  ],
+  "headings": [
+    "非居住者であった期間内の社会保険料、生命保険料",
+    "非居住者であった期間内の社会保険料、生命保険料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第74条第1項、第76条第1項、第102条、所得税法施行令第258条第3項第3号、第4号",
+  "document_number": "03-12",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"14d2-64508092e0de0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:16 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-43",
+  "title": "借換えをした住宅借入金について再度借換えをした場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/43.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:17.050Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d309f3994db6bb4c5bb9b2266c0b47e38aabc3dc0413aebdbcb39e43322ef922",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "借換えをした住宅借入金について再度借換えをした場合",
+    "06-43"
+  ],
+  "headings": [
+    "借換えをした住宅借入金について再度借換えをした場合",
+    "借換えをした住宅借入金について再度借換えをした場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第1項、租税特別措置法関係通達41-16",
+  "document_number": "06-43",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"16fb-64508081fe5b8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:58 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-08",
+  "title": "歯列を矯正するための費用",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:10.866Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:04b70cd476e8b296ffb570bb1fb9396c0e7c750a06001fe9a5e4ca8370eef507",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "歯列を矯正するための費用",
+    "05-08"
+  ],
+  "headings": [
+    "歯列を矯正するための費用",
+    "歯列を矯正するための費用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第207条、所得税基本通達73-4",
+  "document_number": "05-08",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1278-64508086a8348\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:03 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-08-12",
+  "title": "土地交換契約書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/08/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:27.901Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a02130e5d925c69d144c1e66bb46380b5c362869d736616db46943a656086fac",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "土地交換契約書",
+    "08-12"
+  ],
+  "headings": [
+    "土地交換契約書",
+    "土地交換契約書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一第1号の1文書の5",
+  "document_number": "08-12",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"13bd-6450807a85840\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:50 GMT"
+}

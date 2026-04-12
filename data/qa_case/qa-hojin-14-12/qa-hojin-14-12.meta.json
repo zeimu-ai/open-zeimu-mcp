@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-14-12",
+  "title": "特定調停により債権放棄を受けた場合の一般的な取扱い",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/14/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:06.314Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7a3d1f8dfe87bbc88f9f0669a2baa8ccf1c1c6cfc774729de22a23eb535a1c93",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特定調停により債権放棄を受けた場合の一般的な取扱い",
+    "14-12"
+  ],
+  "headings": [
+    "特定調停により債権放棄を受けた場合の一般的な取扱い",
+    "特定調停により債権放棄を受けた場合の一般的な取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第22条第2項、第25条第3項、第33条第4項、第57条、第59条第3項\n法人税法施行令第117条の3、第117条の4\n法人税基本通達12－3－1",
+  "document_number": "14-12",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1c54-645080a090878\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:30 GMT"
+}

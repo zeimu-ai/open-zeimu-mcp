@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-11-01",
+  "title": "「比準要素数1の会社」の判定の際の端数処理",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/11/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:22.747Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1ac00e193e2df67f42733dda7c746e35348b025af12ebec95826027d9fd7a22f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "「比準要素数1の会社」の判定の際の端数処理",
+    "11-01"
+  ],
+  "headings": [
+    "「比準要素数1の会社」の判定の際の端数処理",
+    "「比準要素数1の会社」の判定の際の端数処理",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達189(1)\n平成2年12月27日付直評23外「相続税及び贈与税における取引相場のない株式等の評価明細書の様式及び記載方法等について」通達　第4表1",
+  "document_number": "11-01",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"122e-645080601b4f0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:23 GMT"
+}

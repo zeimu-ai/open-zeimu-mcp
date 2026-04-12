@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-03-10",
+  "title": "未経過固定資産税等に相当する額の支払を受けた場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/03/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:38.640Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:563e3133a21c8ecca9f7d21f7d71652489d3749d85da909b71bea72ff85174a8",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "未経過固定資産税等に相当する額の支払を受けた場合",
+    "03-10"
+  ],
+  "headings": [
+    "未経過固定資産税等に相当する額の支払を受けた場合",
+    "未経過固定資産税等に相当する額の支払を受けた場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第33条、第36条\n地方税法第343条、第359条、第702条、第702条の6",
+  "document_number": "03-10",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"164b-6450805d73220\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:20 GMT"
+}

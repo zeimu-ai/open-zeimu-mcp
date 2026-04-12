@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-05-01",
+  "title": "課税文書の作成時期及び作成者",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/05/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:26.047Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6e59081f083e1d4fe37bba56ca32eeda9099cdd3360c9259d4146ec4aeefaada",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "課税文書の作成時期及び作成者",
+    "05-01"
+  ],
+  "headings": [
+    "課税文書の作成時期及び作成者",
+    "課税文書の作成時期及び作成者",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法第3条第2項、第4条第5項、印紙税法基本通達第42条、第43条、第44条、第57条",
+  "document_number": "05-01",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"224d-6450807c20e48\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:52 GMT"
+}

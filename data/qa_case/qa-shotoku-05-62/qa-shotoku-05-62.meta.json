@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-62",
+  "title": "夫婦年金保険に係る新個人年金保険料",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/62.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:13.618Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:20bae4bc33d61bfbafa665b6ee6392a7f9dd6ccc9eda4ae9b4b25c4d9b5d6e46",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "夫婦年金保険に係る新個人年金保険料",
+    "05-62"
+  ],
+  "headings": [
+    "夫婦年金保険に係る新個人年金保険料",
+    "夫婦年金保険に係る新個人年金保険料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第76条第3項、第8項、所得税法施行令第212条",
+  "document_number": "05-62",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"19b2-64508084a3d90\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:01 GMT"
+}

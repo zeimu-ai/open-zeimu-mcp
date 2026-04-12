@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-09",
+  "title": "人間ドックの費用",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:10.915Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:45ea7793bab96d2d7226967c19baddabfb600d5bf49b45db292d5e04ca623acd",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "人間ドックの費用",
+    "05-09"
+  ],
+  "headings": [
+    "人間ドックの費用",
+    "人間ドックの費用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達73-4",
+  "document_number": "05-09",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"117d-645080869fa90\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:03 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-12-15",
+  "title": "見積書とワンライティングで作成する注文書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/12/15.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:30.352Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c6865161546a0e4de99451bbebc422f736394d53fca4dcd41faf559fb999b149",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "見積書とワンライティングで作成する注文書",
+    "12-15"
+  ],
+  "headings": [
+    "見積書とワンライティングで作成する注文書",
+    "見積書とワンライティングで作成する注文書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達第21条",
+  "document_number": "12-15",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"143a-64508078c8b10\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:48 GMT"
+}

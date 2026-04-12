@@ -1,0 +1,29 @@
+{
+  "id": "qa-sake-01-02",
+  "title": "【総則】",
+  "category": "sake",
+  "category_path": "お酒に関するQ&A（よくある質問）",
+  "canonical_url": "https://www.nta.go.jp/taxes/sake/qa/01/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:25.265Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5e611a89edf632049b5bffed9c020090154f279cc0b259a1fdf13283c930f0dc",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "【総則】",
+    "01-02"
+  ],
+  "headings": [
+    "【総則】",
+    "【総則】"
+  ],
+  "citation": null,
+  "document_number": "01-02",
+  "tags": [
+    "お酒に関するQ&A（よくある質問）"
+  ],
+  "etag": "\"1fc5-64e4e321aba60\"",
+  "last_modified": "Tue, 31 Mar 2026 09:00:15 GMT"
+}

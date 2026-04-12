@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-04-09",
+  "title": "所有権移転外ファイナンス・リース取引の内外判定",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/04/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:53.483Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:500e6a33f1051213c76e37b4c145a556c775804a8a242d0f219cfec0d734481b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "所有権移転外ファイナンス・リース取引の内外判定",
+    "04-09"
+  ],
+  "headings": [
+    "所有権移転外ファイナンス・リース取引の内外判定",
+    "所有権移転外ファイナンス・リース取引の内外判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第4条第3項第1号、消費税法基本通達5-7-10、7-2-1",
+  "document_number": "04-09",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"174a-6450807193f70\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:41 GMT"
+}

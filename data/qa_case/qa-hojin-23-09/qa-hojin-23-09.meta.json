@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-23-09",
+  "title": "租税条約に定める限度税率を超える外国法人税の額の取扱い",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/23/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:09.909Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:764bd2bb941818a4215d30c3c7af227109f81d34a90c3ec0bc48be796b7ab2b1",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "租税条約に定める限度税率を超える外国法人税の額の取扱い",
+    "23-09"
+  ],
+  "headings": [
+    "租税条約に定める限度税率を超える外国法人税の額の取扱い",
+    "租税条約に定める限度税率を超える外国法人税の額の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第22条第3項第2号、第41条、第69条第1項\n法人税法施行令第142条の2第8項第5号",
+  "document_number": "23-09",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"18c0-6450809e242b0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:28 GMT"
+}

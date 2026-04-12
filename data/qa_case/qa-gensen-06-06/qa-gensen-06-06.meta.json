@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-06-06",
+  "title": "非居住者に支払う翻訳料",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/06/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:55.330Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:197157cac889b0801bf08860230237d4ff46303407a9d9af66fa5e6e12e0ffdf",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "非居住者に支払う翻訳料",
+    "06-06"
+  ],
+  "headings": [
+    "非居住者に支払う翻訳料",
+    "非居住者に支払う翻訳料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第161条第1項第11号ロ、日韓租税条約第12条第5項",
+  "document_number": "06-06",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"126b-6450809054c48\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:13 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-16-20",
+  "title": "共同保険事務に係る経費の配分",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/16/20.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:58.188Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0d1771c4dbc81f97d6d721d4a2a42e9b48d8dd1771803a925ae27a5954f84652",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "共同保険事務に係る経費の配分",
+    "16-20"
+  ],
+  "headings": [
+    "共同保険事務に係る経費の配分",
+    "共同保険事務に係る経費の配分",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第7項、第9項、消費税法基本通達1-3-1、11-6-2",
+  "document_number": "16-20",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"15ad-6450806de2e58\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:37 GMT"
+}

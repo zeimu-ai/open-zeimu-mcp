@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-10-19",
+  "title": "建物の交換に伴い相互に借地権を設定し合った場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/10/19.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:41.224Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:eb1d900ecf69b16947a13f9ea0e7c5bafd51218e8af704b0ee24c4fabeb9a264",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "建物の交換に伴い相互に借地権を設定し合った場合",
+    "10-19"
+  ],
+  "headings": [
+    "建物の交換に伴い相互に借地権を設定し合った場合",
+    "建物の交換に伴い相互に借地権を設定し合った場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第58条\n所得税法施行令第79条、第80条\n所得税基本通達58-11",
+  "document_number": "10-19",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"13ea-6450805b6b1d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:18 GMT"
+}

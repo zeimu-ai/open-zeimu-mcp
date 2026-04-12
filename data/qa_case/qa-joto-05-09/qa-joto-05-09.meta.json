@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-05-09",
+  "title": "建築完了前の売買契約に基づき取得したマンションの取得時期",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/05/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:39.109Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2f8fe6082b81f96f6ec9cb824d98c4ff960c191fc1131c09686531aaa2a39172",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "建築完了前の売買契約に基づき取得したマンションの取得時期",
+    "05-09"
+  ],
+  "headings": [
+    "建築完了前の売買契約に基づき取得したマンションの取得時期",
+    "建築完了前の売買契約に基づき取得したマンションの取得時期",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達33-9、36-12\n租税特別措置法関係通達36の2－16",
+  "document_number": "05-09",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"13c6-6450805d14e50\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:19 GMT"
+}

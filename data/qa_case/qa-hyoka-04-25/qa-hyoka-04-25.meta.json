@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-04-25",
+  "title": "占用権の意義",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/04/25.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:19.828Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3b3a6e89795530fde864a6796cd1bab182d2eb9685e607ecc626814641f18c2e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "占用権の意義",
+    "04-25"
+  ],
+  "headings": [
+    "占用権の意義",
+    "占用権の意義",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達9\n地価税法施行令第2条第2項",
+  "document_number": "04-25",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"13cb-645080624e4c0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:25 GMT"
+}

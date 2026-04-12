@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-14-06",
+  "title": "外貨建取引の課税標準",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/14/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:56.889Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4bd4226b02f7212547cded90d16c3477ec85c5ad3e3b3258aa880e97502b2c26",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "外貨建取引の課税標準",
+    "14-06"
+  ],
+  "headings": [
+    "外貨建取引の課税標準",
+    "外貨建取引の課税標準",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法基本通達10-1-7",
+  "document_number": "14-06",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1acc-6450806eee798\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:38 GMT"
+}

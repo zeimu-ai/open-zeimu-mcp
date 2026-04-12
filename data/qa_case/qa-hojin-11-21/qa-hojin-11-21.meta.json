@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-11-21",
+  "title": "外貨で支払う役員報酬（定期同額給与）",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/11/21.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:03.724Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8c3619d762e25838bf5292b7fa9edca3453a957694914af3d44d8cb49a9670e9",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "外貨で支払う役員報酬（定期同額給与）",
+    "11-21"
+  ],
+  "headings": [
+    "外貨で支払う役員報酬（定期同額給与）",
+    "外貨で支払う役員報酬（定期同額給与）",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第34条第1項第1号",
+  "document_number": "11-21",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"145e-645080a22e590\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:32 GMT"
+}

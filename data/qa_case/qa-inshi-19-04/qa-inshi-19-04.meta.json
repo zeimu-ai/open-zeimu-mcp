@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-04",
+  "title": "受取金額5万円未満の非課税文書の判定方法",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:34.082Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:94377b2b0dad39c6388ebbfa9704dc14ad5822123649eb2ae15098229d285e26",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "受取金額5万円未満の非課税文書の判定方法",
+    "19-04"
+  ],
+  "headings": [
+    "受取金額5万円未満の非課税文書の判定方法",
+    "受取金額5万円未満の非課税文書の判定方法",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則4のイ、ハ、印紙税法基本通達第34条、別表第一第17号文書の28",
+  "document_number": "19-04",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"15c9-645080761ba20\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:46 GMT"
+}

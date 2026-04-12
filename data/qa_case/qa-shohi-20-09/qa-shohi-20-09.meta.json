@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-20-09",
+  "title": "日本標準産業分類からみた事業区分(大分類－O教育、学習支援業、P医療・福祉、Q複合サービス事業、Rサービス業(他に分類されないもの))",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/20/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:01.651Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:574a6cbd956256e5c41769acc666f8da8e2764648534f68fe9fbb50a240e439a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "日本標準産業分類からみた事業区分(大分類－O教育、学習支援業、P医療・福祉、Q複合サービス事業、Rサービス業(他に分類されないもの))",
+    "20-09"
+  ],
+  "headings": [
+    "日本標準産業分類からみた事業区分(大分類－O教育、学習支援業、P医療・福祉、Q複合サービス事業、Rサービス業(他に分類されないもの))",
+    "日本標準産業分類からみた事業区分(大分類－O教育、学習支援業、P医療・福祉、Q複合サービス事業、Rサービス業(他に分類されないもの))",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法施行令第57条第5項、消費税法基本通達13-2-4",
+  "document_number": "20-09",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"3f28-6450806b3a3b8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:34 GMT"
+}

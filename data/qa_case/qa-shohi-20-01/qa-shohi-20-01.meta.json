@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-20-01",
+  "title": "事業の区分の方法",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/20/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:01.241Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:84495ebbacd7ba324d32f44a8bfa109a423b6e9430747f9340a1d651de3d7ba1",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "事業の区分の方法",
+    "20-01"
+  ],
+  "headings": [
+    "事業の区分の方法",
+    "事業の区分の方法",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第37条第1項、消費税法施行令第57条第3項、消費税法基本通達13-2-1、13-3-1、13-3-2",
+  "document_number": "20-01",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"155c-6450806bb0658\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:35 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-14-23",
+  "title": "代替資産を取得しなかった場合の修正申告期限",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/14/23.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:44.290Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:faa3cf3dc6220a13a47864cbd0048b688a0b5ebea2b2d2751b8ffd3f7152f21d",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "代替資産を取得しなかった場合の修正申告期限",
+    "14-23"
+  ],
+  "headings": [
+    "代替資産を取得しなかった場合の修正申告期限",
+    "代替資産を取得しなかった場合の修正申告期限",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第33条第3項・第8項、第33条の5第1項\n租税特別措置法施行規則第14条第5項\n租税特別措置法関係通達33の5-1",
+  "document_number": "14-23",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"13d5-6450805915750\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:15 GMT"
+}

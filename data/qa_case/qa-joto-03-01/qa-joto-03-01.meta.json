@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-03-01",
+  "title": "特殊関係者間の不等価交換",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/03/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:38.174Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f1741adc4444ffd99ee6f7e652701f4bb948f1a9fee4eafae1dd2c04c28541a0",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特殊関係者間の不等価交換",
+    "03-01"
+  ],
+  "headings": [
+    "特殊関係者間の不等価交換",
+    "特殊関係者間の不等価交換",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第9条第1項第17号、第36条、第58条\n相続税法第7条平成元年3月29日付直評5外「負担付贈与又は対価を伴う取引により取得した土地等及び家屋等に係る評価並びに相続税法第7条及び第9条の規定の適用について」",
+  "document_number": "03-01",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"164f-6450805dcb448\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:20 GMT"
+}

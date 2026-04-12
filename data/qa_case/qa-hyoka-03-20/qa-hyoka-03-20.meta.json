@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-03-20",
+  "title": "がけ地等を有する宅地の評価",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/03/20.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:17.953Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6fd1b8824bfbf42b79204da749b62b4cd76438d3b49dcce54cf1e64e69a2ac18",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "がけ地等を有する宅地の評価",
+    "03-20"
+  ],
+  "headings": [
+    "がけ地等を有する宅地の評価",
+    "がけ地等を有する宅地の評価",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達20-5",
+  "document_number": "03-20",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"12fc-64508063a5508\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:26 GMT"
+}

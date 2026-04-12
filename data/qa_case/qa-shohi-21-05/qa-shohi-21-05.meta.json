@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-21-05",
+  "title": "公益法人等の申告単位",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/21/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:02.277Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9ef8dee02beae9b24460074176bd92b3715295512142ef04b65132130edcca1c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "公益法人等の申告単位",
+    "21-05"
+  ],
+  "headings": [
+    "公益法人等の申告単位",
+    "公益法人等の申告単位",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第4条第1項、第9条第1項、第42条、第45条、第60条第1項、第6項、第7項",
+  "document_number": "21-05",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"16b0-6450806ac0298\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:34 GMT"
+}

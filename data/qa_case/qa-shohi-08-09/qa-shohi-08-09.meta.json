@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-08-09",
+  "title": "福祉用具貸与に係る取扱い",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/08/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:55.038Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1438733e85aaae4eb294c7447e7d4743d78d5696331a840482883c5922727e35",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "福祉用具貸与に係る取扱い",
+    "08-09"
+  ],
+  "headings": [
+    "福祉用具貸与に係る取扱い",
+    "福祉用具貸与に係る取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法別表第二第7号、第10号、消費税法施行令第14条の4、消費税法施行令第14条の4の規定に基づき内閣総理大臣及び厚生労働大臣が指定する身体障害者用物品及びその修理を定める件（平3厚生省告示第130号）、消費税法基本通達6-7-3",
+  "document_number": "08-09",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1500-645080705fdc0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:40 GMT"
+}

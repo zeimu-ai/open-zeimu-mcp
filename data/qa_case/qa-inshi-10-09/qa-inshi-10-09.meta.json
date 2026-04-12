@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-10-09",
+  "title": "借入金の利率を変更する覚書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/10/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:28.687Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:792a274b08909e02d2b02066148998bcbcdd3a46bbb10c02ef636c38c9d0036c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "借入金の利率を変更する覚書",
+    "10-09"
+  ],
+  "headings": [
+    "借入金の利率を変更する覚書",
+    "借入金の利率を変更する覚書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第二",
+  "document_number": "10-09",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"130e-64508079f7ab8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:50 GMT"
+}

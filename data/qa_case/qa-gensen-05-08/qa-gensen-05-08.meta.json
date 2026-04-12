@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-05-08",
+  "title": "スタイリスト料及びヘアメイク料",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/05/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:54.600Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:87b402118fd0a258ccf9bc05b29c0316084e6fdd3d584f295d1bd7aa3a199a77",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "スタイリスト料及びヘアメイク料",
+    "05-08"
+  ],
+  "headings": [
+    "スタイリスト料及びヘアメイク料",
+    "スタイリスト料及びヘアメイク料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第204条第1項、所得税法施行令第320条第1項、第4項",
+  "document_number": "05-08",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"13f0-64508090d7df0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:14 GMT"
+}

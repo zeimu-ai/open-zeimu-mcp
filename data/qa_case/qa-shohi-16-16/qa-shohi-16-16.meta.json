@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-16-16",
+  "title": "物品切手等の購入費用",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/16/16.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:57.984Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:67eb398966f4cd9eef6a52a87328bd44180c867f4eb08d3e1a792cf4bf1a9693",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "物品切手等の購入費用",
+    "16-16"
+  ],
+  "headings": [
+    "物品切手等の購入費用",
+    "物品切手等の購入費用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法施行令第49条第1項第1号ロ、消費税法基本通達11-3-7",
+  "document_number": "16-16",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1523-6450806e09b70\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:37 GMT"
+}

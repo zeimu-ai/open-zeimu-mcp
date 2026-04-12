@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-29",
+  "title": "寄附手続中に死亡した場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/29.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:11.970Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9748a66522080a49aab6d10d724694cf70ccab6636126ff0b13b7160f54a7032",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "寄附手続中に死亡した場合",
+    "05-29"
+  ],
+  "headings": [
+    "寄附手続中に死亡した場合",
+    "寄附手続中に死亡した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第78条、所得税基本通達78-1",
+  "document_number": "05-29",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"11fe-64508085e0410\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:02 GMT"
+}

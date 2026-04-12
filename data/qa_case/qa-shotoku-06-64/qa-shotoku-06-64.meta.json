@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-64",
+  "title": "韓国の法人から支払を受ける役員報酬に係る外国税額控除の計算",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/64.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:17.827Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:fcf726053f0ddaa7c326e18e14d1155007bfa1b278cfc79ca044f8eb9b7bfdfb",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "韓国の法人から支払を受ける役員報酬に係る外国税額控除の計算",
+    "06-64"
+  ],
+  "headings": [
+    "韓国の法人から支払を受ける役員報酬に係る外国税額控除の計算",
+    "韓国の法人から支払を受ける役員報酬に係る外国税額控除の計算",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第95条第1項、第4項第16号、所得税法施行令第222条第3項、第225条の13、日韓租税条約第16条、第23条第2項(a)",
+  "document_number": "06-64",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"18e4-64508081746b0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:58 GMT"
+}

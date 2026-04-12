@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-05-11",
+  "title": "一括して購入した土地の一部を譲渡した場合の取得費",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/05/11.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:39.214Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ebf681c12664d494f5d85d2b653fb711d33f334738363db40c00f0ea6aa9f274",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "一括して購入した土地の一部を譲渡した場合の取得費",
+    "05-11"
+  ],
+  "headings": [
+    "一括して購入した土地の一部を譲渡した場合の取得費",
+    "一括して購入した土地の一部を譲渡した場合の取得費",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第38条\n所得税基本通達38－1の2",
+  "document_number": "05-11",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1468-6450805d03510\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:19 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-04-05",
+  "title": "国内資産の国外販売及び輸入に係る課税関係",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/04/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:53.274Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:608f9459229c18f28d78b2aa3117913d94f0a54d0a2ccb5d7fc6cfa2ba893b33",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "国内資産の国外販売及び輸入に係る課税関係",
+    "04-05"
+  ],
+  "headings": [
+    "国内資産の国外販売及び輸入に係る課税関係",
+    "国内資産の国外販売及び輸入に係る課税関係",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第4条第3項第1号、消費税法基本通達5-2-1",
+  "document_number": "04-05",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"18c2-64508071b9518\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:41 GMT"
+}

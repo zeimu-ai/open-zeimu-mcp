@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-04-04",
+  "title": "広告請負に係る内外判定",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/04/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:53.213Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:870dd3c1fe82edf4eb8bfacce69c1325f62d0fb10435a1b6e0a768818cc86b20",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "広告請負に係る内外判定",
+    "04-04"
+  ],
+  "headings": [
+    "広告請負に係る内外判定",
+    "広告請負に係る内外判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法施行令第6条第2項第6号、消費税法基本通達5-7-15",
+  "document_number": "04-04",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"130d-64508071c25a0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:41 GMT"
+}

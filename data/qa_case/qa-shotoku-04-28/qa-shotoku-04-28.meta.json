@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-28",
+  "title": "投資顧問会社に支払う年会費及び成功報酬",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/28.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:10.135Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c2c3e3863c1d207602c0194f8a674b3e891fceecff962b705e2c146f635727e2",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "投資顧問会社に支払う年会費及び成功報酬",
+    "04-28"
+  ],
+  "headings": [
+    "投資顧問会社に支払う年会費及び成功報酬",
+    "投資顧問会社に支払う年会費及び成功報酬",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第35条第2項第2号、所得税法第37条、租税特別措置法第41の14",
+  "document_number": "04-28",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"170e-645080874bc78\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:04 GMT"
+}

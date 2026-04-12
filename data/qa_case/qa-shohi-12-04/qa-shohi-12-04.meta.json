@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-12-04",
+  "title": "農協を通じて出荷する農産物の譲渡の時期",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/12/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:56.310Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b678c057ec9387bee55120c8f87f86e4377bd7bdf325e0966ef98011b28b1ddf",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "農協を通じて出荷する農産物の譲渡の時期",
+    "12-04"
+  ],
+  "headings": [
+    "農協を通じて出荷する農産物の譲渡の時期",
+    "農協を通じて出荷する農産物の譲渡の時期",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法基本通達9-1-3",
+  "document_number": "12-04",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1329-6450806f61770\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:39 GMT"
+}

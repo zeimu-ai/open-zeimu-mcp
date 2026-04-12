@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-07-15",
+  "title": "民法上の相続人が不存在の場合の準確定申告の手続",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/07/15.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:18.301Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0ceb6ba18ec840f61c1b4babd4081571b5e1a31e01670a3a7c621f00aa0cceab",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "民法上の相続人が不存在の場合の準確定申告の手続",
+    "07-15"
+  ],
+  "headings": [
+    "民法上の相続人が不存在の場合の準確定申告の手続",
+    "民法上の相続人が不存在の場合の準確定申告の手続",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第2条第2項、第125条、国税通則法第5条第1項、民法第951条",
+  "document_number": "07-15",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1c79-64508080b9298\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:57 GMT"
+}

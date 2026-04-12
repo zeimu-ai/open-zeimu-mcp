@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-11-02",
+  "title": "被相続人が外国人である場合の未分割遺産に対する課税",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/11/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:21.712Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:85c5777afb8a865ad26a7bd4ab75359b6b84d2d4ffde8b9a76c7eff6c33cfd7a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "被相続人が外国人である場合の未分割遺産に対する課税",
+    "11-02"
+  ],
+  "headings": [
+    "被相続人が外国人である場合の未分割遺産に対する課税",
+    "被相続人が外国人である場合の未分割遺産に対する課税",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法の適用に関する通則法第36条\n相続税法第55条",
+  "document_number": "11-02",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"126d-6450805213830\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:08 GMT"
+}

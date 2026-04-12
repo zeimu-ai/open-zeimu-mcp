@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-19-15",
+  "title": "国外工事に要する課税仕入れ",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/19/15.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:00.766Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d7eae12a4a4b9281129854e7f05930be4e278cefe9485c03101fbc27df99de2c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "国外工事に要する課税仕入れ",
+    "19-15"
+  ],
+  "headings": [
+    "国外工事に要する課税仕入れ",
+    "国外工事に要する課税仕入れ",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第2項、消費税法基本通達11-2-11",
+  "document_number": "19-15",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1233-6450806c11908\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:35 GMT"
+}

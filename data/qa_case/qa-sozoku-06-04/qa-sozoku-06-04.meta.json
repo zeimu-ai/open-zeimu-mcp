@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-06-04",
+  "title": "養子縁組前に出生した養子の子の代襲相続権の有無",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/06/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:20.050Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3d25a2a0dbd26d8095252fcb205484c9f0b47fd961714f285773f660de7172a2",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "養子縁組前に出生した養子の子の代襲相続権の有無",
+    "06-04"
+  ],
+  "headings": [
+    "養子縁組前に出生した養子の子の代襲相続権の有無",
+    "養子縁組前に出生した養子の子の代襲相続権の有無",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "相続税法第15条第2項、第16条\n民法第887条第2項",
+  "document_number": "06-04",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"1203-645080531a738\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:09 GMT"
+}

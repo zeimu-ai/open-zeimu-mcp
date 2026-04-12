@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-22-03",
+  "title": "税制不適格のストック・オプションの行使により取得した株式を譲渡した場合の取得価額",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/22/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:50.340Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:71c72d886eded5c1afd9fbce9bec00bbc84f4f88328098d5b272ee33ca36649f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "税制不適格のストック・オプションの行使により取得した株式を譲渡した場合の取得価額",
+    "22-03"
+  ],
+  "headings": [
+    "税制不適格のストック・オプションの行使により取得した株式を譲渡した場合の取得価額",
+    "税制不適格のストック・オプションの行使により取得した株式を譲渡した場合の取得価額",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第29条の2\n租税特別措置法施行令第19条の3第21項・第22項・第23項\n所得税法施行令第109条第1項第3号、第118条",
+  "document_number": "22-03",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"13c3-645080548f028\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:10 GMT"
+}

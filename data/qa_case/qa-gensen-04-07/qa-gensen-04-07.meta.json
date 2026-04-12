@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-04-07",
+  "title": "居住者が非居住者期間内に国外源泉所得である退職手当等の支払を受けている場合の退職所得控除額",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/04/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:53.709Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d3b36ba4d1085d84aa8385a7c80c4e7b5550d0e82da54c2c93501b555f3ac9d5",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "居住者が非居住者期間内に国外源泉所得である退職手当等の支払を受けている場合の退職所得控除額",
+    "04-07"
+  ],
+  "headings": [
+    "居住者が非居住者期間内に国外源泉所得である退職手当等の支払を受けている場合の退職所得控除額",
+    "居住者が非居住者期間内に国外源泉所得である退職手当等の支払を受けている場合の退職所得控除額",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第30条第1項、所得税法施行令第70条第1項",
+  "document_number": "04-07",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"15fa-645080915c320\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:14 GMT"
+}

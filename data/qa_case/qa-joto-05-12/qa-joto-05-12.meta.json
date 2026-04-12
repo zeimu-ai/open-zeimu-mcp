@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-05-12",
+  "title": "借地権の譲渡所得の計算",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/05/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:39.259Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:fe3749f1b871d54b822581d079d4363eb3794646fc648c001fd3f0e1e7941866",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "借地権の譲渡所得の計算",
+    "05-12"
+  ],
+  "headings": [
+    "借地権の譲渡所得の計算",
+    "借地権の譲渡所得の計算",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第38条\n所得税法施行令第182条",
+  "document_number": "05-12",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"14a1-6450805cfac58\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:19 GMT"
+}

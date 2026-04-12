@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-02-03",
+  "title": "仮契約書・仮文書等の取扱い",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/02/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:25.012Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6678fc524187e120aca8a95f8b825a4d59fdb61a1483153e02a17438281a33cb",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "仮契約書・仮文書等の取扱い",
+    "02-03"
+  ],
+  "headings": [
+    "仮契約書・仮文書等の取扱い",
+    "仮契約書・仮文書等の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達第58条",
+  "document_number": "02-03",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1156-6450807ce4730\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:53 GMT"
+}

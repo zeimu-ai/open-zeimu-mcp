@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-08-01",
+  "title": "特定資産の買換えの場合の譲渡経費の範囲等",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/08/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:01.820Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2cfd902b7427978dbc5d1d3877c7cd9bab631fa08638f376a9c0c14a5769b26e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特定資産の買換えの場合の譲渡経費の範囲等",
+    "08-01"
+  ],
+  "headings": [
+    "特定資産の買換えの場合の譲渡経費の範囲等",
+    "特定資産の買換えの場合の譲渡経費の範囲等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第65条の7第16項第4号\n租税特別措置法関係通達（法人税編）65の7(3)－6",
+  "document_number": "08-01",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"197f-645080a356bc0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:33 GMT"
+}

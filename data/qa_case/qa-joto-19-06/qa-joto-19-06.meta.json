@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-19-06",
+  "title": "買換資産の取得期間の延長",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/19/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:48.878Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:18a10f956ea61dfda78e288417dd39fb33d5027cba95a8b96be697b9698bd170",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "買換資産の取得期間の延長",
+    "19-06"
+  ],
+  "headings": [
+    "買換資産の取得期間の延長",
+    "買換資産の取得期間の延長",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第37条第4項\n租税特別措置法施行令第25条第15項、第18項\n租税特別措置法関係通達37-27の2",
+  "document_number": "19-06",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"13d4-645080559e7e8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:12 GMT"
+}

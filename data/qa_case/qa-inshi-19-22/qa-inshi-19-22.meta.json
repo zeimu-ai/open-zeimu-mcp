@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-22",
+  "title": "会社がその本業以外の行為に関連して作成する受取書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/22.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:34.961Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1a23491f271ebe751121948d127a20eb161c79755ce416c6510df6373ad37033",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "会社がその本業以外の行為に関連して作成する受取書",
+    "19-22"
+  ],
+  "headings": [
+    "会社がその本業以外の行為に関連して作成する受取書",
+    "会社がその本業以外の行為に関連して作成する受取書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一 第17号文書の29～32",
+  "document_number": "19-22",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1754-645080757bf70\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:45 GMT"
+}

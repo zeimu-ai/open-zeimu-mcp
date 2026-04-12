@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-15-11",
+  "title": "第7号文書と他の号に該当する文書の所属の決定",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/15/11.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:31.861Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d64606369ddb6b3fbf55a3c8f25a298968232425740764a1468e58ac54c7f034",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "第7号文書と他の号に該当する文書の所属の決定",
+    "15-11"
+  ],
+  "headings": [
+    "第7号文書と他の号に該当する文書の所属の決定",
+    "第7号文書と他の号に該当する文書の所属の決定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一課税物件表の適用に関する通則3のイ、ハ、印紙税法施行令第26条",
+  "document_number": "15-11",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"19af-64508077b0e80\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:47 GMT"
+}

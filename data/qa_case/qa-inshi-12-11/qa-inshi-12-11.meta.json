@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-12-11",
+  "title": "物品販売の注文請書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/12/11.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:30.145Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3201e9ae2ff84df93d4438f5fecb76647c9090d105466aa3d6bcb8b61dd4edca",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "物品販売の注文請書",
+    "12-11"
+  ],
+  "headings": [
+    "物品販売の注文請書",
+    "物品販売の注文請書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一 第2号文書の1",
+  "document_number": "12-11",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"132b-64508078ef828\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:49 GMT"
+}

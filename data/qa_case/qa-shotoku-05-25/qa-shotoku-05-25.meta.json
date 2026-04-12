@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-25",
+  "title": "共働き夫婦の夫が妻の医療費を負担した場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/25.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:11.760Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5443310fc6f187be332189b88a65232fcb6729e3f3adaff7ad1b2adf4a7fef30",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "共働き夫婦の夫が妻の医療費を負担した場合",
+    "05-25"
+  ],
+  "headings": [
+    "共働き夫婦の夫が妻の医療費を負担した場合",
+    "共働き夫婦の夫が妻の医療費を負担した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第73条第1項",
+  "document_number": "05-25",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"127c-6450808605da0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:02 GMT"
+}

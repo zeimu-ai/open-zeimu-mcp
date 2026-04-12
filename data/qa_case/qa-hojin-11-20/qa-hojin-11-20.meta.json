@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-11-20",
+  "title": "法人が役員の子の授業料を一括して支出した場合(定期同額給与)",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/11/20.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:03.675Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c67a5c885d939076689f244f71157d08a46e339e53bbe1314050b8206d8d796a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "法人が役員の子の授業料を一括して支出した場合(定期同額給与)",
+    "11-20"
+  ],
+  "headings": [
+    "法人が役員の子の授業料を一括して支出した場合(定期同額給与)",
+    "法人が役員の子の授業料を一括して支出した場合(定期同額給与)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第34条第1項第1号、第4項\n法人税法施行令第69条第1項第2号\n法人税基本通達9-2-9、9-2-11",
+  "document_number": "11-20",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"174b-645080a237618\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:32 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-21-03",
+  "title": "遠隔地に所在する不動産を社会福祉法人に寄附した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/21/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:49.821Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:09b6807bbd4b1586e7d35a915d1a0f18f0f6848329241d684e52211290a033e0",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "遠隔地に所在する不動産を社会福祉法人に寄附した場合",
+    "21-03"
+  ],
+  "headings": [
+    "遠隔地に所在する不動産を社会福祉法人に寄附した場合",
+    "遠隔地に所在する不動産を社会福祉法人に寄附した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第40条\n租税特別措置法施行令第25条の17第5項第2号、第7項\n昭和55年4月23日直資2－181「租税特別措置法第40条第1項後段の規定による譲渡所得等の非課税の取扱いについて」13、15",
+  "document_number": "21-03",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"140b-64508054f50f8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:11 GMT"
+}

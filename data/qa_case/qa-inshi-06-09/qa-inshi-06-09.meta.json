@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-06-09",
+  "title": "印紙税納付計器による納付の特例",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/06/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:26.559Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b3b94fb2a8a6e1ea48cbee5c304edca4ab6504f9ebc372b7263019d71c9d7b0b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "印紙税納付計器による納付の特例",
+    "06-09"
+  ],
+  "headings": [
+    "印紙税納付計器による納付の特例",
+    "印紙税納付計器による納付の特例",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法第10条、印紙税法施行令第7条、第8条、印紙税法施行規則第3条、別表第四、印紙税法施行令の規定に基づき計器を指定する告示（昭和42年国税庁告示第10号）",
+  "document_number": "06-09",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1ba2-6450807bb9220\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:52 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-12-17",
+  "title": "仮請負契約書と本契約書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/12/17.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:30.457Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d1ed2b40c9c535ea4db112eaf12d4003ed55f60e1252839981d2d47be68ce140",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "仮請負契約書と本契約書",
+    "12-17"
+  ],
+  "headings": [
+    "仮請負契約書と本契約書",
+    "仮請負契約書と本契約書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則4のホ、5",
+  "document_number": "12-17",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"14c4-64508078b6230\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:48 GMT"
+}

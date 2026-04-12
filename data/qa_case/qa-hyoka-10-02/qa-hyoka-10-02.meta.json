@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-10-02",
+  "title": "受取配当金等収受割合が負数となる場合の計算方法",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/10/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:22.677Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2472e8ac770c690b3210e02cb920c85b43e7656e2e7b0d9ef99b17b4b6a2d0af",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "受取配当金等収受割合が負数となる場合の計算方法",
+    "10-02"
+  ],
+  "headings": [
+    "受取配当金等収受割合が負数となる場合の計算方法",
+    "受取配当金等収受割合が負数となる場合の計算方法",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達189-3(1)",
+  "document_number": "10-02",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"1730-64508060268a0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:23 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-22-10",
+  "title": "特定譲渡制限付株式（リストリクテッド・ストック）に係る譲渡制限期間中の取得費の計算",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/22/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:50.629Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:92933c2e6d49cf9b3044cba0f2b270255dd1175decbed9b78531a104e4a3f513",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特定譲渡制限付株式（リストリクテッド・ストック）に係る譲渡制限期間中の取得費の計算",
+    "22-10"
+  ],
+  "headings": [
+    "特定譲渡制限付株式（リストリクテッド・ストック）に係る譲渡制限期間中の取得費の計算",
+    "特定譲渡制限付株式（リストリクテッド・ストック）に係る譲渡制限期間中の取得費の計算",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第48条第３項\n所得税法施行令第84条第１項、第109条第１項第２号、第118条第１項",
+  "document_number": "22-10",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"15d8-6450805453ed8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:10 GMT"
+}

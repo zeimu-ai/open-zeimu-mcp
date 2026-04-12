@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-03",
+  "title": "使用貸借させている住宅の損失",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:10.606Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6a4a55e1d2a4f0992ca7d2917e218617ebe8f7f84d3de380d0a252e37bac000b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "使用貸借させている住宅の損失",
+    "05-03"
+  ],
+  "headings": [
+    "使用貸借させている住宅の損失",
+    "使用貸借させている住宅の損失",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第62条、第72条、所得税法施行令第178条第1項第2号",
+  "document_number": "05-03",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"116e-64508086d7918\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:03 GMT"
+}

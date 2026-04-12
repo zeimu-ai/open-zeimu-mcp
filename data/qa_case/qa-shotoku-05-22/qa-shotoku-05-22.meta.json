@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-22",
+  "title": "転地療養のための費用",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/22.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:11.606Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b1e10a7ae51bed90a124279e0207290aa4654b2547290d87ed18c087ea957216",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "転地療養のための費用",
+    "05-22"
+  ],
+  "headings": [
+    "転地療養のための費用",
+    "転地療養のための費用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第207条、所得税基本通達73-3",
+  "document_number": "05-22",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1113-6450808622a90\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:02 GMT"
+}

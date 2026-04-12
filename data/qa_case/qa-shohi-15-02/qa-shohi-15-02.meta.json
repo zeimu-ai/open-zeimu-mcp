@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-15-02",
+  "title": "消費者に対するキャッシュバックサービスの課税関係",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/15/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:57.151Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c82c622d05f1ff6327105482e74718fde024493f0cc7e4a4993aa03f9a69370e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "消費者に対するキャッシュバックサービスの課税関係",
+    "15-02"
+  ],
+  "headings": [
+    "消費者に対するキャッシュバックサービスの課税関係",
+    "消費者に対するキャッシュバックサービスの課税関係",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第38条第1項、消費税法基本通達14-1-2",
+  "document_number": "15-02",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"169e-6450806ebab78\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:38 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-07",
+  "title": "権利変換により取得した代替資産等に係る減価償却費の額を計算するときの取得時期",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:09.166Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8108812ed82f5db78de6f4ad309e2f1c607c377ca9680054d7d154e6a46282ce",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "権利変換により取得した代替資産等に係る減価償却費の額を計算するときの取得時期",
+    "04-07"
+  ],
+  "headings": [
+    "権利変換により取得した代替資産等に係る減価償却費の額を計算するときの取得時期",
+    "権利変換により取得した代替資産等に係る減価償却費の額を計算するときの取得時期",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第120条、第120条の2、所得税基本通達49-1、租税特別措置法第33条の3、第33条の6",
+  "document_number": "04-07",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"164c-6450808803210\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:04 GMT"
+}

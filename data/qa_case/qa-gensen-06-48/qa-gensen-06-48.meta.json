@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-06-48",
+  "title": "ストックオプションに係る国内源泉所得の範囲",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/06/48.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:57.434Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:679a2b4b63fc7b9eca42195dd5d63262a82285d1c4fa691bd00cbd51a1ce825a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "ストックオプションに係る国内源泉所得の範囲",
+    "06-48"
+  ],
+  "headings": [
+    "ストックオプションに係る国内源泉所得の範囲",
+    "ストックオプションに係る国内源泉所得の範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第161条第1項第12号、第212条第2項、日米租税条約議定書第10項",
+  "document_number": "06-48",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"154b-6450808ef5348\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:12 GMT"
+}

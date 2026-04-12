@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-23",
+  "title": "平成19年4月1日以降に相続により減価償却資産を取得した場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/23.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:09.881Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:53eca21e5a4334d399283534a6d641588c97d506693b0a6d4eb4310cd4f0e6af",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "平成19年4月1日以降に相続により減価償却資産を取得した場合",
+    "04-23"
+  ],
+  "headings": [
+    "平成19年4月1日以降に相続により減価償却資産を取得した場合",
+    "平成19年4月1日以降に相続により減価償却資産を取得した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第49条、所得税法施行令第120条の2第1項、第126条第2項、第134条、平成19年政令第82号附則第12条第2項、所得税基本通達49－1",
+  "document_number": "04-23",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"19e2-64d561695ef38\"",
+  "last_modified": "Thu, 19 Mar 2026 01:00:01 GMT"
+}

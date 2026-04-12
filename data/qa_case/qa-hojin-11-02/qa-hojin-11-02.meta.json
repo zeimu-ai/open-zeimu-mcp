@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-11-02",
+  "title": "税理士法人の社員に係る使用人兼務役員への該当性",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/11/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:02.858Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:897be355f438ba7bcbca1ea6a3c9ecb3c30d6168f728fbd7a1d2c101ad4f398f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "税理士法人の社員に係る使用人兼務役員への該当性",
+    "11-02"
+  ],
+  "headings": [
+    "税理士法人の社員に係る使用人兼務役員への該当性",
+    "税理士法人の社員に係る使用人兼務役員への該当性",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第2条第15号、第34条第6項\n法人税法施行令第７条第1号、第71条第1項\n税理士法第2条、第48条の2、第48条の5、第48条の6、第48条の11\n会社法第590条",
+  "document_number": "11-02",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"203b-645080a2b3e48\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:32 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-21",
+  "title": "病院に収容されるためのタクシー代",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/21.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:11.559Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f1e97d49bc2987606535b69b57d20375cfe140a7427beb59341a1dbb2000d3bb",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "病院に収容されるためのタクシー代",
+    "05-21"
+  ],
+  "headings": [
+    "病院に収容されるためのタクシー代",
+    "病院に収容されるためのタクシー代",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第207条",
+  "document_number": "05-21",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"131c-645080862bb18\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:03 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-04-06",
+  "title": "弁理士が国外の弁理士に立替払をする料金",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/04/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:53.327Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:edeaf26d5801fb64e7206262cd1ea2e8509124540b9a37228d9a4fad62dc2297",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "弁理士が国外の弁理士に立替払をする料金",
+    "04-06"
+  ],
+  "headings": [
+    "弁理士が国外の弁理士に立替払をする料金",
+    "弁理士が国外の弁理士に立替払をする料金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第4条第1項、第3項第2号",
+  "document_number": "04-06",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"11f4-64508071b0c60\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:41 GMT"
+}

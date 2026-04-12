@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-02-07",
+  "title": "ネットバンクにおけるマル優の適用の可否",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/02/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:50.407Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2676ef6b0d0a750d79e576247bb5cb2d7bcf1ed03bbfd5e459b298dfaf4f43ac",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "ネットバンクにおけるマル優の適用の可否",
+    "02-07"
+  ],
+  "headings": [
+    "ネットバンクにおけるマル優の適用の可否",
+    "ネットバンクにおけるマル優の適用の可否",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第10条、所得税基本通達10-14、10-15",
+  "document_number": "02-07",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1488-6450809383388\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:16 GMT"
+}

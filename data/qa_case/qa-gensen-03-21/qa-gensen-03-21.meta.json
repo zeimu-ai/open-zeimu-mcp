@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-03-21",
+  "title": "アルバイトに支給する通勤手当の非課税限度額",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/03/21.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:51.959Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:804ed9bbc33f82e1da4792102442e4799c83ceb579148a3f1c48fbf22fe544e0",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "アルバイトに支給する通勤手当の非課税限度額",
+    "03-21"
+  ],
+  "headings": [
+    "アルバイトに支給する通勤手当の非課税限度額",
+    "アルバイトに支給する通勤手当の非課税限度額",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第9条第1項第5号、所得税法施行令第20条の2",
+  "document_number": "03-21",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"12a8-6450809284180\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:15 GMT"
+}

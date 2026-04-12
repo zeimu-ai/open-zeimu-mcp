@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-40",
+  "title": "取引保証金の預り証",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/40.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:35.845Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f607d4a58e5cf739fecc717a5f33d8d47db351353cda90cd5bd7291b4d79e572",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "取引保証金の預り証",
+    "19-40"
+  ],
+  "headings": [
+    "取引保証金の預り証",
+    "取引保証金の預り証",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一 第14号文書の2",
+  "document_number": "19-40",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1277-64508074de018\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:44 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-02",
+  "title": "災害により引き続き居住できなかった場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:14.922Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6975ee32aab922cd61b3ffc5fd9b1e5a0a54898c98d40708edac67755513119a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "災害により引き続き居住できなかった場合",
+    "06-02"
+  ],
+  "headings": [
+    "災害により引き続き居住できなかった場合",
+    "災害により引き続き居住できなかった場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第1項、租税特別措置法関係通達41-2",
+  "document_number": "06-02",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1446-6450808392690\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:00 GMT"
+}

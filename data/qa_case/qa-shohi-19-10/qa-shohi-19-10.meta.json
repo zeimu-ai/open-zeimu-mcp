@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-19-10",
+  "title": "社宅に係る仕入税額控除",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/19/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:00.514Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:cce3cdfac85db77a944f7c1edd4f660a70c895079697d4a26f6b17e078b1f103",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "社宅に係る仕入税額控除",
+    "19-10"
+  ],
+  "headings": [
+    "社宅に係る仕入税額控除",
+    "社宅に係る仕入税額控除",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第2項、第10項、消費税法基本通達11-7-5",
+  "document_number": "19-10",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1c25-6450806c41e78\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:35 GMT"
+}

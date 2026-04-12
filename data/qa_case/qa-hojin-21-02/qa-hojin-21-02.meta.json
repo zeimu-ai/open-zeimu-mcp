@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-21-02",
+  "title": "宗教法人の貸付土地の更新料収入",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/21/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:08.558Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:993e7c159e7d164fb6779c44ef9548ceba410fa0890b476be1cf20c7be2bb850",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "宗教法人の貸付土地の更新料収入",
+    "21-02"
+  ],
+  "headings": [
+    "宗教法人の貸付土地の更新料収入",
+    "宗教法人の貸付土地の更新料収入",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法施行令第5条第1項第5号\n法人税基本通達15－2－11",
+  "document_number": "21-02",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1144-6450809f0e4c8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:29 GMT"
+}

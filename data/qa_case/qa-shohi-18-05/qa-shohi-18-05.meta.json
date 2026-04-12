@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-18-05",
+  "title": "クレジットカード会社からの請求明細書",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/18/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:59.636Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:4c2beea9f23ad5e7a65582531f02450f493cd39bf1b7a8b81dabf498cb4c0999",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "クレジットカード会社からの請求明細書",
+    "18-05"
+  ],
+  "headings": [
+    "クレジットカード会社からの請求明細書",
+    "クレジットカード会社からの請求明細書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第7項、第9項",
+  "document_number": "18-05",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"154e-6450806ce3480\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:36 GMT"
+}

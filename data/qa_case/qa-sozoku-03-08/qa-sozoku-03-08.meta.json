@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-03-08",
+  "title": "失踪宣告が行われたことに伴い死亡退職金の支払いがあった場合の課税関係",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/03/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:19.379Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e71a22ffbe1955921890778cb5b811efd331f5ded5015d3b2754e47dfacfbf25",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "失踪宣告が行われたことに伴い死亡退職金の支払いがあった場合の課税関係",
+    "03-08"
+  ],
+  "headings": [
+    "失踪宣告が行われたことに伴い死亡退職金の支払いがあった場合の課税関係",
+    "失踪宣告が行われたことに伴い死亡退職金の支払いがあった場合の課税関係",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "相続税法第3条第1項第2号\n民法第30条、第31条\n所得税基本通達36-10\n相続税法基本通達3-30",
+  "document_number": "03-08",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"1708-6450805392148\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:09 GMT"
+}

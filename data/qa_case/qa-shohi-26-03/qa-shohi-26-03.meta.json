@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-26-03",
+  "title": "免税事業者からの特定課税仕入れ",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/26/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:04.655Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:57dbe257584e1c895f63e3a0933b298351f8e7e168b18e971c614cb848a939d3",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "免税事業者からの特定課税仕入れ",
+    "26-03"
+  ],
+  "headings": [
+    "免税事業者からの特定課税仕入れ",
+    "免税事業者からの特定課税仕入れ",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第4条第1項、5条第1項、消費税法基本通達5-8-1",
+  "document_number": "26-03",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1858-64508068f3f50\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:32 GMT"
+}

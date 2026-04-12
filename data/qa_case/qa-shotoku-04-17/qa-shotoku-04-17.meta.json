@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-17",
+  "title": "非業務用資産を業務の用に供した場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/17.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:09.611Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c566a673f084d6746803da2292ad0b4042c3e39f4e3e84ad0754632233ab26a4",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "非業務用資産を業務の用に供した場合",
+    "04-17"
+  ],
+  "headings": [
+    "非業務用資産を業務の用に供した場合",
+    "非業務用資産を業務の用に供した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第49条、所得税法施行令第85条、第135条、第120条の2、平成19年政令第82号改正附則第12条",
+  "document_number": "04-17",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1ca7-64508087afe08\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:04 GMT"
+}

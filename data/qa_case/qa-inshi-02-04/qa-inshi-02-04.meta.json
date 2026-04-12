@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-02-04",
+  "title": "申込書、注文書、依頼書等と表示された文書の取扱い",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/02/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:25.057Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:44d928861cab9f2da8deaaf44d159383368ae6b91f18a0ea64b1cadb0819e18c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "申込書、注文書、依頼書等と表示された文書の取扱い",
+    "02-04"
+  ],
+  "headings": [
+    "申込書、注文書、依頼書等と表示された文書の取扱い",
+    "申込書、注文書、依頼書等と表示された文書の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達第2条、第3条、第21条",
+  "document_number": "02-04",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"22b8-6450807cda320\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:53 GMT"
+}

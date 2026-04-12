@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-01-02",
+  "title": "土地の地目の判定",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/01/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:15.981Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:29c9d6cea3609397e74e3f5db539f8ec4e9830e98e2802455b50ff3d1dc75b13",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "土地の地目の判定",
+    "01-02"
+  ],
+  "headings": [
+    "土地の地目の判定",
+    "土地の地目の判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達7\n不動産登記事務取扱手続準則第68条、第69条",
+  "document_number": "01-02",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"13a6-6450806514bf0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:28 GMT"
+}

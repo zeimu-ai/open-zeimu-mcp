@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-47",
+  "title": "転勤命令後、家族が後から転居した場合の再適用の可否",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/47.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:17.259Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:573b4ada14acc230f5b1927ccefb2f9595bf5863dd392310e9a1830a0afc592d",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "転勤命令後、家族が後から転居した場合の再適用の可否",
+    "06-47"
+  ],
+  "headings": [
+    "転勤命令後、家族が後から転居した場合の再適用の可否",
+    "転勤命令後、家族が後から転居した場合の再適用の可否",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第28項、第29項、租税特別措置法関係通達41－2、41－3",
+  "document_number": "06-47",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"188e-64508081d9fb0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:58 GMT"
+}

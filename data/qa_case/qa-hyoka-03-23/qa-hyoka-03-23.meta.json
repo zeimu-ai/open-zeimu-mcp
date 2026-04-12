@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-03-23",
+  "title": "宅地が2以上の地区にまたがる場合の画地調整",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/03/23.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:18.111Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8e6174aebc4b676b5baa03456cde929ae16b8fbf0c0451a06c2e63c675de766f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "宅地が2以上の地区にまたがる場合の画地調整",
+    "03-23"
+  ],
+  "headings": [
+    "宅地が2以上の地区にまたがる場合の画地調整",
+    "宅地が2以上の地区にまたがる場合の画地調整",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達15、20",
+  "document_number": "03-23",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"177f-645080638a370\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:26 GMT"
+}

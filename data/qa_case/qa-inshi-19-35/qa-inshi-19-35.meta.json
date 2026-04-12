@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-35",
+  "title": "お買上伝票",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/35.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:35.585Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:fcff45a510e5dbb5da9366930b854e845a617eefcb582da0eaaadc1c39478ba2",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "お買上伝票",
+    "19-35"
+  ],
+  "headings": [
+    "お買上伝票",
+    "お買上伝票",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一 第17号文書の10",
+  "document_number": "19-35",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"11ff-6450807512408\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:45 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-18-08",
+  "title": "居住用家屋の所有者とその敷地の所有者が異なる場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/18/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:47.581Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:336536ec28fe24eeaefd9123f5e29837d47e95a2acb93bdb7883ea0263690de1",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "居住用家屋の所有者とその敷地の所有者が異なる場合",
+    "18-08"
+  ],
+  "headings": [
+    "居住用家屋の所有者とその敷地の所有者が異なる場合",
+    "居住用家屋の所有者とその敷地の所有者が異なる場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第35条第1項、第2項\n租税特別措置法関係通達31の3-6、35-4、35-6",
+  "document_number": "18-08",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"12e2-64508056899a0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:13 GMT"
+}

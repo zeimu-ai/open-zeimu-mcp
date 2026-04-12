@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-30-02",
+  "title": "株価が50％相当額を下回る場合における株価の回復可能性の判断基準について",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/30/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:12.079Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:969060551cfc1e20ae55270a4e6d7f756e946c9c3e0cc31db6641ee78b76ac26",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "株価が50％相当額を下回る場合における株価の回復可能性の判断基準について",
+    "30-02"
+  ],
+  "headings": [
+    "株価が50％相当額を下回る場合における株価の回復可能性の判断基準について",
+    "株価が50％相当額を下回る場合における株価の回復可能性の判断基準について",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第33条第1項、第2項\n法人税法施行令第68条第1項第2号イ\n法人税基本通達9-1-7",
+  "document_number": "30-02",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1cb9-6450809cb3840\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:26 GMT"
+}

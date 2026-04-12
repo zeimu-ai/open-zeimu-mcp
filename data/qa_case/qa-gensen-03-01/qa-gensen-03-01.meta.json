@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-03-01",
+  "title": "2以上の使用者から支払を受ける役員の出勤費用",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/03/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:50.909Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:49bcf30bd24deb7718cf76f07de5596ff47f01126ecc57c7f30b7ec16275b64f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "2以上の使用者から支払を受ける役員の出勤費用",
+    "03-01"
+  ],
+  "headings": [
+    "2以上の使用者から支払を受ける役員の出勤費用",
+    "2以上の使用者から支払を受ける役員の出勤費用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第9条第1項第4号、第5号、所得税基本通達9－5",
+  "document_number": "03-01",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"12ed-6450809336128\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:16 GMT"
+}

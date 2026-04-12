@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-33-02",
+  "title": "事業関連性要件における相互に関連するものについて",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/33/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:12.555Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:47be8b35748d29c38d12821a6b6c12e1f7b6881babf91142298fb1e2edff7659",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "事業関連性要件における相互に関連するものについて",
+    "33-02"
+  ],
+  "headings": [
+    "事業関連性要件における相互に関連するものについて",
+    "事業関連性要件における相互に関連するものについて",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第2条第12号の8\n法人税法施行令第4条の3第4項第1号\n法人税法施行規則第3条",
+  "document_number": "33-02",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1a74-6450809c5f498\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:26 GMT"
+}

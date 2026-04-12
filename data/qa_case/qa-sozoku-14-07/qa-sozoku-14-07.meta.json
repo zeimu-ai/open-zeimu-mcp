@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-14-07",
+  "title": "夫婦財産契約と贈与税",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/14/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:22.339Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0dcaf9a795b32d0ded6285c1d8b2dbe88700b3adb37c6b0b34cfeba061f38db6",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "夫婦財産契約と贈与税",
+    "14-07"
+  ],
+  "headings": [
+    "夫婦財産契約と贈与税",
+    "夫婦財産契約と贈与税",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "相続税法第9条\n民法第762条",
+  "document_number": "14-07",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"1230-64508051a1028\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:07 GMT"
+}

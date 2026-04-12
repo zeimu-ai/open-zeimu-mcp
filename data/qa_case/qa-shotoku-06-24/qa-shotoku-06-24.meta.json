@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-24",
+  "title": "年末残高等証明書が年末調整に間に合わない場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/24.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:16.062Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9ef5291c94e3dfcdb06e37cc23e9bc0cf89e3f1133d350c0832a956f6130394d",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "年末残高等証明書が年末調整に間に合わない場合",
+    "06-24"
+  ],
+  "headings": [
+    "年末残高等証明書が年末調整に間に合わない場合",
+    "年末残高等証明書が年末調整に間に合わない場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法関係通達41の2の2-1",
+  "document_number": "06-24",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"130b-64508082ba588\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:59 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-38",
+  "title": "合計所得金額2,000万円の判定",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/38.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:16.815Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6377d65f65259c6772d025b606bb8ef8f763e242804f955662a72a2f70d359a5",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "合計所得金額2,000万円の判定",
+    "06-38"
+  ],
+  "headings": [
+    "合計所得金額2,000万円の判定",
+    "合計所得金額2,000万円の判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第2条第1項第30号、租税特別措置法第8条の4第3項、第31条第3項、第32条第4項、第37条の10第6項、第37条の11第6項、第37条の12の2第4項、第8項、第37条の13の3第9項、第41条の5第12項、第41条の5の2第12項、第41条の14第2項、第41条の15第4項",
+  "document_number": "06-38",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"17f1-6450808231238\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:58 GMT"
+}

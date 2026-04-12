@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-12",
+  "title": "賃貸の用に供するマンションの修繕積立金の取扱い",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:09.416Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:aa8cf07ca17b1d500e985e61ce1de3b253b55dda4b29ac65aeda6753497cfed5",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "賃貸の用に供するマンションの修繕積立金の取扱い",
+    "04-12"
+  ],
+  "headings": [
+    "賃貸の用に供するマンションの修繕積立金の取扱い",
+    "賃貸の用に供するマンションの修繕積立金の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第37条、所得税基本通達37-2",
+  "document_number": "04-12",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1ab8-64508087d4410\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:04 GMT"
+}

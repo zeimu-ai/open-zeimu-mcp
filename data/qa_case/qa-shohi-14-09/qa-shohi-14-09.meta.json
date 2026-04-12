@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-14-09",
+  "title": "みなし譲渡の場合の時価",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/14/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:57.044Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5e4cf2a214fffa2edb869b21ab1105a64971e5cc3b52c70e24c17d54197aa222",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "みなし譲渡の場合の時価",
+    "14-09"
+  ],
+  "headings": [
+    "みなし譲渡の場合の時価",
+    "みなし譲渡の場合の時価",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法基本通達10-1-2",
+  "document_number": "14-09",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1353-6450806ecf780\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:38 GMT"
+}

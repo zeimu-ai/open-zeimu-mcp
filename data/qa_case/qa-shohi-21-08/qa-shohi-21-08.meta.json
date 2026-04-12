@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-21-08",
+  "title": "国、地方公共団体等の申告期限の特例の適用",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/21/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:02.420Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:030c672b14c1d00264ad2aec99d4b6181807159cef74286a1d11b613057371cb",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "国、地方公共団体等の申告期限の特例の適用",
+    "21-08"
+  ],
+  "headings": [
+    "国、地方公共団体等の申告期限の特例の適用",
+    "国、地方公共団体等の申告期限の特例の適用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第60条第8項、消費税法施行令第76条第1項、第2項第4号、消費税法基本通達16－1－2の2（注）、16-3-2の2",
+  "document_number": "21-08",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1db5-6450806aa1a50\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:34 GMT"
+}

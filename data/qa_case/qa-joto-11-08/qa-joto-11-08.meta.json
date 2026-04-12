@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-11-08",
+  "title": "手形裏書人が割り引いた手形債務を支払うために譲渡した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/11/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:41.640Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:380bcde36a6b52527bfe6546192fbbbc747cc5324d1a0356aadb35e93f9fe121",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "手形裏書人が割り引いた手形債務を支払うために譲渡した場合",
+    "11-08"
+  ],
+  "headings": [
+    "手形裏書人が割り引いた手形債務を支払うために譲渡した場合",
+    "手形裏書人が割り引いた手形債務を支払うために譲渡した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第64条第2項\n手形法第14条、第15条、第30条、第32条、第77条",
+  "document_number": "11-08",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"133c-6450805b18980\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:17 GMT"
+}

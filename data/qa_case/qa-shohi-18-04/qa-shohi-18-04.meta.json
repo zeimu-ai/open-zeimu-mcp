@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-18-04",
+  "title": "帳簿に記載すべき氏名又は名称",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/18/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:59.594Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9c81ac211342c66fc852718c5ad31b11d3f81da5fe98a6e16bd80b31f6221408",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "帳簿に記載すべき氏名又は名称",
+    "18-04"
+  ],
+  "headings": [
+    "帳簿に記載すべき氏名又は名称",
+    "帳簿に記載すべき氏名又は名称",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第7項、第8項",
+  "document_number": "18-04",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1396-6450806cec508\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:36 GMT"
+}

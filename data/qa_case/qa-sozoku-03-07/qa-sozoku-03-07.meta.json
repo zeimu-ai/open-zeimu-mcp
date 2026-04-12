@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-03-07",
+  "title": "被相続人の死亡退職に伴い遺族補償金として支給された金額",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/03/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:19.355Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:92654fa2aeb51d16ba214abdd561eef9bfc7df3c3f118abebd146d6d74350e94",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "被相続人の死亡退職に伴い遺族補償金として支給された金額",
+    "03-07"
+  ],
+  "headings": [
+    "被相続人の死亡退職に伴い遺族補償金として支給された金額",
+    "被相続人の死亡退職に伴い遺族補償金として支給された金額",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "相続税法第3条第1項第2号\n相続税法基本通達3-17",
+  "document_number": "03-07",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"12f9-645080539bd88\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:09 GMT"
+}

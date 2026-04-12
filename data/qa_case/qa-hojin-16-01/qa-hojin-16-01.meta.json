@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-16-01",
+  "title": "更生手続中における貸倒損失",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/16/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:06.834Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:daaccb658269d742530055922db4a14349aae76567eab96945c297cb18244911",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "更生手続中における貸倒損失",
+    "16-01"
+  ],
+  "headings": [
+    "更生手続中における貸倒損失",
+    "更生手続中における貸倒損失",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税基本通達9－6－1\n会社更生法第47条第5項",
+  "document_number": "16-01",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"159a-645080a021338\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:30 GMT"
+}

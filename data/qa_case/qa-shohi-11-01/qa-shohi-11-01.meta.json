@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-11-01",
+  "title": "輸出取引に係る輸出免税の適用者",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/11/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:55.756Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:76ad37634a88ea17e3e8ba6de5b100ce70fed6961ab1205cf15a197a3be7b991",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "輸出取引に係る輸出免税の適用者",
+    "11-01"
+  ],
+  "headings": [
+    "輸出取引に係る輸出免税の適用者",
+    "輸出取引に係る輸出免税の適用者",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第7条第2項、消費税法施行規則第5条",
+  "document_number": "11-01",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1701-6450806fd08c8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:39 GMT"
+}

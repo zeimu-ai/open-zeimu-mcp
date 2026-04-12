@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-01-04",
+  "title": "地目の異なる土地が一体として利用されている場合の評価",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/01/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:16.083Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:bedcfcae0738d5b5cc6eb867be76b26ec5803378519550a713c0a7585250b360",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "地目の異なる土地が一体として利用されている場合の評価",
+    "01-04"
+  ],
+  "headings": [
+    "地目の異なる土地が一体として利用されている場合の評価",
+    "地目の異なる土地が一体として利用されている場合の評価",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達7",
+  "document_number": "01-04",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"15c7-6450806501b40\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:28 GMT"
+}

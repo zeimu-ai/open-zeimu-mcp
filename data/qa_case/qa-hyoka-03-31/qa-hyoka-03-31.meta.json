@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-03-31",
+  "title": "正面路線に2以上の路線価が付されている場合の宅地の評価",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/03/31.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:18.519Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7d0b35bfd40a4a8a16156011230207ac872af0d8b533a6fee90594b2561e3ca1",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "正面路線に2以上の路線価が付されている場合の宅地の評価",
+    "03-31"
+  ],
+  "headings": [
+    "正面路線に2以上の路線価が付されている場合の宅地の評価",
+    "正面路線に2以上の路線価が付されている場合の宅地の評価",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達15",
+  "document_number": "03-31",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"14fc-645080633a618\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:26 GMT"
+}

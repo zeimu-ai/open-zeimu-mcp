@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-35",
+  "title": "底地の取得及び取得対価の額",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/35.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:16.634Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:69c31801aa55244dc70e90a956a0b7392cf6c4dbd20539448fb3d5919180a431",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "底地の取得及び取得対価の額",
+    "06-35"
+  ],
+  "headings": [
+    "底地の取得及び取得対価の額",
+    "底地の取得及び取得対価の額",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第1項、租税特別措置法関係通達41－7、41－25",
+  "document_number": "06-35",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"19f1-645080824db40\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:58 GMT"
+}

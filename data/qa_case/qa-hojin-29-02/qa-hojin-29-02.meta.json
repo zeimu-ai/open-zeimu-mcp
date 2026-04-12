@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-29-02",
+  "title": "事業分量配当の対象となる剰余金",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/29/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:11.768Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:65eb3cf343e3b7f1c72ac0eee5855f34ca20ff072c1338d67e10acd2f1463b1b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "事業分量配当の対象となる剰余金",
+    "29-02"
+  ],
+  "headings": [
+    "事業分量配当の対象となる剰余金",
+    "事業分量配当の対象となる剰余金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第60条の2\n法人税基本通達14－2－1\n昭和44年直審(法)29ほか「事業分量配当金の法人税法上の取扱いについて（法令解釈通達）」",
+  "document_number": "29-02",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1a45-6450809cf04e8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:26 GMT"
+}

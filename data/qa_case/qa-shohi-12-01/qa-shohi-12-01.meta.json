@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-12-01",
+  "title": "共同事業の計算期間が構成員の課税期間と異なる場合の取扱い",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/12/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:56.165Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:68ff35af6c72dedd05ca5390a48b6d9e9eda18e2056aab5d07a05586f6cba30d",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "共同事業の計算期間が構成員の課税期間と異なる場合の取扱い",
+    "12-01"
+  ],
+  "headings": [
+    "共同事業の計算期間が構成員の課税期間と異なる場合の取扱い",
+    "共同事業の計算期間が構成員の課税期間と異なる場合の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法基本通達1-3-1、9-1-28、9-6-2",
+  "document_number": "12-01",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1728-6450806f7d0d8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:39 GMT"
+}

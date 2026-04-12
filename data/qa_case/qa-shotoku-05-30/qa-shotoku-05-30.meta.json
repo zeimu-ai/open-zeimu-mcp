@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-30",
+  "title": "国等に対して相続財産を贈与し、相続税の非課税規定の適用を受けた場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/30.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:12.032Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3a03f4221c8c0e9d8c021f60cce35b0aa7611d6deeb7aea8cbd754e2b732e3d8",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "国等に対して相続財産を贈与し、相続税の非課税規定の適用を受けた場合",
+    "05-30"
+  ],
+  "headings": [
+    "国等に対して相続財産を贈与し、相続税の非課税規定の適用を受けた場合",
+    "国等に対して相続財産を贈与し、相続税の非課税規定の適用を受けた場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第78条、租税特別措置法第40条、第70条",
+  "document_number": "05-30",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1362-64508085d6fa0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:02 GMT"
+}

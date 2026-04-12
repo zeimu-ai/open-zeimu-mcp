@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-51",
+  "title": "再居住を複数回行った場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/51.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:17.471Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b7769f31a97ef5fbc05dab026bb64b1876c4fc39beb9fbee74ffcb2a88f102ce",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "再居住を複数回行った場合",
+    "06-51"
+  ],
+  "headings": [
+    "再居住を複数回行った場合",
+    "再居住を複数回行った場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第28項",
+  "document_number": "06-51",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"13b7-64508081b6d30\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:58 GMT"
+}

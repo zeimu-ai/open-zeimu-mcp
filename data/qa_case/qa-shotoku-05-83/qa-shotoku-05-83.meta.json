@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-83",
+  "title": "父親の控除対象配偶者である母親の医療費を子供が負担した場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/83.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:14.662Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3f80a34ad8db92f5f09ec93b815239c15f192ecf2624b3166b4294de9125313a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "父親の控除対象配偶者である母親の医療費を子供が負担した場合",
+    "05-83"
+  ],
+  "headings": [
+    "父親の控除対象配偶者である母親の医療費を子供が負担した場合",
+    "父親の控除対象配偶者である母親の医療費を子供が負担した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第73条第1項、所得税基本通達2－47",
+  "document_number": "05-83",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"12fe-64508083de568\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:00 GMT"
+}

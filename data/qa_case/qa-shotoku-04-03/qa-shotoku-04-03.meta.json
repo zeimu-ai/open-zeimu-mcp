@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-03",
+  "title": "法人成りにより使用人を引き継いだ新設法人に支払う退職金相当額",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:08.947Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2a0663710569cbffd00a659c94691829aa21e95fbbde8b5648ad64e121b6b56e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "法人成りにより使用人を引き継いだ新設法人に支払う退職金相当額",
+    "04-03"
+  ],
+  "headings": [
+    "法人成りにより使用人を引き継いだ新設法人に支払う退職金相当額",
+    "法人成りにより使用人を引き継いだ新設法人に支払う退職金相当額",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第37条、第63条",
+  "document_number": "04-03",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1213-6450808828f88\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:05 GMT"
+}

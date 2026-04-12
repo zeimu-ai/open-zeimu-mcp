@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-11-03",
+  "title": "運送の意義",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/11/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:29.104Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7e7a1e5a7aac4ea8202360d93d8e3c029b76f716b1eaf0f308f7a8f6f7e11a1c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "運送の意義",
+    "11-03"
+  ],
+  "headings": [
+    "運送の意義",
+    "運送の意義",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一 第1号の4文書の1",
+  "document_number": "11-03",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"12ee-64508079ab028\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:49 GMT"
+}

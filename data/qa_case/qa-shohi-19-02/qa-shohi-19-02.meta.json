@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-19-02",
+  "title": "商品券の印刷費に係る仕入税額控除",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/19/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:00.099Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d193a41dddfe61f009b6709cdac0cf0d89744ff3ebb89832a6b96d13889b3234",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "商品券の印刷費に係る仕入税額控除",
+    "19-02"
+  ],
+  "headings": [
+    "商品券の印刷費に係る仕入税額控除",
+    "商品券の印刷費に係る仕入税額控除",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第2項、消費税法基本通達11-2-10",
+  "document_number": "19-02",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"121d-6450806c92b70\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:36 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-22",
+  "title": "堅牢な建物等に資本的支出をした場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/22.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:09.826Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e918bb8a25ef867f701f34a79f065af63bef611e555f038e546e5560bf57aac3",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "堅牢な建物等に資本的支出をした場合",
+    "04-22"
+  ],
+  "headings": [
+    "堅牢な建物等に資本的支出をした場合",
+    "堅牢な建物等に資本的支出をした場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第49条、所得税法施行令第127条、第134条の2、所得税基本通達49-31(2)、49-48の2",
+  "document_number": "04-22",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"217a-64508087890f0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:04 GMT"
+}

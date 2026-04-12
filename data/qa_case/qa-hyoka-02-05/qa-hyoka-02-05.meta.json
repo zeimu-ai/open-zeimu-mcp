@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-02-05",
+  "title": "宅地の評価単位－貸宅地",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/02/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:16.496Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:acd27376adaec243735ac9f5e5584f17f1d29981d57353a493141537e75dee52",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "宅地の評価単位－貸宅地",
+    "02-05"
+  ],
+  "headings": [
+    "宅地の評価単位－貸宅地",
+    "宅地の評価単位－貸宅地",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達7-2",
+  "document_number": "02-05",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"11fb-64508064b0678\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:27 GMT"
+}

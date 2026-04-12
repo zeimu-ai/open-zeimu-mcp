@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-20-02",
+  "title": "簡易課税の事業区分について（フローチャート）",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/20/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:01.297Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3e58efba02e5f64b3cb998332fd7f08f64e108505ae40314d613d5e64894ad18",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "簡易課税の事業区分について（フローチャート）",
+    "20-02"
+  ],
+  "headings": [
+    "簡易課税の事業区分について（フローチャート）",
+    "簡易課税の事業区分について（フローチャート）",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法基本通達13-2-1、13-2-2",
+  "document_number": "20-02",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1824-6450806ba3b38\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:35 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-25-02",
+  "title": "預貯金通帳の範囲",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/25/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:37.407Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:cdf1ecfa3405e28b5de6babcef42d79b365b5fa83a80bab079a22829c2caa6f4",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "預貯金通帳の範囲",
+    "25-02"
+  ],
+  "headings": [
+    "預貯金通帳の範囲",
+    "預貯金通帳の範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一第18号文書の「非課税物件の欄」、印紙税法施行令第27条、第30条、印紙税法基本通達別表第一 第18号文書の5、6、7",
+  "document_number": "25-02",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"15f7-64508073b32d8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:43 GMT"
+}

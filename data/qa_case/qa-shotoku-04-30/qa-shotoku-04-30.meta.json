@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-30",
+  "title": "相続により取得した減価償却資産の耐用年数",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/30.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:10.237Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:296e4bdd9d35dd3fc8e341bd157dd16ea938f493f273d3ac7a7a392afb7deb92",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "相続により取得した減価償却資産の耐用年数",
+    "04-30"
+  ],
+  "headings": [
+    "相続により取得した減価償却資産の耐用年数",
+    "相続により取得した減価償却資産の耐用年数",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第60条第1項、所得税法施行令第126条第2項、減価償却資産の耐用年数等に関する省令第3条第1項",
+  "document_number": "04-30",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1652-64508087368a0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:04 GMT"
+}

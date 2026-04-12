@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-18-01",
+  "title": "債権譲渡通知書等",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/18/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:33.511Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:98c6f2ca201e000b2a5c64663198b19c46f0a8e6abf56942ca56947c54e02756",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "債権譲渡通知書等",
+    "18-01"
+  ],
+  "headings": [
+    "債権譲渡通知書等",
+    "債権譲渡通知書等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一15号文書の4",
+  "document_number": "18-01",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"118b-6450807680f38\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:46 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-16-02",
+  "title": "申込書等に併記された保証契約",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/16/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:32.898Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a4993fa3ee8e90f3ef5e128d4fcee8e5f5f4cdc45c3a932d656a52ce9f3e8500",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "申込書等に併記された保証契約",
+    "16-02"
+  ],
+  "headings": [
+    "申込書等に併記された保証契約",
+    "申込書等に併記された保証契約",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達第21条",
+  "document_number": "16-02",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"11c6-64508076f5a68\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:47 GMT"
+}

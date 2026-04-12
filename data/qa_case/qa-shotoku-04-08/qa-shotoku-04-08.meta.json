@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-08",
+  "title": "償却期間経過後における開業費の任意償却",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:09.202Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d3f1bedad5dc273614288519c9ce6af29d6a34ce6f66a4a7241e3378e52291fe",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "償却期間経過後における開業費の任意償却",
+    "04-08"
+  ],
+  "headings": [
+    "償却期間経過後における開業費の任意償却",
+    "償却期間経過後における開業費の任意償却",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第50条、所得税法施行令第137条第1項、第3項",
+  "document_number": "04-08",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1486-64508087f95d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:04 GMT"
+}

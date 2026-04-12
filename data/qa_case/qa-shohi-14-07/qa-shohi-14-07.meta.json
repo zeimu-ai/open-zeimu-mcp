@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-14-07",
+  "title": "確定していない対価の処理",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/14/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:56.945Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c25454c959af7f76320ddf19d45444eaf1f389c5d32dc55bd3c67a8821d6767a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "確定していない対価の処理",
+    "14-07"
+  ],
+  "headings": [
+    "確定していない対価の処理",
+    "確定していない対価の処理",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法基本通達10-1-20",
+  "document_number": "14-07",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1208-6450806ee5af8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:38 GMT"
+}

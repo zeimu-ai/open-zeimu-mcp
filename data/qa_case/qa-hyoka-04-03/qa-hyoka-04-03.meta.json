@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-04-03",
+  "title": "一団の雑種地の判定",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/04/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:18.687Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:accbcf5abf2ff6118401c6e861f0abfd4408a15d679b3e59f6473e9f03e771e2",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "一団の雑種地の判定",
+    "04-03"
+  ],
+  "headings": [
+    "一団の雑種地の判定",
+    "一団の雑種地の判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達7-2",
+  "document_number": "04-03",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"129d-645080631e8c8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:26 GMT"
+}

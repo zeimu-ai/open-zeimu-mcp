@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-03-17",
+  "title": "会社設立発起人が受ける報酬の所得区分",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/03/17.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:51.662Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b84257d82bd94152c1c9e4369861b0e965b7b3fc92522be8bf65abd3db1ef73b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "会社設立発起人が受ける報酬の所得区分",
+    "03-17"
+  ],
+  "headings": [
+    "会社設立発起人が受ける報酬の所得区分",
+    "会社設立発起人が受ける報酬の所得区分",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第28条、会社法第28条第3号",
+  "document_number": "03-17",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"11c3-64508092afcb8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:16 GMT"
+}

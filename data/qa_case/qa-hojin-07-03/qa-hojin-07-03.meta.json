@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-07-03",
+  "title": "交換により取得した土地の圧縮記帳の可否について",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/07/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:01.399Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:09588616d93084637d93694bd662fdc31bdbe587a692e2f66bedf7e7fbbeb20e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "交換により取得した土地の圧縮記帳の可否について",
+    "07-03"
+  ],
+  "headings": [
+    "交換により取得した土地の圧縮記帳の可否について",
+    "交換により取得した土地の圧縮記帳の可否について",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第50条",
+  "document_number": "07-03",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1372-645080a3a6918\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:33 GMT"
+}

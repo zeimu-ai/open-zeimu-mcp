@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-14-03",
+  "title": "遺言書の内容と異なる遺産の分割と贈与税",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/14/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:22.126Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1f879702355d61ff0d6c2514ed5e79d29945eb86f058c258b964481f6ebc6f15",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "遺言書の内容と異なる遺産の分割と贈与税",
+    "14-03"
+  ],
+  "headings": [
+    "遺言書の内容と異なる遺産の分割と贈与税",
+    "遺言書の内容と異なる遺産の分割と贈与税",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "民法第907条、第908条、第915条、第939条、第990条\n最高裁　平成10年6月11日判決",
+  "document_number": "14-03",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"12e3-64508051cc778\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:08 GMT"
+}

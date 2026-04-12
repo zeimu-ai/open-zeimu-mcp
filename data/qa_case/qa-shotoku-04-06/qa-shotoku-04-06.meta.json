@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-06",
+  "title": "従業員を被保険者とする保険契約の転換をした場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:09.103Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5a078f081f7b8f93a7a8d47532b8265b66be394a02348b94cb15f9398b7f9436",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "従業員を被保険者とする保険契約の転換をした場合",
+    "04-06"
+  ],
+  "headings": [
+    "従業員を被保険者とする保険契約の転換をした場合",
+    "従業員を被保険者とする保険契約の転換をした場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第37条、所得税基本通達36-31の5",
+  "document_number": "04-06",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1227-645080880d238\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:04 GMT"
+}

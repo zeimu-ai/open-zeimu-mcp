@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-15-02",
+  "title": "契約期間が3か月を超えるものの判断",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/15/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:31.395Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9d2fe6c3601fc87320233a91d0f2c73e8e56f586e4197f14aafb1d9b42c336ec",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "契約期間が3か月を超えるものの判断",
+    "15-02"
+  ],
+  "headings": [
+    "契約期間が3か月を超えるものの判断",
+    "契約期間が3か月を超えるものの判断",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達第4条、第29条、別表第一第7号文書の2",
+  "document_number": "15-02",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"16c8-6450807804288\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:48 GMT"
+}

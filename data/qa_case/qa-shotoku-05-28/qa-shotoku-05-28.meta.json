@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-28",
+  "title": "支払った医療費を超える補填金",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/28.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:11.917Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:524167bc20d47b7071049ea5f834123e0cceb81fe4e250a35afff59f945ba581",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "支払った医療費を超える補填金",
+    "05-28"
+  ],
+  "headings": [
+    "支払った医療費を超える補填金",
+    "支払った医療費を超える補填金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第73条第1項",
+  "document_number": "05-28",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"12e4-64508085e9880\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:02 GMT"
+}

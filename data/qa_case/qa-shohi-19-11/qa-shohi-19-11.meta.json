@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-19-11",
+  "title": "副次的に発生する非課税売上げがある場合の課税仕入れの区分",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/19/11.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:00.562Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a4148c1e04f707437be231082a5104420331ffee3d91ef52525eac194972ebdf",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "副次的に発生する非課税売上げがある場合の課税仕入れの区分",
+    "19-11"
+  ],
+  "headings": [
+    "副次的に発生する非課税売上げがある場合の課税仕入れの区分",
+    "副次的に発生する非課税売上げがある場合の課税仕入れの区分",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第2項",
+  "document_number": "19-11",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"136f-6450806c37a68\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:35 GMT"
+}

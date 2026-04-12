@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-18-12",
+  "title": "特定農業団体に対し農作業の一部を委託した場合",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/18/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:23.945Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d7c3d83f8c8167f99aee6933f2a3f859323271eb90de0c968896ad113af7b050",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特定農業団体に対し農作業の一部を委託した場合",
+    "18-12"
+  ],
+  "headings": [
+    "特定農業団体に対し農作業の一部を委託した場合",
+    "特定農業団体に対し農作業の一部を委託した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第70条の4第1項、第70条の6第1項\n租税特別措置法施行令第40条の6第1項、第40条の7第1項\n租税特別措置法関係通達70の4－12、70の4－13、70の6－13\n農業経営基盤強化促進法第4条第3項、第23条第4項",
+  "document_number": "18-12",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"16d6-6450804febc10\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:06 GMT"
+}

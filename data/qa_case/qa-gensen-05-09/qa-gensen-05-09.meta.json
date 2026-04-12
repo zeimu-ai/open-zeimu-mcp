@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-05-09",
+  "title": "テロップ代金",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/05/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:54.621Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:093a88ec104476bec17356dd01205b91a21d8f86ac4d2bda73b116ac29a35f50",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "テロップ代金",
+    "05-09"
+  ],
+  "headings": [
+    "テロップ代金",
+    "テロップ代金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第204条第1項第1号、所得税基本通達204-6",
+  "document_number": "05-09",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"121f-64508090cddc8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:14 GMT"
+}

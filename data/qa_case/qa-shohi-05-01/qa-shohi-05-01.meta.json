@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-05-01",
+  "title": "道路占用料",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/05/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:53.844Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:bcff39d5feb163f5b1188c8dfb979f6659b91b403d1e117072cb0107b52bc82f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "道路占用料",
+    "05-01"
+  ],
+  "headings": [
+    "道路占用料",
+    "道路占用料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法施行令第8条",
+  "document_number": "05-01",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"13cd-645080714c300\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:41 GMT"
+}

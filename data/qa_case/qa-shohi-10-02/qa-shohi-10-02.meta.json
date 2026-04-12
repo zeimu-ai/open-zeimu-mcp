@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-10-02",
+  "title": "身体障害者用自動車の付属品の取扱い",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/10/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:55.441Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:74686e644b820c53568d78c621fc7e6cd78b6dc63301cc7ca75aabb7e8ebb9b4",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "身体障害者用自動車の付属品の取扱い",
+    "10-02"
+  ],
+  "headings": [
+    "身体障害者用自動車の付属品の取扱い",
+    "身体障害者用自動車の付属品の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法別表第二第10号、消費税法施行令第14条の4",
+  "document_number": "10-02",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"144f-645080700aa78\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:39 GMT"
+}

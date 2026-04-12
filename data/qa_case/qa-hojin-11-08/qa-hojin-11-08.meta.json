@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-11-08",
+  "title": "過大役員給与の判定基準",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/11/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:03.153Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a78a1b01f9bad8422a5e859a6e92fca4721c2da45fe044084f4019aa64162764",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "過大役員給与の判定基準",
+    "11-08"
+  ],
+  "headings": [
+    "過大役員給与の判定基準",
+    "過大役員給与の判定基準",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第34条第2項\n法人税法施行令第70条第1号",
+  "document_number": "11-08",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"14ea-645080a288ae0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:32 GMT"
+}

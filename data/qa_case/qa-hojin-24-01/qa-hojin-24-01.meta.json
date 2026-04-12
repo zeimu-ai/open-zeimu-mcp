@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-24-01",
+  "title": "仮決算中間申告における事業所税の未払金計上",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/24/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:10.128Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:100b0c20198b2d28575f1d89c11d4f3f63a1dadb09889a57a4183017f474a276",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "仮決算中間申告における事業所税の未払金計上",
+    "24-01"
+  ],
+  "headings": [
+    "仮決算中間申告における事業所税の未払金計上",
+    "仮決算中間申告における事業所税の未払金計上",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第22条第3項第1号\n法人税基本通達9－5－1(1)イ",
+  "document_number": "24-01",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"134d-6450809e03740\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:28 GMT"
+}

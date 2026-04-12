@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-32",
+  "title": "「同居」の範囲(長期間入院している場合)",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/32.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:12.118Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:80ee5d7bf19fbf836f92e47adb964b6b61f5f9fbe11dc8b3a1b320da83d40ad1",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "「同居」の範囲(長期間入院している場合)",
+    "05-32"
+  ],
+  "headings": [
+    "「同居」の範囲(長期間入院している場合)",
+    "「同居」の範囲(長期間入院している場合)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条の16",
+  "document_number": "05-32",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"11f3-64508085c3338\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:02 GMT"
+}

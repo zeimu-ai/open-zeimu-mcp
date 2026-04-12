@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-19-15",
+  "title": "土石の採取をする土地を譲渡した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/19/15.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:49.190Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:665e73bbf836a377967ab1b6283a73c9274aac1dd2ced63c01398e890264f185",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "土石の採取をする土地を譲渡した場合",
+    "19-15"
+  ],
+  "headings": [
+    "土石の採取をする土地を譲渡した場合",
+    "土石の採取をする土地を譲渡した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第37条\n所得税基本通達33-6の5",
+  "document_number": "19-15",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1226-6450805561f28\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:11 GMT"
+}

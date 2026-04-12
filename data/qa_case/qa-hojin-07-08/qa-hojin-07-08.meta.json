@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-07-08",
+  "title": "底地同士を交換する場合の交換の圧縮記帳",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/07/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:01.578Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a597f026971865417bf7a520810c9bcab0fb2a07b22358d9bcaa0a9b37e926d4",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "底地同士を交換する場合の交換の圧縮記帳",
+    "07-08"
+  ],
+  "headings": [
+    "底地同士を交換する場合の交換の圧縮記帳",
+    "底地同士を交換する場合の交換の圧縮記帳",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第50条\n所得税法第58条",
+  "document_number": "07-08",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"14ff-645080a37e878\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:33 GMT"
+}

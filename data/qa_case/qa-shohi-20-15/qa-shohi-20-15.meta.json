@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-20-15",
+  "title": "加工賃その他これに類する料金を対価とする役務の提供を行う事業",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/20/15.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:01.955Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d9bc770ff660d971cf7737f597581c8175674d2c30b3daba76407549bd05e927",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "加工賃その他これに類する料金を対価とする役務の提供を行う事業",
+    "20-15"
+  ],
+  "headings": [
+    "加工賃その他これに類する料金を対価とする役務の提供を行う事業",
+    "加工賃その他これに類する料金を対価とする役務の提供を行う事業",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第37条、消費税法施行令第57条第5項、消費税法基本通達13-2-4、13-2-7",
+  "document_number": "20-15",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1790-6450806afb7d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:34 GMT"
+}

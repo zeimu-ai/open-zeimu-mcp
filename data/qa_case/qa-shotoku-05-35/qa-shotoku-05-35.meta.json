@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-35",
+  "title": "ホクロの除去費用",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/35.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:12.221Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:dc88dec9d730b97d3015da9f12173f442a2a3acdd7b13e4705d532ed41577d50",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "ホクロの除去費用",
+    "05-35"
+  ],
+  "headings": [
+    "ホクロの除去費用",
+    "ホクロの除去費用",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第207条、所得税基本通達73-4",
+  "document_number": "05-35",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"10ac-64508085b19f8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:02 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-12-19",
+  "title": "注文請書の記載金額",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/12/19.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:30.570Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:83fc521799ad896ab8e800f3d530efe95194d73b280b0be236db6c1d26aa4c07",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "注文請書の記載金額",
+    "12-19"
+  ],
+  "headings": [
+    "注文請書の記載金額",
+    "注文請書の記載金額",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則4のホ",
+  "document_number": "12-19",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"158b-64508078a3d38\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:48 GMT"
+}

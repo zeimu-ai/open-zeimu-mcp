@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-10",
+  "title": "繰上返済等をした場合の償還期間",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:15.344Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6ab5b59907aae085ff134049cde8c166d2d124db9690bd913864cfa3a693595a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "繰上返済等をした場合の償還期間",
+    "06-10"
+  ],
+  "headings": [
+    "繰上返済等をした場合の償還期間",
+    "繰上返済等をした場合の償還期間",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第1項、租税特別措置法関係通達41-19",
+  "document_number": "06-10",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"15e9-645080833cf60\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:59 GMT"
+}

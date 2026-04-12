@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-05-13",
+  "title": "借地権の設定に伴う譲渡所得の課税関係",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/05/13.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:39.312Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c086795e05434a1aa9333f87afac16aed9c78230dbb99162fa1f6ae9022397ef",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "借地権の設定に伴う譲渡所得の課税関係",
+    "05-13"
+  ],
+  "headings": [
+    "借地権の設定に伴う譲渡所得の課税関係",
+    "借地権の設定に伴う譲渡所得の課税関係",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達33-11の2、38-4、38-4の2",
+  "document_number": "05-13",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"133e-6450805cf1018\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:19 GMT"
+}

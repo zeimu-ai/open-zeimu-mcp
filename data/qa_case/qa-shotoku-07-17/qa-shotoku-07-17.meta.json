@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-07-17",
+  "title": "源泉徴収の対象とされない年金収入がある場合の確定申告",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/07/17.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:18.395Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0d27e949f916a4da74c5cdb90cc1350aba1c3ad54e15fb96f0b014c077f4168c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "源泉徴収の対象とされない年金収入がある場合の確定申告",
+    "07-17"
+  ],
+  "headings": [
+    "源泉徴収の対象とされない年金収入がある場合の確定申告",
+    "源泉徴収の対象とされない年金収入がある場合の確定申告",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第120条、第121条第３項、第203条の７",
+  "document_number": "07-17",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"14f8-64508080a2b38\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:57 GMT"
+}

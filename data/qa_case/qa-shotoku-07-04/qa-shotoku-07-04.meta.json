@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-07-04",
+  "title": "青色申告特別控除（55万円）と確定申告の要否",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/07/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:18.137Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:cb2a5f5b12ecba0966566ad11abc7abbc2f2f6001eb230535537c8174b7fdffd",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "青色申告特別控除（55万円）と確定申告の要否",
+    "07-04"
+  ],
+  "headings": [
+    "青色申告特別控除（55万円）と確定申告の要否",
+    "青色申告特別控除（55万円）と確定申告の要否",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第121条第１項第１号、租税特別措置法第25の２条第３項第１号、第６項、所得税基本通達121－６",
+  "document_number": "07-04",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1998-64508080d7ae0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:57 GMT"
+}

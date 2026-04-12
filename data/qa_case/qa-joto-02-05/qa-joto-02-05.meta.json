@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-02-05",
+  "title": "資産の譲渡に関連して追加的に受ける一時金",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/02/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:37.912Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:c2cab3fdecc676617dcb45366814fbc812fcaa482f8619722d269bda3bbfbe10",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "資産の譲渡に関連して追加的に受ける一時金",
+    "02-05"
+  ],
+  "headings": [
+    "資産の譲渡に関連して追加的に受ける一時金",
+    "資産の譲渡に関連して追加的に受ける一時金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第33条、第34条",
+  "document_number": "02-05",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"13a6-6450805dfaa18\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:20 GMT"
+}

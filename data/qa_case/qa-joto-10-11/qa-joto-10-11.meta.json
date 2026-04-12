@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-10-11",
+  "title": "譲渡損となる交換に係る所得税法第58条の適用の有無",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/10/11.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:40.815Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3783d881f84eb6c02945932c83a8d7f9f6e0494b461133aa2ff450770f5da8c0",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "譲渡損となる交換に係る所得税法第58条の適用の有無",
+    "10-11"
+  ],
+  "headings": [
+    "譲渡損となる交換に係る所得税法第58条の適用の有無",
+    "譲渡損となる交換に係る所得税法第58条の適用の有無",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第58条",
+  "document_number": "10-11",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1491-6450805bb8818\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:18 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-12-05",
+  "title": "国等と締結した請負契約書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/12/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:29.833Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e5a05d059504f333faf88a8e7fb2492cd01262e1d20e5fa14636e5208ec49db4",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "国等と締結した請負契約書",
+    "12-05"
+  ],
+  "headings": [
+    "国等と締結した請負契約書",
+    "国等と締結した請負契約書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法第4条第5項、第5条、別表第一課税物件表第17号文書、印紙税法施行令第26条第1項",
+  "document_number": "12-05",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"15b8-645080792b530\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:49 GMT"
+}

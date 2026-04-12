@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-21-07",
+  "title": "非課税承認を受けた寄附財産を譲渡した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/21/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:50.011Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:68ecae87a265bdf0335400416e0b60b7006b6876e640007b55ec0137a249a1ba",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "非課税承認を受けた寄附財産を譲渡した場合",
+    "21-07"
+  ],
+  "headings": [
+    "非課税承認を受けた寄附財産を譲渡した場合",
+    "非課税承認を受けた寄附財産を譲渡した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第40条第3項、第5項第1号\n租税特別措置法施行規則第18条の19第9項、第10項",
+  "document_number": "21-07",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1501-64508054cd828\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:11 GMT"
+}

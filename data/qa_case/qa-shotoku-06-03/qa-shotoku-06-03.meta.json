@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-03",
+  "title": "床面積の判定",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:14.973Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:35eae347879f2cdf2e5ed4240a95f44ede9b86afbe0bc13669f075074cb43095",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "床面積の判定",
+    "06-03"
+  ],
+  "headings": [
+    "床面積の判定",
+    "床面積の判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第1項、租税特別措置法施行令第26条第1項、租税特別措置法関係通達41-10、41-11",
+  "document_number": "06-03",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"14e0-6450808387e98\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:00 GMT"
+}

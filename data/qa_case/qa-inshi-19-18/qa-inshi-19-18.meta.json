@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-18",
+  "title": "売上代金の受取書に記載金額があるとみなされる場合",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/18.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:34.753Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:374bb1670a848c11fb086d11d967cc39aaa14065f9c66076e4dac19a01920c7a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "売上代金の受取書に記載金額があるとみなされる場合",
+    "19-18"
+  ],
+  "headings": [
+    "売上代金の受取書に記載金額があるとみなされる場合",
+    "売上代金の受取書に記載金額があるとみなされる場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則4のホ",
+  "document_number": "19-18",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1685-64508075a1130\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:45 GMT"
+}

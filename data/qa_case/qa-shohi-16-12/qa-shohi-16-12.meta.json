@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-16-12",
+  "title": "JV工事に係る請求書等",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/16/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:57.779Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3fd02b621a6a9cc0610afbfdad3c1d87cd4a13af56177739d92dca6127eac849",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "JV工事に係る請求書等",
+    "16-12"
+  ],
+  "headings": [
+    "JV工事に係る請求書等",
+    "JV工事に係る請求書等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第7項、第9項、消費税法基本通達1-3-1、11-6-2",
+  "document_number": "16-12",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1832-6450806e2ed30\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:37 GMT"
+}

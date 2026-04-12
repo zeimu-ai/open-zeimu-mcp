@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-10-12",
+  "title": "会社と社員の間で作成される借入申込書、金銭借用証書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/10/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:28.843Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:cf4e49b486adcd97d3a3c220da5ff5850d2545e634328b5a2db102a70e0029c9",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "会社と社員の間で作成される借入申込書、金銭借用証書",
+    "10-12"
+  ],
+  "headings": [
+    "会社と社員の間で作成される借入申込書、金銭借用証書",
+    "会社と社員の間で作成される借入申込書、金銭借用証書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達第12条、第14条",
+  "document_number": "10-12",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"18f6-64508079dadc8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:50 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-05-03",
+  "title": "同族株主がいない会社の株主の議決権割合の判定",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/05/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:21.379Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ab2b9c6abce9a2428c4c4727acce147a3bbad593a7da35ede49dc26ae27d3f14",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "同族株主がいない会社の株主の議決権割合の判定",
+    "05-03"
+  ],
+  "headings": [
+    "同族株主がいない会社の株主の議決権割合の判定",
+    "同族株主がいない会社の株主の議決権割合の判定",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達188(3)、188-2\n法人税法施行令第4条\n民法第725条",
+  "document_number": "05-03",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"1508-6450806124338\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:24 GMT"
+}

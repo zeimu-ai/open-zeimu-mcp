@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-05-02",
+  "title": "同族会社が株主である場合",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/05/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:21.332Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d15a38c27e548e5d7fab330b5adcd6333d9d2e9edd6278aa8cd52ab74fa5edae",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "同族会社が株主である場合",
+    "05-02"
+  ],
+  "headings": [
+    "同族会社が株主である場合",
+    "同族会社が株主である場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達188(1)\n法人税法施行令第4条\n法人税基本通達1-3-5",
+  "document_number": "05-02",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"1580-645080612db90\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:24 GMT"
+}

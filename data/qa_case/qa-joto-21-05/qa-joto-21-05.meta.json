@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-21-05",
+  "title": "寄附株式の分割により取得した新株を譲渡した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/21/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:49.914Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f83a0948f7fe0f13db319ce73fd83e16681b8fa8e4b259e88284c28bb918d93b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "寄附株式の分割により取得した新株を譲渡した場合",
+    "21-05"
+  ],
+  "headings": [
+    "寄附株式の分割により取得した新株を譲渡した場合",
+    "寄附株式の分割により取得した新株を譲渡した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第40条　租税特別措置法施行令第25条の17第5項第2号　昭和55年4月23日直資2－181「租税特別措置法第40条第1項後段の規定による譲渡所得等の非課税の取扱いについて」13",
+  "document_number": "21-05",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1338-64508054e1c60\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:11 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-10-02",
+  "title": "小規模宅地等の特例の対象となる私道",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/10/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:20.781Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5563e658c9d0ffd5917544c0ab79eee537bc3e240848158d52b21a494840aa37",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "小規模宅地等の特例の対象となる私道",
+    "10-02"
+  ],
+  "headings": [
+    "小規模宅地等の特例の対象となる私道",
+    "小規模宅地等の特例の対象となる私道",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第69条の4第1項\n租税特別措置法施行令第40条の2第4項",
+  "document_number": "10-02",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"12c2-645080529a470\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:08 GMT"
+}

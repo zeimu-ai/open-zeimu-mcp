@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-03-01",
+  "title": "還付加算金の収入すべき時期",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/03/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:08.430Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ff698b933a5fed814848c71d4fa0819fd63c2a150b4d1b94f80f497729124810",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "還付加算金の収入すべき時期",
+    "03-01"
+  ],
+  "headings": [
+    "還付加算金の収入すべき時期",
+    "還付加算金の収入すべき時期",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第36条、所得税基本通達35-1(4)、36-14(2)",
+  "document_number": "03-01",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1330-6450808889298\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:05 GMT"
+}

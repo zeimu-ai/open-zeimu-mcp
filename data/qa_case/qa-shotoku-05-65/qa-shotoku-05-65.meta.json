@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-65",
+  "title": "生計を一にするかどうかの判定(養育費の負担)",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/65.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:13.782Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:703d57bf06ce3e46d1401a5b4de00c910a65658f979882aa303ec596bca6aeb3",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "生計を一にするかどうかの判定(養育費の負担)",
+    "05-65"
+  ],
+  "headings": [
+    "生計を一にするかどうかの判定(養育費の負担)",
+    "生計を一にするかどうかの判定(養育費の負担)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第2条第1項第34号、第34号の2、所得税基本通達2-47",
+  "document_number": "05-65",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1b88-6450808488bf8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:01 GMT"
+}

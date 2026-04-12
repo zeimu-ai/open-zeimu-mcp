@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-24-04",
+  "title": "法人税の中間（予定）税額の算出方法について",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/24/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:10.309Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7579ab2cdf1037ec6dc28c465c81e6683488b4fc64fdecc90693842277f968ed",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "法人税の中間（予定）税額の算出方法について",
+    "24-04"
+  ],
+  "headings": [
+    "法人税の中間（予定）税額の算出方法について",
+    "法人税の中間（予定）税額の算出方法について",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第71条第1項第1号\n国税通則法基本通達第119条関係6",
+  "document_number": "24-04",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1544-6450809dea100\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:27 GMT"
+}

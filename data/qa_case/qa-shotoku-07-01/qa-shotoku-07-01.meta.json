@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-07-01",
+  "title": "確定申告で申告しなかった上場株式等の利子及び配当を修正申告により申告することの可否",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/07/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:17.981Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6bf8b5278257532af375a034e00e06ce33ea91f59a80efe7bf8b8d46420d96a1",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "確定申告で申告しなかった上場株式等の利子及び配当を修正申告により申告することの可否",
+    "07-01"
+  ],
+  "headings": [
+    "確定申告で申告しなかった上場株式等の利子及び配当を修正申告により申告することの可否",
+    "確定申告で申告しなかった上場株式等の利子及び配当を修正申告により申告することの可否",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第8条の5第1項、第2項、租税特別措置法関係通達8の5-1",
+  "document_number": "07-01",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"17f5-64508080f4fa0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:57 GMT"
+}

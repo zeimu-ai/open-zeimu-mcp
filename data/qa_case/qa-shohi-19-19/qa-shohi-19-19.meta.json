@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-19-19",
+  "title": "課税売上高が5億円超の場合の仕入税額控除の計算",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/19/19.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:00.975Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:fbdac983342b85008f06ba85089465c748b0d07cb483e3dc8220d7bcf9284037",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "課税売上高が5億円超の場合の仕入税額控除の計算",
+    "19-19"
+  ],
+  "headings": [
+    "課税売上高が5億円超の場合の仕入税額控除の計算",
+    "課税売上高が5億円超の場合の仕入税額控除の計算",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第2項、第6項、消費税法基本通達11-5-10",
+  "document_number": "19-19",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1479-6450806bec360\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:35 GMT"
+}

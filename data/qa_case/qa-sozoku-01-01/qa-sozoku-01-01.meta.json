@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-01-01",
+  "title": "民法第255条の規定により共有持分を取得した場合の相続税の課税関係",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/01/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:18.443Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2fd86fd1efe6560baac8d9f663b505747d3c107fb29202c627d67a30daf5881e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "民法第255条の規定により共有持分を取得した場合の相続税の課税関係",
+    "01-01"
+  ],
+  "headings": [
+    "民法第255条の規定により共有持分を取得した場合の相続税の課税関係",
+    "民法第255条の規定により共有持分を取得した場合の相続税の課税関係",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "民法第255条、第958条の2\n相続税法第9条、第22条、第27条\n相続税法基本通達9-12",
+  "document_number": "01-01",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"148c-645080543faa0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:10 GMT"
+}

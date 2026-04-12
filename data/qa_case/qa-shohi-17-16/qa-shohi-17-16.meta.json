@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-17-16",
+  "title": "課税売上割合が０の場合の仕入控除税額の計算方法",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/17/16.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:59.383Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:33b4bedc02fed989849175628c62abc86b870333fe5ee5026af32e6e90693ebe",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "課税売上割合が０の場合の仕入控除税額の計算方法",
+    "17-16"
+  ],
+  "headings": [
+    "課税売上割合が０の場合の仕入控除税額の計算方法",
+    "課税売上割合が０の場合の仕入控除税額の計算方法",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第１項、第２項及び第６項",
+  "document_number": "17-16",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"172f-6450806d112e0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:36 GMT"
+}

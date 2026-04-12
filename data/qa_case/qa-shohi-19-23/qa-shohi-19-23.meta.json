@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-19-23",
+  "title": "保有目的株式を取得した場合の用途区分",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/19/23.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:01.182Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:aac7a9cbf162bc61c6e5c565351b1679fe2cdebd04096e2c4496ecbbf4f6184f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "保有目的株式を取得した場合の用途区分",
+    "19-23"
+  ],
+  "headings": [
+    "保有目的株式を取得した場合の用途区分",
+    "保有目的株式を取得した場合の用途区分",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第２項",
+  "document_number": "19-23",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"17e2-6450806bc17c8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:35 GMT"
+}

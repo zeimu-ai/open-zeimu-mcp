@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-33",
+  "title": "金銭の払込みに代えて報酬債権をもって相殺するストックオプションの課税関係",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/33.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:07.238Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6fe65ff6d4fcd2e01016e61c854b4210a6c776a2818fe4dee5affcfdb5dd5bbb",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "金銭の払込みに代えて報酬債権をもって相殺するストックオプションの課税関係",
+    "02-33"
+  ],
+  "headings": [
+    "金銭の払込みに代えて報酬債権をもって相殺するストックオプションの課税関係",
+    "金銭の払込みに代えて報酬債権をもって相殺するストックオプションの課税関係",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第36条、所得税法施行令第84条第3項第2号、所得税基本通達23～35共－6",
+  "document_number": "02-33",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"18b8-645080899a5b0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:06 GMT"
+}

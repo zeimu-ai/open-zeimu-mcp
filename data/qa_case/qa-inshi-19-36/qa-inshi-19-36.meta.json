@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-36",
+  "title": "相手方の作成した書類等に押印した場合",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/36.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:35.643Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ab85d0db58edde6e28b3156fa6769bac3fb6d33196dcdf788d988d1fb8ccda0b",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "相手方の作成した書類等に押印した場合",
+    "19-36"
+  ],
+  "headings": [
+    "相手方の作成した書類等に押印した場合",
+    "相手方の作成した書類等に押印した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一 第17号文書の1",
+  "document_number": "19-36",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"12b0-6450807503d90\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:45 GMT"
+}

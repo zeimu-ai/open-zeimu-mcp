@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-06-18",
+  "title": "印紙税の還付が受けられる範囲",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/06/18.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:27.024Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0df491d51595cec72d5b4dddd4e06a7bf2050010dbe7934cc9d0b0f92d39f7b2",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "印紙税の還付が受けられる範囲",
+    "06-18"
+  ],
+  "headings": [
+    "印紙税の還付が受けられる範囲",
+    "印紙税の還付が受けられる範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達第115条",
+  "document_number": "06-18",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1930-6450807b52598\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:51 GMT"
+}

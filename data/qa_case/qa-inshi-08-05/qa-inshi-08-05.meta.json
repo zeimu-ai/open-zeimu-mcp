@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-08-05",
+  "title": "不動産の範囲",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/08/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:27.540Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d5693f2edacb102082f353ae9b69b8f7a3354bc149d882a44dc897e6043b205e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "不動産の範囲",
+    "08-05"
+  ],
+  "headings": [
+    "不動産の範囲",
+    "不動産の範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一第1号の1文書の1",
+  "document_number": "08-05",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1852-6450807adea08\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:51 GMT"
+}

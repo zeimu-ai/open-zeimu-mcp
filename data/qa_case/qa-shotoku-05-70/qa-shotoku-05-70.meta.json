@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-70",
+  "title": "特定保健指導に基づく運動施設の利用料",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/70.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:14.036Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f8c155eb177f3617c9b85c007697cea2ece058d1a3fe81cf68c696b2101a95aa",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特定保健指導に基づく運動施設の利用料",
+    "05-70"
+  ],
+  "headings": [
+    "特定保健指導に基づく運動施設の利用料",
+    "特定保健指導に基づく運動施設の利用料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第73条第2項、所得税法施行令第207条、所得税法施行規則第40条の3第1項第2号",
+  "document_number": "05-70",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"145f-6450808458a70\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:01 GMT"
+}

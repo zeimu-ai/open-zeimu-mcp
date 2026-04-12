@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-01-06",
+  "title": "採草放牧地の地目",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/01/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:16.192Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:cd90d4fd829507d462456b82f7324c9e1d68c1fff27267010321117aba8c042c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "採草放牧地の地目",
+    "01-06"
+  ],
+  "headings": [
+    "採草放牧地の地目",
+    "採草放牧地の地目",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達7",
+  "document_number": "01-06",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"1113-64508064ed320\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:28 GMT"
+}

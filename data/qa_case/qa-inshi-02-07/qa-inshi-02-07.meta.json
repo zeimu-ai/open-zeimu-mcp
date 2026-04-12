@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-02-07",
+  "title": "更改契約書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/02/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:25.218Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:42c9ab72d02fcdc32bc6664719a00d3aa77bce1b0ed5398cf94e415639ebb02c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "更改契約書",
+    "02-07"
+  ],
+  "headings": [
+    "更改契約書",
+    "更改契約書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則5、印紙税法基本通達第16条",
+  "document_number": "02-07",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1301-6450807cbc2a8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:53 GMT"
+}

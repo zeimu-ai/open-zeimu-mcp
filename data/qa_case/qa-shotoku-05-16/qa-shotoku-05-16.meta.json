@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-16",
+  "title": "差額ベッド料",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/16.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:11.303Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f7f78518211421c391e292f1b5638afef2f70db0762309a9f821f97baa288428",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "差額ベッド料",
+    "05-16"
+  ],
+  "headings": [
+    "差額ベッド料",
+    "差額ベッド料",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達73-3",
+  "document_number": "05-16",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"111d-645080865ef68\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:03 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-13-29",
+  "title": "特別勘定を設けて圧縮記帳した買換資産を先行取得資産として圧縮記帳することの可否",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/13/29.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:05.622Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:aaa73fc3a1f574b7e1569a4ae64161e6dba0dadf79a6f86140f1fb8eb3ccd729",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特別勘定を設けて圧縮記帳した買換資産を先行取得資産として圧縮記帳することの可否",
+    "13-29"
+  ],
+  "headings": [
+    "特別勘定を設けて圧縮記帳した買換資産を先行取得資産として圧縮記帳することの可否",
+    "特別勘定を設けて圧縮記帳した買換資産を先行取得資産として圧縮記帳することの可否",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第65条の7第1項、第3項、第65条の8第1項\n租税特別措置法関係通達（法人税編）65の7(3)-４",
+  "document_number": "13-29",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1a91-645080a107ea0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:31 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-36",
+  "title": "非居住者である役員が税制適格ストックオプションを行使して取得した株式を譲渡した場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/36.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:07.396Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:6dc46b2f14304cd5e24ec3e67d0f3027e3ea573ee53994a45a4d0edc9638462f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "非居住者である役員が税制適格ストックオプションを行使して取得した株式を譲渡した場合",
+    "02-36"
+  ],
+  "headings": [
+    "非居住者である役員が税制適格ストックオプションを行使して取得した株式を譲渡した場合",
+    "非居住者である役員が税制適格ストックオプションを行使して取得した株式を譲渡した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第29条の2第8項、第37条の12第1項、租税特別措置法施行令第19条の3第25項、日仏租税条約第13条、第16条",
+  "document_number": "02-36",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"194d-645080897a5f8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:06 GMT"
+}

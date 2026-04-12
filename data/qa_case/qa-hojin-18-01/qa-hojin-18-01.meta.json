@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-18-01",
+  "title": "退職金共済掛金等の損金算入",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/18/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:07.415Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f173a74e5cb1c48d525172e55d08412c0d6f7e5474c9c0e3bae94fd883021188",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "退職金共済掛金等の損金算入",
+    "18-01"
+  ],
+  "headings": [
+    "退職金共済掛金等の損金算入",
+    "退職金共済掛金等の損金算入",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法施行令第71条第1項、第135条\n法人税基本通達9－3－1",
+  "document_number": "18-01",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"13b0-6450809fc1410\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:29 GMT"
+}

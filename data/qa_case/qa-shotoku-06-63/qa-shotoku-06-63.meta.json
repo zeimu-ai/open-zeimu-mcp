@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-63",
+  "title": "共有持分を追加取得した場合の住宅借入金等特別控除",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/63.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:17.769Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:290205742bb17321d2f98ad75b975081f47323dcbfac68436d8b4f45f1051f17",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "共有持分を追加取得した場合の住宅借入金等特別控除",
+    "06-63"
+  ],
+  "headings": [
+    "共有持分を追加取得した場合の住宅借入金等特別控除",
+    "共有持分を追加取得した場合の住宅借入金等特別控除",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条、租税特別措置法施行令第26条第2項",
+  "document_number": "06-63",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1692-645080817eea8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:58 GMT"
+}

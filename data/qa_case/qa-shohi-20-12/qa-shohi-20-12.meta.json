@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-20-12",
+  "title": "飲食店で徴しているサービス料等の事業区分",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/20/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:01.802Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:97e5bd1703bbb6b8b7732417304f86b404582520d80895e3665b6ccf953948c8",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "飲食店で徴しているサービス料等の事業区分",
+    "20-12"
+  ],
+  "headings": [
+    "飲食店で徴しているサービス料等の事業区分",
+    "飲食店で徴しているサービス料等の事業区分",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法施行令第57条第5項",
+  "document_number": "20-12",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"148f-6450806b19848\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:34 GMT"
+}

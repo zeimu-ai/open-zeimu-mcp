@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-12-18",
+  "title": "請負契約書の変更契約書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/12/18.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:30.503Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2d7be9ab36d878c5adf73f7bfc915b053920d138d9a768467557af10d3dffff7",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "請負契約書の変更契約書",
+    "12-18"
+  ],
+  "headings": [
+    "請負契約書の変更契約書",
+    "請負契約書の変更契約書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則5、印紙税法基本通達別表第二",
+  "document_number": "12-18",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1552-64508078aba38\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:48 GMT"
+}

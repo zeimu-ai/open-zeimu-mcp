@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-09",
+  "title": "共済会等からの社内融資が使用者からの借入金とされる要件",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:15.283Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ba61d83dc1005194fbc39f6bc141bbb197c1428f3079d815c7aa8fd2c49cc0a8",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "共済会等からの社内融資が使用者からの借入金とされる要件",
+    "06-09"
+  ],
+  "headings": [
+    "共済会等からの社内融資が使用者からの借入金とされる要件",
+    "共済会等からの社内融資が使用者からの借入金とされる要件",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第1項第4号、租税特別措置法関係通達41-15、所得税基本通達2-8",
+  "document_number": "06-09",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1659-6450808346f88\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:59 GMT"
+}

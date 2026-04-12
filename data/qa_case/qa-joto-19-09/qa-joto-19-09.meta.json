@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-19-09",
+  "title": "エレベーター付建物のうちエレベーターのみを買換資産とすることの可否",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/19/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:49.028Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:639fe86d02d42a7f54bb70f08d5f7d6a792d82eeece4e6403aaff93d772db411",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "エレベーター付建物のうちエレベーターのみを買換資産とすることの可否",
+    "19-09"
+  ],
+  "headings": [
+    "エレベーター付建物のうちエレベーターのみを買換資産とすることの可否",
+    "エレベーター付建物のうちエレベーターのみを買換資産とすることの可否",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第37条第1項\n減価償却資産の耐用年数等に関する省令別表1",
+  "document_number": "19-09",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"11c7-6450805580b58\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:11 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-17",
+  "title": "従業員から交付を受ける受取書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/17.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:34.702Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d1ef9289340af56e5c46438ea04b17bc4d5c24f51f4118df63c67a8578408c95",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "従業員から交付を受ける受取書",
+    "19-17"
+  ],
+  "headings": [
+    "従業員から交付を受ける受取書",
+    "従業員から交付を受ける受取書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達第59条",
+  "document_number": "19-17",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"128d-64508075aad70\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:45 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-31",
+  "title": "障害者控除の適用を受けることのできる年分",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/31.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:12.073Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:07bb74e47c630a6205c2868cc92f9d1f04abd357bc5d60b9d40b52ecbaaaec73",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "障害者控除の適用を受けることのできる年分",
+    "05-31"
+  ],
+  "headings": [
+    "障害者控除の適用を受けることのできる年分",
+    "障害者控除の適用を受けることのできる年分",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第2条第1項第28号、所得税基本通達2-38",
+  "document_number": "05-31",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1237-64508085ccf78\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:02 GMT"
+}

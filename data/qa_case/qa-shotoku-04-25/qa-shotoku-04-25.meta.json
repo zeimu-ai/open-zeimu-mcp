@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-04-25",
+  "title": "事業を廃業した場合の繰延消費税額等の処理",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/04/25.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:09.991Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ae42e878b15815e1a9912d7229f65bd78c6f6045c784fc6a1f0d251b5d766ec2",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "事業を廃業した場合の繰延消費税額等の処理",
+    "04-25"
+  ],
+  "headings": [
+    "事業を廃業した場合の繰延消費税額等の処理",
+    "事業を廃業した場合の繰延消費税額等の処理",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第182条の2、所得税基本通達37－30の4",
+  "document_number": "04-25",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"14ae-645080876a0d8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:04 GMT"
+}

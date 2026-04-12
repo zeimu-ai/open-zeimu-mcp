@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-18-01",
+  "title": "請求書等の記載内容と帳簿の記載内容の対応関係",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/18/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:59.427Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0adc6322f95cf4ab823e96f309519c13ecfa3c5c1780e52e7e68589a5dcf752e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "請求書等の記載内容と帳簿の記載内容の対応関係",
+    "18-01"
+  ],
+  "headings": [
+    "請求書等の記載内容と帳簿の記載内容の対応関係",
+    "請求書等の記載内容と帳簿の記載内容の対応関係",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第7項、第8項",
+  "document_number": "18-01",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"153a-6450806d076a0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:36 GMT"
+}

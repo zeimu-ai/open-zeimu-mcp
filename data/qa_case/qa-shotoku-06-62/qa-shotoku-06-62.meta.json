@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-62",
+  "title": "居住する前に行った自己の所有する住宅の増改築等工事",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/62.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:17.720Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:188b19e53e9a6e335859fa86fdb38c795da5e3a046a174c309fab92cc3ead8b9",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "居住する前に行った自己の所有する住宅の増改築等工事",
+    "06-62"
+  ],
+  "headings": [
+    "居住する前に行った自己の所有する住宅の増改築等工事",
+    "居住する前に行った自己の所有する住宅の増改築等工事",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第1項",
+  "document_number": "06-62",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"12af-6450808187378\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:58 GMT"
+}

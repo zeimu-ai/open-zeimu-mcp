@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-18-07",
+  "title": "共有で所有している家屋とその敷地を譲渡した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/18/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:47.526Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3dbf34621949f7891933a50ed5f958c1b8916fc4f0fe070e92c5d8a409c9463e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "共有で所有している家屋とその敷地を譲渡した場合",
+    "18-07"
+  ],
+  "headings": [
+    "共有で所有している家屋とその敷地を譲渡した場合",
+    "共有で所有している家屋とその敷地を譲渡した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第35条第1項、第2項",
+  "document_number": "18-07",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1343-64508056935e0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:13 GMT"
+}

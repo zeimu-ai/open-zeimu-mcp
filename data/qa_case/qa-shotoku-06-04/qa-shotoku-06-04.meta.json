@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-04",
+  "title": "マンションのリフォーム",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:15.026Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:540b466caeefb63846662e8f24e395381488a6afffb4e90013a5c9f6516c4328",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "マンションのリフォーム",
+    "06-04"
+  ],
+  "headings": [
+    "マンションのリフォーム",
+    "マンションのリフォーム",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第22項、租税特別措置法施行令第26条第33項第2号、租税特別措置法施行規則第18条の21第19項第2号、令和6年4月1日国土交通省通知",
+  "document_number": "06-04",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1b4a-645080837f5e0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:00 GMT"
+}

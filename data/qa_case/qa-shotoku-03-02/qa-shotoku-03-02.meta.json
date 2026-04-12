@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-03-02",
+  "title": "歯列矯正料の収入すべき時期",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/03/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:08.488Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1a5ce79c60c75d5a15cc20c78c14a2037b18a3fb2e85c3ff1c63fffaf8d88321",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "歯列矯正料の収入すべき時期",
+    "03-02"
+  ],
+  "headings": [
+    "歯列矯正料の収入すべき時期",
+    "歯列矯正料の収入すべき時期",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第36条、所得税基本通達36-8",
+  "document_number": "03-02",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"16b1-645080887ee88\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:05 GMT"
+}

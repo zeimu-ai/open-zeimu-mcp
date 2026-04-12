@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-05-14",
+  "title": "要約筆記の報酬",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/05/14.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:54.923Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:2f94f8e91eeeaa1f285bf7a18950c42ffbd003f3d2e27476f3193d44209e8f0c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "要約筆記の報酬",
+    "05-14"
+  ],
+  "headings": [
+    "要約筆記の報酬",
+    "要約筆記の報酬",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第204条第1項",
+  "document_number": "05-14",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1252-645080909e028\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:13 GMT"
+}

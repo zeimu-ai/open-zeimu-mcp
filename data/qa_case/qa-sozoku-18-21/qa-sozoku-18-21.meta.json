@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-18-21",
+  "title": "砂利採取中の土地",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/18/21.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:24.389Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:33fc555304b989d55763337b732093e1c4835c6002d96b10c09c566677d73e82",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "砂利採取中の土地",
+    "18-21"
+  ],
+  "headings": [
+    "砂利採取中の土地",
+    "砂利採取中の土地",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第70条の4第1項、第70条の6第1項\n租税特別措置法関係通達70の4-12、70の6-13、70の6-13の3\n農地法第2条第1項",
+  "document_number": "18-21",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"174f-6450804f97c50\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:05 GMT"
+}

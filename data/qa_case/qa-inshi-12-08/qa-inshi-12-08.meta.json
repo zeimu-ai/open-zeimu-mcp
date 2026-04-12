@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-12-08",
+  "title": "修理品の承り票、引受票等",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/12/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:29.983Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d5269d6340829fdf73425f9e4c7881423f5f69702ebf6e6414f0645bd11075a4",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "修理品の承り票、引受票等",
+    "12-08"
+  ],
+  "headings": [
+    "修理品の承り票、引受票等",
+    "修理品の承り票、引受票等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 課税物件表の適用に関する通則5、印紙税法別表第一 「非課税物件の欄」、印紙税法基本通達別表第一 第2号文書の1",
+  "document_number": "12-08",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"1ba3-645080790d8a0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:49 GMT"
+}

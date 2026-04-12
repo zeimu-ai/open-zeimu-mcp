@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-05-01",
+  "title": "現物出資により取得した有価証券に付すべき取得価額",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/05/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:38.794Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9b509bfdf2536fe73e360eab972687904ea23982ee621d599c1bacbc96650270",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "現物出資により取得した有価証券に付すべき取得価額",
+    "05-01"
+  ],
+  "headings": [
+    "現物出資により取得した有価証券に付すべき取得価額",
+    "現物出資により取得した有価証券に付すべき取得価額",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第36条第2項\n所得税法施行令第109条第1項第6号\n所得税基本通達23～35共-9",
+  "document_number": "05-01",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"12e6-6450805d551a8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:20 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-11-04",
+  "title": "手持ち資金と譲渡代金とで保証債務を履行し、求償権の一部が回収不能となった場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/11/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:41.437Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:de838040dc73013858c354927afd31fe75a278342979499e8e7d7b37e228603c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "手持ち資金と譲渡代金とで保証債務を履行し、求償権の一部が回収不能となった場合",
+    "11-04"
+  ],
+  "headings": [
+    "手持ち資金と譲渡代金とで保証債務を履行し、求償権の一部が回収不能となった場合",
+    "手持ち資金と譲渡代金とで保証債務を履行し、求償権の一部が回収不能となった場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第64条第2項\n所得税基本通達64-3の4",
+  "document_number": "11-04",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"132b-6450805b411f0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:18 GMT"
+}

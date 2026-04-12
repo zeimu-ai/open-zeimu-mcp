@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-21-04",
+  "title": "「○○返金伝票」と題する伝票綴り",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/21/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:36.881Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a8d61129a08d4add8cfa6dc17e4147f507f49d1542f09adcfa915ad3c4a06e1e",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "「○○返金伝票」と題する伝票綴り",
+    "21-04"
+  ],
+  "headings": [
+    "「○○返金伝票」と題する伝票綴り",
+    "「○○返金伝票」と題する伝票綴り",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一 第20号文書の１",
+  "document_number": "21-04",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"153b-6450807418fc0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:44 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-01-01",
+  "title": "資力喪失者が債務引受けの対価として資産を譲渡した場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/01/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:37.449Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:48bb8a007f53f5b1cd866165ee2f7839a8ddf8c5043d67012cd20283e3062fc5",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "資力喪失者が債務引受けの対価として資産を譲渡した場合",
+    "01-01"
+  ],
+  "headings": [
+    "資力喪失者が債務引受けの対価として資産を譲渡した場合",
+    "資力喪失者が債務引受けの対価として資産を譲渡した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第9条第1項第10号、所得税法施行令第26条",
+  "document_number": "01-01",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1531-6450805e52858\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:21 GMT"
+}

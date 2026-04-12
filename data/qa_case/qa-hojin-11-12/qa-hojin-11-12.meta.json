@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-11-12",
+  "title": "業績連動指標の数値が確定した日(業績連動給与)",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/11/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:03.199Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d577a9f1f99c02c5c1d0976ed41a376b93194bb912b11f461e2830712a4db035",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "業績連動指標の数値が確定した日(業績連動給与)",
+    "11-12"
+  ],
+  "headings": [
+    "業績連動指標の数値が確定した日(業績連動給与)",
+    "業績連動指標の数値が確定した日(業績連動給与)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第34条第1項第3号、第5項、法人税法施行令第69条第9項～第21項\n法人税基本通達9－2－20\n会社法第438条、第439条",
+  "document_number": "11-12",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"26ac-645080a27eea0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:32 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-08-07",
+  "title": "船舶の範囲",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/08/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:27.642Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0f8b3091ac49228a08bae9e2c145b1c50fcb3f2c431da611c4867634874713be",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "船舶の範囲",
+    "08-07"
+  ],
+  "headings": [
+    "船舶の範囲",
+    "船舶の範囲",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法基本通達別表第一 第1号の1文書の19",
+  "document_number": "08-07",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"11f3-6450807ab6580\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:50 GMT"
+}

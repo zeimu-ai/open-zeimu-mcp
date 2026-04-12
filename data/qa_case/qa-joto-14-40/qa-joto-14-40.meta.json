@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-14-40",
+  "title": "前年に取得した対償地を代替資産とすることの可否",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/14/40.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:45.165Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:646d466bf8c0a133d0cfa244276c9f3def0e59e80d3a1c948e5fa05a4ccb29bf",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "前年に取得した対償地を代替資産とすることの可否",
+    "14-40"
+  ],
+  "headings": [
+    "前年に取得した対償地を代替資産とすることの可否",
+    "前年に取得した対償地を代替資産とすることの可否",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第33条第２項\n租税特別措置法関係通達33-47、33-47の４",
+  "document_number": "14-40",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1389-6450805864b30\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:15 GMT"
+}

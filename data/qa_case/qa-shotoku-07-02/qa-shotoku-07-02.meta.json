@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-07-02",
+  "title": "白色事業専従者が他に給与所得を有する場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/07/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:18.026Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:02b5ce6e55b947b54ecffad648be788391a2d12b5cbc5d454f27c7d2fddbd76f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "白色事業専従者が他に給与所得を有する場合",
+    "07-02"
+  ],
+  "headings": [
+    "白色事業専従者が他に給与所得を有する場合",
+    "白色事業専従者が他に給与所得を有する場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第57条第4項、第121条第1項、第183条",
+  "document_number": "07-02",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"125c-64508080eaf78\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:57 GMT"
+}

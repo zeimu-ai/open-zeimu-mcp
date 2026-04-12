@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-04-02",
+  "title": "競売に係る譲渡資産の課税時期",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/04/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:38.754Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:085a3077c575cec680a058d76a9d444f33976214fb7f7b2c0e7ed3649799f9f1",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "競売に係る譲渡資産の課税時期",
+    "04-02"
+  ],
+  "headings": [
+    "競売に係る譲渡資産の課税時期",
+    "競売に係る譲渡資産の課税時期",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第36条第1項\n所得税基本通達36-12　民事執行法第74条",
+  "document_number": "04-02",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1121-6450805d5e230\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:20 GMT"
+}

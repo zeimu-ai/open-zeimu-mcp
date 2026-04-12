@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-69",
+  "title": "任意団体を通じて国立大学法人に対して行う寄附金",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/69.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:13.982Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:33187ae804b43810aeda27b68f8270c54600b31f3c981800e30f4bca5fa603f9",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "任意団体を通じて国立大学法人に対して行う寄附金",
+    "05-69"
+  ],
+  "headings": [
+    "任意団体を通じて国立大学法人に対して行う寄附金",
+    "任意団体を通じて国立大学法人に対して行う寄附金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第78条第2項第1号、第120条第3項第1号、所得税法施行令第262条第1項第6号、所得税法施行規則第47条の2第3項第1号イ、昭和40年大蔵省告示第154号（最終改正平成29年財務省告示第97号）、所得税基本通達78－4",
+  "document_number": "05-69",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1b71-6450808461ee0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:01 GMT"
+}

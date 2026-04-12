@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-02-04",
+  "title": "地区所有の土地の譲渡",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/02/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:37.859Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ed5b84825434ee56fee234dcbe48726e1e9516554e1c1375011f1ba653acb95d",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "地区所有の土地の譲渡",
+    "02-04"
+  ],
+  "headings": [
+    "地区所有の土地の譲渡",
+    "地区所有の土地の譲渡",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第33条、第34条",
+  "document_number": "02-04",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"127d-6450805e032d0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:20 GMT"
+}

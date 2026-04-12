@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-08-03",
+  "title": "市町村特別給付の取扱い",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/08/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:54.720Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d83d5401cca213d724ba41db908ffb1f4932b3d5661e834e0b4856c9e9e9e601",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "市町村特別給付の取扱い",
+    "08-03"
+  ],
+  "headings": [
+    "市町村特別給付の取扱い",
+    "市町村特別給付の取扱い",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法施行令第14条の2第3項第11号、消費税法施行令第14条の2第3項第11号の規定に基づき厚生労働大臣が指定する資産の譲渡等を定める件（平12厚生省告示第126号）",
+  "document_number": "08-03",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"136b-645080709ddf0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:40 GMT"
+}

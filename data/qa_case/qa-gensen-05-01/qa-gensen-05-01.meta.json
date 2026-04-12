@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-05-01",
+  "title": "校閲の報酬",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/05/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:54.179Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e34250f49e7c7bf0ce257166ee3ab22ecf89efbff3cc934a0fe42e4c62716044",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "校閲の報酬",
+    "05-01"
+  ],
+  "headings": [
+    "校閲の報酬",
+    "校閲の報酬",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第204条第1項第1号、所得税基本通達204-6",
+  "document_number": "05-01",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1175-645080911e2f0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:14 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-19",
+  "title": "利息や割賦事務手数料等",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/19.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:15.815Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d835055a7799cf5f8361fcfe475a651f7503620048d9bc1e3a5132d6d28c95ad",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "利息や割賦事務手数料等",
+    "06-19"
+  ],
+  "headings": [
+    "利息や割賦事務手数料等",
+    "利息や割賦事務手数料等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第1項、租税特別措置法関係通達41-20",
+  "document_number": "06-19",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"127b-64508082e83e8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:59 GMT"
+}

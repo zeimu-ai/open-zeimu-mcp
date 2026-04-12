@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-14-01",
+  "title": "営業の譲渡をした場合の対価の額",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/14/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:56.637Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f8244e071e5630d92665a163a4090eaa0dac17eb8f02a9d907649690a9f0c0c4",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "営業の譲渡をした場合の対価の額",
+    "14-01"
+  ],
+  "headings": [
+    "営業の譲渡をした場合の対価の額",
+    "営業の譲渡をした場合の対価の額",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法施行令第45条第3項",
+  "document_number": "14-01",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"14ee-6450806f1e538\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:38 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-10-06",
+  "title": "山林と原野とを交換した場合の用途区分",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/10/06.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:40.554Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:39bd2a87863833ca559537098c9e66530d794a78a84448299ed6dc7bd5546074",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "山林と原野とを交換した場合の用途区分",
+    "10-06"
+  ],
+  "headings": [
+    "山林と原野とを交換した場合の用途区分",
+    "山林と原野とを交換した場合の用途区分",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第58条\n所得税基本通達58-6",
+  "document_number": "10-06",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1207-6450805be9d28\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:18 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-02-03",
+  "title": "支払期日未到来の既経過家賃と相続財産",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/02/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:18.662Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:92c1ac001c76d11a54626d0275cb92532d49eb355e4a6a061ff1f2b58773deb9",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "支払期日未到来の既経過家賃と相続財産",
+    "02-03"
+  ],
+  "headings": [
+    "支払期日未到来の既経過家賃と相続財産",
+    "支払期日未到来の既経過家賃と相続財産",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達208",
+  "document_number": "02-03",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"1243-645080541acc8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:10 GMT"
+}

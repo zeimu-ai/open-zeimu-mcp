@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-26-04",
+  "title": "特定課税仕入れがある場合の課税売上割合の計算",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/26/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:04.702Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d9f8bcb85846a1a632c750f80335510dd845a6d29347fcd83d4cd6085cd52781",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特定課税仕入れがある場合の課税売上割合の計算",
+    "26-04"
+  ],
+  "headings": [
+    "特定課税仕入れがある場合の課税売上割合の計算",
+    "特定課税仕入れがある場合の課税売上割合の計算",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第30条第1項、第6項、消費税法施行令第48条第1項",
+  "document_number": "26-04",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"140b-64508068e9b40\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:32 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-14-05",
+  "title": "生命保険契約について契約者変更があった場合",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/14/05.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:22.233Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:81306f7a28dca56e6d6ea5e33f801a3b26d7b5d801bc8bbdea45e44bd17b9ed8",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "生命保険契約について契約者変更があった場合",
+    "14-05"
+  ],
+  "headings": [
+    "生命保険契約について契約者変更があった場合",
+    "生命保険契約について契約者変更があった場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "相続税法第5条第2項\n相続税法基本通達3-36",
+  "document_number": "14-05",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"13c3-64508051b4c90\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:07 GMT"
+}

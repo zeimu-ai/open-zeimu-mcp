@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-10-01",
+  "title": "輸入貿易手形借入金の期限延長",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/10/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:02.785Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7daf87f3d9d8affea4cbac0b9c7927d66a4d8f0ac77dd32e5e61be66e24208b6",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "輸入貿易手形借入金の期限延長",
+    "10-01"
+  ],
+  "headings": [
+    "輸入貿易手形借入金の期限延長",
+    "輸入貿易手形借入金の期限延長",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第61条の8第1項",
+  "document_number": "10-01",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"12bc-645080a2c76c8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:33 GMT"
+}

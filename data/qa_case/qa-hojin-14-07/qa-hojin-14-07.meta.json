@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-14-07",
+  "title": "特定調停において利息の棚上げが行われた場合",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/14/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:06.014Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:09153e1a219d07019952d8ed0088b4f14837c2bbfff371b3e4027a30872e8de6",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "特定調停において利息の棚上げが行われた場合",
+    "14-07"
+  ],
+  "headings": [
+    "特定調停において利息の棚上げが行われた場合",
+    "特定調停において利息の棚上げが行われた場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第22条第2項\n法人税基本通達2－1－24、2－1－25(4)",
+  "document_number": "14-07",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"157d-645080a0bfe48\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:30 GMT"
+}

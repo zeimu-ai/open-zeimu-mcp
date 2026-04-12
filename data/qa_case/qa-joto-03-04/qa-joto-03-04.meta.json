@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-03-04",
+  "title": "共有物の分割",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/03/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:38.335Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:111cbf0f5a8190cc87c475fffbf3c14d06a5e9501fe9c43235fb5d9a9de70ba9",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "共有物の分割",
+    "03-04"
+  ],
+  "headings": [
+    "共有物の分割",
+    "共有物の分割",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第58条\n所得税基本通達33-1の7",
+  "document_number": "03-04",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1326-6450805dae758\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:20 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-01-12",
+  "title": "退職金を手形で支払った場合の源泉徴収をすべき日",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/01/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:49.908Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:5f8477405740973f2cbd7282912ebbf3caf1ae48adb1b3d682de2943b5504633",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "退職金を手形で支払った場合の源泉徴収をすべき日",
+    "01-12"
+  ],
+  "headings": [
+    "退職金を手形で支払った場合の源泉徴収をすべき日",
+    "退職金を手形で支払った場合の源泉徴収をすべき日",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達181～223共-1、183～193共-1、201-3",
+  "document_number": "01-12",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"134f-64508093d2528\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:17 GMT"
+}

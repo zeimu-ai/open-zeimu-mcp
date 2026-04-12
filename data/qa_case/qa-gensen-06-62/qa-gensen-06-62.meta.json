@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-06-62",
+  "title": "学生のアルバイト代",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/06/62.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:57.924Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:0697883b4e7b2e3d4aa08bb2102ac61ba64f98983e4650b0c15bf235a9ff611f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "学生のアルバイト代",
+    "06-62"
+  ],
+  "headings": [
+    "学生のアルバイト代",
+    "学生のアルバイト代",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税条約等実施特例省令第8条、日中租税協定第21条、日印租税条約第20条、日タイ租税条約第19条、日インドネシア租税協定第21条、日越租税協定第20条、日マレーシア租税協定第20条、外国居住者等所得相互免除法第28条",
+  "document_number": "06-62",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"1a61-6450808e9aa10\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:11 GMT"
+}

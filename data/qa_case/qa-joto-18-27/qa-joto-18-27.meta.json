@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-18-27",
+  "title": "被相続人居住用家屋の敷地等の判定をする場合",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/18/27.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:48.521Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:3afa765ab4ff6d44243215227cdddb15f22ba7814d52188f7762540c61a7ddd1",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "被相続人居住用家屋の敷地等の判定をする場合",
+    "18-27"
+  ],
+  "headings": [
+    "被相続人居住用家屋の敷地等の判定をする場合",
+    "被相続人居住用家屋の敷地等の判定をする場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第35条第３項、第５項、第12項\n租税特別措置法施行令第23条第11項\n租税特別措置法施行規則第18条の２第２項",
+  "document_number": "18-27",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1662-64508055d6288\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:12 GMT"
+}

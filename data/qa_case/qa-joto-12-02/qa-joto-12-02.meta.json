@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-12-02",
+  "title": "保留地予定地の譲渡",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/12/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:41.801Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:972e878944603548ff388ab23cf9473e2a4ca6a360f785e285a5166375262021",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "保留地予定地の譲渡",
+    "12-02"
+  ],
+  "headings": [
+    "保留地予定地の譲渡",
+    "保留地予定地の譲渡",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法関係通達31・32共-1",
+  "document_number": "12-02",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"10d3-6450805afb0d8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:17 GMT"
+}

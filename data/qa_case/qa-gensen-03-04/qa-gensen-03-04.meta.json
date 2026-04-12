@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-03-04",
+  "title": "社宅に係る通常の賃貸料の額を計算する場合の固定資産税の課税標準額",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/03/04.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:50.985Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a5832e2a16bced1a13f35626c3cbdcf7da3f1a919f3861407eb0d51beeace89c",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "社宅に係る通常の賃貸料の額を計算する場合の固定資産税の課税標準額",
+    "03-04"
+  ],
+  "headings": [
+    "社宅に係る通常の賃貸料の額を計算する場合の固定資産税の課税標準額",
+    "社宅に係る通常の賃貸料の額を計算する場合の固定資産税の課税標準額",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税基本通達36-40～43、36-45、36-46",
+  "document_number": "03-04",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"144a-6450809323460\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:16 GMT"
+}

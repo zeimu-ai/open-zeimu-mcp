@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-02-28",
+  "title": "ストックオプション契約の内容を税制非適格から税制適格に変更した場合",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/02/28.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:07.037Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:71c037b0e0ba3edcf04ea19a309134bc0b06c61f5b0344bd8317c9c165340598",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "ストックオプション契約の内容を税制非適格から税制適格に変更した場合",
+    "02-28"
+  ],
+  "headings": [
+    "ストックオプション契約の内容を税制非適格から税制適格に変更した場合",
+    "ストックオプション契約の内容を税制非適格から税制適格に変更した場合",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第29条の2",
+  "document_number": "02-28",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"176f-64508089d5ed0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:06 GMT"
+}

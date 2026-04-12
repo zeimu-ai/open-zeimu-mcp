@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-17-02",
+  "title": "中間納付事業税の還付金",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/17/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:07.363Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d1bbed16955958d18903b6d9a5d4f8542ed202cce3d367c29f7065f1aa770301",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "中間納付事業税の還付金",
+    "17-02"
+  ],
+  "headings": [
+    "中間納付事業税の還付金",
+    "中間納付事業税の還付金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税基本通達9－5－1、9－5－2",
+  "document_number": "17-02",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1274-6450809fc98e0\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:29 GMT"
+}

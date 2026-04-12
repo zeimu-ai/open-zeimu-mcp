@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-06-01",
+  "title": "会館建設のための負担金",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/06/01.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:00.897Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ab8e515251c4ac186af80987ccc2d23c9bc31bdc28e9ee83f73bf33f58584b1a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "会館建設のための負担金",
+    "06-01"
+  ],
+  "headings": [
+    "会館建設のための負担金",
+    "会館建設のための負担金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "法人税法第2条第6号、第9号の2\n法人税基本通達8－1－4、8－2－3、8－2－4",
+  "document_number": "06-01",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"16e8-645080a3f1c38\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:34 GMT"
+}

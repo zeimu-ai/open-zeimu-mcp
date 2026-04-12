@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-14-27",
+  "title": "借地の一部が法人へ転貸されている場合に一括個人名義で契約した借地補償金",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/14/27.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:44.493Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:44fe46cd88ed195888671a071971932dc8869030c86ee6ef6ebde832a6401155",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "借地の一部が法人へ転貸されている場合に一括個人名義で契約した借地補償金",
+    "14-27"
+  ],
+  "headings": [
+    "借地の一部が法人へ転貸されている場合に一括個人名義で契約した借地補償金",
+    "借地の一部が法人へ転貸されている場合に一括個人名義で契約した借地補償金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第33条第1項\n租税特別措置法関係通達（法人税編）64(2)-23～64(2)-24",
+  "document_number": "14-27",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"137a-64508058eea38\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:15 GMT"
+}

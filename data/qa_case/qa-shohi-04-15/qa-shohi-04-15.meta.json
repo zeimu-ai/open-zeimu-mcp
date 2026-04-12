@@ -1,0 +1,32 @@
+{
+  "id": "qa-shohi-04-15",
+  "title": "振替機関及びこれに類する外国の機関について",
+  "category": "shohi",
+  "category_path": "消費税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shohi/04/15.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:53.804Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:7d935f7f1a5f9f1849cd0dbe44dd91ecda77e0d7cb7d84ac4648b177b8d16cbc",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "振替機関及びこれに類する外国の機関について",
+    "04-15"
+  ],
+  "headings": [
+    "振替機関及びこれに類する外国の機関について",
+    "振替機関及びこれに類する外国の機関について",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "消費税法第4条第3項第1号、消費税法施行令第6条第1項第9号ハ",
+  "document_number": "04-15",
+  "tags": [
+    "消費税"
+  ],
+  "etag": "\"1318-6450807156710\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:41 GMT"
+}

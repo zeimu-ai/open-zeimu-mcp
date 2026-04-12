@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-32",
+  "title": "新築の日前2年以内に取得した土地等の先行取得に係る借入金(家屋に抵当権の設定がない借入金)",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/32.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:16.483Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9d16b86973d047f8503ce2591d75da0dc0b6d9d2f795661ac916fb486f74a3c4",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "新築の日前2年以内に取得した土地等の先行取得に係る借入金(家屋に抵当権の設定がない借入金)",
+    "06-32"
+  ],
+  "headings": [
+    "新築の日前2年以内に取得した土地等の先行取得に係る借入金(家屋に抵当権の設定がない借入金)",
+    "新築の日前2年以内に取得した土地等の先行取得に係る借入金(家屋に抵当権の設定がない借入金)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第1項、租税特別措置法施行令第26条第9項第6号",
+  "document_number": "06-32",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1a4d-645080826cb58\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:59 GMT"
+}

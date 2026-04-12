@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-45",
+  "title": "所得制限により住宅借入金等特別控除の適用がなかった期間がある場合の再適用の可否",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/45.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:17.155Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:ed1600453954e6e0ff20b640932999e7cf73bfbb7c2c0b69371ae79d655618b6",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "所得制限により住宅借入金等特別控除の適用がなかった期間がある場合の再適用の可否",
+    "06-45"
+  ],
+  "headings": [
+    "所得制限により住宅借入金等特別控除の適用がなかった期間がある場合の再適用の可否",
+    "所得制限により住宅借入金等特別控除の適用がなかった期間がある場合の再適用の可否",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第28項、第29項",
+  "document_number": "06-45",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"14d4-64508081ebcd8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:58 GMT"
+}

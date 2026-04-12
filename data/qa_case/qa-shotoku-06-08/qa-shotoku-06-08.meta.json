@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-06-08",
+  "title": "基準利率に達しない使用者からの借入金等",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/06/08.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:15.228Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:8e6082e737f700693ec9e54a345f991180ef8dce62c672a4d9daab08bfd42a86",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "基準利率に達しない使用者からの借入金等",
+    "06-08"
+  ],
+  "headings": [
+    "基準利率に達しない使用者からの借入金等",
+    "基準利率に達しない使用者からの借入金等",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第41条第23項、租税特別措置法施行令第26条第36項、租税特別措置法施行規則第18条の21第20項、租税特別措置法関係通達41-16、41-21",
+  "document_number": "06-08",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1c45-6450808351398\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:00 GMT"
+}

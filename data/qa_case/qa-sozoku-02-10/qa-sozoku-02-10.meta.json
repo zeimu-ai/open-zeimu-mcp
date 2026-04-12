@@ -1,0 +1,38 @@
+{
+  "id": "qa-sozoku-02-10",
+  "title": "国家公務員の殉職によりその遺族に授与された賞じゅつ金の課税関係",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/02/10.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:18.966Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9c1e52fb801afad471610287e4ce2d1bb0205063e90b7677e9826502b62d0ccc",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "国家公務員の殉職によりその遺族に授与された賞じゅつ金の課税関係",
+    "02-10"
+  ],
+  "headings": [
+    "国家公務員の殉職によりその遺族に授与された賞じゅつ金の課税関係",
+    "国家公務員の殉職によりその遺族に授与された賞じゅつ金の課税関係",
+    "【照会要旨】",
+    "○　賞じゅつ金の概要",
+    "1　趣旨",
+    "2　授与要件",
+    "3　授与額",
+    "【回答要旨】",
+    "1　相続税の取扱いについて",
+    "2　所得税の取扱いについて",
+    "【関係法令通達】"
+  ],
+  "citation": "相続税法第3条第1項第2号、第6号\n所得税法施行令第30条第3号\n相続税法基本通達3－23(13)",
+  "document_number": "02-10",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"1efe-64508053e3610\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:10 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-01-03",
+  "title": "物納申請中に相続税の減額更正があったことにより生じた過誤納金に対する譲渡所得の課税",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/01/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:37.562Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:53d7f26d46cd6461e71cde82a017bef73aa708ecc31f652a0e2066eeda79bfde",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "物納申請中に相続税の減額更正があったことにより生じた過誤納金に対する譲渡所得の課税",
+    "01-03"
+  ],
+  "headings": [
+    "物納申請中に相続税の減額更正があったことにより生じた過誤納金に対する譲渡所得の課税",
+    "物納申請中に相続税の減額更正があったことにより生じた過誤納金に対する譲渡所得の課税",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "相続税法基本通達42-3",
+  "document_number": "01-03",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"1426-6450805e40748\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:21 GMT"
+}

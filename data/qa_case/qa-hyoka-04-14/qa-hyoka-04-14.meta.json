@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-04-14",
+  "title": "農地の評価上の分類",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/04/14.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:19.247Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:97bc657c44797f5d2ae1ff45d8c17a8ffe383918e6edca3afe4479dae7ef2ae7",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "農地の評価上の分類",
+    "04-14"
+  ],
+  "headings": [
+    "農地の評価上の分類",
+    "農地の評価上の分類",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達34、36、36-2、36-3、36-4",
+  "document_number": "04-14",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"bd9-64508062b7858\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:25 GMT"
+}

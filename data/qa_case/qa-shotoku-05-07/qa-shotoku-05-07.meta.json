@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-07",
+  "title": "金やポーセレンを使用した歯の治療費",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/07.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:10.812Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:494cea19f45cb15771a9e0a7975effbcad16cc96520c6e483da96ab00e995ce3",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "金やポーセレンを使用した歯の治療費",
+    "05-07"
+  ],
+  "headings": [
+    "金やポーセレンを使用した歯の治療費",
+    "金やポーセレンを使用した歯の治療費",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法施行令第207条、所得税基本通達73-3",
+  "document_number": "05-07",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"130c-64508086b0fe8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:03 GMT"
+}

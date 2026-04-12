@@ -1,0 +1,32 @@
+{
+  "id": "qa-shotoku-05-02",
+  "title": "貸家の火災に伴い所有者が類焼者に支払う損害賠償金",
+  "category": "shotoku",
+  "category_path": "所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/shotoku/05/02.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:10.552Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:71ca45fc4c9716226fba1ac8368941a5d5feba648575316a81e3293903deca81",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "貸家の火災に伴い所有者が類焼者に支払う損害賠償金",
+    "05-02"
+  ],
+  "headings": [
+    "貸家の火災に伴い所有者が類焼者に支払う損害賠償金",
+    "貸家の火災に伴い所有者が類焼者に支払う損害賠償金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第51条、第72条、所得税基本通達70-8、72-1、72-7、民法第709条、第717条",
+  "document_number": "05-02",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"12a3-64508086e1940\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:03 GMT"
+}

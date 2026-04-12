@@ -1,0 +1,32 @@
+{
+  "id": "qa-sozoku-18-13",
+  "title": "納税猶予の対象となる農地(1)",
+  "category": "sozoku",
+  "category_path": "相続税・贈与税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/sozoku/18/13.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:52:23.984Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:af30ea72b9d54b815c2cebc052cf681413c83fce4327d963eae01a80ffc3734f",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "納税猶予の対象となる農地(1)",
+    "18-13"
+  ],
+  "headings": [
+    "納税猶予の対象となる農地(1)",
+    "納税猶予の対象となる農地(1)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第70条の4第1項、第70条の6第1項\n租税特別措置法施行令第40条の6第66項、第40条の7第71項\n租税特別措置法関係通達70の4－1、70の6－1\n農地法第43条",
+  "document_number": "18-13",
+  "tags": [
+    "相続税・贈与税"
+  ],
+  "etag": "\"1dc2-6450804fe2b88\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:06 GMT"
+}

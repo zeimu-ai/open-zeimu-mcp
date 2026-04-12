@@ -1,0 +1,32 @@
+{
+  "id": "qa-inshi-19-43",
+  "title": "被振込人が作成する受取書",
+  "category": "inshi",
+  "category_path": "印紙税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/inshi/19/43.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:36.001Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e91082754fd7c1c4103ae5f12a5d47bbc30bc08e2f1bc625cab31c99266f1259",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "被振込人が作成する受取書",
+    "19-43"
+  ],
+  "headings": [
+    "被振込人が作成する受取書",
+    "被振込人が作成する受取書",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "印紙税法別表第一 第17号文書「非課税物件の欄」、印紙税法基本通達別表第一 第17号文書の2",
+  "document_number": "19-43",
+  "tags": [
+    "印紙税"
+  ],
+  "etag": "\"12c4-64508074c0770\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:44 GMT"
+}

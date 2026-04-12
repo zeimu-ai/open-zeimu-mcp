@@ -1,0 +1,32 @@
+{
+  "id": "qa-gensen-03-35",
+  "title": "妻名義の生命保険料控除証明書に基づく生命保険料控除",
+  "category": "gensen",
+  "category_path": "源泉所得税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/gensen/03/35.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:50:52.722Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:1105b60fe5aeb67e4c304af1a756b3754cb5ef19e781b0a73c5de6b75d90cb99",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "妻名義の生命保険料控除証明書に基づく生命保険料控除",
+    "03-35"
+  ],
+  "headings": [
+    "妻名義の生命保険料控除証明書に基づく生命保険料控除",
+    "妻名義の生命保険料控除証明書に基づく生命保険料控除",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "所得税法第76条第1項、第5項、第6項",
+  "document_number": "03-35",
+  "tags": [
+    "源泉所得税"
+  ],
+  "etag": "\"14f3-6450809204688\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:15 GMT"
+}

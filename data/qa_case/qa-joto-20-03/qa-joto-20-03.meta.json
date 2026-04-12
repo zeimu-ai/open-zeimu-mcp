@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-20-03",
+  "title": "相続税の修正申告があった場合における譲渡所得の取得費加算",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/20/03.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:49.443Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:b163044b6af549d0f06efde601fec3a4d1060a95c2399c90e10ad4f14fcfc87a",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "相続税の修正申告があった場合における譲渡所得の取得費加算",
+    "20-03"
+  ],
+  "headings": [
+    "相続税の修正申告があった場合における譲渡所得の取得費加算",
+    "相続税の修正申告があった場合における譲渡所得の取得費加算",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第39条\n租税特別措置法施行令第25条の16第2項",
+  "document_number": "20-03",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"13d0-6450805530a18\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:11 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-13-09",
+  "title": "売建て方式により住宅を建設した場合(16号)",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/13/09.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:42.483Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:14011d9ddf1528b46a9dca6fd88b287447c6e063dfdf5c06d8c98be1cc174e82",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "売建て方式により住宅を建設した場合(16号)",
+    "13-09"
+  ],
+  "headings": [
+    "売建て方式により住宅を建設した場合(16号)",
+    "売建て方式により住宅を建設した場合(16号)",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第31条の2第2項第16号\n租税特別措置法関係通達31の2-22\n建築基準法第2条第16号",
+  "document_number": "13-09",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"146d-6450805a78700\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:17 GMT"
+}

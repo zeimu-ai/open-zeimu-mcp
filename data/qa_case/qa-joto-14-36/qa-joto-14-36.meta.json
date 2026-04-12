@@ -1,0 +1,32 @@
+{
+  "id": "qa-joto-14-36",
+  "title": "権利変換を希望しない旨の申出をしないで取得した補償金",
+  "category": "joto",
+  "category_path": "譲渡所得",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/joto/14/36.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:44.953Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:509ff1879245bc58f07bb87c9c93ee33318490839594487e33fe3b60e0ad4fa3",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "権利変換を希望しない旨の申出をしないで取得した補償金",
+    "14-36"
+  ],
+  "headings": [
+    "権利変換を希望しない旨の申出をしないで取得した補償金",
+    "権利変換を希望しない旨の申出をしないで取得した補償金",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "租税特別措置法第33条第1項第3号の2\n租税特別措置法施行令第22条第11項\n都市再開発法第14条、第16条、第19条、第71条、第77条、第100条",
+  "document_number": "14-36",
+  "tags": [
+    "譲渡所得"
+  ],
+  "etag": "\"16f2-6450805890668\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:15 GMT"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "qa-hojin-05-12",
+  "title": "風力・太陽光発電システムの耐用年数について",
+  "category": "hojin",
+  "category_path": "法人税",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hojin/05/12.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:00.765Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f251fb7c076c722160a5c0ad57f1abf1e75a895f79c9c2f936c1662fd2f0d2be",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "風力・太陽光発電システムの耐用年数について",
+    "05-12"
+  ],
+  "headings": [
+    "風力・太陽光発電システムの耐用年数について",
+    "風力・太陽光発電システムの耐用年数について",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "減価償却資産の耐用年数等に関する省令別表第2\n耐用年数の適用等に関する取扱通達1－4－2、1－4－5\n耐用年数の適用等に関する取扱通達の付表8",
+  "document_number": "05-12",
+  "tags": [
+    "法人税"
+  ],
+  "etag": "\"1687-645080a405c88\"",
+  "last_modified": "Wed, 03 Dec 2025 08:31:34 GMT"
+}

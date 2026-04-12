@@ -1,0 +1,32 @@
+{
+  "id": "qa-hyoka-03-29",
+  "title": "多数の路線に接する宅地の評価",
+  "category": "hyoka",
+  "category_path": "財産評価",
+  "canonical_url": "https://www.nta.go.jp/law/shitsugi/hyoka/03/29.htm",
+  "source_type": "qa_case",
+  "crawled_at": "2026-04-12T05:51:18.422Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:d6fb8b23a252a215ef1c0693f857c0e42ef6d3452ce4ff4fc38b09a6e95ed3a1",
+  "license": "国税庁 質疑応答事例（CC-BY 4.0 互換）",
+  "version": 1,
+  "aliases": [
+    "多数の路線に接する宅地の評価",
+    "03-29"
+  ],
+  "headings": [
+    "多数の路線に接する宅地の評価",
+    "多数の路線に接する宅地の評価",
+    "【照会要旨】",
+    "【回答要旨】",
+    "【関係法令通達】"
+  ],
+  "citation": "財産評価基本通達18",
+  "document_number": "03-29",
+  "tags": [
+    "財産評価"
+  ],
+  "etag": "\"11f4-645080634d6c8\"",
+  "last_modified": "Wed, 03 Dec 2025 08:30:26 GMT"
+}
