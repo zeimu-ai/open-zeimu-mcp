@@ -1,0 +1,34 @@
+{
+  "id": "tsutatsu-shotoku-09-03",
+  "title": "〔返品〕",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/03.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T02:35:30.513Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:9750577a283e6e953f7a5f9b1513bb4c84fc01258641d49df468c580086d6bc3",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "返品"
+  ],
+  "headings": [
+    "〔返品〕",
+    "〔返品〕",
+    "（返品により減少した収入金額の処理）",
+    "（農地の転用、移転が不許可になったことなどにより返還した仲介手数料等）",
+    "〔返品債権特別勘定〕",
+    "（返品債権特別勘定の設定）",
+    "（返品債権特別勘定の繰入限度額）",
+    "（返品債権特別勘定の金額の総収入金額算入）",
+    "（明細書の添付）"
+  ],
+  "citation": null,
+  "document_number": null,
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1caf-60f3503295a48\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:20 GMT"
+}

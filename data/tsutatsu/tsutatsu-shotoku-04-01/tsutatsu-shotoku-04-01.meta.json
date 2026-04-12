@@ -1,0 +1,39 @@
+{
+  "id": "tsutatsu-shotoku-04-01",
+  "title": "法第23条《利子所得》関係",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T02:33:58.428Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:50e562740a595013b0b6de01a0c659506e9e81d354cec11ce24269dad931f6fc",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "法第23条《利子所得》関係",
+    "第1款　所得の種類及び各種所得の金額"
+  ],
+  "headings": [
+    "法第23条《利子所得》関係",
+    "法第23条《利子所得》関係",
+    "（預貯金の利子に該当するもの）",
+    "法第24条《配当所得》関係",
+    "（剰余金の配当、利益の配当又は剰余金の分配に含まれるもの）",
+    "（配当等に含まれないもの）",
+    "（株式等を取得するために要した負債の利子）",
+    "（株式等の譲渡による所得がある場合の負債の利子）",
+    "（配当所得の収入金額を超える負債の利子）",
+    "（負債を借り換えた場合）",
+    "（負債により取得した株式等の一部を譲渡した場合）",
+    "（負債により取得した株式等を買い換えた場合）",
+    "（負債の利子につき月数あん分を行う場合）"
+  ],
+  "citation": "第1款　所得の種類及び各種所得の金額",
+  "document_number": null,
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"2de3-646bc4c2e90a0\"",
+  "last_modified": "Thu, 25 Dec 2025 01:00:06 GMT"
+}

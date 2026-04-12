@@ -1,0 +1,41 @@
+{
+  "id": "tsutatsu-shotoku-09-01",
+  "title": "〔固定資産等の損失〕",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T02:35:26.506Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f8104606e13c94fe0a113f6afc5f3c8d4df9dddeffdd9ab89d072c16e805d1c7",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "固定資産等の損失",
+    "法第51条《資産損失の必要経費算入》関係",
+    "51-2の2"
+  ],
+  "headings": [
+    "〔固定資産等の損失〕",
+    "〔固定資産等の損失〕",
+    "（建設中の固定資産等）",
+    "（損失の金額）",
+    "（有姿除却）",
+    "（ソフトウエアの除却）",
+    "（原状回復のための費用）",
+    "（スクラップ化していた資産の譲渡損失）",
+    "（親族の有する固定資産について生じた損失）",
+    "（雑所得の基因となる山林の資産損失）",
+    "（保険金、損害賠償金に類するものの範囲）",
+    "（保険金等の見込控除）",
+    "（盗難品等の返還を受けた場合のそ及訂正）",
+    "（損失が生じた資産の取得費等）"
+  ],
+  "citation": "法第51条《資産損失の必要経費算入》関係",
+  "document_number": "51-2の2",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"26c0-64467163c1ed8\"",
+  "last_modified": "Tue, 25 Nov 2025 08:30:05 GMT"
+}

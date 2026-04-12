@@ -1,0 +1,38 @@
+{
+  "id": "tsutatsu-shotoku-05-09",
+  "title": "〔その他の共通費用〕",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/09.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T02:34:34.456Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:18f6aecb8662b4a2cffe694f9d75e45e2f77e754a90f65eeb6d7581049cabc6e",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "その他の共通費用"
+  ],
+  "headings": [
+    "〔その他の共通費用〕",
+    "〔その他の共通費用〕",
+    "（不動産所得の基因となっていた建物の賃借人に支払った立退料）",
+    "（技能の習得又は研修等のために支出した費用）",
+    "（民事事件に関する費用）",
+    "（刑事事件に関する費用）",
+    "（業務用資産の取得のために要した借入金の利子）",
+    "（賦払の契約により購入した資産に係る利息等相当部分）",
+    "（退職金共済掛金等の必要経費算入の時期）",
+    "（前納掛金等の必要経費算入）",
+    "（短期の前払費用）",
+    "（消耗品費等）",
+    "（繰延消費税額等につき相続があった場合の取扱い）"
+  ],
+  "citation": null,
+  "document_number": null,
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"2d8d-646bc4c2a5e68\"",
+  "last_modified": "Thu, 25 Dec 2025 01:00:05 GMT"
+}

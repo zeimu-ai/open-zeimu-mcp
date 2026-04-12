@@ -1,0 +1,38 @@
+{
+  "id": "tsutatsu-shotoku-05-06",
+  "title": "〔租税公課〕",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/06.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T02:34:28.431Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:bdeb636e85a5e3b7ed25ae08cff0d3113496b5f399c066a130d1c679d472f9b1",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "租税公課"
+  ],
+  "headings": [
+    "〔租税公課〕",
+    "〔租税公課〕",
+    "（酒税等の両建経理）",
+    "（固定資産税等の必要経費算入）",
+    "（その年分の必要経費に算入する租税）",
+    "（事業を廃止した年分の所得につき課税される事業税の見込控除）",
+    "（受益者負担金の必要経費算入）",
+    "（農業協同組合等の賦課金）",
+    "（汚染負荷量賦課金等）",
+    "（負担金の使用期間）",
+    "（特定の損失又は費用をほてん するための業務の範囲）",
+    "（負担金の必要経費算入時期）",
+    "（災害見舞金に充てるために同業団体等へ拠出する分担金等）"
+  ],
+  "citation": null,
+  "document_number": null,
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"2f92-60f3503497508\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:23 GMT"
+}

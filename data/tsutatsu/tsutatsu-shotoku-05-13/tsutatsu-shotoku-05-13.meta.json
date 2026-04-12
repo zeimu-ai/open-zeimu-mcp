@@ -1,0 +1,34 @@
+{
+  "id": "tsutatsu-shotoku-05-13",
+  "title": "〔売上割戻し〕",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/13.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T02:34:42.457Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:92c613e5fffe2ab68ebf89ab5a2bbd69f7554f40170f57de38af29264dc2e13b",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "売上割戻し"
+  ],
+  "headings": [
+    "〔売上割戻し〕",
+    "〔売上割戻し〕",
+    "（売上割戻しの計上時期）",
+    "（一定期間支払わない売上割戻しの計上時期）",
+    "（実質的に利益を享受すること）",
+    "〔仕入割戻し〕",
+    "（仕入割戻しの計上時期）",
+    "（一定期間支払を受けない仕入割戻しの計上時期の特例）",
+    "（仕入割戻しを計上しなかった場合の処理）"
+  ],
+  "citation": null,
+  "document_number": null,
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"1d15-60f350345f680\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:22 GMT"
+}

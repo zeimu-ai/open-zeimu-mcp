@@ -1,0 +1,35 @@
+{
+  "id": "tsutatsu-shotoku-09-02",
+  "title": "〔貸倒損失〕",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/02.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T02:35:28.514Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:e020da60da81557f0164a2bf4e6fe4c8c6173b044a2303dc7e36acadff3ea888",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "貸倒損失"
+  ],
+  "headings": [
+    "〔貸倒損失〕",
+    "〔貸倒損失〕",
+    "（事業の遂行上生じた売掛金、貸付金等に準ずる債権）",
+    "（貸金等の全部又は一部の切捨てをした場合の貸倒れ）",
+    "（回収不能の貸金等の貸倒れ）",
+    "（一定期間取引停止後弁済がない場合等の貸倒れ）",
+    "（更生債権者が更生計画の定めるところにより株式を取得した場合）",
+    "（更生債権者が更生会社の株式を取得する権利の割当てを受けた場合）",
+    "（更生手続の対象とされなかった更生債権の貸倒れ）",
+    "（金銭債権の譲渡損失）"
+  ],
+  "citation": null,
+  "document_number": null,
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"248d-60f350329df18\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:21 GMT"
+}

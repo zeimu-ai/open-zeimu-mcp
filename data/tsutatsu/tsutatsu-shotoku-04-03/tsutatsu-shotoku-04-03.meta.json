@@ -1,0 +1,39 @@
+{
+  "id": "tsutatsu-shotoku-04-03",
+  "title": "法第28条《給与所得》関係",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/03.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T02:34:02.418Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:22ff641633040f509322163cfc757b879ecf96dc9e4b36465c9f03133aaabf25",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "法第28条《給与所得》関係",
+    "28-1"
+  ],
+  "headings": [
+    "法第28条《給与所得》関係",
+    "法第28条《給与所得》関係",
+    "（宿日直料）",
+    "（同一人が宿直と日直とを引き続いて行った場合）",
+    "（年額又は月額により支給される旅費）",
+    "（役員等に支給される交際費等）",
+    "（雇用契約等に基づいて支給される結婚祝金品等）",
+    "（委員手当等）",
+    "（地方自治法の規定による費用の弁償）",
+    "（非常勤の消防団員が支給を受ける金銭）",
+    "（医師又は歯科医師が支給を受ける休日、夜間診療の委嘱料等）",
+    "（派遣医が支給を受ける診療の報酬等）",
+    "（給与等の受領を辞退した場合）"
+  ],
+  "citation": null,
+  "document_number": "28-1",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"29bd-644671643fa90\"",
+  "last_modified": "Tue, 25 Nov 2025 08:30:06 GMT"
+}

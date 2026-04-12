@@ -1,0 +1,33 @@
+{
+  "id": "tsutatsu-shotoku-03-01",
+  "title": "法第12条《実質所得者課税の原則》関係",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/03/01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T02:33:54.419Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:753a8d344ae98251c16137d4254e5f4f21d5802658b3027253acbf3184c3140a",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "法第12条《実質所得者課税の原則》関係",
+    "第3章　所得の帰属に関する通則"
+  ],
+  "headings": [
+    "法第12条《実質所得者課税の原則》関係",
+    "法第12条《実質所得者課税の原則》関係",
+    "（資産から生ずる収益を享受する者の判定）",
+    "（事業から生ずる収益を享受する者の判定）",
+    "（夫婦間における農業の事業主の判定）",
+    "（親子間における農業の事業主の判定）",
+    "（親族間における事業主の判定）"
+  ],
+  "citation": "第3章　所得の帰属に関する通則",
+  "document_number": null,
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"240d-60f3503547958\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:23 GMT"
+}

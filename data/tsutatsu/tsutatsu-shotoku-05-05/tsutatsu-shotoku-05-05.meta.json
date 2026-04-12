@@ -1,0 +1,32 @@
+{
+  "id": "tsutatsu-shotoku-05-05",
+  "title": "〔債務が確定している費用〕",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/05.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T02:34:26.453Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:a52b8e4b104f0be7ac8b616b4fc0de337c765c9960f4cc2bf7afc97ff775f5ec",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "債務が確定している費用",
+    "法第37条《必要経費》関係"
+  ],
+  "headings": [
+    "〔債務が確定している費用〕",
+    "〔債務が確定している費用〕",
+    "（売上原価等の費用の範囲）",
+    "（必要経費に算入すべき費用の債務確定の判定）",
+    "（損害賠償金の必要経費算入の時期）",
+    "（翌年以後の期間の賃貸料を一括して収受した場合の必要経費）"
+  ],
+  "citation": "法第37条《必要経費》関係",
+  "document_number": null,
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"17e5-60f350349e650\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:23 GMT"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "tsutatsu-shotoku-05-07",
+  "title": "〔資本的支出と修繕費等〕",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/07.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T02:34:30.440Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:45f3b7b09dde3ed3db5e046321770718ea16f55aea91efa8351c9f2478fa642c",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "資本的支出と修繕費等",
+    "37-15の3"
+  ],
+  "headings": [
+    "〔資本的支出と修繕費等〕",
+    "〔資本的支出と修繕費等〕",
+    "（資本的支出の例示）",
+    "（ソフトウエアに係る資本的支出と修繕費）",
+    "（修繕費に含まれる費用）",
+    "（少額又は周期の短い費用の必要経費算入）",
+    "（災害の復旧費用の必要経費算入）",
+    "（形式基準による修繕費の判定）",
+    "（資本的支出と修繕費の区分の特例）",
+    "（災害の場合の原状回復のための費用の特例）",
+    "（機能復旧補償金による固定資産の取得又は改良）",
+    "（地盤沈下による防潮堤、防波堤等の積上費）",
+    "（耐用年数を経過した資産についてした修理、改良等）",
+    "(損壊した賃借資産等に係る修繕費)"
+  ],
+  "citation": null,
+  "document_number": "37-15の3",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"4151-627b59b044c90\"",
+  "last_modified": "Mon, 25 Nov 2024 05:00:03 GMT"
+}

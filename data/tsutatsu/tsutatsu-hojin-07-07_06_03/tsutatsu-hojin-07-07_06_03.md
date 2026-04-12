@@ -6,7 +6,7 @@ canonical_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/07/07_06_03.htm
 source_type: tsutatsu
 published_at: null
 updated_at: null
-crawled_at: 2026-04-12T02:29:51.591Z
+crawled_at: 2026-04-12T02:38:06.653Z
 content_hash: sha256:776ae7d75aad6e147ddca58bf32bc86ef14482d945c1b7948cfcd45a5f38de9e
 license: public_data
 version: 1

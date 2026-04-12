@@ -1,0 +1,35 @@
+{
+  "id": "tsutatsu-shotoku-02-01",
+  "title": "〔法第7条《課税所得の範囲》関係〕",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/01.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T02:33:42.398Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:f94e87a82a9a91f21a90aef206f2c2fa5b074b6b1e2bc5ac643f6d9045984ff0",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "法第7条《課税所得の範囲》関係",
+    "第2章　課税所得の範囲",
+    "7-1"
+  ],
+  "headings": [
+    "〔法第7条《課税所得の範囲》関係〕",
+    "〔法第7条《課税所得の範囲》関係〕",
+    "（特定有価証券の意義）",
+    "（非永住者に係る課税標準の計算&hellip;&hellip;送金を受領しなかった場合）",
+    "（非永住者に係る課税標準の計算&hellip;&hellip;送金を受領した場合）",
+    "（国内において支払われたものの意義）",
+    "（確定申告等の時までに支払がない所得の支払地の推定）",
+    "（送金の範囲）"
+  ],
+  "citation": "第2章　課税所得の範囲",
+  "document_number": "7-1",
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"2aa9-60f35035822d8\"",
+  "last_modified": "Thu, 18 Jan 2024 09:30:24 GMT"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tsutatsu-shotoku-05-16",
+  "title": "〔組合の所得計算〕",
+  "category": "shotoku",
+  "canonical_url": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/16.htm",
+  "source_type": "tsutatsu",
+  "crawled_at": "2026-04-12T02:34:48.465Z",
+  "updated_at": null,
+  "published_at": null,
+  "content_hash": "sha256:fcfa67c07977b52ff77c334803d917dbe7f54d93b46e2387339440ff812374e4",
+  "license": "public_data",
+  "version": 1,
+  "aliases": [
+    "組合の所得計算"
+  ],
+  "headings": [
+    "〔組合の所得計算〕",
+    "〔組合の所得計算〕",
+    "（任意組合等の組合員の組合事業に係る利益等の帰属）",
+    "（任意組合等の組合員の組合事業に係る利益等の帰属の時期）",
+    "（任意組合等の組合員の組合事業に係る利益等の額の計算等）",
+    "（匿名組合契約による組合員の所得）",
+    "（匿名組合契約による営業者の所得）",
+    "〔信用取引に係る所得計算〕",
+    "（信用取引に係る金利等）",
+    "（信用取引に係る配当落調整額等）",
+    "〔その他〕",
+    "（法令に基づき交付を受ける給付金等の処理）",
+    "（法令に基づき交付を受ける奨励金等の収入すべき時期）"
+  ],
+  "citation": null,
+  "document_number": null,
+  "tags": [
+    "所得税"
+  ],
+  "etag": "\"3403-646bc4c2902c0\"",
+  "last_modified": "Thu, 25 Dec 2025 01:00:05 GMT"
+}

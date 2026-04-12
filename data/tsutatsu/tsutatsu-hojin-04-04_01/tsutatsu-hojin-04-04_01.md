@@ -6,7 +6,7 @@ canonical_url: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/04/04_01.htm
 source_type: tsutatsu
 published_at: null
 updated_at: null
-crawled_at: 2026-04-12T02:28:57.551Z
+crawled_at: 2026-04-12T02:37:12.597Z
 content_hash: sha256:5276608f3fb135546a4be7c86e0efa53221fe2bcac4ccbf9eda4f7086f06dc10
 license: public_data
 version: 1
