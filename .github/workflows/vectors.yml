@@ -32,7 +32,7 @@ jobs:
         run: npm run release:vectors -- $npm_package_version
 
       - name: Upload scaffold manifest
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: vector-release-scaffold
           path: artifacts/vectors
